@@ -1,0 +1,27 @@
+<Weathers>
+  <Weather id="1" tooltip="暴晒天气：火与神火技能伤害上升\水与神水技能伤害下降\电系技能命中下降"></Weather>
+  <Weather id="2" tooltip="阴雨天气：火与神火技能伤害下降\水与神水技能伤害上升\电系技能命中上升"></Weather>
+  <Weather id="3" tooltip="冰雹天气：冰系技能伤害上升\冻结概率略微提升"></Weather>
+  <Weather id="4" tooltip="雷暴天气：电系技能伤害上升\除电系宠物外，行动时不免疫麻醉则全技能损失1PP。"></Weather>
+  <Weather id="5" tooltip="暗黑城环境：恶魔属性的宠物获得额外防御力"></Weather>
+  <Weather id="6" tooltip="疾风天气：翼系宠物在技能先手相同时优先出招/翼系宠物先手出招造成的技能伤害上升。"></Weather>
+  <Weather id="7" tooltip="梦境环境：场上速度慢的宠物先手出招"></Weather>
+  <Weather id="8" tooltip="瘴气环境：若对方身上存在毒、剧毒状态，毒系宠物所有技能威力提升。毒系外宠物回复生命能力下降。"></Weather>
+  <Weather id="9" tooltip="沃土环境：土系宠物受到的伤害降低，水系、草系、冰系宠物速度下降。"></Weather>
+  <Weather id="10" tooltip="龙阵环境：龙系宠物每回合首次受到威力伤害时删除对应威力技能1PP，非龙系攻击者的其他威力技能也受此效果影响。"></Weather>
+  <Weather id="11" tooltip="化境环境：武系宠物受到威力技能伤害减免，武系宠物攻击时无视对方闪避等级。"></Weather>
+  <Weather id="12" tooltip="圣光天气：光系技能威力提升，光系宠物受非神系技能威力伤害减半。双方场上宠物获得异常免疫。"></Weather>
+  <Weather id="13" tooltip="血月天气：恶魔系技能伤害提升，恶魔系宠物每回合回复生命值。"></Weather>
+  <Weather id="14" tooltip="迷宫环境：虫系宠物受到魔法伤害减少，非虫系宠物每回合受到80点伤害。"></Weather>
+  <Weather id="15" tooltip="铁壁环境：机械系宠物的速度与受到的克制系伤害降低。"></Weather>
+  <Weather id="16" tooltip="芬芳环境：草系、神草系宠物受到的伤害降低，草系、神草系宠物每回合回复生命值。"></Weather>
+  <Weather id="17" tooltip="迷雾天气：幽灵系技能先手值+1，场上宠物每回合80%概率进入混乱。"></Weather>
+  <Weather id="18" tooltip="陨石天气：石系技能威力提升，石系宠物受到的物理伤害减少。"></Weather>
+  <Weather id="19" tooltip="海市蜃楼环境：场上宠物每回合进入睡眠，除神水系外每回合扣除50HP，为神水系宠物回复相等HP。"></Weather>
+  <Weather id="20" tooltip="星云天气：反转所有属性的克制抵抗关系，神系除外。"></Weather>
+  <Weather id="21" tooltip="天气/环境被锁定"></Weather>
+  <Weather id="22" tooltip="曙光天气：除光系宠物外，每次行动后会将自身的正负面强化重置为0。"></Weather>
+  <Weather id="23" tooltip="风林火山环境：双方场上宠物命中对方时追加伤害/双方重伤宠物pp回复能力减弱。神火系宠物受到的伤害与压制效果降低。"></Weather>
+  <Weather id="24" tooltip="无"></Weather>
+  <Weather id="100" tooltip="无"></Weather>
+</Weathers>
