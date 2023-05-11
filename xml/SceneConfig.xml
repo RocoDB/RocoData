@@ -628,7 +628,7 @@
   <SceneDes bgMusic="new_06.swf|amb_1.swf" id="2039" name="绿野擂台" sceneVer="1" top="2007" ver="1.60320"/>
   <SceneDes bgMusic="new_52.swf" id="2040" name="VIP神殿" sceneVer="1" top="2002" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="2041" name="明星神殿" sceneVer="1" top="382" ver="1.00000"/>
-  <SceneDes bgMusic="new_06.swf|amb_1.swf" id="2100" name="失落之塔" sceneVer="1" top="2100" ver="1.60320"/>
+  
   <SceneDes bgMusic="new_32.swf" id="18000" name="爬塔地图" sceneVer="1" top="2005" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="18001" name="爬塔地图" sceneVer="1" top="2005" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="18002" name="爬塔地图" sceneVer="1" top="2005" ver="1.00000"/>

@@ -5547,15 +5547,6 @@
       "allowData": ""
     },
     {
-      "id": "2100",
-      "name": "失落之塔",
-      "sceneVer": "1",
-      "top": "2100",
-      "ver": "1.60320",
-      "bgMusic": "new_06.swf|amb_1.swf",
-      "allowData": ""
-    },
-    {
       "id": "18000",
       "name": "爬塔地图",
       "sceneVer": "1",
