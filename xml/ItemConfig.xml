@@ -1762,17 +1762,17 @@
  </Item>
   <Item>
     <ID>17563651</ID>
-    <Name>防御之果</Name>
+    <Name>物防之果</Name>
     <Price>0</Price>
-    <Desc><![CDATA[增加宠物防御努力值。]]></Desc>
+    <Desc><![CDATA[增加宠物物防努力值。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>17563652</ID>
-    <Name>攻击之果</Name>
+    <Name>物攻之果</Name>
     <Price>0</Price>
-    <Desc><![CDATA[增加宠物攻击努力值。]]></Desc>
+    <Desc><![CDATA[增加宠物物攻努力值。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1786,9 +1786,9 @@
  </Item>
   <Item>
     <ID>17563654</ID>
-    <Name>魔抗之果</Name>
+    <Name>魔防之果</Name>
     <Price>0</Price>
-    <Desc><![CDATA[增加宠物魔抗努力值。]]></Desc>
+    <Desc><![CDATA[增加宠物魔防努力值。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

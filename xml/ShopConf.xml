@@ -43,10 +43,10 @@
 <item type="2" id="67372961" itemName="远古精灵秘药" tips="精灵进行血脉天赋觉醒的必需资源。" />
 <item type="2" id="17563656" itemName="速度之果" tips="增加宠物速度努力值。" />
 <item type="2" id="17563655" itemName="魔攻之果" tips="增加宠物魔攻努力值。" />
-<item type="2" id="17563654" itemName="魔抗之果" tips="增加宠物魔抗努力值。" />
+<item type="2" id="17563654" itemName="魔防之果" tips="增加宠物魔防努力值。" />
 <item type="2" id="17563653" itemName="精力之果" tips="增加宠物精力努力值。" />
-<item type="2" id="17563652" itemName="攻击之果" tips="增加宠物攻击努力值。" />
-<item type="2" id="17563651" itemName="防御之果" tips="增加宠物防御努力值。" />
+<item type="2" id="17563652" itemName="物攻之果" tips="增加宠物物攻努力值。" />
+<item type="2" id="17563651" itemName="物防之果" tips="增加宠物物防努力值。" />
 <item type="2" id="17629187" itemName="遗忘果实" tips="将已加努力值清零。" />
 <item type="2" id="67371909" itemName="灵兽丹" tips="用来喂养守护兽" />
 <item type="2" id="17367045" itemName="果儿糖" tips="重新获得宠物的全部天赋值。" />
