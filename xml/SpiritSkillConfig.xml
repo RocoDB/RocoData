@@ -18,9 +18,9 @@
 <talentDes des="物攻能力提升30点。" id="2" name="勇猛"/>
 <talentDes des="魔攻能力提升30点。" id="3" name="睿智"/>
 <talentDes des="速度能力提升30点。" id="4" name="迅捷"/>
-<talentDes des="火属性技能威力提升25%" id="5" name="烈焰"/>
-<talentDes des="水属性技能威力提升25%" id="6" name="激流"/>
-<talentDes des="草属性技能威力提升25%" id="7" name="茂盛"/>
+<talentDes des="火属性技能威力提升25%。" id="5" name="烈焰"/>
+<talentDes des="水属性技能威力提升25%。" id="6" name="激流"/>
+<talentDes des="草属性技能威力提升25%。" id="7" name="茂盛"/>
 <talentDes des="使用攻击技能时40%几率触发圣光审判，降低对手物防和魔防强化1级。" id="8" name="圣光审判"/>
 <talentDes des="精力低于45%时触发嗜血屠戮，每次攻击恢复自身20%最大精力。" id="9" name="嗜血屠戮"/>
 <talentDes des="电属性技能威力提升25%。" id="10" name="雷霆之怒"/>
@@ -69,9 +69,10 @@
 <talentDes des="受到任意伤害50%概率降低30%。" id="53" name="幸运眷顾"/>
 <talentDes des="主动使用技能时若双方使用的技能先手值趋近则以架势化解攻击反射对手并补充动合无形PP。先手值越接近则化解时机越好，完美化解后自身下次攻击必定命中并暴击。" id="54" name="天机洞破"/>
 <talentDes des="空" id="55" name="QHMF"/>
-<talentDes des="空" id="56" name="WL"/>
+<talentDes des="武属性技能威力提升25%。" id="56" name="武力"/>
 <talentDes des="上场时重置自身强化后强化速度与优势攻击各1级并提升威力伤害持续3回合。" id="57" name="猎手"/>
 <talentDes des="空" id="58" name="58"/>
+<talentDes des="空" id="59" name="59"/>
 <talentDes des="空" id="60" name="60"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -409,12 +410,12 @@
 <SpiritSkillDes attackType="1" damageType="2" description="给对手较重的伤害。" id="326" name="水之神枪" power="40" ppMax="25" property="3" speed="8" src="4012_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手混乱。" id="327" name="水之波纹" power="60" ppMax="20" property="3" speed="8" src="4030_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="待补充" id="328" name="玩水" power="--" ppMax="15" property="3" speed="8" src="4001_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="自己剩余HP越多伤害越高。" id="329" name="刮潮" power="150" ppMax="5" property="3" speed="8" src="4001_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="自身精力越少伤害越低。" id="329" name="刮潮" power="150" ppMax="5" property="3" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="一定机率让对手恐惧。" id="330" name="攀瀑" power="80" ppMax="15" property="3" speed="8" src="5002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="造成固伤并限制对手无法替换宠物持续2至5回合。" id="331" name="冰冻" power="15" ppMax="15" property="3" speed="8" src="4022_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="提高自己的防御等级。" id="332" name="钢贝壳" power="--" ppMax="40" property="3" speed="8" src="6007_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="提升自身1级物防。" id="332" name="钢贝壳" power="--" ppMax="40" property="3" speed="8" src="6007_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="回复自身部分精力。" id="333" name="汲取" power="20" ppMax="25" property="5" speed="8" src="4014_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="解除自己的所有宠物异常状态。" id="334" name="芳香气息" power="--" ppMax="5" property="5" speed="8" src="6009_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化己方所有宠物异常状态。" id="334" name="芳香气息" power="--" ppMax="5" property="5" speed="8" src="6009_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="连续用种子攻击，给对手造成一定伤害。" id="335" name="种子机枪" power="10" ppMax="30" property="5" speed="8" src="4031_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="令对手速度等级下降2级。" id="336" name="棉絮缠绕" power="--" ppMax="40" property="5" speed="8" src="4011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率使对手魔防等级下降。" id="337" name="精神之箭" power="80" ppMax="10" property="5" speed="8" src="4016_.swf"/>
@@ -434,7 +435,7 @@
 <SpiritSkillDes attackType="1" damageType="1" description="一定机率提高暴击等级。" id="351" name="飞叶刀" power="55" ppMax="25" property="5" speed="8" src="4016_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="给对手造成一定伤害。" id="352" name="种子炸弹" power="80" ppMax="15" property="5" speed="8" src="4018_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="30%概率降低对手魔防强化1级。" id="353" name="闪耀种子" power="120" ppMax="5" property="5" speed="8" src="4018_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="一定机率让对手昏睡。" id="354" name="催眠粉" power="--" ppMax="15" property="5" speed="8" src="4011_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="令对手睡眠。" id="354" name="催眠粉" power="--" ppMax="15" property="5" speed="8" src="4011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="本回合准备，下回合发动攻击，给对手造成巨大伤害。" id="355" name="阳光烈焰" power="120" ppMax="10" property="5" speed="8" src="4041_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="一定机率让对手昏睡。" id="356" name="蘑菇孢子" power="--" ppMax="15" property="5" speed="8" src="4011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="麻醉对手。" id="357" name="麻醉粉" power="--" ppMax="30" property="5" speed="8" src="4011_.swf"/>
@@ -459,23 +460,23 @@
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手的攻击等级下降。" id="376" name="极光光线" power="65" ppMax="20" property="6" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="当前回合受到伤害则威力增加。" id="377" name="雪崩" power="60" ppMax="10" property="6" speed="4" src="5002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手冰冻。" id="378" name="暴风雪" power="120" ppMax="5" property="6" speed="8" src="4022_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="5回合内双方非冰系宠物受到伤害" id="379" name="冰雹" power="--" ppMax="10" property="6" speed="8" src="7006_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="5回合内双方均受到伤害，对冰系宠物无效。" id="379" name="冰雹" power="--" ppMax="10" property="6" speed="8" src="7006_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="双方能力等级变化都恢复正常。" id="380" name="白之雾" power="--" ppMax="30" property="6" speed="8" src="4011_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="连续5回合攻击对手且威力会持续提升，若未命中则重新计算。" id="381" name="冰之球" power="30" ppMax="20" property="6" speed="8" src="5013_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手冰冻。" id="382" name="冰冻术" power="95" ppMax="10" property="6" speed="8" src="4040_.swf"/>
-<SpiritSkillDes attackType="2" damageType="1" description="一定机率冻住对手，或令对手恐惧。两种效果不可同时存在。" id="383" name="冰之雾" power="65" ppMax="15" property="6" speed="8" src="5009_.swf"/>
+<SpiritSkillDes attackType="2" damageType="1" description="10%概率冻结或恐惧对手。" id="383" name="冰之雾" power="65" ppMax="15" property="6" speed="8" src="5009_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="10%概率冻结对手。" id="384" name="冰之拳" power="75" ppMax="15" property="6" speed="8" src="5003_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="给对手造成一定伤害。" id="385" name="冰之砾" power="40" ppMax="30" property="6" speed="9" src="4022_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="一回合做出多次攻击。" id="386" name="冰柱针" power="10" ppMax="30" property="6" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="令对手速度等级下降。" id="387" name="冰冻之风" power="55" ppMax="15" property="6" speed="8" src="4022_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="5回合内，己方能力属性不会产生变化，换宠物时效果取消。" id="388" name="白色雾气" power="--" ppMax="30" property="6" speed="8" src="4011_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="锁定自身强化5回合。" id="388" name="白色雾气" power="--" ppMax="30" property="6" speed="8" src="4011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手冰冻。" id="389" name="吹雪" power="40" ppMax="25" property="6" speed="8" src="4022_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一击必杀，命中率不高，只对比自己级别低的宠物有效。" id="390" name="冰果冻" power="--" ppMax="5" property="6" speed="8" src="4033_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="强化自身2级速度。" id="391" name="快速移动" power="--" ppMax="30" property="11" speed="8" src="6010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="强化自身2级魔防。" id="392" name="魔法盾" power="--" ppMax="20" property="11" speed="8" src="6012_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="提高自己的防御等级。" id="393" name="栅栏" power="--" ppMax="30" property="11" speed="8" src="6011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="提高自己的魔攻和魔防等级。" id="394" name="冥想" power="--" ppMax="20" property="11" speed="8" src="4001_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手混乱。" id="395" name="意念力" power="50" ppMax="25" property="11" speed="8" src="4010_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="10%概率混乱对手。" id="395" name="意念力" power="50" ppMax="25" property="11" speed="8" src="4010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="待补充" id="396" name="宇宙力量" power="--" ppMax="20" property="11" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="对手睡眠时，此技能才能成功。给予对手一定伤害，同时回复一定HP。" id="397" name="食梦" power="100" ppMax="15" property="11" speed="8" src="4049_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="待补充" id="398" name="神通力" power="80" ppMax="30" property="11" speed="8" src="4001_.swf"/>
@@ -495,7 +496,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="自身攻击等级提升一级。" id="412" name="瑜珈之形" power="--" ppMax="40" property="11" speed="8" src="6010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="还原对手的回避等级，对恶魔系宠物会额外造成一定伤害。" id="413" name="穿透之眼" power="--" ppMax="40" property="11" speed="8" src="4049_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="本回合受到对手魔攻伤害时，将双倍返还给对手。" id="414" name="魔法反射" power="--" ppMax="20" property="11" speed="3" src="6007_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="一定机率降低对手魔攻等级。" id="415" name="迷雾球" power="70" ppMax="5" property="11" speed="8" src="4001_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="50%概率降低对手魔攻1级。" id="415" name="迷雾球" power="70" ppMax="5" property="11" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="和对手互换攻击和魔攻等级。" id="416" name="力量反转" power="--" ppMax="10" property="11" speed="8" src="6008_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="待补充" id="417" name="力量戏法" power="--" ppMax="10" property="11" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手进入到混乱状态。" id="418" name="精神光线" power="65" ppMax="20" property="11" speed="8" src="4043_.swf"/>
@@ -687,7 +688,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="给对手造成固定伤害40点" id="604" name="龟壳撞击" power="--" ppMax="15" property="3" speed="9" src="5013_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="扣除对手HP上限80%的HP" id="605" name="龟兔赛跑" power="--" ppMax="15" property="3" speed="9" src="5019_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="令对手进入中毒状态" id="606" name="清水之毒" power="--" ppMax="15" property="3" speed="9" src="4021_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="降低对手防御和魔防等级1级" id="607" name="水流击破" power="--" ppMax="15" property="3" speed="9" src="4039_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="降低对手物防和魔防等级1级。" id="607" name="水流击破" power="--" ppMax="15" property="3" speed="9" src="4039_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="自身HP恢复全满" id="608" name="水满自溢" power="--" ppMax="15" property="3" speed="9" src="6010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="提升自身物攻和魔攻等级2级" id="609" name="激流勇进" power="--" ppMax="15" property="3" speed="9" src="6005_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="扣除对手当前HP60%，同时自身恢复同样数值的HP。" id="610" name="水吸神功" power="--" ppMax="15" property="3" speed="9" src="7002_.swf"/>
@@ -959,10 +960,10 @@
 <SpiritSkillDes attackType="1" damageType="2" description="给对手造成一定的伤害。" id="876" name="叶锋割裂" power="100" ppMax="5" property="5" speed="8" src="4016_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="给对手造成一定的伤害。" id="877" name="破土之力" power="110" ppMax="5" property="5" speed="8" src="4018_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="使用后5回合内，每回合恢复一定的HP。" id="878" name="绿色幻境" power="--" ppMax="5" property="5" speed="8" src="6010_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="给对手造成伤害，并且自己回复一定的HP。" id="879" name="暴力汲取" power="100" ppMax="10" property="5" speed="8" src="4028_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="回复自身部分精力。" id="879" name="暴力汲取" power="100" ppMax="10" property="5" speed="8" src="4028_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="形成一个持续5回合的护盾，每回合最多可以吸收60点伤害。" id="880" name="阳光护盾" power="--" ppMax="5" property="5" speed="8" src="6012_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="提升自身的魔防等级。" id="881" name="魔叶瞬斩" power="90" ppMax="10" property="5" speed="8" src="4031_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="提升自身的魔攻等级。" id="882" name="慧根盾击" power="90" ppMax="10" property="5" speed="8" src="4023_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="提升自身1级魔攻。" id="882" name="慧根盾击" power="90" ppMax="10" property="5" speed="8" src="4023_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="提升自身的攻击等级。" id="883" name="刀叶狂击" power="90" ppMax="10" property="5" speed="8" src="5006_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="提升自身的防御等级。" id="884" name="巨根缠绕" power="90" ppMax="10" property="5" speed="8" src="5008_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="恢复40点HP，并有概率让对手进入睡眠状态。" id="885" name="嗜睡吸血" power="--" ppMax="5" property="5" speed="8" src="4029_.swf"/>
@@ -979,7 +980,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="提升自身物攻强化1级。" id="896" name="烈焰囤积" power="90" ppMax="10" property="2" speed="8" src="5004_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="提升自身的速度等级。" id="897" name="加速" power="--" ppMax="10" property="3" speed="8" src="6004_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="一定概率提升自身速度等级。" id="898" name="急速" power="--" ppMax="10" property="3" speed="8" src="6004_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="自身速度等级比对手速度等级越高造成的伤害越大。" id="899" name="高速撞击" power="--" ppMax="10" property="3" speed="8" src="4012_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="自身速度等级比对手速度等级越高造成的伤害越大。" id="899" name="高速撞击" power="--" ppMax="10" property="3" speed="8" src="4012_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="3到6回合内，免疫睡眠，烧伤，中毒，冰冻，寄生效果。" id="900" name="纯净护盾" power="--" ppMax="10" property="3" speed="8" src="6008_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="形成一个持续5回合的护盾，每回合最多可以吸收60点伤害。" id="901" name="水之护盾" power="--" ppMax="10" property="3" speed="8" src="6007_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="一定概率提升自身防御等级。" id="902" name="缓冲" power="80" ppMax="10" property="3" speed="8" src="5012_.swf"/>
@@ -1132,7 +1133,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="给对手施加雷霆印，被守护光环技能造成伤害激活时50%概率造成暴击伤害。" id="1049" name="雷霆爆捶" power="90" ppMax="10" property="7" speed="8" src="5010_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="给对手施加灵蛇印，被守护光环技能造成伤害激活时追加固伤。" id="1050" name="灵蛇一击" power="90" ppMax="10" property="7" speed="8" src="5004_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="给对手施加十字印，被守护光环技能造成伤害激活时回复自身精力。" id="1051" name="不败十字剑" power="90" ppMax="10" property="7" speed="8" src="5011_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="给对手造成一定伤害，提升自身的魔法攻击等级1级，并一定概率麻醉对手。" id="1052" name="风卷残云" power="120" ppMax="10" property="10" speed="8" src="4050_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="强化自身1级魔攻，并50%概率麻醉对手。" id="1052" name="风卷残云" power="120" ppMax="10" property="10" speed="8" src="4050_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="决战落日之巅斯诺克等手下AI" id="1053" name="黑暗军团AI" power="--" ppMax="15" property="16" speed="15" src="5005_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="恶魔免伤" id="1054" name="恶魔免伤" power="--" ppMax="15" property="16" speed="1" src="6012_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="黑暗打击" id="1055" name="黑暗打击" power="--" ppMax="15" property="1" speed="1" src="4010_.swf"/>
@@ -1230,7 +1231,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="立即恢复自身部分精力，场下受伤队友也会恢复少许。" id="1149" name="祈愿" power="--" ppMax="20" property="3" speed="9" src="6020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="被精灵王们用于封印火魔的咒文，对火魔和其他火系宠物有极大约束力。" id="1150" name="伊利亚" power="75" ppMax="20" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="熊熊燃烧的烈焰，根据对手当前生命追加伤害。" id="1151" name="璀璨花火" power="80" ppMax="10" property="2" speed="9" src="4041_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="带有净化力量的攻击，使对手额外的防御等级消失。" id="1152" name="激流冲击" power="125" ppMax="10" property="3" speed="9" src="4030_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="带有净化能力的攻击，重置对手正面双防强化。" id="1152" name="激流冲击" power="125" ppMax="10" property="3" speed="9" src="4030_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="命中后必定使对手睡眠，若对手免疫，回复自身20%精力值。" id="1153" name="幻想编织" power="--" ppMax="6" property="5" speed="10" src="4029_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="仿佛深渊一般的双眸，有几率麻醉对手。" id="1154" name="深渊凝视" power="100" ppMax="10" property="16" speed="8" src="4006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="连环的踩踏，将对手踏入地面。" id="1155" name="天马流星" power="25" ppMax="25" property="10" speed="8" src="5013_.swf" superFormID="" superFormSrc=""/>
@@ -1257,7 +1258,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="穆图AI" id="1176" name="穆图AI" power="--" ppMax="10" property="7" speed="9" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="提升2级魔攻，并觉醒之外的其他技能恢复PP值。" id="1177" name="深渊魔能" power="--" ppMax="5" property="16" speed="12" src="4067_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="刺眼的光芒，暂时降低对手本回合的命中。" id="1178" name="闪光灯" power="100" ppMax="5" property="1" speed="9" src="4041_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="主动：偷取对手的攻击强化并回复生命。被动：降低自身升级经验。" id="1179" name="总结经验" power="--" ppMax="5" property="11" speed="10" src="4010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="回复自身精力，复制对手双攻正面强化后重置对手该强化。" id="1179" name="总结经验" power="--" ppMax="5" property="11" speed="10" src="4010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="你的招式被看破了！降低对手魔防1级。" id="1180" name="漏洞百出" power="90" ppMax="10" property="11" speed="8" src="4029_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="恐惧对手并降低其1级物防，恐惧失败则额外强化自身2级物攻。" id="1181" name="龙威" power="--" ppMax="3" property="15" speed="10" src="4034_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="连续三回合对对手造成伤害。" id="1182" name="真龙乱舞" power="100" ppMax="10" property="15" speed="8" src="5003_.swf" superFormID="" superFormSrc=""/>
@@ -1266,7 +1267,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="立即净化自身，恢复少量生命并提升物攻。四回合内免疫负面并强化伤害。" id="1185" name="合金战神" power="--" ppMax="1" property="1" speed="15" src=".swf" superFormID="1828" superFormSrc="1828-.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="立即恢复少量生命值，并驱散自身的异常状态。" id="1186" name="真龙血脉" power="--" ppMax="4" property="15" speed="10" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="几乎必中的烈焰，后手出招时会造成额外伤害。" id="1187" name="妒火中烧" power="75" ppMax="10" property="2" speed="8" src="4062_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="如果本轮先手，则造成额外伤害。如果本轮后手，则恢复100点生命并重置PP值。" id="1188" name="攻守兼备" power="75" ppMax="5" property="11" speed="8" src="4010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="先手时威力翻倍，否则回满本技能PP并回复100点精力。" id="1188" name="攻守兼备" power="75" ppMax="5" property="11" speed="8" src="4010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="对玄武、北圣兽具有极大的克制作用。" id="1189" name="玄武天敌" power="80" ppMax="20" property="8" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="对中毒、剧毒中的对手附带额外伤害。" id="1190" name="病入膏肓" power="90" ppMax="10" property="8" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="使对手中毒，如果对手免疫，则追加重大伤害。" id="1191" name="闺怨" power="60" ppMax="10" property="8" speed="8" src="4013_.swf" superFormID="" superFormSrc=""/>
@@ -2199,7 +2200,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="散发诱惑气息。提升自身双防等级。并迷惑对手。迷惑失败，则降低双攻等级。若无法降低，则吸取对手少许血量补充自身。" id="2113" name="花漾诱惑" power="--" ppMax="8" property="10" speed="10" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="给对手造成伤害，根据先后手有不同的效果。" id="2114" name="翼心翼意" power="100" ppMax="10" property="10" speed="8" src="4050_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="千里冰封，万里雪飘。根据场上天气的存在情况有不同效果。" id="2118" name="冰封雪" power="100" ppMax="12" property="6" speed="8" src="4040_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="清除自身负面强化，回复自身精力，如场下有冰系宠物，则增加回复的精力值。如对手处于冻结状态，则有不同的效果。" id="2119" name="水冰花" power="--" ppMax="6" property="6" speed="11" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身负面并回复精力，如有冰系宠物同行则回复效果显著。冰冻对手，若对手之前已处于冻结状态则重置其正面强化，无正面强化时降低1级魔防。" id="2119" name="水冰花" power="--" ppMax="6" property="6" speed="11" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="炽热血脉，魔性无双。立即净化自身并回复精力，暂时免疫异常状态和负面强化并减免部分威力伤害，召唤迷雾天气5回合。" id="2115" name="炽热魔血" power="--" ppMax="5" property="14" speed="12" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="吸血本性，不死寄生。威力伤害部分回复自身体力，当对手体力劣势时额外造成波及伤害。" id="2116" name="死灵寄生" power="120" ppMax="10" property="14" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="幽幻音波，回荡打击。连续三回合发动攻击，首回合提升自身魔攻并造成波及伤害，次回合造成波及伤害，末回合根据对手场下宠物提升威力。" id="2117" name="回声音波" power="100" ppMax="6" property="14" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -3123,7 +3124,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3036" name="技能3036" power="120" ppMax="10" property="2" speed="9" src="4059_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3037" name="技能3037" power="--" ppMax="6" property="15" speed="15" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3038" name="技能3038" power="--" ppMax="8" property="15" speed="11" src="4001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空" id="3039" name="技能3039" power="150" ppMax="12" property="2" speed="9" src="4079_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3039" name="技能3039" power="150" ppMax="12" property="2" speed="9" src="5015_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3040" name="技能3040" power="150" ppMax="10" property="15" speed="10" src="5015_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="奔浑驰暴雨，骤鼓轰雷霆。提升自身闪避并删除对手pp后发动双重攻击，对不免疫麻醉的对手威力加倍。" id="3073" name="雷奔云谲" power="75" ppMax="6" property="4" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="震蛰虫蛇出，惊枯草木开。净化自身回复精力，免疫异常和负面并召唤雷暴天气均持续6回合。回合内主动使用威力技能时回复部分技能pp，使用变化技能时在短期内降低受到的伤害。" id="3074" name="电火行空" power="--" ppMax="6" property="4" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
@@ -3144,7 +3145,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="空白" id="3068" name="技能3068" power="100" ppMax="11" property="11" speed="10" src="5007_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3075" name="技能3075" power="--" ppMax="6" property="10" speed="13" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3076" name="技能3076" power="100" ppMax="8" property="2" speed="11" src="4062_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3077" name="技能3077" power="120" ppMax="10" property="10" speed="10" src="4080_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3077" name="技能3077" power="120" ppMax="10" property="10" speed="10" src="4062_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3078" name="技能3078" power="120" ppMax="12" property="2" speed="8" src="5014_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3095" name="技能3095" power="--" ppMax="20" property="1" speed="8" src="4049_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3096" name="技能3096" power="120" ppMax="5" property="10" speed="11" src="5019_.swf" superFormID="" superFormSrc=""/>
@@ -3165,7 +3166,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3104" name="HPYB" power="--" ppMax="7" property="5" speed="11" src="4032_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3105" name="ZBLJ" power="120" ppMax="10" property="5" speed="9" src="5008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="连续发动技能4回合，每回合清除场上天气环境并据此造成固伤。首回合混乱对手，被免疫则回复其他技能PP并强化自身物攻，后续回合回复自身精力并删除对手PP。" id="3030" name="击剑法" power="--" ppMax="9" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化自身回复精力，若对手双攻之一大于我方物攻能力值则免疫其后手伤害，本技能PP枯竭时回复自身精力与技能PP效果显著。免疫异常与负面5回合，回合内提升技能威力与降低受到的伤害。" id="3031" name="守境世界" power="--" ppMax="5" property="11" speed="14" src="6002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，若我方物攻能力值低于对手攻击能力值则免疫其后手伤害，本技能PP枯竭时回复技能PP效果显著。免疫异常与负面5回合，回合内提升技能威力与降低受到的伤害。" id="3031" name="守境世界" power="--" ppMax="5" property="11" speed="14" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="勒铭岩土，参决狱讼。净化异常并回复自身精力和慎刑1PP，终止免疫负面效果。免疫异常并召唤沃土环境5回合，每次登场首次使用会以令禁制对手本回合所用技能使其在回合内无法被回复PP并在成功禁制对手时回复自身精力。本技能免疫删除PP。" id="3117" name="断狱" power="--" ppMax="3" property="9" speed="15" src="6009_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="法重谦抑，慎取刑由。净化自身并免疫异常与负面4回合，回复断狱1PP和自身精力，连续使用时效果降低。对手受伤越重威力越高，攻击后召唤曙光天气3回合或将场上其他天气变更为等回合曙光天气，已是曙光天气则延长2回合。根据曙光天气回合数删除对手PP。本技能必中并免疫删除PP。" id="3118" name="慎刑" power="120" ppMax="3" property="18" speed="12" src="5008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="眼牙相还，义理初明。恐惧对手并删除其PP，根据双方精力差值提升威力。秉承同态复仇之理，对手的双攻强化与自身双防负面均会增加威力伤害。若自身有负面或受到先手伤害额外吸取对手PP和精力；否则自身受到惩戒损失精力与PP，此时若处于环境下则下次使用本技能时降低先手值（不连续生效）。" id="3119" name="还仇" power="135" ppMax="12" property="9" speed="9" src="5008_.swf" superFormID="" superFormSrc=""/>
@@ -3205,12 +3206,12 @@
 <SpiritSkillDes attackType="2" damageType="1" description="行合天理，动遂伦常，视自身精力情况伺机而攻的剑法。反转负面并净化自身，免疫异常与负面4回合。精力优势时不惜受到反伤以攻击对手全体，劣势时汲取对手精力回复我方全体。技能PP充足时效果更佳且增加1次伤害。" id="3133" name="动合无形" power="120" ppMax="2" property="1" speed="12" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="深研钻修，锤炼不辍的剑法。删除对手全技能1PP并回复自身枯竭的变化技能，若实际删除量不足4则额外追加1次删除与回复效果。对手有正面强化或护盾时破除其物防。" id="3134" name="致知格物" power="125" ppMax="12" property="7" speed="10" src="5008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="顺物而为，修心养境的剑法。连续3回合根据物攻值造成固定伤害，成功化解对手攻击时根据化解时机提升伤害并吸取精力。若本技能击败对手则永久提升自身暴击伤害倍率。首回合恐惧对手，被免疫则赋予自身护盾。完美化解时必中。" id="3135" name="乘物游心" power="--" ppMax="10" property="1" speed="11" src="4004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空空空" id="3136" name="LC1" power="--" ppMax="6" property="7" speed="14" src="6001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空空空" id="3137" name="LC2" power="50" ppMax="11" property="7" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="3" description="空空空" id="3138" name="LC3" power="--" ppMax="9" property="6" speed="8" src="5001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空空空" id="3139" name="SY1" power="--" ppMax="4" property="11" speed="13" src="6008_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="空空空" id="3140" name="SY2" power="90" ppMax="10" property="11" speed="8" src="5007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空空空" id="3141" name="SY3" power="100" ppMax="12" property="6" speed="10" src="4043_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身回复精力并免疫异常与负面5回合，回合内降低自身受到的伤害，若受到威力或固伤则使自身获得武之气息与冰之异象围绕；若未受到伤害则对对手造成波及伤害。" id="3136" name="冰风武动" power="--" ppMax="6" property="7" speed="14" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="气息与异象的结合提升技能威力后，消耗部分武之气息层数吸取对手精力回复自身。将自身正面物攻转为物防并降低对手物防强化，同时锁定全场强化2回合。根据武系队友召唤化境环境持续一定回合，自身先手则免疫对手后手暴击并降低本技能与爪影不息先手值，否则自身受到伤害则追加固伤并获得1层冰之异象。" id="3137" name="气象相合" power="50" ppMax="11" property="7" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="连读2回合发动技能，每回合根据冰之异象层数造成固伤且自身后手时删除对手PP并获得1层武之气息；首回合强化自身物攻并回复其他技能PP，末回合回复自身精力并对对手造成波及伤害。" id="3138" name="爪影不息" power="--" ppMax="9" property="6" speed="8" src="5001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身回复精力并强化魔防和速度等级，免疫异常6回合并降低受到的伤害，且根据使用威力技能剩余pp值提升威力。召唤梦境环境2回合，召唤失败则获得1回合闪避。" id="3139" name="丰神异彩" power="--" ppMax="4" property="11" speed="13" src="6008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="强化自身魔攻并吸取对手pp。自身先手时吸取pp效果显著并提升技能威力。若未受到先手伤害则必中。" id="3140" name="锋芒展露" power="90" ppMax="10" property="11" speed="8" src="5007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="冰冻对手且在任意天气下召唤冰雹天气2回合，召唤天气成功则删除对手pp。连续使用本技能可提高技能威力、先手值与命中率，若连续使用次数较多时回复本技能pp。后手出招时额外吸取对手精力。" id="3141" name="精进不休" power="100" ppMax="12" property="6" speed="10" src="4043_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="消耗半数狩猎印记提升威力并删除对手最近使用技能PP。净化自身，回复精力并强化1级闪避。免疫异常与负面4回合，回合内持续获得护盾并在闪避对手攻击时赋予其狩猎印记。攻击新目标时额外召唤迷宫环境4回合。" id="3142" name="绽镰追击" power="110" ppMax="6" property="12" speed="11" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="恐惧并锁定对手为猎物，被免疫则回复自身枯竭技能PP。对锁定的猎物发起至多三回合攻击，每回合根据自身物攻能力值及狩猎印记吸取其精力。出现新猎物时赋予狩猎印记并吸取其PP。" id="3143" name="觅迹寻踪" power="--" ppMax="10" property="12" speed="10" src="4014_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="倒置自身负面并强化1级物攻后再攻击，删除对手技能PP。狩猎印记充足时必中并额外删除PP，若对手精力尚佳则回复绽镰追击技能PP后驱逐自身。回复自身精力并赋予对手狩猎印记，攻击新目标时赋予对手额外狩猎印记。" id="3144" name="见机而作" power="120" ppMax="15" property="12" speed="9" src="5011_.swf" superFormID="" superFormSrc=""/>
@@ -3229,6 +3230,22 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3162" name="LH1" power="--" ppMax="6" property="11" speed="12" src="6020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3163" name="LH2" power="60" ppMax="10" property="3" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3164" name="LH3" power="--" ppMax="10" property="11" speed="8" src="7004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3146" name="NW1" power="--" ppMax="6" property="17" speed="15" src="6002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3147" name="NW2" power="--" ppMax="4" property="4" speed="12" src="4020_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3148" name="NW3" power="125" ppMax="10" property="17" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3149" name="NW4" power="120" ppMax="10" property="4" speed="11" src="5008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3150" name="NW5" power="125" ppMax="10" property="17" speed="9" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3169" name="LD1" power="--" ppMax="6" property="16" speed="14" src="6003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3170" name="LD2" power="100" ppMax="10" property="16" speed="9" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3171" name="LD3" power="120" ppMax="12" property="8" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3165" name="CHYZ" power="--" ppMax="4" property="3" speed="15" src="6002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3166" name="SJYL" power="--" ppMax="4" property="5" speed="11" src="4016_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3167" name="XYMZ" power="100" ppMax="13" property="3" speed="9" src="4021_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3168" name="MYBD" power="100" ppMax="13" property="5" speed="8" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3172" name="MY1" power="120" ppMax="10" property="13" speed="10" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3173" name="MY2" power="--" ppMax="5" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
+
+
 
 
 
@@ -3259,30 +3276,6 @@
   <SpiritSkillDes description="解除噩梦" description2="从噩梦醒来。" id="20012" name="解噩梦" property="12" src="2020.swf"/> 
   <SpiritSkillDes description="束缚:束缚状态所有技能速度值减半。" description2="被束缚了。" id="10013" name="束缚" property="13" src="2033.swf"/> 
   <SpiritSkillDes description="解除束缚" description2="解除了束缚。" id="20013" name="解束缚" property="13" src="2034.swf"/> 
-  <SpiritSkillDes description="麻醉:麻醉状态可能无法出招" description2="被麻醉了。" id="10002" name="麻醉" property="2" src="2027.swf"/> 
-  <SpiritSkillDes description="解除麻醉" description2="解除了麻醉。" id="20002" name="减麻醉" property="2" src="2028.swf"/> 
-  <SpiritSkillDes description="烧伤:烧伤状态持续损失HP" description2="被烧伤了。" id="10003" name="烧伤" property="3" src="2031.swf"/> 
-  <SpiritSkillDes description="解除烧伤" description2="解除了烧伤。" id="20003" name="减烧伤" property="3" src="2032.swf"/> 
-  <SpiritSkillDes description="冰冻:冰冻状态无法操作" description2="被冰冻了。" id="10004" name="冰冻" property="4" src="2015.swf"/> 
-  <SpiritSkillDes description="解除冰冻" description2="解冻了。" id="20004" name="减冰冻" property="4" src="2016.swf"/> 
-  <SpiritSkillDes description="中毒:中毒状态持续损失HP" description2="中毒了。" id="10005" name="中毒" property="5" src="2017.swf"/> 
-  <SpiritSkillDes description="解除中毒" description2="解毒了。" id="20005" name="减中毒" property="5" src="2018.swf"/> 
-  <SpiritSkillDes description="剧毒:剧毒状态持续损失HP" description2="中了剧毒。" id="10006" name="剧毒" property="6" src="2023.swf"/> 
-  <SpiritSkillDes description="解除剧毒" description2="解除了剧毒。" id="20006" name="减剧毒" property="6" src="2024.swf"/> 
-  <SpiritSkillDes description="混乱:混乱状态随机攻击敌我" description2="混乱了。" id="10007" name="混乱" property="7" src="2021.swf"/> 
-  <SpiritSkillDes description="解除混乱" description2="解除了混乱。" id="20007" name="减混乱" property="7" src="2022.swf"/> 
-  <SpiritSkillDes description="恐惧:恐惧状态无法操作" description2="恐惧了。" id="10008" name="恐惧" property="8" src="2025.swf"/> 
-  <SpiritSkillDes description="解除恐惧" description2="解除了恐惧。" id="20008" name="减恐惧" property="8" src="2026.swf"/> 
-  <SpiritSkillDes description="寄生:寄生状态持续损失HP" description2="被寄生了。" id="10009" name="寄生" property="9" src="2037.swf"/> 
-  <SpiritSkillDes description="解除寄生" description2="解除了寄生。" id="20009" name="减寄生" property="9" src="2038.swf"/> 
-  <SpiritSkillDes description="诅咒:诅咒状态持续损失HP" description2="被诅咒了。" id="10010" name="诅咒" property="10" src="2039.swf"/> 
-  <SpiritSkillDes description="解除诅咒" description2="解除了诅咒。" id="20010" name="减诅咒" property="10" src="2040.swf"/> 
-  <SpiritSkillDes description="迷惑:迷惑状态可能无法出招" description2="迷惑了。" id="10011" name="迷惑" property="11" src="2029.swf"/> 
-  <SpiritSkillDes description="解除迷惑" description2="解除了迷惑。" id="20011" name="减迷惑" property="11" src="2030.swf"/> 
-  <SpiritSkillDes description="噩梦:噩梦状态持续损失HP" description2="陷入了噩梦。" id="10012" name="噩梦" property="12" src="2019.swf"/> 
-  <SpiritSkillDes description="解除噩梦" description2="从噩梦醒来。" id="20012" name="减噩梦" property="12" src="2020.swf"/> 
-  <SpiritSkillDes description="束缚:束缚状态所有技能速度值减半。" description2="被束缚了。" id="10013" name="束缚" property="13" src="2033.swf"/> 
-  <SpiritSkillDes description="解除束缚" description2="解除了束缚。" id="20013" name="减束缚" property="13" src="2034.swf"/> 
   <SpiritSkillDes description="强化魔防" description2="魔防上升了。" id="30001" name="魔防上升" src="2001.swf"/> 
   <SpiritSkillDes description="减弱魔防" description2="魔防下降了。" id="40001" name="魔防下降" src="2002.swf"/> 
   <SpiritSkillDes description="强化物攻" description2="物攻提升了。" id="30002" name="物攻上升" src="2003.swf"/> 
