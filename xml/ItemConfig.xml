@@ -5121,6 +5121,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620388</ID>
+    <Name>幻梦仙踪头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幻梦仙踪套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8665,6 +8673,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751452</ID>
+    <Name>幻梦仙踪衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幻梦仙踪套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -11730,6 +11746,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816962</ID>
+    <Name>幻梦仙踪鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幻梦仙踪套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -12806,6 +12830,14 @@
     <Name>决斗大师背饰</Name>
     <Price>0</Price>
     <Desc><![CDATA[决斗大师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882250</ID>
+    <Name>幻梦仙踪翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幻梦仙踪套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -16579,6 +16611,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013507</ID>
+    <Name>幻梦仙踪之杖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幻梦仙踪套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -17031,6 +17071,14 @@
     <Name>决斗大师法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[决斗大师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209827</ID>
+    <Name>幻梦仙踪法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幻梦仙踪套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18662,9 +18710,9 @@
     <ID>50397232</ID>
     <Name>粽子变形魔法</Name>
     <Price>0</Price>
-    <Desc/>
+    <Desc><![CDATA[变成粽子啦！]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1345132800</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>50397233</ID>
@@ -18752,7 +18800,7 @@
     <Price>0</Price>
     <Desc><![CDATA[可以让小洛克变成一只龙舟]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1375286400</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>50397244</ID>

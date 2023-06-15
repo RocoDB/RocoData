@@ -1,5 +1,9 @@
 <Items>
 <item type="2" id="17367047" itemName="蜂王蜜" tips="蜂王蜜，每周限购1个哦！" />
+<item type="1" id="125850" itemName="角黍·破晓凯瑞尔" tips="美狄亚外观，先获得宠物才可以使用哦！" />
+<item type="1" id="126290" itemName="粽香·晨曦凯露儿" tips="美狄亚外观，先获得宠物才可以使用哦！" />
+<item type="1" id="125850" itemName="角黍·破晓凯瑞尔" tips="美狄亚外观，先获得宠物才可以使用哦！" />
+<item type="1" id="126290" itemName="粽香·晨曦凯露儿" tips="美狄亚外观，先获得宠物才可以使用哦！" />
 <item type="1" id="129280" itemName="心甜·美狄亚" tips="美狄亚外观，先获得宠物才可以使用哦！" />
 <item type="1" id="130390" itemName="异想·圣裁战龙王" tips="美狄亚外观，先获得宠物才可以使用哦！" />
 <item type="1" id="1061" itemName="金爪狂狮" tips="霸气的金爪狂狮，你值得拥有！" />
@@ -9,6 +13,7 @@
 <item type="1" id="3004" itemName="阿努拉尼" tips="阿努拉尼" />
 <item type="1" id="2956" itemName="西塔尔" tips="西塔尔" />
 <item type="1" id="2908" itemName="史小韵" tips="史小韵" />
+<item type="1" id="2629" itemName="晨曦凯露儿" tips="晨曦凯露儿" />
 <item type="2" id="67372478" itemName="200万经验礼包" tips="200万宠物经验大礼包" />
 <item type="2" id="67372477" itemName="100万经验礼包" tips="100万宠物经验大礼包" />
 <item type="2" id="67372476" itemName="50万经验礼包" tips="50万宠物经验大礼包" />
@@ -88,6 +93,21 @@
 <item type="4" id="122000183" itemName="玩具墙饰" tips="玩具系列家具" />
 <item type="4" id="122000184" itemName="玩具镜子" tips="玩具系列家具" />
 <item type="4" id="123000243" itemName="玩具扭蛋" tips="玩具系列家具" />
+<item type="4" id="122000131" itemName="彩色粽子" tips="端午系列家具" />
+<item type="4" id="121000156" itemName="端午节壁纸" tips="端午系列家具" />
+<item type="4" id="121000157" itemName="端午节地板" tips="端午系列家具" />
+<item type="4" id="121000158" itemName="端午节大门" tips="端午系列家具" />
+<item type="4" id="123000222" itemName="龙舟蹦蹦床" tips="端午系列家具" />
+<item type="4" id="122000170" itemName="粽子飞船" tips="端午系列家具" />
+<item type="4" id="124000128" itemName="端午节家具摆件" tips="端午系列家具" />
+<item type="4" id="122000200" itemName="端午节家具挂件" tips="端午系列家具" />
+<item type="4" id="123000304" itemName="端午节家具床" tips="端午系列家具" />
+<item type="4" id="121000222" itemName="端午节家具壁纸" tips="端午系列家具" />
+<item type="4" id="121000223" itemName="端午节家具地板" tips="端午系列家具" />
+<item type="4" id="123000305" itemName="端午节家具粽子" tips="端午系列家具" />
+<item type="4" id="121000224" itemName="端午节家具门" tips="端午系列家具" />
+<item type="4" id="123000306" itemName="端午节家具椅子" tips="端午系列家具" />
+<item type="4" id="123000307" itemName="端午节家具桌子" tips="端午系列家具" />
 <item type="5" id="100990988" itemName="知识兔子小屋" tips="农场装扮，不过期哦！" />
 <item type="5" id="101056524" itemName="夏日躺椅" tips="农场装扮，不过期哦！" />
 <item type="5" id="101122060" itemName="美味圣代杯" tips="农场装扮，不过期哦！" />

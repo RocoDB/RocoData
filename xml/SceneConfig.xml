@@ -585,6 +585,8 @@
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="471" name="枫雪左岸·残" sceneVer="1" top="170" ver="1.000"/>
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="472" name="海墟之隙·束" sceneVer="1" top="170" ver="1.008"/>
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="473" name="海墟之隙·破" sceneVer="1" top="170" ver="1.008"/>
+  <SceneDes bgMusic="new_117.swf" id="474" name="水都入口" sceneVer="1" top="474" ver="1.008"/>
+  <SceneDes bgMusic="new_117.swf" id="475" name="水都分庭" sceneVer="1" top="474" ver="1.008"/>
 
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
