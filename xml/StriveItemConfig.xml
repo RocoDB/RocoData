@@ -1,10 +1,9 @@
 <StriveItemConfig name="striveItem_conf" version="B000">
-	<StriveItemDes GHP="1" GMA="0" GMD="0" GPA="0" GPD="0" GSP="0" id="17563653" name="精力之果" type="2"/>
-	<StriveItemDes GHP="0" GMA="0" GMD="0" GPA="1" GPD="0" GSP="0" id="17563652" name="攻击之果" type="2"/>
-	<StriveItemDes GHP="0" GMA="0" GMD="0" GPA="0" GPD="1" GSP="0" id="17563651" name="防御之果" type="2"/>
-	<StriveItemDes GHP="0" GMA="1" GMD="0" GPA="0" GPD="0" GSP="0" id="17563655" name="魔攻之果" type="2"/>
-	<StriveItemDes GHP="0" GMA="0" GMD="1" GPA="0" GPD="0" GSP="0" id="17563654" name="魔抗之果" type="2"/>
-	<StriveItemDes GHP="0" GMA="0" GMD="0" GPA="0" GPD="0" GSP="1" id="17563656" name="速度之果" type="2"/>
-	
-	<StriveItemDes GHP="0" GMA="0" GMD="0" GPA="0" GPD="0" GSP="0" id="17629187" name="遗忘果实" src="" type="1"/>
+  <StriveItemDes GHP="1" GMA="0" GMD="0" GPA="0" GPD="0" GSP="0" id="17563653" name="精力之果" type="2"/>
+  <StriveItemDes GHP="0" GMA="0" GMD="0" GPA="1" GPD="0" GSP="0" id="17563652" name="攻击之果" type="2"/>
+  <StriveItemDes GHP="0" GMA="0" GMD="0" GPA="0" GPD="1" GSP="0" id="17563651" name="防御之果" type="2"/>
+  <StriveItemDes GHP="0" GMA="1" GMD="0" GPA="0" GPD="0" GSP="0" id="17563655" name="魔攻之果" type="2"/>
+  <StriveItemDes GHP="0" GMA="0" GMD="1" GPA="0" GPD="0" GSP="0" id="17563654" name="魔抗之果" type="2"/>
+  <StriveItemDes GHP="0" GMA="0" GMD="0" GPA="0" GPD="0" GSP="1" id="17563656" name="速度之果" type="2"/>
+  <StriveItemDes GHP="0" GMA="0" GMD="0" GPA="0" GPD="0" GSP="0" id="17629187" name="遗忘果实" src="" type="1"/>
 </StriveItemConfig>

@@ -12,21 +12,11 @@
   <Magic actionType="4" id="807" itemID="50397229" name="草莓变形魔法" target="1" type="3">将目标变成一个草莓</Magic>
   <Magic actionType="4" id="894" itemID="50397293" name="冠军戒指变形魔法" target="1" type="3">将目标变成一个冠军戒指</Magic>
   <Magic actionType="4" id="896" itemID="50397295" name="圣诞树变形魔法" target="1" type="3">将目标变成一个圣诞树</Magic>
-  
-  
-  
-  
-  
-  
-  
-
   <Magic actionType="4" id="839" itemID="50397249" name="变身电池" target="1" type="3">将目标变成电池</Magic>
   <Magic actionType="4" dur="10" id="827" itemID="50397239" name="笨nana变形魔法" target="1" type="3">变成笨nana</Magic>
-  <Magic actionType="4" id="832" itemID="50397244" name="蓝钻变形魔法" target="1" type="3">使用变成蓝钻</Magic> 
+  <Magic actionType="4" id="832" itemID="50397244" name="蓝钻变形魔法" target="1" type="3">使用变成蓝钻</Magic>
   <Magic actionType="4" id="836" itemID="" name="红衣洛克变形魔法" target="1" type="3">将目标变成红衣洛克</Magic>
   <Magic actionType="4" id="837" itemID="" name="绿衣洛克形魔法" target="1" type="3">将目标变成绿衣洛克</Magic>
-
-
   <Magic actionType="4" id="841" itemID="50397252" name="达尔多变形魔法" target="1" type="3">将目标变成达尔多</Magic>
   <Magic actionType="4" id="842" itemID="50397253" name="淘特斯变形魔法" target="1" type="3">将目标变成淘特斯</Magic>
   <Magic actionType="4" id="843" itemID="50397254" name="坨坨变形魔法" target="1" type="3">将目标变成坨坨</Magic>
@@ -34,18 +24,15 @@
   <Magic actionType="4" id="845" itemID="50397253" name="淘特斯变形魔法2" target="1" type="3">将目标变成淘特斯</Magic>
   <Magic actionType="4" id="846" itemID="50397252" name="达尔多变形魔法2" target="1" type="3">将目标变成达尔多</Magic>
   <Magic actionType="4" id="847" itemID="50397255" name="妖将变形魔法" target="1" type="3">使用后变身为妖将</Magic>
-  
   <Magic actionType="4" id="848" itemID="" name="送蛋糕变形" target="1" type="3">将目标变成送蛋糕</Magic>
   <Magic actionType="4" id="849" itemID="" name="送鸡腿变形" target="1" type="3">将目标变成送鸡腿</Magic>
   <Magic actionType="4" id="850" itemID="" name="送饮料变形" target="1" type="3">将目标变成送饮料</Magic>
   <Magic actionType="4" id="851" itemID="" name="送汉堡变形" target="1" type="3">使用后变身为送汉堡</Magic>
   <Magic actionType="4" id="852" itemID="50397256" name="黄噜噜变身" target="1" type="3">使用后变身为黄噜噜</Magic>
   <Magic actionType="4" id="853" itemID="" name="推土机变身" target="1" type="3">使用后变身为推土机</Magic>
-
   <Magic actionType="6291456" id="1034" itemID="015" name="闪电魔法" target="3" type="4">使用后召唤出一个闪电</Magic>
   <Magic actionType="6291456" id="1035" itemID="014" name="烈焰魔法" target="3" type="4">使用后召唤出一个烈焰</Magic>
   <Magic actionType="4" id="1036" itemID="50397251" name="黑衣人变形魔法" target="1" type="3">使用后变身为黑衣人</Magic>
-
   <Magic actionType="4" id="854" itemID="" name="黑煤球变形魔法" target="1" type="3">将目标变成黑煤球</Magic>
   <Magic actionType="4" id="855" itemID="" name="香蕉迷彩洛克变形魔法" target="1" type="3">将目标变成香蕉迷彩洛克</Magic>
   <Magic actionType="4" id="856" itemID="" name="葡萄迷彩洛克变形魔法" target="1" type="3">将目标变成葡萄迷彩洛克</Magic>
@@ -72,11 +59,9 @@
   <Magic actionType="4" id="883" itemID="50397283" name="伢牙乐变形魔法" target="1" type="3">将目标变成伢牙乐</Magic>
   <Magic actionType="4" id="884" itemID="50397284" name="全民助力变形魔法" target="1" type="3">将目标变成全民助力</Magic>
   <Magic actionType="4" id="885" itemID="50397285" name="鬼王变形魔法" target="1" type="3">将目标变成鬼王</Magic>
-
   <Magic actionType="6291456" id="1037" itemID="50397275" name="贴剪纸" target="3" type="4">使用后召唤出一个剪纸</Magic>
   <Magic actionType="6291456" id="1038" itemID="50397276" name="红包魔法" target="3" type="4">使用后召唤出一个红包</Magic>
   <Magic actionType="6291456" id="1039" itemID="50397281" name="比巴卜魔法" target="3" type="4">使用后召唤出比巴卜</Magic>
-
   <Magic actionType="4" id="886" itemID="50397286" name="招募令变形魔法" target="1" type="3">将目标变招募令</Magic>
   <Magic actionType="4" id="887" itemID="50397287" name="元宵魔法" target="1" type="3">将目标变成元宵</Magic>
   <Magic actionType="4" id="889" itemID="50397289" name="变身恶魔叮魔法" target="1" type="3">将目标变成恶魔叮</Magic>
@@ -88,8 +73,6 @@
   <Magic actionType="6291456" id="1041" itemID="50397296" name="爆竹魔法" target="3" type="4">使用后召唤出一个爆竹</Magic>
   <Magic actionType="6291456" id="1042" itemID="50397297" name="枫雪星耀魔法" target="3" type="4">使用后召唤出一个枫雪星耀</Magic>
   <Magic actionType="6291456" id="1043" itemID="50397298" name="星云铃铛魔法" target="3" type="4">使用后召唤出一个星云铃铛</Magic>
-  
   <Magic actionType="4" id="838" itemID="50397248" name="南瓜魔法" target="1" type="3">将目标变成南瓜</Magic>
   <Magic actionType="4" id="897" itemID="50397299" name="福灯变形魔法" target="1" type="3">将目标变成福灯</Magic>
-    
-  </Magics>
+</Magics>

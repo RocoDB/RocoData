@@ -1,27 +1,27 @@
 <Title name="Title_Conf">
-<title id="0" titleName="训练师学徒"/>
-<title id="1" titleName="见习训练师"/>
-<title id="2" titleName="宠物训练师"/>
-<title id="3" titleName="宠物研究员"/>
-<title id="4" titleName="宠物学者"/>
-<title id="5" titleName="宠物魔法师"/>
-<title id="6" titleName="勇者魔法师"/>
-<title id="7" titleName="皇家魔法师"/>
-<title id="8" titleName="王国守护者"/>
-<title id="9" titleName="星辉圣使"/>
-<title id="10" titleName="月光圣使"/>
-<title id="11" titleName="光明圣使"/>
-<title id="12" titleName="雷霆圣使"/>
-<title id="13" titleName="正义审判者"/>
-<title id="14" titleName="圣光审判者"/>
-<title id="15" titleName="利刃审判者"/>
-<title id="16" titleName="疾风审判者"/>
-<title id="17" titleName="星皇大祭司"/>
-<title id="18" titleName="天狼大祭司"/>
-<title id="19" titleName="暮光大祭司"/>
-<title id="20" titleName="乾罡大祭司"/>
-<title id="21" titleName="圣魔导师"/>
-<title id="22" titleName="风暴天使"/>
-<title id="23" titleName="天怒战皇"/>
-<title id="24" titleName="神罚创世者"/>
+  <title id="0" titleName="训练师学徒"/>
+  <title id="1" titleName="见习训练师"/>
+  <title id="2" titleName="宠物训练师"/>
+  <title id="3" titleName="宠物研究员"/>
+  <title id="4" titleName="宠物学者"/>
+  <title id="5" titleName="宠物魔法师"/>
+  <title id="6" titleName="勇者魔法师"/>
+  <title id="7" titleName="皇家魔法师"/>
+  <title id="8" titleName="王国守护者"/>
+  <title id="9" titleName="星辉圣使"/>
+  <title id="10" titleName="月光圣使"/>
+  <title id="11" titleName="光明圣使"/>
+  <title id="12" titleName="雷霆圣使"/>
+  <title id="13" titleName="正义审判者"/>
+  <title id="14" titleName="圣光审判者"/>
+  <title id="15" titleName="利刃审判者"/>
+  <title id="16" titleName="疾风审判者"/>
+  <title id="17" titleName="星皇大祭司"/>
+  <title id="18" titleName="天狼大祭司"/>
+  <title id="19" titleName="暮光大祭司"/>
+  <title id="20" titleName="乾罡大祭司"/>
+  <title id="21" titleName="圣魔导师"/>
+  <title id="22" titleName="风暴天使"/>
+  <title id="23" titleName="天怒战皇"/>
+  <title id="24" titleName="神罚创世者"/>
 </Title>

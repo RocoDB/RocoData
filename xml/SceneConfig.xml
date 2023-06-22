@@ -10,9 +10,6 @@
   <SceneDes bgMusic="new_109.swf" id="10009" name="乐园" sceneVer="1" top="389" ver="1.00000"/>
   <SceneDes bgMusic="sound_11.swf|amb_5.swf" id="39" name="测试场景" sceneVer="1" top="12" ver="1.003"/>
   <SceneDes bgMusic="new_03.swf|amb_1.swf" id="1" name="2013年4月的商店街" sceneVer="1" top="1" ver="4.60320"/>
-  
-  
-   
   <SceneDes bgMusic="new_42.swf" id="1" name="商店街" sceneVer="2" top="1" ver="4.60320"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="2" name="皮卡服装店" sceneVer="1" top="1" ver="4.60350"/>
   <SceneDes bgMusic="new_46.swf|amb_1.swf" id="3" name="古拉拉家具店" sceneVer="1" top="389" ver="1.60350"/>
@@ -28,9 +25,6 @@
   <SceneDes bgMusic="new_02.swf|amb_2.swf" id="11" name="占星台" sceneVer="1" top="8" ver="1.60290"/>
   <SceneDes bgMusic="new_111.swf|amb_1.swf" id="12" name="体育场" sceneVer="1" top="12" ver="3.60370"/>
   <SceneDes allowData="false" bgMusic="new_08.swf|amb_1.swf" id="13" name="2013年4月的王国城堡" sceneVer="1" top="13" ver="5.60450"/>
-  
-  
-  
   <SceneDes allowData="false" bgMusic="new_42.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
   <SceneDes bgMusic="new_33.swf|amb_2.swf" id="14" name="城堡大厅" sceneVer="1" top="13" ver="2.60280"/>
   <SceneDes bgMusic="new_01.swf|amb_1.swf" id="16" name="主题乐园" sceneVer="1" top="12" ver="1.60450"/>
@@ -39,8 +33,6 @@
   <SceneDes bgMusic="new_03.swf|amb_4.swf" id="19" name="人鱼湾" sceneVer="1" top="19" ver="3.60380"/>
   <SceneDes bgMusic="new_04.swf|amb_1.swf" id="20" name="天空城" sceneVer="1" top="20" ver="4.036"/>
   <SceneDes bgMusic="new_03.swf|amb_1.swf" id="22" name="2013年4月的彼得大道" sceneVer="1" top="22" ver="2.60170"/>
-  
-  
   <SceneDes bgMusic="new_42.swf" id="22" name="彼得大道" sceneVer="2" top="22" ver="2.60170"/>
   <SceneDes bgMusic="new_05.swf|amb_2.swf" id="23" name="爱心教堂" sceneVer="1" top="22" ver="1.005"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="24" name="智慧出版社" sceneVer="1" top="22" ver="3.60450"/>
@@ -92,7 +84,7 @@
   <SceneDes bgMusic="new_25.swf|amb_2.swf" id="69" name="幽暗空间一层" sceneVer="1" top="68" ver="1.005"/>
   <SceneDes bgMusic="new_25.swf|amb_2.swf" id="70" name="幽暗空间二层" sceneVer="1" top="68" ver="1.008"/>
   <SceneDes bgMusic="new_25.swf|amb_2.swf" id="71" name="轮回黑洞" sceneVer="1" top="68" ver="1.007"/>
-   <SceneDes bgMusic="new_26.swf|amb_2.swf" id="72" name="竞技场大厅" sceneVer="1" top="5" ver="1.008"/> 
+  <SceneDes bgMusic="new_26.swf|amb_2.swf" id="72" name="竞技场大厅" sceneVer="1" top="5" ver="1.008"/>
   <SceneDes bgMusic="new_29.swf|amb_7.swf" id="73" name="夜影回路" sceneVer="1" top="22" ver="1.60170"/>
   <SceneDes bgMusic="new_29.swf|amb_7.swf" id="74" name="黑光秘道" sceneVer="1" top="22" ver="1.005"/>
   <SceneDes bgMusic="new_29.swf|amb_7.swf" id="75" name="微光实验室" sceneVer="1" top="22" ver="1.002"/>
@@ -509,17 +501,16 @@
   <SceneDes bgMusic="new_33.swf" id="390" name="4399展览馆" sceneVer="1" top="0" ver="1.00000"/>
   <SceneDes bgMusic="new_62.swf" id="391" name="巨蟹宫" sceneVer="1" top="382" ver="1.00000"/>
   <SceneDes bgMusic="new_61.swf" id="392" name="狮子林地" sceneVer="1" top="382" ver="1.00000"/>
-  
   <SceneDes bgMusic="new_96.swf" id="394" name="地下研究室" sceneVer="1" top="139" ver="1.00000"/>
   <SceneDes bgMusic="new_64.swf" id="395" name="迪莫的梦境" sceneVer="1" top="22" ver="1.00000"/>
   <SceneDes bgMusic="new_111.swf" id="396" name="飞空运动城" sceneVer="1" top="12" ver="1.00000"/>
   <SceneDes bgMusic="new_111.swf" id="397" name="飞空竞技中心" sceneVer="1" top="12" ver="1.00000"/>
   <SceneDes bgMusic="new_43.swf" id="398" name="处女宫" sceneVer="1" top="382" ver="1.00000"/>
   <SceneDes bgMusic="new_70.swf" id="399" name="魔法学院广场" sceneVer="1" top="5" ver="1.00000"/>
-  <SceneDes bgMusic="new_02.swf" id="400" name="学院内部" sceneVer="1" top="5" ver="1.00000"/> 
-  <SceneDes bgMusic="new_05.swf" id="401" name="天秤宫" sceneVer="1" top="382" ver="1.00000"/> 
-  <SceneDes bgMusic="new_69.swf" id="402" name="雪影幽泉" sceneVer="1" top="382" ver="1.00000"/> 
-  <SceneDes bgMusic="new_56.swf" id="404" name="天蝎宫" sceneVer="1" top="382" ver="1.00000"/> 
+  <SceneDes bgMusic="new_02.swf" id="400" name="学院内部" sceneVer="1" top="5" ver="1.00000"/>
+  <SceneDes bgMusic="new_05.swf" id="401" name="天秤宫" sceneVer="1" top="382" ver="1.00000"/>
+  <SceneDes bgMusic="new_69.swf" id="402" name="雪影幽泉" sceneVer="1" top="382" ver="1.00000"/>
+  <SceneDes bgMusic="new_56.swf" id="404" name="天蝎宫" sceneVer="1" top="382" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="405" name="万恶之源" sceneVer="1" top="241" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="406" name="地下冰窟" sceneVer="1" top="17" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="407" name="暗黑城" sceneVer="1" top="408" ver="1.00000"/>
@@ -539,7 +530,6 @@
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="425" name="源码冰岛" sceneVer="1" top="17" ver="1.00000"/>
   <SceneDes bgMusic="new_41.swf|amb_1.swf" id="426" name="月光桃源" sceneVer="1" top="190" ver="1.001"/>
   <SceneDes bgMusic="new_43.swf" id="427" name="化境圣域" sceneVer="1" top="103" ver="1.00000"/>
-  
   <SceneDes bgMusic="new_41.swf|amb_1.swf" id="429" name="云隐鹤山" sceneVer="1" top="103" ver="1.008"/>
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="430" name="圣域花园" sceneVer="1" top="430" ver="1.00000"/>
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="431" name="圣域祭坛" sceneVer="1" top="430" ver="1.00000"/>
@@ -587,8 +577,6 @@
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="473" name="海墟之隙·破" sceneVer="1" top="170" ver="1.008"/>
   <SceneDes bgMusic="new_117.swf" id="474" name="水都入口" sceneVer="1" top="474" ver="1.008"/>
   <SceneDes bgMusic="new_117.swf" id="475" name="水都分庭" sceneVer="1" top="474" ver="1.008"/>
-
-   
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="2002" name="VIP魔法台" sceneVer="1" top="2002" ver="1.00000"/>
   <SceneDes bgMusic="new_01.swf|amb_1.swf" id="2003" name="游戏乐园" sceneVer="1" top="2003" ver="1.60450"/>
@@ -603,7 +591,6 @@
   <SceneDes bgMusic="new_14.swf|amb_9.swf" id="2036" name="雷霆之渊" sceneVer="1" top="2007" ver="3.005"/>
   <SceneDes bgMusic="new_14.swf|amb_9.swf" id="2037" name="雷电迷踪" sceneVer="1" top="2007" ver="1.000"/>
   <SceneDes bgMusic="new_77.swf" id="2038" name="电磁核心" sceneVer="1" top="2007" ver="1.00000"/>
-  
   <SceneDes bgMusic="new_48.swf" id="2005" name="历练之地" sceneVer="1" top="2005" ver="5.60450"/>
   <SceneDes bgMusic="new_48.swf" id="2006" name="苍穹圣堂" sceneVer="1" top="2006" ver="5.60450"/>
   <SceneDes bgMusic="new_48.swf" id="2007" name="王国城堡" sceneVer="1" top="2007" ver="5.60450"/>
@@ -630,7 +617,6 @@
   <SceneDes bgMusic="new_06.swf|amb_1.swf" id="2039" name="绿野擂台" sceneVer="1" top="2007" ver="1.60320"/>
   <SceneDes bgMusic="new_52.swf" id="2040" name="VIP神殿" sceneVer="1" top="2002" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="2041" name="明星神殿" sceneVer="1" top="382" ver="1.00000"/>
-  
   <SceneDes bgMusic="new_32.swf" id="18000" name="爬塔地图" sceneVer="1" top="2005" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="18001" name="爬塔地图" sceneVer="1" top="2005" ver="1.00000"/>
   <SceneDes bgMusic="new_32.swf" id="18002" name="爬塔地图" sceneVer="1" top="2005" ver="1.00000"/>

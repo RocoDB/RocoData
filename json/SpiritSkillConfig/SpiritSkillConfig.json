@@ -20442,7 +20442,7 @@
       "name": "干扰",
       "attackType": "2",
       "damageType": "2",
-      "description": "删除对手全技能PP，并虚弱对手3回合。",
+      "description": "使对手感到虚弱无力，驱散其大于0的攻击等级，并限制其战斗能力。",
       "power": "100",
       "ppMax": "5",
       "property": "萌",
