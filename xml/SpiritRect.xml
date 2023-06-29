@@ -1,955 +1,967 @@
 <spiritRect name="spiritRect_conf">
-  <spirit endTime="" id="237" lv="LV.60" name="格斗小五" scene="20101" startTime=""/>
-  <spirit endTime="" id="240" lv="LV.60" name="小火猴" scene="20101" startTime=""/>
-  <spirit endTime="" id="240" lv="LV.61" name="小火猴" scene="20102" startTime=""/>
-  <spirit endTime="" id="237" lv="LV.61" name="格斗小五" scene="20102" startTime=""/>
-  <spirit endTime="" id="237" lv="LV.62" name="格斗小五" scene="20103" startTime=""/>
-  <spirit endTime="" id="240" lv="LV.62" name="小火猴" scene="20103" startTime=""/>
-  <spirit endTime="" id="47" lv="LV.62" name="小布石" scene="20103" startTime=""/>
-  <spirit endTime="" id="238" lv="LV.63" name="格斗小六" scene="20104" startTime=""/>
-  <spirit endTime="" id="241" lv="LV.63" name="拳套猴" scene="20104" startTime=""/>
-  <spirit endTime="" id="128" lv="LV.63" name="冰封怨灵" scene="20104" startTime=""/>
-  <spirit endTime="" id="239" lv="LV.64" name="格斗小七" scene="20105" startTime=""/>
-  <spirit endTime="" id="242" lv="LV.64" name="火爆猴" scene="20105" startTime=""/>
-  <spirit endTime="" id="30" lv="LV.65" name="多多" scene="20201" startTime=""/>
-  <spirit endTime="" id="33" lv="LV.65" name="路路" scene="20201" startTime=""/>
-  <spirit endTime="" id="30" lv="LV.66" name="多多" scene="20202" startTime=""/>
-  <spirit endTime="" id="33" lv="LV.66" name="路路" scene="20202" startTime=""/>
-  <spirit endTime="" id="36" lv="LV.66" name="超音蝠" scene="20202" startTime=""/>
-  <spirit endTime="" id="31" lv="LV.67" name="多啦多" scene="20203" startTime=""/>
-  <spirit endTime="" id="34" lv="LV.67" name="路路尼" scene="20203" startTime=""/>
-  <spirit endTime="" id="37" lv="LV.67" name="扁嘴蝠" scene="20203" startTime=""/>
-  <spirit endTime="" id="62" lv="LV.67" name="格斗小八" scene="20203" startTime=""/>
-  <spirit endTime="" id="31" lv="LV.68" name="多啦多" scene="20204" startTime=""/>
-  <spirit endTime="" id="34" lv="LV.68" name="路路尼" scene="20204" startTime=""/>
-  <spirit endTime="" id="37" lv="LV.68" name="扁嘴蝠" scene="20204" startTime=""/>
-  <spirit endTime="" id="29" lv="LV.68" name="遁鼠" scene="20204" startTime=""/>
-  <spirit endTime="" id="31" lv="LV.69" name="多啦多" scene="20205" startTime=""/>
-  <spirit endTime="" id="34" lv="LV.69" name="路路尼" scene="20205" startTime=""/>
-  <spirit endTime="" id="249" lv="LV.70" name="小玲鹿" scene="20301" startTime=""/>
-  <spirit endTime="" id="252" lv="LV.70" name="小钻鼠" scene="20301" startTime=""/>
-  <spirit endTime="" id="47" lv="LV.70" name="小布石" scene="20301" startTime=""/>
-  <spirit endTime="" id="249" lv="LV.71" name="小玲鹿" scene="20302" startTime=""/>
-  <spirit endTime="" id="252" lv="LV.71" name="小钻鼠" scene="20302" startTime=""/>
-  <spirit endTime="" id="250" lv="LV.71" name="玲鹿" scene="20302" startTime=""/>
-  <spirit endTime="" id="249" lv="LV.72" name="小玲鹿" scene="20303" startTime=""/>
-  <spirit endTime="" id="252" lv="LV.72" name="小钻鼠" scene="20303" startTime=""/>
-  <spirit endTime="" id="253" lv="LV.72" name="钻钻鼠" scene="20303" startTime=""/>
-  <spirit endTime="" id="250" lv="LV.73" name="玲鹿" scene="20304" startTime=""/>
-  <spirit endTime="" id="253" lv="LV.73" name="钻钻鼠" scene="20304" startTime=""/>
-  <spirit endTime="" id="32" lv="LV.74" name="古啦多" scene="20305" startTime=""/>
-  <spirit endTime="" id="35" lv="LV.74" name="古路尼" scene="20305" startTime=""/>
-  <spirit endTime="" id="79" lv="LV.75" name="圆眼蜘蛛" scene="20401" startTime=""/>
-  <spirit endTime="" id="140" lv="LV.75" name="小草虫" scene="20401" startTime=""/>
-  <spirit endTime="" id="143" lv="LV.75" name="小黄蜂" scene="20401" startTime=""/>
-  <spirit endTime="" id="79" lv="LV.76" name="圆眼蜘蛛" scene="20402" startTime=""/>
-  <spirit endTime="" id="140" lv="LV.76" name="小草虫" scene="20402" startTime=""/>
-  <spirit endTime="" id="143" lv="LV.76" name="小黄蜂" scene="20402" startTime=""/>
-  <spirit endTime="" id="79" lv="LV.77" name="圆眼蜘蛛" scene="20403" startTime=""/>
-  <spirit endTime="" id="140" lv="LV.77" name="小草虫" scene="20403" startTime=""/>
-  <spirit endTime="" id="143" lv="LV.77" name="小黄蜂" scene="20403" startTime=""/>
-  <spirit endTime="" id="119" lv="LV.77" name="喷火鸟" scene="20403" startTime=""/>
-  <spirit endTime="" id="80" lv="LV.78" name="尖角蜘蛛" scene="20404" startTime=""/>
-  <spirit endTime="" id="141" lv="LV.78" name="草衣虫" scene="20404" startTime=""/>
-  <spirit endTime="" id="144" lv="LV.78" name="黄蜂后" scene="20404" startTime=""/>
-  <spirit endTime="" id="80" lv="LV.79" name="尖角蜘蛛" scene="20405" startTime=""/>
-  <spirit endTime="" id="141" lv="LV.79" name="草衣虫" scene="20405" startTime=""/>
-  <spirit endTime="" id="14" lv="LV.79" name="烈焰龙" scene="20405" startTime=""/>
-  <spirit endTime="" id="243" lv="LV.80" name="乌达" scene="20501" startTime=""/>
-  <spirit endTime="" id="246" lv="LV.80" name="独眼怪" scene="20501" startTime=""/>
-  <spirit endTime="" id="124" lv="LV.80" name="暗夜骷颅" scene="20501" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.80" name="小地狱犬" scene="20501" startTime=""/>
-  <spirit endTime="" id="243" lv="LV.81" name="乌达" scene="20502" startTime=""/>
-  <spirit endTime="" id="246" lv="LV.81" name="独眼怪" scene="20502" startTime=""/>
-  <spirit endTime="" id="124" lv="LV.81" name="暗夜骷颅" scene="20502" startTime=""/>
-  <spirit endTime="" id="53" lv="LV.81" name="鬼雾" scene="20502" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.81" name="小地狱犬" scene="20502" startTime=""/>
-  <spirit endTime="" id="243" lv="LV.82" name="乌达" scene="20503" startTime=""/>
-  <spirit endTime="" id="246" lv="LV.82" name="独眼怪" scene="20503" startTime=""/>
-  <spirit endTime="" id="244" lv="LV.82" name="迷你乌" scene="20503" startTime=""/>
-  <spirit endTime="" id="247" lv="LV.82" name="独眼魔" scene="20503" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.82" name="小地狱犬" scene="20503" startTime=""/>
-  <spirit endTime="" id="125" lv="LV.83" name="夜巨魔" scene="20504" startTime=""/>
-  <spirit endTime="" id="54" lv="LV.83" name="邪雾" scene="20504" startTime=""/>
-  <spirit endTime="" id="244" lv="LV.83" name="迷你乌" scene="20504" startTime=""/>
-  <spirit endTime="" id="247" lv="LV.83" name="独眼魔" scene="20504" startTime=""/>
-  <spirit endTime="" id="292" lv="LV.83" name="地狱三头犬" scene="20504" startTime=""/>
-  <spirit endTime="" id="37" lv="LV.83" name="扁嘴蝠" scene="20504" startTime=""/>
-  <spirit endTime="" id="243" lv="LV.84" name="乌达" scene="20505" startTime=""/>
-  <spirit endTime="" id="247" lv="LV.84" name="独眼魔" scene="20505" startTime=""/>
-  <spirit endTime="" id="124" lv="LV.84" name="暗夜骷颅" scene="20505" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.84" name="小地狱犬" scene="20505" startTime=""/>
-  <spirit endTime="" id="58" lv="LV.85" name="蒲公英" scene="20601" startTime=""/>
-  <spirit endTime="" id="226" lv="LV.85" name="小河马" scene="20601" startTime=""/>
-  <spirit endTime="" id="228" lv="LV.85" name="飞鱼" scene="20601" startTime=""/>
-  <spirit endTime="" id="124" lv="LV.85" name="暗夜骷颅" scene="20601" startTime=""/>
-  <spirit endTime="" id="53" lv="LV.85" name="鬼雾" scene="20601" startTime=""/>
-  <spirit endTime="" id="58" lv="LV.86" name="蒲公英" scene="20602" startTime=""/>
-  <spirit endTime="" id="226" lv="LV.86" name="小河马" scene="20602" startTime=""/>
-  <spirit endTime="" id="228" lv="LV.86" name="飞鱼" scene="20602" startTime=""/>
-  <spirit endTime="" id="230" lv="LV.86" name="小天马" scene="20602" startTime=""/>
-  <spirit endTime="" id="5" lv="LV.86" name="焰火" scene="20602" startTime=""/>
-  <spirit endTime="" id="81" lv="LV.87" name="双灯鱼" scene="20603" startTime=""/>
-  <spirit endTime="" id="58" lv="LV.87" name="蒲公英" scene="20603" startTime=""/>
-  <spirit endTime="" id="226" lv="LV.87" name="小河马" scene="20603" startTime=""/>
-  <spirit endTime="" id="228" lv="LV.87" name="飞鱼" scene="20603" startTime=""/>
-  <spirit endTime="" id="119" lv="LV.87" name="喷火鸟" scene="20603" startTime=""/>
-  <spirit endTime="" id="100" lv="LV.87" name="阿米樱" scene="20603" startTime=""/>
-  <spirit endTime="" id="227" lv="LV.88" name="河马小天使" scene="20604" startTime=""/>
-  <spirit endTime="" id="106" lv="LV.88" name="晕晕鸡" scene="20604" startTime=""/>
-  <spirit endTime="" id="48" lv="LV.88" name="布莱石" scene="20604" startTime=""/>
-  <spirit endTime="" id="59" lv="LV.88" name="大蒲公英" scene="20604" startTime=""/>
-  <spirit endTime="" id="229" lv="LV.88" name="飞羽" scene="20604" startTime=""/>
-  <spirit endTime="" id="231" lv="LV.88" name="独角兽" scene="20604" startTime=""/>
-  <spirit endTime="" id="100" lv="LV.88" name="阿米樱" scene="20604" startTime=""/>
-  <spirit endTime="" id="227" lv="LV.89" name="河马小天使" scene="20605" startTime=""/>
-  <spirit endTime="" id="128" lv="LV.89" name="冰封怨灵" scene="20605" startTime=""/>
-  <spirit endTime="" id="229" lv="LV.89" name="飞羽" scene="20605" startTime=""/>
-  <spirit endTime="" id="231" lv="LV.89" name="独角兽" scene="20605" startTime=""/>
-  <spirit endTime="" id="106" lv="LV.89" name="晕晕鸡" scene="20605" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.90" name="豆豆龙" scene="20701" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.90" name="机甲壳" scene="20701" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.90" name="罗达械" scene="20701" startTime=""/>
-  <spirit endTime="" id="300" lv="LV.90" name="缇塔" scene="20701" startTime=""/>
-  <spirit endTime="" id="317" lv="LV.90" name="小机械贝贝" scene="20701" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.91" name="豆豆龙" scene="20702" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.91" name="机甲壳" scene="20702" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.91" name="罗达械" scene="20702" startTime=""/>
-  <spirit endTime="" id="300" lv="LV.91" name="缇塔" scene="20702" startTime=""/>
-  <spirit endTime="" id="317" lv="LV.91" name="小机械贝贝" scene="20702" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.92" name="豆豆龙" scene="20703" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.92" name="机甲壳" scene="20703" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.92" name="罗达械" scene="20703" startTime=""/>
-  <spirit endTime="" id="217" lv="LV.92" name="火箭龙" scene="20703" startTime=""/>
-  <spirit endTime="" id="235" lv="LV.92" name="机械蜥蜴" scene="20703" startTime=""/>
-  <spirit endTime="" id="262" lv="LV.92" name="罗达战车" scene="20703" startTime=""/>
-  <spirit endTime="" id="301" lv="LV.92" name="声波缇塔" scene="20703" startTime=""/>
-  <spirit endTime="" id="217" lv="LV.93" name="火箭龙" scene="20704" startTime=""/>
-  <spirit endTime="" id="235" lv="LV.93" name="机械蜥蜴" scene="20704" startTime=""/>
-  <spirit endTime="" id="262" lv="LV.93" name="罗达战车" scene="20704" startTime=""/>
-  <spirit endTime="" id="301" lv="LV.93" name="声波缇塔" scene="20704" startTime=""/>
-  <spirit endTime="" id="318" lv="LV.93" name="机械贝贝" scene="20704" startTime=""/>
-  <spirit endTime="" id="217" lv="LV.94" name="火箭龙" scene="20705" startTime=""/>
-  <spirit endTime="" id="235" lv="LV.94" name="机械蜥蜴" scene="20705" startTime=""/>
-  <spirit endTime="" id="262" lv="LV.94" name="罗达战车" scene="20705" startTime=""/>
-  <spirit endTime="" id="301" lv="LV.94" name="声波缇塔" scene="20705" startTime=""/>
-  <spirit endTime="" id="318" lv="LV.94" name="机械贝贝" scene="20705" startTime=""/>
-  <spirit endTime="" id="69" lv="LV.95" name="迷你利乌" scene="20801" startTime=""/>
-  <spirit endTime="" id="186" lv="LV.95" name="哈古利乌" scene="20801" startTime=""/>
-  <spirit endTime="" id="232" lv="LV.95" name="小翼龙" scene="20801" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.95" name="触须草龙" scene="20801" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.95" name="小花嘴龙" scene="20801" startTime=""/>
-  <spirit endTime="" id="279" lv="LV.95" name="小蛋蛋龙" scene="20801" startTime=""/>
-  <spirit endTime="" id="285" lv="LV.95" name="霹雳龙" scene="20801" startTime=""/>
-  <spirit endTime="" id="69" lv="LV.96" name="迷你利乌" scene="20802" startTime=""/>
-  <spirit endTime="" id="186" lv="LV.96" name="哈古利乌" scene="20802" startTime=""/>
-  <spirit endTime="" id="232" lv="LV.96" name="小翼龙" scene="20802" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.96" name="触须草龙" scene="20802" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.96" name="小花嘴龙" scene="20802" startTime=""/>
-  <spirit endTime="" id="279" lv="LV.96" name="小蛋蛋龙" scene="20802" startTime=""/>
-  <spirit endTime="" id="285" lv="LV.96" name="霹雳龙" scene="20802" startTime=""/>
-  <spirit endTime="" id="288" lv="LV.96" name="蒸汽龙" scene="20802" startTime=""/>
-  <spirit endTime="" id="232" lv="LV.97" name="小翼龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="233" lv="LV.97" name="翼龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.97" name="触须草龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="274" lv="LV.97" name="触角草龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.97" name="小花嘴龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="277" lv="LV.97" name="花嘴龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="279" lv="LV.97" name="小蛋蛋龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="280" lv="LV.97" name="蛋蛋龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="289" lv="LV.97" name="蒸汽甲龙" scene="20803" startTime=""/>
-  <spirit endTime="" id="288" lv="LV.98" name="蒸汽龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="233" lv="LV.98" name="翼龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.98" name="触须草龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="274" lv="LV.98" name="触角草龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.98" name="小花嘴龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="277" lv="LV.98" name="花嘴龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="279" lv="LV.98" name="小蛋蛋龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="280" lv="LV.98" name="蛋蛋龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="289" lv="LV.98" name="蒸汽甲龙" scene="20804" startTime=""/>
-  <spirit endTime="" id="233" lv="LV.99" name="翼龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="277" lv="LV.99" name="花嘴龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="280" lv="LV.99" name="蛋蛋龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="286" lv="LV.99" name="霹雳石龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="289" lv="LV.99" name="蒸汽甲龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="290" lv="LV.99" name="蒸汽神龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="287" lv="LV.99" name="霹雳金龙" scene="20805" startTime=""/>
-  <spirit endTime="" id="238" lv="LV.100" name="格斗小六" scene="20901" startTime=""/>
-  <spirit endTime="" id="239" lv="LV.100" name="格斗小七" scene="20901" startTime=""/>
-  <spirit endTime="" id="242" lv="LV.100" name="火爆猴" scene="20901" startTime=""/>
-  <spirit endTime="" id="37" lv="LV.100" name="扁嘴蝠" scene="20902" startTime=""/>
-  <spirit endTime="" id="35" lv="LV.100" name="古路尼" scene="20902" startTime=""/>
-  <spirit endTime="" id="32" lv="LV.100" name="古啦多" scene="20902" startTime=""/>
-  <spirit endTime="" id="144" lv="LV.100" name="黄蜂后" scene="20903" startTime=""/>
-  <spirit endTime="" id="251" lv="LV.100" name="多角玲鹿" scene="20903" startTime=""/>
-  <spirit endTime="" id="254" lv="LV.100" name="霹雳旋风鼠" scene="20903" startTime=""/>
-  <spirit endTime="" id="144" lv="LV.100" name="黄蜂后" scene="20904" startTime=""/>
-  <spirit endTime="" id="141" lv="LV.100" name="草衣虫" scene="20904" startTime=""/>
-  <spirit endTime="" id="80" lv="LV.100" name="尖角蜘蛛" scene="20904" startTime=""/>
-  <spirit endTime="" id="293" lv="LV.100" name="炎魔地狱犬" scene="20905" startTime=""/>
-  <spirit endTime="" id="245" lv="LV.100" name="乌拉塔" scene="20905" startTime=""/>
-  <spirit endTime="" id="248" lv="LV.100" name="独眼巨魔" scene="20905" startTime=""/>
-  <spirit endTime="" id="229" lv="LV.100" name="飞羽" scene="20906" startTime=""/>
-  <spirit endTime="" id="227" lv="LV.100" name="河马小天使" scene="20906" startTime=""/>
-  <spirit endTime="" id="231" lv="LV.100" name="独角兽" scene="20906" startTime=""/>
-  <spirit endTime="" id="218" lv="LV.100" name="火箭喷射龙" scene="20907" startTime=""/>
-  <spirit endTime="" id="236" lv="LV.100" name="机械龙" scene="20907" startTime=""/>
-  <spirit endTime="" id="319" lv="LV.100" name="鹿角贝贝" scene="20907" startTime=""/>
-  <spirit endTime="" id="275" lv="LV.100" name="触灵飞龙" scene="20908" startTime=""/>
-  <spirit endTime="" id="290" lv="LV.100" name="蒸汽神龙" scene="20908" startTime=""/>
-  <spirit endTime="" id="281" lv="LV.100" name="藤蔓蛋龙" scene="20908" startTime=""/>
-  <spirit endTime="" id="12" lv="LV.100" name="蹦蹦花" scene="20909" startTime=""/>
-  <spirit endTime="" id="15" lv="LV.100" name="烈火飞龙" scene="20909" startTime=""/>
-  <spirit endTime="" id="18" lv="LV.100" name="水泡壳" scene="20909" startTime=""/>
-  <spirit endTime="" id="41" lv="LV.100" name="音速犬" scene="20909" startTime=""/>
-  <spirit endTime="" id="10" lv="LV.1～6" name="蹦蹦种子" scene="18" startTime=""/>
-  <spirit endTime="" id="58" lv="LV.5～10" name="蒲公英" scene="18" startTime=""/>
-  <spirit endTime="" id="58" lv="LV.9～13" name="蒲公英" scene="33" startTime=""/>
-  <spirit endTime="" id="70" lv="LV.11～16" name="奇丽草" scene="33" startTime=""/>
-  <spirit endTime="" id="70" lv="LV.15～20" name="奇丽草" scene="34" startTime=""/>
-  <spirit endTime="" id="102" lv="LV.20～25" name="丢丢" scene="34" startTime=""/>
-  <spirit endTime="" id="16" lv="LV.20～23" name="板板壳" scene="19" startTime=""/>
-  <spirit endTime="" id="108" lv="LV.21～24" name="大尾鱼" scene="19" startTime=""/>
-  <spirit endTime="" id="108" lv="LV.22～25" name="大尾鱼" scene="36" startTime=""/>
-  <spirit endTime="" id="45" lv="LV.23～26" name="翡翠水母" scene="36" startTime=""/>
-  <spirit endTime="" id="185" lv="LV.24～27" name="镰刀卡布" scene="37" startTime=""/>
-  <spirit endTime="" id="81" lv="LV.25～28" name="双灯鱼" scene="37" startTime=""/>
-  <spirit endTime="" id="81" lv="LV.26～29" name="双灯鱼" scene="38" startTime=""/>
-  <spirit endTime="" id="185" lv="LV.27～30" name="镰刀卡布" scene="38" startTime=""/>
-  <spirit endTime="" id="40" lv="LV.25～28" name="护主犬" scene="52" startTime=""/>
-  <spirit endTime="" id="105" lv="LV.26～29" name="可立鸡" scene="52" startTime=""/>
-  <spirit endTime="" id="105" lv="LV.27～30" name="可立鸡" scene="53" startTime=""/>
-  <spirit endTime="" id="118" lv="LV.28～31" name="呆火鸟" scene="53" startTime=""/>
-  <spirit endTime="" id="118" lv="LV.29～32" name="呆火鸟" scene="54" startTime=""/>
-  <spirit endTime="" id="13" lv="LV.30～33" name="火苗龙" scene="54" startTime=""/>
-  <spirit endTime="" id="13" lv="LV.31～34" name="火苗龙" scene="55" startTime=""/>
-  <spirit endTime="" id="688" lv="LV.32～35" name="可爱猿" scene="55" startTime=""/>
-  <spirit endTime="" id="47" lv="LV.30～33" name="小布石" scene="40" startTime=""/>
-  <spirit endTime="" id="28" lv="LV.31～34" name="地鼠" scene="40" startTime=""/>
-  <spirit endTime="" id="28" lv="LV.32～35" name="地鼠" scene="41" startTime=""/>
-  <spirit endTime="" id="66" lv="LV.33～36" name="蜗石贝" scene="41" startTime=""/>
-  <spirit endTime="" id="66" lv="LV.34～37" name="蜗石贝" scene="42" startTime=""/>
-  <spirit endTime="" id="138" lv="LV.35～38" name="独角龙" scene="42" startTime=""/>
-  <spirit endTime="" id="138" lv="LV.36～39" name="独角龙" scene="43" startTime=""/>
-  <spirit endTime="" id="99" lv="LV.37～40" name="阿米亚特" scene="43" startTime=""/>
-  <spirit endTime="" id="219" lv="LV.21～23" name="空灵兽" scene="134" startTime=""/>
-  <spirit endTime="" id="709" lv="LV.24～27" name="红爪精灵" scene="156" startTime=""/>
-  <spirit endTime="" id="637" lv="LV.28～30" name="赤足蚁" scene="157" startTime=""/>
-  <spirit endTime="" id="847" lv="LV.21～23" name="蒜头熊" scene="179" startTime=""/>
-  <spirit endTime="" id="844" lv="LV.21～23" name="毒蛙" scene="179" startTime=""/>
-  <spirit endTime="" id="844" lv="LV.24～26" name="毒蛙" scene="183" startTime=""/>
-  <spirit endTime="" id="149" lv="LV.25～27" name="小蜂猴" scene="183" startTime=""/>
-  <spirit endTime="" id="149" lv="LV.28～30" name="小蜂猴" scene="185" startTime=""/>
-  <spirit endTime="" id="847" lv="LV.28～30" name="蒜头熊" scene="185" startTime=""/>
-  <spirit endTime="" id="96" lv="LV.31～33" name="呼呼猪" scene="17" startTime=""/>
-  <spirit endTime="" id="127" lv="LV.31～33" name="雪娃娃" scene="17" startTime=""/>
-  <spirit endTime="" id="127" lv="LV.35～40" name="雪娃娃" scene="44" startTime=""/>
-  <spirit endTime="" id="130" lv="LV.36～41" name="雪豹球" scene="44" startTime=""/>
-  <spirit endTime="" id="130" lv="LV.37～42" name="雪豹球" scene="45" startTime=""/>
-  <spirit endTime="" id="147" lv="LV.38～43" name="小雪人" scene="45" startTime=""/>
-  <spirit endTime="" id="147" lv="LV.39～44" name="小雪人" scene="46" startTime=""/>
-  <spirit endTime="" id="172" lv="LV.40～45" name="小奥可" scene="46" startTime=""/>
-  <spirit endTime="" id="554" lv="LV.31～33" name="南瓜乐乐" scene="73" startTime=""/>
-  <spirit endTime="" id="554" lv="LV.34～36" name="南瓜乐乐" scene="74" startTime=""/>
-  <spirit endTime="" id="73" lv="LV.34～36" name="幽灵酷少" scene="74" startTime=""/>
-  <spirit endTime="" id="73" lv="LV.37～39" name="幽灵酷少" scene="75" startTime=""/>
-  <spirit endTime="" id="413" lv="LV.38～40" name="幽灵羊" scene="75" startTime=""/>
-  <spirit endTime="" id="469" lv="LV.31～33" name="水跃鱼" scene="125" startTime=""/>
-  <spirit endTime="" id="461" lv="LV.33～35" name="圈圈海龟" scene="125" startTime=""/>
-  <spirit endTime="" id="461" lv="LV.36～38" name="圈圈海龟" scene="137" startTime=""/>
-  <spirit endTime="" id="526" lv="LV.38～40" name="呆呆蛙" scene="137" startTime=""/>
-  <spirit endTime="" id="50" lv="LV.41～42" name="电圈怪" scene="59" startTime=""/>
-  <spirit endTime="" id="56" lv="LV.41～42" name="闪电球" scene="59" startTime=""/>
-  <spirit endTime="" id="56" lv="LV.43～44" name="闪电球" scene="60" startTime=""/>
-  <spirit endTime="" id="87" lv="LV.43～44" name="电咩咩" scene="60" startTime=""/>
-  <spirit endTime="" id="87" lv="LV.45～46" name="电咩咩" scene="131" startTime=""/>
-  <spirit endTime="" id="135" lv="LV.45～46" name="小星光" scene="131" startTime=""/>
-  <spirit endTime="" id="135" lv="LV.47～48" name="小星光" scene="154" startTime=""/>
-  <spirit endTime="" id="398" lv="LV.47～48" name="电精战士" scene="154" startTime=""/>
-  <spirit endTime="" id="398" lv="LV.49～50" name="电精战士" scene="61" startTime=""/>
-  <spirit endTime="" id="961" lv="LV.49～50" name="音乐球球" scene="61" startTime=""/>
-  <spirit endTime="" id="577" lv="LV.60" name="幽影蛇" scene="141" startTime=""/>
-  <spirit endTime="" id="591" lv="LV.60" name="幽暗蟹" scene="141" startTime=""/>
-  <spirit endTime="" id="591" lv="LV.60" name="幽暗蟹" scene="202" startTime=""/>
-  <spirit endTime="" id="395" lv="LV.60" name="黑暗盖迪" scene="202" startTime=""/>
-  <spirit endTime="" id="395" lv="LV.60" name="黑暗盖迪" scene="143" startTime=""/>
-  <spirit endTime="" id="184" lv="LV.60" name="意志紫灵" scene="143" startTime=""/>
-  <spirit endTime="" id="184" lv="LV.60" name="意志紫灵" scene="132" startTime=""/>
-  <spirit endTime="" id="114" lv="LV.60" name="迷迷眼" scene="132" startTime=""/>
-  <spirit endTime="" id="114" lv="LV.60" name="迷迷眼" scene="142" startTime=""/>
-  <spirit endTime="" id="661" lv="LV.60" name="邪恶纺锤" scene="142" startTime=""/>
-  <spirit endTime="" id="721" lv="LV.41～42" name="蓝朵" scene="145" startTime=""/>
-  <spirit endTime="" id="736" lv="LV.41～42" name="呆目水母" scene="145" startTime=""/>
-  <spirit endTime="" id="736" lv="LV.43～44" name="呆目水母" scene="146" startTime=""/>
-  <spirit endTime="" id="760" lv="LV.43～44" name="酱油鱼" scene="146" startTime=""/>
-  <spirit endTime="" id="760" lv="LV.45～46" name="酱油鱼" scene="148" startTime=""/>
-  <spirit endTime="" id="718" lv="LV.45～46" name="符咒鲨" scene="148" startTime=""/>
-  <spirit endTime="" id="718" lv="LV.47～48" name="符咒鲨" scene="147" startTime=""/>
-  <spirit endTime="" id="733" lv="LV.47～48" name="锡拉" scene="147" startTime=""/>
-  <spirit endTime="" id="733" lv="LV.49～50" name="锡拉" scene="150" startTime=""/>
-  <spirit endTime="" id="621" lv="LV.49～50" name="米希" scene="150" startTime=""/>
-  <spirit endTime="" id="621" lv="LV.49～50" name="米希" scene="149" startTime=""/>
-  <spirit endTime="" id="188" lv="LV.49～50" name="十字蝌蚪" scene="149" startTime=""/>
-  <spirit endTime="" id="315" lv="LV.41～42" name="小甲基丸" scene="88" startTime=""/>
-  <spirit endTime="" id="246" lv="LV.41～42" name="独眼怪" scene="88" startTime=""/>
-  <spirit endTime="" id="246" lv="LV.43～44" name="独眼怪" scene="89" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.43～44" name="小地狱犬" scene="89" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.45～46" name="小地狱犬" scene="90" startTime=""/>
-  <spirit endTime="" id="338" lv="LV.45～46" name="恶魔猪" scene="90" startTime=""/>
-  <spirit endTime="" id="338" lv="LV.47～48" name="恶魔猪" scene="91" startTime=""/>
-  <spirit endTime="" id="214" lv="LV.47～48" name="萤火幽灵" scene="91" startTime=""/>
-  <spirit endTime="" id="214" lv="LV.30～35" name="萤火幽灵" scene="93" startTime=""/>
-  <spirit endTime="" id="875" lv="LV.49～50" name="小灵灵" scene="93" startTime=""/>
-  <spirit endTime="" id="36" lv="LV.10～15" name="超音蝠" scene="20" startTime=""/>
-  <spirit endTime="" id="143" lv="LV.10～15" name="小黄蜂" scene="20" startTime=""/>
-  <spirit endTime="" id="143" lv="LV.52～54" name="小黄蜂" scene="62" startTime=""/>
-  <spirit endTime="" id="228" lv="LV.52～54" name="飞鱼" scene="62" startTime=""/>
-  <spirit endTime="" id="228" lv="LV.30～35" name="飞鱼" scene="140" startTime=""/>
-  <spirit endTime="" id="187" lv="LV.53～55" name="羽多" scene="140" startTime=""/>
-  <spirit endTime="" id="187" lv="LV.54～56" name="羽多" scene="64" startTime=""/>
-  <spirit endTime="" id="367" lv="LV.43～45" name="鲁米" scene="100" startTime=""/>
-  <spirit endTime="" id="652" lv="LV.43～45" name="甜筒丁丁" scene="100" startTime=""/>
-  <spirit endTime="" id="652" lv="LV.43～45" name="甜筒丁丁" scene="126" startTime=""/>
-  <spirit endTime="" id="181" lv="LV.43～45" name="呆桶企鹅" scene="126" startTime=""/>
-  <spirit endTime="" id="745" lv="LV.51～53" name="小甲壳虫" scene="153" startTime=""/>
-  <spirit endTime="" id="751" lv="LV.51～53" name="智慧虫" scene="153" startTime=""/>
-  <spirit endTime="" id="751" lv="LV.52～54" name="智慧虫" scene="152" startTime=""/>
-  <spirit endTime="" id="763" lv="LV.52～54" name="尖头皮靴" scene="152" startTime=""/>
-  <spirit endTime="" id="763" lv="LV.53～55" name="尖头皮靴" scene="155" startTime=""/>
-  <spirit endTime="" id="255" lv="LV.53～55" name="倒影娃娃" scene="155" startTime=""/>
-  <spirit endTime="" id="332" lv="LV.51～53" name="小木乃伊" scene="165" startTime=""/>
-  <spirit endTime="" id="359" lv="LV.51～53" name="武斗谋士" scene="165" startTime=""/>
-  <spirit endTime="" id="2934" lv="LV.1～5" name="幽灵灵" scene="165" startTime=""/>
-  <spirit endTime="" id="359" lv="LV.53～55" name="武斗谋士" scene="166" startTime=""/>
-  <spirit endTime="" id="341" lv="LV.53～55" name="南瓜炸弹" scene="166" startTime=""/>
-  <spirit endTime="" id="53" lv="LV.56～57" name="鬼雾" scene="68" startTime=""/>
-  <spirit endTime="" id="92" lv="LV.56～57" name="梦游" scene="68" startTime=""/>
-  <spirit endTime="" id="92" lv="LV.57～58" name="梦游" scene="69" startTime=""/>
-  <spirit endTime="" id="124" lv="LV.57～58" name="暗夜骷颅" scene="69" startTime=""/>
-  <spirit endTime="" id="124" lv="LV.58～59" name="暗夜骷颅" scene="70" startTime=""/>
-  <spirit endTime="" id="463" lv="LV.58～59" name="念力兽" scene="70" startTime=""/>
-  <spirit endTime="" id="463" lv="LV.59～60" name="念力兽" scene="71" startTime=""/>
-  <spirit endTime="" id="312" lv="LV.59～60" name="恶魔独角兽" scene="71" startTime=""/>
-  <spirit endTime="" id="531" lv="LV.56～58" name="小独角兽" scene="63" startTime=""/>
-  <spirit endTime="" id="829" lv="LV.20～25" name="紫蝶虫" scene="63" startTime=""/>
-  <spirit endTime="" id="531" lv="LV.56～58" name="小独角兽" scene="65" startTime=""/>
-  <spirit endTime="" id="829" lv="LV.56～58" name="紫蝶虫" scene="65" startTime=""/>
-  <spirit endTime="" id="829" lv="LV.57～59" name="紫蝶虫" scene="66" startTime=""/>
-  <spirit endTime="" id="868" lv="LV.57～59" name="金羚雀" scene="66" startTime=""/>
-  <spirit endTime="" id="868" lv="LV.58～60" name="金羚雀" scene="67" startTime=""/>
-  <spirit endTime="" id="627" lv="LV.58～60" name="脆鸣鸟" scene="67" startTime=""/>
-  <spirit endTime="" id="300" lv="LV.56～57" name="缇塔" scene="83" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.56～57" name="机甲壳" scene="83" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.57～58" name="机甲壳" scene="84" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.57～58" name="罗达械" scene="84" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.58～59" name="罗达械" scene="85" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.58～59" name="豆豆龙" scene="85" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.59～60" name="豆豆龙" scene="86" startTime=""/>
-  <spirit endTime="" id="42" lv="LV.59～60" name="牵线木偶" scene="86" startTime=""/>
-  <spirit endTime="" id="42" lv="LV.60～61" name="牵线木偶" scene="87" startTime=""/>
-  <spirit endTime="" id="958" lv="LV.56～57" name="红顶剑龙" scene="78" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.56～57" name="小花嘴龙" scene="78" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.57～58" name="小花嘴龙" scene="82" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.57～58" name="触须草龙" scene="82" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.58～59" name="触须草龙" scene="80" startTime=""/>
-  <spirit endTime="" id="285" lv="LV.58～59" name="霹雳龙" scene="80" startTime=""/>
-  <spirit endTime="" id="285" lv="LV.59～60" name="霹雳龙" scene="79" startTime=""/>
-  <spirit endTime="" id="288" lv="LV.59～60" name="蒸汽龙" scene="79" startTime=""/>
-  <spirit endTime="" id="288" lv="LV.60～61" name="蒸汽龙" scene="81" startTime=""/>
-  <spirit endTime="" id="69" lv="LV.60～61" name="迷你利乌" scene="81" startTime=""/>
-  <spirit endTime="" id="335" lv="LV.56～58" name="恶魔狼" scene="169" startTime=""/>
-  <spirit endTime="" id="356" lv="LV.56～58" name="小罗王" scene="169" startTime=""/>
-  <spirit endTime="" id="356" lv="LV.57～59" name="小罗王" scene="167" startTime=""/>
-  <spirit endTime="" id="347" lv="LV.57～59" name="铃铛鬼灵" scene="167" startTime=""/>
-  <spirit endTime="" id="347" lv="LV.58～60" name="铃铛鬼灵" scene="168" startTime=""/>
-  <spirit endTime="" id="350" lv="LV.58～60" name="雪浮灵" scene="168" startTime=""/>
-  <spirit endTime="" id="667" lv="LV.21～23" name="贝瑟" scene="158" startTime=""/>
-  <spirit endTime="" id="389" lv="LV.21～23" name="面包嘟嘟" scene="158" startTime=""/>
-  <spirit endTime="" id="389" lv="LV.24～26" name="面包嘟嘟" scene="161" startTime=""/>
-  <spirit endTime="" id="697" lv="LV.25～27" name="迷之石" scene="161" startTime=""/>
-  <spirit endTime="" id="697" lv="LV.28～30" name="迷之石" scene="200" startTime=""/>
-  <spirit endTime="" id="615" lv="LV.28～30" name="伏地兽" scene="200" startTime=""/>
-  <spirit endTime="" id="379" lv="LV.42～45" name="布鲁斯" scene="100" startTime=""/>
-  <spirit endTime="" id="370" lv="LV.42～45" name="雪豆丁" scene="100" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="68" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="68" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="69" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="69" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="70" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="70" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="71" startTime=""/>
-  <spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="71" startTime=""/>
-  <spirit endTime="" id="646" lv="LV.25～30" name="小田田" scene="125" startTime=""/>
-  <spirit endTime="" id="192" lv="LV.5～10" name="电狐" scene="59" startTime=""/>
-  <spirit endTime="" id="192" lv="LV.5～10" name="电狐" scene="60" startTime=""/>
-  <spirit endTime="" id="192" lv="LV.5～10" name="电狐" scene="61" startTime=""/>
-  <spirit endTime="" id="582" lv="LV.20～25" name="煤球憨憨" scene="43" startTime=""/>
-  <spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="52" startTime=""/>
-  <spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="52" startTime=""/>
-  <spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="53" startTime=""/>
-  <spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="53" startTime=""/>
-  <spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="54" startTime=""/>
-  <spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="54" startTime=""/>
-  <spirit endTime="" id="536" lv="LV.45～48" name="千里赤云" scene="55" startTime=""/>
-  <spirit endTime="" id="536" lv="LV.45～48" name="千里赤云" scene="55" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="88" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="88" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="89" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="89" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="90" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="90" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="91" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="91" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="93" startTime=""/>
-  <spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="93" startTime=""/>
-  <spirit endTime="" id="661" lv="LV.10～15" name="邪恶纺锤" scene="133" startTime=""/>
-  <spirit endTime="" id="661" lv="LV.10～15" name="邪恶纺锤" scene="133" startTime=""/>
-  <spirit endTime="" id="664" lv="LV.10～15" name="魔法水壶怪" scene="134" startTime=""/>
-  <spirit endTime="" id="664" lv="LV.10～15" name="魔法水壶怪" scene="134" startTime=""/>
-  <spirit endTime="" id="386" lv="LV.10～15" name="不倒叮当" scene="135" startTime=""/>
-  <spirit endTime="" id="386" lv="LV.10～15" name="不倒叮当" scene="135" startTime=""/>
-  <spirit endTime="" id="547" lv="LV.18～22" name="锯齿孢子" scene="137" startTime=""/>
-  <spirit endTime="" id="730" lv="LV.10～15" name="红桃小丁" scene="137" startTime=""/>
-  <spirit endTime="" id="757" lv="LV.10～15" name="小倒栽葱" scene="155" startTime=""/>
-  <spirit endTime="" id="422" lv="LV.10～15" name="幼齿螳螂" scene="156" startTime=""/>
-  <spirit endTime="" id="422" lv="LV.10～15" name="幼齿螳螂" scene="156" startTime=""/>
-  <spirit endTime="" id="258" lv="LV.10～15" name="小曼陀罗猪" scene="157" startTime=""/>
-  <spirit endTime="" id="555" lv="LV.10～15" name="小石头" scene="158" startTime=""/>
-  <spirit endTime="" id="157" lv="LV.10～15" name="乖乖狼" scene="168" startTime=""/>
-  <spirit endTime="" id="157" lv="LV.10～15" name="乖乖狼" scene="169" startTime=""/>
-  <spirit endTime="" id="126" lv="LV.10～15" name="自由黄灵" scene="67" startTime=""/>
-  <spirit endTime="" id="126" lv="LV.10～15" name="自由黄灵" scene="67" startTime=""/>
-  <spirit endTime="" id="1" lv="LV.2～5" name="喵喵" scene="18" startTime=""/>
-  <spirit endTime="" id="7" lv="LV.6～10" name="水蓝蓝" scene="36" startTime=""/>
-  <spirit endTime="" id="4" lv="LV.6～10" name="火花" scene="52" startTime=""/>
-  <spirit endTime="" id="205" lv="LV.10" name="果冻" scene="19" startTime=""/>
-  <spirit endTime="" id="205" lv="LV.10" name="果冻" scene="36" startTime=""/>
-  <spirit endTime="" id="205" lv="LV.10" name="果冻" scene="37" startTime=""/>
-  <spirit endTime="" id="205" lv="LV.10" name="果冻" scene="38" startTime=""/>
-  <spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="88" startTime=""/>
-  <spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="89" startTime=""/>
-  <spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="90" startTime=""/>
-  <spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="91" startTime=""/>
-  <spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="93" startTime=""/>
-  <spirit endTime="" id="425" lv="LV.15～20" name="呱呱" scene="103" startTime=""/>
-  <spirit endTime="" id="297" lv="LV.20～30" name="幻象勇士" scene="95" startTime=""/>
-  <spirit endTime="" id="606" lv="LV.5～10" name="火刺眼蜥蜴" scene="127" startTime=""/>
-  <spirit endTime="" id="772" lv="LV.10～15" name="鬼火骷髅" scene="141" startTime=""/>
-  <spirit endTime="" id="772" lv="LV.10～15" name="鬼火骷髅" scene="142" startTime=""/>
-  <spirit endTime="" id="772" lv="LV.10～15" name="鬼火骷髅" scene="143" startTime=""/>
-  <spirit endTime="" id="395" lv="LV.10～15" name="黑暗盖迪" scene="147" startTime=""/>
-  <spirit endTime="" id="564" lv="LV.10～15" name="笔童" scene="133" startTime=""/>
-  <spirit endTime="" id="967" lv="LV.10～15" name="鱼龙宝宝" scene="159" startTime=""/>
-  <spirit endTime="" id="541" lv="LV.10～15" name="齿龙" scene="78" startTime=""/>
-  <spirit endTime="" id="781" lv="LV.25～30" name="松果兽" scene="185" startTime=""/>
-  <spirit endTime="" id="431" lv="LV.25～30" name="小灵灯笼" scene="110" startTime=""/>
-  <spirit endTime="" id="1" lv="LV.5～10" name="喵喵" scene="127" startTime=""/>
-  <spirit endTime="" id="4" lv="LV.5～10" name="火花" scene="127" startTime=""/>
-  <spirit endTime="" id="7" lv="LV.5～10" name="水蓝蓝" scene="127" startTime=""/>
-  <spirit endTime="" id="1" lv="LV.1" name="喵喵" scene="10001" startTime=""/>
-  <spirit endTime="" id="4" lv="LV.1" name="火花" scene="10001" startTime=""/>
-  <spirit endTime="" id="7" lv="LV.1" name="水蓝蓝" scene="10001" startTime=""/>
-  <spirit endTime="" id="594" lv="LV.5～10" name="蓬蓬幼苗" scene="11000" startTime=""/>
-  <spirit endTime="" id="600" lv="LV.5～10" name="小萝卜头" scene="11000" startTime=""/>
-  <spirit endTime="" id="603" lv="LV.5～10" name="番茄小弟" scene="11000" startTime=""/>
-  <spirit endTime="" id="631" lv="LV.5～10" name="鼓上蚤" scene="11000" startTime=""/>
-  <spirit endTime="" id="416" lv="LV.5～10" name="斑斑竹" scene="11000" startTime=""/>
-  <spirit endTime="" id="643" lv="LV.5～10" name="松土艾斯" scene="11000" startTime=""/>
-  <spirit endTime="" id="63" lv="LV.5～10" name="阿蒙哞哞" scene="11000" startTime=""/>
-  <spirit endTime="" id="643" lv="LV.5～10" name="松土艾斯" scene="11000" startTime=""/>
-  <spirit endTime="" id="309" lv="LV.5～10" name="寄生菇菇" scene="11000" startTime=""/>
-  <spirit endTime="" id="410" lv="LV.5～10" name="云翼雀" scene="11000" startTime=""/>
-  <spirit endTime="" id="392" lv="LV.5～10" name="小奶牛" scene="11000" startTime=""/>
-  <spirit endTime="" id="612" lv="LV.5～10" name="可爱趴趴" scene="11000" startTime=""/>
-  <spirit endTime="" id="838" lv="LV.5～10" name="空明糖" scene="11000" startTime=""/>
-  <spirit endTime="" id="633" lv="LV.10～15" name="肚兜面罩鼠" scene="173" startTime=""/>
-  <spirit endTime="" id="252" lv="LV.10～15" name="小钻鼠" scene="173" startTime=""/>
-  <spirit endTime="" id="492" lv="LV.10～15" name="可爱鼠" scene="173" startTime=""/>
-  <spirit endTime="" id="509" lv="LV.10～15" name="线球鼠" scene="173" startTime=""/>
-  <spirit endTime="" id="52" lv="LV.30～35" name="生命蓝灵" scene="200" startTime=""/>
-  <spirit endTime="" id="30" lv="LV.2～5" name="多多" scene="58" startTime=""/>
-  <spirit endTime="" id="133" lv="LV.2～5" name="小鼠獭" scene="58" startTime=""/>
-  <spirit endTime="" id="40" lv="LV.2～5" name="护主犬" scene="58" startTime=""/>
-  <spirit endTime="" id="115" lv="LV.10～15" name="多西" scene="95" startTime=""/>
-  <spirit endTime="" id="206" lv="LV.10～15" name="小狮鹫" scene="95" startTime=""/>
-  <spirit endTime="" id="449" lv="LV.15～20" name="桃花包子球" scene="103" startTime=""/>
-  <spirit endTime="" id="452" lv="LV.15～20" name="清水之妖" scene="103" startTime=""/>
-  <spirit endTime="" id="461" lv="LV.22～27" name="圈圈海龟" scene="105" startTime=""/>
-  <spirit endTime="" id="558" lv="LV.12～17" name="棒棒柴" scene="110" startTime=""/>
-  <spirit endTime="" id="449" lv="LV.25～30" name="桃花包子球" scene="110" startTime=""/>
-  <spirit endTime="" id="452" lv="LV.25～30" name="清水之妖" scene="110" startTime=""/>
-  <spirit endTime="" id="472" lv="LV.25～32" name="精魂" scene="106" startTime=""/>
-  <spirit endTime="" id="497" lv="LV.25～32" name="失心魔" scene="106" startTime=""/>
-  <spirit endTime="" id="477" lv="LV.28～35" name="流光镜" scene="107" startTime=""/>
-  <spirit endTime="" id="480" lv="LV.28～35" name="焚香怪" scene="107" startTime=""/>
-  <spirit endTime="" id="482" lv="LV.31～38" name="小荷" scene="108" startTime=""/>
-  <spirit endTime="" id="487" lv="LV.31～38" name="蝶兰花" scene="108" startTime=""/>
-  <spirit endTime="" id="447" lv="LV.34～41" name="兔尾绒" scene="109" startTime=""/>
-  <spirit endTime="" id="495" lv="LV.34～41" name="五毒兽" scene="109" startTime=""/>
-  <spirit endTime="" id="466" lv="LV.37～44" name="泪花犬" scene="112" startTime=""/>
-  <spirit endTime="" id="506" lv="LV.37～44" name="熊猫秀才" scene="112" startTime=""/>
-  <spirit endTime="" id="191" lv="LV.10～15" name="绿芽粘粘" scene="104" startTime=""/>
-  <spirit endTime="" id="466" lv="LV.10～15" name="泪花犬" scene="104" startTime=""/>
-  <spirit endTime="" id="564" lv="LV.28～35" name="笔童" scene="114" startTime=""/>
-  <spirit endTime="" id="597" lv="LV.20～30" name="过桥米线" scene="118" startTime=""/>
-  <spirit endTime="" id="89" lv="LV.20～30" name="格兰种子" scene="118" startTime=""/>
-  <spirit endTime="" id="102" lv="LV.20～30" name="丢丢" scene="118" startTime=""/>
-  <spirit endTime="" id="267" lv="LV.35～38" name="封印守卫" scene="129" startTime=""/>
-  <spirit endTime="" id="273" lv="LV.35～38" name="触须草龙" scene="129" startTime=""/>
-  <spirit endTime="" id="276" lv="LV.35～38" name="小花嘴龙" scene="129" startTime=""/>
-  <spirit endTime="" id="474" lv="LV.25～32" name="绿芽蛋蛋" scene="130" startTime=""/>
-  <spirit endTime="" id="89" lv="LV.25～32" name="格兰种子" scene="130" startTime=""/>
-  <spirit endTime="" id="326" lv="LV.20～35" name="星星恶魔" scene="133" startTime=""/>
-  <spirit endTime="" id="329" lv="LV.20～35" name="无牙恶魔" scene="133" startTime=""/>
-  <spirit endTime="" id="350" lv="LV.20～35" name="雪浮灵" scene="133" startTime=""/>
-  <spirit endTime="" id="33" lv="LV.32～35" name="路路" scene="135" startTime=""/>
-  <spirit endTime="" id="226" lv="LV.32～35" name="小河马" scene="135" startTime=""/>
-  <spirit endTime="" id="2037" lv="LV.10～15" name="呆呆鱼" scene="151" startTime=""/>
-  <spirit endTime="" id="96" lv="LV.30～35" name="呼呼猪" scene="159" startTime=""/>
-  <spirit endTime="" id="127" lv="LV.30～35" name="雪娃娃" scene="159" startTime=""/>
-  <spirit endTime="" id="130" lv="LV.30～35" name="雪豹球" scene="159" startTime=""/>
-  <spirit endTime="" id="367" lv="LV.30～35" name="鲁米" scene="159" startTime=""/>
-  <spirit endTime="" id="370" lv="LV.30～35" name="雪豆丁" scene="159" startTime=""/>
-  <spirit endTime="" id="379" lv="LV.30～35" name="布鲁斯" scene="159" startTime=""/>
-  <spirit endTime="" id="760" lv="LV.30～35" name="酱油鱼" scene="159" startTime=""/>
-  <spirit endTime="" id="733" lv="LV.30～35" name="锡拉" scene="159" startTime=""/>
-  <spirit endTime="" id="721" lv="LV.30～35" name="蓝朵" scene="159" startTime=""/>
-  <spirit endTime="" id="718" lv="LV.30～35" name="符咒鲨" scene="159" startTime=""/>
-  <spirit endTime="" id="736" lv="LV.30～35" name="呆目水母" scene="159" startTime=""/>
-  <spirit endTime="" id="469" lv="LV.30～35" name="水跃鱼" scene="159" startTime=""/>
-  <spirit endTime="" id="185" lv="LV.30～35" name="镰刀卡布" scene="159" startTime=""/>
-  <spirit endTime="" id="1426" lv="LV.10～15" name="嘟嘴豚" scene="162" startTime=""/>
-  <spirit endTime="" id="163" lv="LV.10～15" name="斑斑猫" scene="173" startTime=""/>
-  <spirit endTime="" id="28" lv="LV.10～15" name="地鼠" scene="173" startTime=""/>
-  <spirit endTime="" id="706" lv="LV.10～15" name="机械方方" scene="208" startTime=""/>
-  <spirit endTime="" id="652" lv="LV.10～15" name="甜筒丁丁" scene="26" startTime=""/>
-  <spirit endTime="" id="724" lv="LV.10～15" name="雨天娃娃" scene="26" startTime=""/>
-  <spirit endTime="2012-11-22" id="940" lv="LV.10～15" name="天蝎宝宝" scene="89" startTime="2012-10-28"/>
-  <spirit endTime="2012-11-15" id="913" lv="LV.10～15" name="丑小鸭" scene="88" startTime="2012-11-09"/>
-  <spirit endTime="2012-11-22" id="876" lv="LV.10～15" name="彩乐乐" scene="103" startTime="2012-11-16"/>
-  <spirit endTime="2012-12-20" id="946" lv="LV.10～15" name="射手宝宝" scene="40" startTime="2012-11-23"/>
-  <spirit endTime="" id="66" lv="LV.22～25" name="蜗石贝" scene="232" startTime=""/>
-  <spirit endTime="" id="99" lv="LV.25～28" name="阿米亚特" scene="232" startTime=""/>
-  <spirit endTime="2013-01-03" id="859" lv="LV.25～28" name="飞刀小木" scene="232" startTime="2012-12-07"/>
-  <spirit endTime="2013-01-03" id="863" lv="LV.25～28" name="石族战士" scene="232" startTime="2012-12-21"/>
-  <spirit endTime="2013-01-17" id="878" lv="LV.10～15" name="绿翼鸟" scene="183" startTime="2013-01-04"/>
-  <spirit endTime="" id="550" lv="LV.20～23" name="冥想泡泡" scene="240" startTime=""/>
-  <spirit endTime="" id="149" lv="LV.20～23" name="小蜂猴" scene="240" startTime=""/>
-  <spirit endTime="" id="226" lv="LV.21～24" name="小河马" scene="241" startTime=""/>
-  <spirit endTime="" id="228" lv="LV.21～24" name="飞鱼" scene="241" startTime=""/>
-  <spirit endTime="" id="149" lv="LV.22～25" name="小蜂猴" scene="242" startTime=""/>
-  <spirit endTime="" id="226" lv="LV.22～25" name="小河马" scene="242" startTime=""/>
-  <spirit endTime="2013-01-24" id="880" lv="LV.10～15" name="小萌猪" scene="241" startTime="2013-01-11"/>
-  <spirit endTime="2013-02-18" id="934" lv="LV.10～15" name="水瓶宝宝" scene="145" startTime="2013-01-20"/>
-  <spirit endTime="2013-01-31" id="1001" lv="LV.10～15" name="格斗鸡仔" scene="241" startTime="2013-01-25"/>
-  <spirit endTime="2013-02-28" id="993" lv="LV.10～15" name="萌多" scene="240" startTime="2013-02-01"/>
-  <spirit endTime="2013-02-28" id="877" lv="LV.10～15" name="雷萌" scene="241" startTime="2013-02-08"/>
-  <spirit endTime="2013-02-28" id="990" lv="LV.10～15" name="萌少" scene="242" startTime="2013-02-15"/>
-  <spirit endTime="2013-02-28" id="775" lv="LV.10～15" name="雪天娃娃" scene="17" startTime="2013-02-01"/>
-  <spirit endTime="2013-03-20" id="931" lv="LV.10～15" name="双鱼宝宝" scene="125" startTime="2013-02-19"/>
-  <spirit endTime="2013-03-14" id="1013" lv="LV.10～15" name="冰石龙" scene="157" startTime="2013-03-01"/>
-  <spirit endTime="2013-03-14" id="1015" lv="LV.10～15" name="紫幽龙" scene="157" startTime="2013-03-01"/>
-  <spirit endTime="2013-04-11" id="1021" lv="LV.10～15" name="蓝胖子" scene="52" startTime="2013-03-15"/>
-  <spirit endTime="2013-04-19" id="928" lv="LV.10～15" name="白羊宝宝" scene="52" startTime="2013-03-21"/>
-  <spirit endTime="2013-04-11" id="1022" lv="LV.10～15" name="治愈火娃" scene="53" startTime="2013-03-21"/>
-  <spirit endTime="2013-04-11" id="1024" lv="LV.10～15" name="火先锋" scene="54" startTime="2013-03-28"/>
-  <spirit endTime="2013-04-25" id="1037" lv="LV.10～15" name="艾美丽" scene="111" startTime="2013-04-11"/>
-  <spirit endTime="2013-05-20" id="970" lv="LV.10～15" name="金牛宝宝" scene="60" startTime="2013-04-20"/>
-  <spirit endTime="2013-05-09" id="1047" lv="LV.10～15" name="艾雯" scene="111" startTime="2013-04-26"/>
-  <spirit endTime="" id="1055" lv="LV.20～25" name="粉粉球" scene="249" startTime=""/>
-  <spirit endTime="" id="1055" lv="LV.20～25" name="粉粉球" scene="250" startTime=""/>
-  <spirit endTime="" id="1057" lv="LV.5～10" name="蹦蹦鼠" scene="11000" startTime=""/>
-  <spirit endTime="2013-05-30" id="1059" lv="LV.10～15" name="蛇豆豆" scene="251" startTime="2013-05-10"/>
-  <spirit endTime="2013-06-21" id="973" lv="LV.10～15" name="双子宝宝" scene="61" startTime="2013-05-21"/>
-  <spirit endTime="2013-07-18" id="1077" lv="LV.10～15" name="霜刃豹" scene="17" startTime="2013-05-31"/>
-  <spirit endTime="2013-07-18" id="1078" lv="LV.10～15" name="罗普尔" scene="40" startTime="2013-06-07"/>
-  <spirit endTime="2013-07-22" id="937" lv="LV.10～15" name="巨蟹宝宝" scene="125" startTime="2013-06-22"/>
-  <spirit endTime="2013-07-18" id="1080" lv="LV.10～15" name="火苗虎" scene="141" startTime="2013-06-22"/>
-  <spirit endTime="2013-07-16" id="40" lv="LV.10～15" name="护主犬" scene="266" startTime="2013-07-15"/>
-  <spirit endTime="2013-07-16" id="99" lv="LV.10～15" name="阿米亚特" scene="266" startTime="2013-07-15"/>
-  <spirit endTime="2013-07-16" id="93" lv="LV.10～15" name="小帕尔萨斯" scene="266" startTime="2013-07-15"/>
-  <spirit endTime="2013-08-22" id="976" lv="LV.10～15" name="狮子宝宝" scene="134" startTime="2013-07-23"/>
-  <spirit endTime="" id="567" lv="LV.65" name="财多多" scene="21001" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.70" name="财多多" scene="21002" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.75" name="财多多" scene="21003" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.80" name="财多多" scene="21004" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.85" name="财多多" scene="21005" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.90" name="财多多" scene="21006" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.95" name="财多多" scene="21007" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.100" name="财多多" scene="21008" startTime=""/>
-  <spirit endTime="" id="567" lv="LV.100" name="财多多" scene="21009" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.65" name="金豆豆" scene="21001" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.70" name="金豆豆" scene="21002" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.75" name="金豆豆" scene="21003" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.80" name="金豆豆" scene="21004" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.85" name="金豆豆" scene="21005" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.90" name="金豆豆" scene="21006" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.95" name="金豆豆" scene="21007" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.100" name="金豆豆" scene="21008" startTime=""/>
-  <spirit endTime="" id="568" lv="LV.100" name="金豆豆" scene="21009" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.65" name="金宝宝" scene="21001" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.70" name="金宝宝" scene="21002" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.75" name="金宝宝" scene="21003" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.80" name="金宝宝" scene="21004" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.85" name="金宝宝" scene="21005" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.90" name="金宝宝" scene="21006" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.95" name="金宝宝" scene="21007" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.100" name="金宝宝" scene="21008" startTime=""/>
-  <spirit endTime="" id="569" lv="LV.100" name="金宝宝" scene="21009" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.65" name="胆小狮子" scene="21001" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.70" name="胆小狮子" scene="21002" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.75" name="胆小狮子" scene="21003" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.80" name="胆小狮子" scene="21004" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.85" name="胆小狮子" scene="21005" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.90" name="胆小狮子" scene="21006" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.95" name="胆小狮子" scene="21007" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.100" name="胆小狮子" scene="21008" startTime=""/>
-  <spirit endTime="" id="694" lv="LV.100" name="胆小狮子" scene="21009" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.65" name="玩具狮子" scene="21001" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.70" name="玩具狮子" scene="21002" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.75" name="玩具狮子" scene="21003" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.80" name="玩具狮子" scene="21004" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.85" name="玩具狮子" scene="21005" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.90" name="玩具狮子" scene="21006" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.95" name="玩具狮子" scene="21007" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.100" name="玩具狮子" scene="21008" startTime=""/>
-  <spirit endTime="" id="695" lv="LV.100" name="玩具狮子" scene="21009" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.65" name="绒毛狮子" scene="21001" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.70" name="绒毛狮子" scene="21002" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.75" name="绒毛狮子" scene="21003" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.80" name="绒毛狮子" scene="21004" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.85" name="绒毛狮子" scene="21005" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.90" name="绒毛狮子" scene="21006" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.95" name="绒毛狮子" scene="21007" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.100" name="绒毛狮子" scene="21008" startTime=""/>
-  <spirit endTime="" id="696" lv="LV.100" name="绒毛狮子" scene="21009" startTime=""/>
-  <spirit endTime="2013-09-22" id="955" lv="LV.10～15" name="处女宝宝" scene="185" startTime="2013-09-04"/>
-  <spirit endTime="2013-10-10" id="1143" lv="LV.10～15" name="龅牙兔" scene="18" startTime="2013-09-12"/>
-  <spirit endTime="2013-10-23" id="943" lv="LV.10～15" name="天秤宝宝" scene="40" startTime="2013-09-22"/>
-  <spirit endTime="" id="47" lv="LV.20～25" name="小布石" scene="279" startTime=""/>
-  <spirit endTime="" id="28" lv="LV.20～25" name="地鼠" scene="279" startTime=""/>
-  <spirit endTime="" id="47" lv="LV.20～25" name="小布石" scene="280" startTime=""/>
-  <spirit endTime="" id="66" lv="LV.20～25" name="蜗石贝" scene="280" startTime=""/>
-  <spirit endTime="2014-04-19" id="928" lv="LV.10～15" name="白羊宝宝" scene="52" startTime="2014-03-21"/>
-  <spirit endTime="2014-05-20" id="970" lv="LV.10～15" name="金牛宝宝" scene="60" startTime="2014-04-20"/>
-  <spirit endTime="2014-06-21" id="973" lv="LV.10～15" name="双子宝宝" scene="61" startTime="2014-05-21"/>
-  <spirit endTime="2014-07-22" id="937" lv="LV.10～15" name="巨蟹宝宝" scene="125" startTime="2014-06-22"/>
-  <spirit endTime="2014-08-22" id="976" lv="LV.10～15" name="狮子宝宝" scene="33" startTime="2014-07-23"/>
-  <spirit endTime="2014-09-22" id="955" lv="LV.10～15" name="处女宝宝" scene="185" startTime="2014-08-23"/>
-  <spirit endTime="2014-10-23" id="943" lv="LV.10～15" name="天秤宝宝" scene="40" startTime="2014-09-23"/>
-  <spirit endTime="2013-11-22" id="940" lv="LV.10～15" name="天蝎宝宝" scene="232" startTime="2013-10-24"/>
-  <spirit endTime="2013-12-21" id="946" lv="LV.10～15" name="射手宝宝" scene="158" startTime="2013-11-23"/>
-  <spirit endTime="2014-01-19" id="925" lv="LV.10～15" name="摩羯宝宝" scene="17" startTime="2013-12-22"/>
-  <spirit endTime="2014-02-18" id="934" lv="LV.10～15" name="水瓶宝宝" scene="145" startTime="2014-01-20"/>
-  <spirit endTime="2014-03-20" id="931" lv="LV.10～15" name="双鱼宝宝" scene="125" startTime="2014-02-19"/>
-  <spirit endTime="2013-11-14" id="1157" lv="LV.30" name="晶尾蝎" scene="280" startTime="2013-09-22"/>
-  <spirit endTime="2013-11-28" id="99" lv="LV.20" name="阿米亚特" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="66" lv="LV.20" name="蜗石贝" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="47" lv="LV.20" name="小布石" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="40" lv="LV.20" name="护主犬" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="118" lv="LV.20" name="呆火鸟" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="28" lv="LV.20" name="地鼠" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="889" lv="LV.30" name="岩铠小将" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="2013-11-28" id="282" lv="LV.30" name="玛雅" scene="283" startTime="2013-09-19"/>
-  <spirit endTime="" id="138" lv="LV.20～25" name="独角龙" scene="281" startTime=""/>
-  <spirit endTime="" id="99" lv="LV.20～25" name="阿米亚特" scene="281" startTime=""/>
-  <spirit endTime="" id="243" lv="LV.41～42" name="乌达" scene="88" startTime=""/>
-  <spirit endTime="2013-12-26" id="205" lv="LV.20" name="果冻" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="454" lv="LV.20" name="清水领主" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="82" lv="LV.20" name="利灯鱼" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="109" lv="LV.20" name="黑当鱼" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="720" lv="LV.20" name="彩蝶鲨" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="723" lv="LV.20" name="蓝涛涛" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="939" lv="LV.30" name="利钳巨蟹" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2013-12-26" id="936" lv="LV.30" name="逍遥水瓶" scene="286" startTime="2013-09-19"/>
-  <spirit endTime="2014-01-02" id="1202" lv="LV.10～15" name="红帽鸭吉吉" scene="17" startTime="2013-09-20"/>
-  <spirit endTime="" id="58" lv="LV.15～20" name="蒲公英" scene="287" startTime=""/>
-  <spirit endTime="" id="70" lv="LV.15～20" name="奇丽草" scene="287" startTime=""/>
-  <spirit endTime="2013-02-20" id="50" lv="LV.20" name="电圈怪" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="56" lv="LV.20" name="闪电球" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="398" lv="LV.20" name="电精战士" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="28" lv="LV.20" name="地鼠" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="99" lv="LV.20" name="阿米亚特" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="66" lv="LV.20" name="蜗石贝" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="563" lv="LV.30" name="仙音" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-02-20" id="68" lv="LV.30" name="卡布托" scene="292" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="205" lv="LV.20" name="果冻" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="454" lv="LV.20" name="清水领主" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="228" lv="LV.20" name="飞鱼" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="226" lv="LV.20" name="小河马" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="143" lv="LV.20" name="小黄蜂" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="723" lv="LV.20" name="蓝涛涛" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="939" lv="LV.30" name="利钳巨蟹" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2013-03-20" id="915" lv="LV.30" name="美鹅鹅" scene="293" startTime="2013-09-19"/>
-  <spirit endTime="2014-04-24" id="243" lv="LV.20" name="乌达" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="875" lv="LV.20" name="小灵灵" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="291" lv="LV.20" name="小地狱犬" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="276" lv="LV.20" name="小花嘴龙" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="273" lv="LV.20" name="触须草龙" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="335" lv="LV.20" name="恶魔狼" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="1163" lv="LV.30" name="小熊祭司" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-24" id="1101" lv="LV.30" name="恶灵豹" scene="296" startTime="2014-03-13"/>
-  <spirit endTime="2014-04-07" id="359" lv="LV.15～20" name="武斗谋士" scene="297" startTime="2014-04-05"/>
-  <spirit endTime="2014-04-07" id="506" lv="LV.15～20" name="熊猫秀才" scene="297" startTime="2014-04-05"/>
-  <spirit endTime="2014-04-07" id="709" lv="LV.15～20" name="红爪精灵" scene="297" startTime="2014-04-05"/>
-  <spirit endTime="2014-04-10" id="99" lv="LV.10～15" name="阿米亚特" scene="40" startTime="2014-03-06"/>
-  <spirit endTime="" id="1004" lv="LV.5～10" name="玉米宝宝" scene="11000" startTime=""/>
-  <spirit endTime="2014-05-08" id="657" lv="LV.10～15" name="雪影娃娃" scene="17" startTime="2013-04-11"/>
-  <spirit endTime="" id="99" lv="LV.20～25" name="阿米亚特" scene="298" startTime=""/>
-  <spirit endTime="" id="1333" lv="LV.20～25" name="棒棒酷熊" scene="298" startTime=""/>
-  <spirit endTime="" id="1333" lv="LV.10～15" name="棒棒酷熊" scene="299" startTime=""/>
-  <spirit endTime="" id="47" lv="LV.10～15" name="小布石" scene="299" startTime=""/>
-  <spirit endTime="" id="469" lv="LV.25～30" name="水跃鱼" scene="302" startTime=""/>
-  <spirit endTime="" id="1331" lv="LV.25～30" name="蛋壳小子" scene="302" startTime=""/>
-  <spirit endTime="" id="1333" lv="LV.25～30" name="棒棒酷熊" scene="303" startTime=""/>
-  <spirit endTime="" id="844" lv="LV.25～30" name="毒蛙" scene="303" startTime=""/>
-  <spirit endTime="2014-05-25" id="175" lv="LV.43～45" name="雪灵兽" scene="126" startTime="2014-05-24"/>
-  <spirit endTime="2014-05-29" id="129" lv="LV.42～45" name="雪精灵" scene="100" startTime="2014-05-23"/>
-  <spirit endTime="" id="110" lv="LV.35～40" name="极地小熊" scene="44" startTime=""/>
-  <spirit endTime="" id="1331" lv="LV.25～30" name="蛋壳小子" scene="304" startTime=""/>
-  <spirit endTime="" id="1333" lv="LV.25～30" name="棒棒酷熊" scene="304" startTime=""/>
-  <spirit endTime="" id="1357" lv="LV.20～25" name="黄灵" scene="305" startTime=""/>
-  <spirit endTime="" id="1358" lv="LV.20～25" name="赤灵" scene="305" startTime=""/>
-  <spirit endTime="" id="1376" lv="LV.20～25" name="蓝灵" scene="305" startTime=""/>
-  <spirit endTime="2014-06-26" id="1364" lv="LV.30" name="白极圣王" scene="140" startTime="2014-05-01"/>
-  <spirit endTime="2014-07-25" id="89" lv="LV.20" name="格兰种子" scene="308" startTime="2014-05-01"/>
-  <spirit endTime="2014-07-25" id="102" lv="LV.20" name="丢丢" scene="308" startTime="2014-05-01"/>
-  <spirit endTime="2014-07-25" id="70" lv="LV.20" name="奇丽草" scene="308" startTime="2014-05-01"/>
-  <spirit endTime="2014-07-25" id="105" lv="LV.20" name="可立鸡" scene="308" startTime="2014-05-01"/>
-  <spirit endTime="2014-07-25" id="108" lv="LV.20" name="大尾鱼" scene="308" startTime="2014-05-01"/>
-  <spirit endTime="2014-07-25" id="389" lv="LV.20" name="面包嘟嘟" scene="308" startTime="2014-05-01"/>
-  <spirit endTime="2014-11-06" id="465" lv="LV.20" name="控魂" scene="324" startTime="2013-09-12"/>
-  <spirit endTime="2014-11-06" id="361" lv="LV.20" name="武斗宰相" scene="324" startTime="2013-09-12"/>
-  <spirit endTime="2014-11-06" id="1021" lv="LV.20" name="蓝胖子" scene="324" startTime="2013-09-12"/>
-  <spirit endTime="" id="844" lv="LV.20" name="毒蛙" scene="327" startTime=""/>
-  <spirit endTime="" id="495" lv="LV.30" name="五毒兽" scene="327" startTime=""/>
-  <spirit endTime="" id="66" lv="LV.20" name="蜗石贝" scene="328" startTime=""/>
-  <spirit endTime="" id="447" lv="LV.30" name="兔尾绒" scene="328" startTime=""/>
-  <spirit endTime="" id="1559" lv="LV.20～30" name="怪侠罗宾浣" scene="332" startTime=""/>
-  <spirit endTime="" id="1563" lv="LV.20～30" name="百足先锋" scene="333" startTime=""/>
-  <spirit endTime="2014-12-21" id="910" lv="LV.10" name="蛋小乐" scene="97" startTime="2014-12-20"/>
-  <spirit endTime="2015-01-01" id="910" lv="LV.10" name="蛋小乐" scene="97" startTime="2015-01-01"/>
-  <spirit endTime="" id="1559" lv="LV.20～30" name="怪侠罗宾浣" scene="334" startTime=""/>
-  <spirit endTime="" id="1563" lv="LV.20～30" name="百足先锋" scene="334" startTime=""/>
-  <spirit endTime="" id="1564" lv="LV.30" name="红角小诺" scene="334" startTime=""/>
-  <spirit endTime="" id="1606" lv="LV.3～8" name="独角仙" scene="18" startTime=""/>
-  <spirit endTime="" id="1600" lv="LV.27～30" name="墨镜小卡" scene="52" startTime=""/>
-  <spirit endTime="" id="1602" lv="LV.32～35" name="萌陶陶" scene="40" startTime=""/>
-  <spirit endTime="" id="1604" lv="LV.22～24" name="花菇子" scene="179" startTime=""/>
-  <spirit endTime="2015-03-05" id="481" lv="LV.20" name="香魂" scene="107" startTime="2015-02-27"/>
-  <spirit endTime="" id="700" isAct="1" lv="LV.25～30" name="向日葵" scene="185" startTime=""/>
-  <spirit endTime="2015-05-01" id="1801" lv="LV.50" name="测试BOSS1" scene="347" startTime="2015-04-30"/>
-  <spirit endTime="2015-05-01" id="1802" lv="LV.30" name="欧姐姐" scene="347" startTime="2015-04-30"/>
-  <spirit endTime="2015-05-01" id="1803" lv="LV.30" name="测试花瓶2" scene="347" startTime="2015-04-30"/>
-  <spirit endTime="2015-05-01" id="1804" lv="LV.30" name="老板" scene="347" startTime="2015-04-30"/>
-  <spirit endTime="2015-05-02" id="1801" lv="LV.50" name="测试BOSS1" scene="347" startTime="2015-05-02"/>
-  <spirit endTime="2015-05-02" id="1802" lv="LV.30" name="欧姐姐" scene="347" startTime="2015-05-02"/>
-  <spirit endTime="2015-05-02" id="1803" lv="LV.30" name="测试花瓶2" scene="347" startTime="2015-05-02"/>
-  <spirit endTime="2015-05-02" id="1804" lv="LV.30" name="老板" scene="347" startTime="2015-05-02"/>
-  <spirit endTime="" id="485" lv="LV.45～50" name="邪恶玄武" scene="103" startTime=""/>
-  <spirit endTime="" id="152" lv="LV.36～39" name="拉特" scene="131" startTime=""/>
-  <spirit endTime="" id="1841" lv="LV.50" name="迷之神使" scene="18" startTime=""/>
-  <spirit endTime="" id="1846" lv="LV.40～45" name="爱心娜娜" scene="364" startTime=""/>
-  <spirit endTime="" id="1850" lv="LV.40～45" name="哨兵因因" scene="366" startTime=""/>
-  <spirit endTime="" id="1842" lv="LV.40～45" name="烈焰诺诺" scene="368" startTime=""/>
-  <spirit endTime="" id="1785" lv="LV.40～45" name="风元素" scene="369" startTime=""/>
-  <spirit endTime="" id="1881" lv="LV.31～33" name="冰原领主" scene="17" startTime=""/>
-  <spirit endTime="" id="1882" lv="LV.25～28" name="熔火暴徒" scene="52" startTime=""/>
-  <spirit endTime="" id="400" lv="LV.45～50" name="霹雳领主" scene="377" startTime=""/>
-  <spirit endTime="" id="1940" lv="LV.45～50" name="小塔塔" scene="367" startTime=""/>
-  <spirit endTime="2016-01-07" id="1199" lv="LV.10～15" name="圣诞麋鹿王" scene="17" startTime="2015-12-25"/>
-  <spirit endTime="2016-01-07" id="1204" lv="LV.10～15" name="圣诞鸭吉吉" scene="17" startTime="2015-12-25"/>
-  <spirit endTime="2016-01-07" id="1212" lv="LV.10～15" name="圣诞天使鸟" scene="17" startTime="2015-12-25"/>
-  <spirit endTime="2016-01-07" id="1201" lv="LV.10～15" name="圣诞呱呱" scene="17" startTime="2015-12-25"/>
-  <spirit endTime="2016-01-07" id="1208" lv="LV.10～15" name="圣诞梅花鹿" scene="17" startTime="2015-12-25"/>
-  <spirit endTime="2016-01-07" id="1205" lv="LV.10～15" name="圣诞小企鹅" scene="17" startTime="2015-12-25"/>
-  <spirit endTime="" id="365" lv="LV.20～25" name="水球球" scene="19" startTime=""/>
-  <spirit endTime="" id="111" lv="LV.20～25" name="白发懒人" scene="52" startTime=""/>
-  <spirit endTime="" id="1982" lv="LV.20～25" name="蓝波菀" scene="364" startTime=""/>
-  <spirit endTime="" id="673" lv="LV.15～20" name="豹子头" scene="33" startTime=""/>
-  <spirit endTime="" id="1238" lv="LV.38～40" name="莲依依" scene="45" startTime=""/>
-  <spirit endTime="" id="706" lv="LV.58～60" name="机械方方" scene="87" startTime=""/>
-  <spirit endTime="" id="1727" lv="LV.45～50" name="利刺毒蝎" scene="407" startTime=""/>
-  <spirit endTime="2017-10-26" id="1796" lv="LV.15～20" name="4399游戏喵" scene="390" startTime="2017-05-02"/>
-  <spirit endTime="" id="2669" lv="LV.30～50" name="蓬蓬球" scene="430" startTime=""/>
-  <spirit endTime="" id="447" lv="LV.30～50" name="兔尾绒" scene="430" startTime=""/>
-  <spirit endTime="" id="2670" lv="LV.30～50" name="小烟雀" scene="431" startTime=""/>
-  <spirit endTime="" id="126" lv="LV.30～50" name="自由黄灵" scene="431" startTime=""/>
-  <spirit endTime="" id="2671" lv="LV.30～50" name="仪容鹦鹉" scene="433" startTime=""/>
-  <spirit endTime="" id="229" lv="LV.30～50" name="飞羽" scene="433" startTime=""/>
-  <spirit endTime="" id="652" lv="LV.30～40" name="甜筒丁丁" scene="2007" startTime=""/>
-  <spirit endTime="" id="724" lv="LV.30～40" name="雨天娃娃" scene="2007" startTime=""/>
-  <spirit endTime="" id="2227" lv="LV.10～20" name="曹丕子桓" scene="2007" startTime=""/>
-  <spirit endTime="" id="10" lv="LV.50～60" name="蹦蹦种子" scene="2012" startTime=""/>
-  <spirit endTime="" id="58" lv="LV.50～60" name="蒲公英" scene="2012" startTime=""/>
-  <spirit endTime="" id="1606" lv="LV.50～60" name="独角仙" scene="2015" startTime=""/>
-  <spirit endTime="" id="70" lv="LV.50～60" name="奇丽草" scene="2015" startTime=""/>
-  <spirit endTime="" id="102" lv="LV.60～65" name="丢丢" scene="2016" startTime=""/>
-  <spirit endTime="" id="105" lv="LV.70～80" name="可立鸡" scene="2018" startTime=""/>
-  <spirit endTime="" id="40" lv="LV.70～80" name="护主犬" scene="2018" startTime=""/>
-  <spirit endTime="" id="111" lv="LV.70～80" name="白发懒人" scene="2019" startTime=""/>
-  <spirit endTime="" id="127" lv="LV.80～85" name="雪娃娃" scene="2023" startTime=""/>
-  <spirit endTime="" id="96" lv="LV.80～85" name="呼呼猪" scene="2023" startTime=""/>
-  <spirit endTime="" id="127" lv="LV.80～85" name="雪娃娃" scene="2024" startTime=""/>
-  <spirit endTime="" id="181" lv="LV.80～85" name="呆桶企鹅" scene="2025" startTime=""/>
-  <spirit endTime="" id="652" lv="LV.80～85" name="甜筒丁丁" scene="2025" startTime=""/>
-  <spirit endTime="" id="367" lv="LV.80～85" name="鲁米" scene="2026" startTime=""/>
-  <spirit endTime="" id="147" lv="LV.80～85" name="小雪人" scene="2027" startTime=""/>
-  <spirit endTime="" id="130" lv="LV.80～85" name="雪豹球" scene="2027" startTime=""/>
-  <spirit endTime="" id="243" lv="LV.85～90" name="乌达" scene="2028" startTime=""/>
-  <spirit endTime="" id="246" lv="LV.85～90" name="独眼怪" scene="2028" startTime=""/>
-  <spirit endTime="" id="291" lv="LV.85～90" name="小地狱犬" scene="2029" startTime=""/>
-  <spirit endTime="" id="338" lv="LV.85～90" name="恶魔猪" scene="2031" startTime=""/>
-  <spirit endTime="" id="338" lv="LV.85～90" name="恶魔猪" scene="2031" startTime=""/>
-  <spirit endTime="" id="214" lv="LV.85～90" name="萤火幽灵" scene="2031" startTime=""/>
-  <spirit endTime="" id="875" lv="LV.85～90" name="小灵灵" scene="2032" startTime=""/>
-  <spirit endTime="" id="50" lv="LV.90～95" name="电圈怪" scene="2034" startTime=""/>
-  <spirit endTime="" id="56" lv="LV.90～95" name="闪电球" scene="2035" startTime=""/>
-  <spirit endTime="" id="87" lv="LV.90～95" name="电咩咩" scene="2036" startTime=""/>
-  <spirit endTime="" id="135" lv="LV.90～95" name="小星光" scene="2037" startTime=""/>
-  <spirit endTime="" id="398" lv="LV.90～95" name="电精战士" scene="2037" startTime=""/>
-  <spirit endTime="" id="338" lv="LV.90～95" name="恶魔猪" scene="2030" startTime=""/>
-  <spirit endTime="" id="2236" lv="LV.10～20" name="刘备玄德" scene="2012" startTime=""/>
-  <spirit endTime="" id="25" lv="LV.10～20" name="咔咔羽毛" scene="2012" startTime=""/>
-  <spirit endTime="" id="123" lv="LV.10～20" name="幸运熊" scene="2015" startTime=""/>
-  <spirit endTime="" id="142" lv="LV.10～20" name="魔果多多" scene="2018" startTime=""/>
-  <spirit endTime="" id="154" lv="LV.10～20" name="木豆丁" scene="2016" startTime=""/>
-  <spirit endTime="" id="166" lv="LV.10～20" name="草头大眼鸭" scene="2019" startTime=""/>
-  <spirit endTime="" id="455" lv="LV.10～20" name="小包子熊" scene="2026" startTime=""/>
-  <spirit endTime="" id="519" lv="LV.10～20" name="黑桃小丑" scene="2028" startTime=""/>
-  <spirit endTime="" id="140" lv="LV.15" name="小草虫" scene="203" startTime=""/>
-  <spirit endTime="" id="1085" lv="LV.15" name="裘洛" scene="249" startTime=""/>
-  <spirit endTime="" id="1080" lv="LV.10" name="火苗虎" scene="249" startTime=""/>
-  <spirit endTime="" id="1328" lv="LV.15" name="铁项战灵" scene="260" startTime=""/>
-  <spirit endTime="" id="1546" lv="LV.15" name="称重狮" scene="260" startTime=""/>
-  <spirit endTime="" id="1001" lv="LV.15" name="格斗鸡仔" scene="260" startTime=""/>
-  <spirit endTime="" id="952" lv="LV.10～15" name="小黑猫" scene="262" startTime=""/>
-  <spirit endTime="" id="1055" lv="LV.10" name="粉粉球" scene="262" startTime=""/>
-  <spirit endTime="" id="1338" lv="LV.15" name="绿草精灵" scene="115" startTime=""/>
-  <spirit endTime="" id="1612" lv="LV.8～10" name="薯仔球" scene="115" startTime=""/>
-  <spirit endTime="" id="1078" lv="LV.8～10" name="罗普尔" scene="288" startTime=""/>
-  <spirit endTime="" id="1515" lv="LV.10～15" name="小螂" scene="288" startTime=""/>
-  <spirit endTime="" id="1552" lv="LV.10～15" name="树桩芽芽" scene="288" startTime=""/>
-  <spirit endTime="" id="1240" lv="LV.10～15" name="小灵菇" scene="290" startTime=""/>
-  <spirit endTime="" id="419" lv="LV.15" name="伊贝儿" scene="290" startTime=""/>
-  <spirit endTime="" id="1276" lv="LV.15" name="花灵子" scene="290" startTime=""/>
-  <spirit endTime="" id="1236" lv="LV.15" name="参果果" scene="287" startTime=""/>
-  <spirit endTime="" id="1326" lv="LV.10" name="拉卜卜" scene="287" startTime=""/>
-  <spirit endTime="" id="1243" lv="LV.15" name="小芝灵" scene="287" startTime=""/>
-  <spirit endTime="" id="1706" lv="LV.15" name="锄头掰掰" scene="412" startTime=""/>
-  <spirit endTime="" id="701" lv="LV.15" name="棒棒花" scene="412" startTime=""/>
-  <spirit endTime="" id="715" lv="LV.10" name="可爱柳" scene="413" startTime=""/>
-  <spirit endTime="" id="603" lv="LV.10～15" name="番茄小弟" scene="414" startTime=""/>
-  <spirit endTime="" id="1004" lv="LV.10～15" name="玉米宝宝" scene="414" startTime=""/>
-  <spirit endTime="" id="1179" lv="LV.10～15" name="雨蝶" scene="417" startTime=""/>
-  <spirit endTime="" id="1440" lv="LV.10" name="青萌鱼鱼" scene="417" startTime=""/>
-  <spirit endTime="" id="437" lv="LV.10～15" name="朝天蟹" scene="417" startTime=""/>
-  <spirit endTime="" id="1182" lv="LV.8～10" name="小电豹" scene="282" startTime=""/>
-  <spirit endTime="" id="561" lv="LV.10～15" name="古筝" scene="282" startTime=""/>
-  <spirit endTime="" id="1184" lv="LV.8～10" name="小雷虎" scene="282" startTime=""/>
-  <spirit endTime="" id="993" lv="LV.15" name="萌多" scene="244" startTime=""/>
-  <spirit endTime="" id="230" lv="LV.10～15" name="小天马" scene="244" startTime=""/>
-  <spirit endTime="" id="877" lv="LV.10～15" name="雷萌" scene="244" startTime=""/>
-  <spirit endTime="" id="878" lv="LV.8～10" name="绿翼鸟" scene="245" startTime=""/>
-  <spirit endTime="" id="550" lv="LV.8～10" name="冥想泡泡" scene="245" startTime=""/>
-  <spirit endTime="" id="990" lv="LV.8～10" name="萌少" scene="245" startTime=""/>
-  <spirit endTime="" id="1112" lv="LV.10" name="骁勇骑士" scene="339" startTime=""/>
-  <spirit endTime="" id="1000" lv="LV.15" name="执着灵兽" scene="339" startTime=""/>
-  <spirit endTime="" id="1354" lv="LV.8～10" name="云翼紫龙" scene="424" startTime=""/>
-  <spirit endTime="" id="958" lv="LV.8～10" name="红顶剑龙" scene="424" startTime=""/>
-  <spirit endTime="" id="1104" lv="LV.15" name="梦想兽" scene="424" startTime=""/>
-  <spirit endTime="" id="232" lv="LV.15" name="小翼龙" scene="265" startTime=""/>
-  <spirit endTime="" id="279" lv="LV.15" name="小蛋蛋龙" scene="265" startTime=""/>
-  <spirit endTime="" id="541" lv="LV.10" name="齿龙" scene="423" startTime=""/>
-  <spirit endTime="" id="1015" lv="LV.10" name="紫幽龙" scene="423" startTime=""/>
-  <spirit endTime="" id="1365" lv="LV.10" name="橙灵" scene="64" startTime=""/>
-  <spirit endTime="" id="531" lv="LV.15" name="小独角兽" scene="64" startTime=""/>
-  <spirit endTime="" id="1368" lv="LV.8～10" name="绿灵" scene="306" startTime=""/>
-  <spirit endTime="" id="1380" lv="LV.10～15" name="紫灵" scene="306" startTime=""/>
-  <spirit endTime="" id="1371" lv="LV.15" name="彩嘟嘟" scene="306" startTime=""/>
-  <spirit endTime="" id="1377" lv="LV.10～15" name="彩灵" scene="306" startTime=""/>
-  <spirit endTime="" id="861" lv="LV.10～15" name="骨族巫师" scene="236" startTime=""/>
-  <spirit endTime="" id="863" lv="LV.10～15" name="石族战士" scene="236" startTime=""/>
-  <spirit endTime="" id="861" lv="LV.10～15" name="骨族巫师" scene="234" startTime=""/>
-  <spirit endTime="" id="988" lv="LV.10" name="彩蛋豆豆" scene="234" startTime=""/>
-  <spirit endTime="" id="988" lv="LV.10" name="彩蛋豆豆" scene="235" startTime=""/>
-  <spirit endTime="" id="959" lv="LV.10" name="阿帕苏" scene="235" startTime=""/>
-  <spirit endTime="" id="859" lv="LV.10" name="飞刀小木" scene="238" startTime=""/>
-  <spirit endTime="" id="865" lv="LV.8～10" name="图腾飞侠" scene="238" startTime=""/>
-  <spirit endTime="" id="863" lv="LV.8～10" name="石族战士" scene="239" startTime=""/>
-  <spirit endTime="" id="865" lv="LV.8～10" name="图腾飞侠" scene="239" startTime=""/>
-  <spirit endTime="" id="1504" lv="LV.10～15" name="小巴哥" scene="336" startTime=""/>
-  <spirit endTime="" id="1555" lv="LV.10～15" name="大眼蜂" scene="157" startTime=""/>
-  <spirit endTime="" id="1521" lv="LV.10～15" name="啾啾驴" scene="156" startTime=""/>
-  <spirit endTime="" id="1314" lv="LV.10～15" name="小荷灵" scene="134" startTime=""/>
-  <spirit endTime="" id="1533" lv="LV.8～10" name="幽灵叽叽" scene="321" startTime=""/>
-  <spirit endTime="" id="362" lv="LV.8～10" name="幽冥灯" scene="321" startTime=""/>
-  <spirit endTime="" id="25" lv="LV.8～10" name="咔咔羽毛" scene="341" startTime=""/>
-  <spirit endTime="" id="474" lv="LV.8～10" name="绿芽蛋蛋" scene="341" startTime=""/>
-  <spirit endTime="" id="1681" lv="LV.10～15" name="福圈宝箱怪" scene="342" startTime=""/>
-  <spirit endTime="" id="1677" lv="LV.10～15" name="图图" scene="342" startTime=""/>
-  <spirit endTime="" id="1416" lv="LV.10～15" name="奶嘴萌星" scene="360" startTime=""/>
-  <spirit endTime="" id="1422" lv="LV.10～15" name="迷糊水母" scene="360" startTime=""/>
-  <spirit endTime="" id="1429" lv="LV.10～15" name="烟斗小宝" scene="359" startTime=""/>
-  <spirit endTime="" id="1417" lv="LV.10～15" name="草莓蟹宝宝" scene="359" startTime=""/>
-  <spirit endTime="" id="1424" lv="LV.10" name="斯内克" scene="353" startTime=""/>
-  <spirit endTime="" id="1434" lv="LV.10" name="板牙小鲨" scene="353" startTime=""/>
-  <spirit endTime="" id="1487" lv="LV.10" name="幽冰小主" scene="371" startTime=""/>
-  <spirit endTime="" id="1468" lv="LV.8～10" name="暗黑陶陶" scene="371" startTime=""/>
-  <spirit endTime="" id="841" lv="LV.8～10" name="幽冥胆小鬼" scene="371" startTime=""/>
-  <spirit endTime="" id="754" lv="LV.8～10" name="火山岩" scene="355" startTime=""/>
-  <spirit endTime="" id="1024" lv="LV.10～15" name="火先锋" scene="355" startTime=""/>
-  <spirit endTime="" id="1022" lv="LV.15" name="治愈火娃" scene="355" startTime=""/>
-  <spirit endTime="" id="1205" lv="LV.15" name="圣诞小企鹅" scene="285" startTime=""/>
-  <spirit endTime="" id="1210" lv="LV.10～15" name="天使小萌" scene="285" startTime=""/>
-  <spirit endTime="" id="1077" lv="LV.10～15" name="霜刃豹" scene="406" startTime=""/>
-  <spirit endTime="" id="175" lv="LV.10～15" name="雪灵兽" scene="406" startTime=""/>
-  <spirit endTime="" id="129" lv="LV.10" name="雪精灵" scene="126" startTime=""/>
-  <spirit endTime="" id="1172" lv="LV.10" name="小图" scene="372" startTime=""/>
-  <spirit endTime="" id="1157" lv="LV.10" name="晶尾蝎" scene="372" startTime=""/>
-  <spirit endTime="" id="1477" lv="LV.10" name="镰刀使者" scene="375" startTime=""/>
-  <spirit endTime="" id="1475" lv="LV.10" name="蹄小兵" scene="375" startTime=""/>
-  <spirit endTime="" id="1455" lv="LV.10" name="暗黑小丸子" scene="375" startTime=""/>
-  <spirit endTime="" id="1328" lv="LV.15" name="铁项战灵" scene="256" startTime=""/>
-  <spirit endTime="" id="1058" lv="LV.15" name="金肩兽" scene="256" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.20～25" name="豆豆龙" scene="394" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.20～25" name="罗达械" scene="394" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.20～25" name="豆豆龙" scene="139" startTime=""/>
-  <spirit endTime="" id="216" lv="LV.20～25" name="豆豆龙" scene="268" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.25～30" name="机甲壳" scene="268" startTime=""/>
-  <spirit endTime="" id="317" lv="LV.10～20" name="小机械贝贝" scene="268" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.20～25" name="罗达械" scene="269" startTime=""/>
-  <spirit endTime="" id="234" lv="LV.20～25" name="机甲壳" scene="269" startTime=""/>
-  <spirit endTime="" id="317" lv="LV.10～20" name="小机械贝贝" scene="269" startTime=""/>
-  <spirit endTime="" id="261" lv="LV.20～25" name="罗达械" scene="270" startTime=""/>
-  <spirit endTime="" id="1129" lv="LV.20～25" name="机械怪蛋" scene="270" startTime=""/>
-  <spirit endTime="" id="1131" lv="LV.20～25" name="锯轮" scene="271" startTime=""/>
-  <spirit endTime="" id="1129" lv="LV.10～15" name="机械怪蛋" scene="271" startTime=""/>
-  <spirit endTime="" id="985" lv="LV.45～60" name="布袋宝宝" scene="449" startTime=""/>
-  <spirit endTime="" id="907" lv="LV.45～60" name="飞炮猴" scene="449" startTime=""/>
-  <spirit endTime="" id="489" lv="LV.45～60" name="灵狐" scene="449" startTime=""/>
-  <spirit endTime="" id="447" lv="LV.30～45" name="兔尾绒" scene="456" startTime=""/>
-  <spirit endTime="" id="868" lv="LV.30～45" name="金羚雀" scene="456" startTime=""/>
-  <spirit endTime="" id="3026" lv="LV.10" name="玉角兽" scene="456" startTime=""/>
-  <spirit endTime="" id="910" lv="LV.30～45" name="蛋小乐" scene="458" startTime=""/>
-  <spirit endTime="" id="1705" lv="LV.30～45" name="努力果树" scene="458" startTime=""/>
-  <spirit endTime="" id="3027" lv="LV.10" name="长耳灵兽" scene="458" startTime=""/>
-  <spirit endTime="" id="370" lv="LV.10～15" name="雪豆丁" scene="170" startTime=""/>
-  <spirit endTime="" id="160" lv="LV.10～15" name="冰原剑" scene="170" startTime=""/>
-  <spirit endTime="" id="370" lv="LV.10～15" name="雪豆丁" scene="175" startTime=""/>
-  <spirit endTime="" id="160" lv="LV.10～15" name="冰原剑" scene="175" startTime=""/>
-  <spirit endTime="" id="373" lv="LV.10" name="跳跳企鹅" scene="175" startTime=""/>
-  <spirit endTime="" id="172" lv="LV.10～15" name="小奥可" scene="181" startTime=""/>
-  <spirit endTime="" id="178" lv="LV.10～15" name="科多" scene="181" startTime=""/>
-  <spirit endTime="" id="178" lv="LV.10～15" name="科多" scene="182" startTime=""/>
-  <spirit endTime="" id="775" lv="LV.10～15" name="雪天娃娃" scene="182" startTime=""/>
-  <spirit endTime="" id="676" lv="LV.10" name="冰晶狼崽" scene="182" startTime=""/>
-  <spirit endTime="" id="379" lv="LV.10～15" name="布鲁斯" scene="187" startTime=""/>
-  <spirit endTime="" id="178" lv="LV.10～15" name="科多" scene="187" startTime=""/>
-  <spirit endTime="" id="775" lv="LV.10～15" name="雪天娃娃" scene="187" startTime=""/>
-  <spirit endTime="" id="96" lv="LV.10～15" name="呼呼猪" scene="188" startTime=""/>
-  <spirit endTime="" id="160" lv="LV.10～15" name="冰原剑" scene="188" startTime=""/>
-  <spirit endTime="" id="775" lv="LV.10～15" name="雪天娃娃" scene="188" startTime=""/>
-  <spirit endTime="" id="1908" lv="LV.10" name="水晶鹿" scene="188" startTime=""/>
-  <spirit endTime="" id="52" lv="LV.24～26" name="生命蓝灵" scene="161" startTime=""/>
+<spirit endTime="" id="237" lv="LV.60" name="格斗小五" scene="20101" startTime=""/>
+<spirit endTime="" id="240" lv="LV.60" name="小火猴" scene="20101" startTime=""/>
+<spirit endTime="" id="240" lv="LV.61" name="小火猴" scene="20102" startTime=""/>
+<spirit endTime="" id="237" lv="LV.61" name="格斗小五" scene="20102" startTime=""/>
+<spirit endTime="" id="237" lv="LV.62" name="格斗小五" scene="20103" startTime=""/>
+<spirit endTime="" id="240" lv="LV.62" name="小火猴" scene="20103" startTime=""/>
+<spirit endTime="" id="47" lv="LV.62" name="小布石" scene="20103" startTime=""/>
+<spirit endTime="" id="238" lv="LV.63" name="格斗小六" scene="20104" startTime=""/>
+<spirit endTime="" id="241" lv="LV.63" name="拳套猴" scene="20104" startTime=""/>
+<spirit endTime="" id="128" lv="LV.63" name="冰封怨灵" scene="20104" startTime=""/>
+<spirit endTime="" id="239" lv="LV.64" name="格斗小七" scene="20105" startTime=""/>
+<spirit endTime="" id="242" lv="LV.64" name="火爆猴" scene="20105" startTime=""/>
+<spirit endTime="" id="30" lv="LV.65" name="多多" scene="20201" startTime=""/>
+<spirit endTime="" id="33" lv="LV.65" name="路路" scene="20201" startTime=""/>
+<spirit endTime="" id="30" lv="LV.66" name="多多" scene="20202" startTime=""/>
+<spirit endTime="" id="33" lv="LV.66" name="路路" scene="20202" startTime=""/>
+<spirit endTime="" id="36" lv="LV.66" name="超音蝠" scene="20202" startTime=""/>
+<spirit endTime="" id="31" lv="LV.67" name="多啦多" scene="20203" startTime=""/>
+<spirit endTime="" id="34" lv="LV.67" name="路路尼" scene="20203" startTime=""/>
+<spirit endTime="" id="37" lv="LV.67" name="扁嘴蝠" scene="20203" startTime=""/>
+<spirit endTime="" id="62" lv="LV.67" name="格斗小八" scene="20203" startTime=""/>
+<spirit endTime="" id="31" lv="LV.68" name="多啦多" scene="20204" startTime=""/>
+<spirit endTime="" id="34" lv="LV.68" name="路路尼" scene="20204" startTime=""/>
+<spirit endTime="" id="37" lv="LV.68" name="扁嘴蝠" scene="20204" startTime=""/>
+<spirit endTime="" id="29" lv="LV.68" name="遁鼠" scene="20204" startTime=""/>
+<spirit endTime="" id="31" lv="LV.69" name="多啦多" scene="20205" startTime=""/>
+<spirit endTime="" id="34" lv="LV.69" name="路路尼" scene="20205" startTime=""/>
+<spirit endTime="" id="249" lv="LV.70" name="小玲鹿" scene="20301" startTime=""/>
+<spirit endTime="" id="252" lv="LV.70" name="小钻鼠" scene="20301" startTime=""/>
+<spirit endTime="" id="47" lv="LV.70" name="小布石" scene="20301" startTime=""/>
+<spirit endTime="" id="249" lv="LV.71" name="小玲鹿" scene="20302" startTime=""/>
+<spirit endTime="" id="252" lv="LV.71" name="小钻鼠" scene="20302" startTime=""/>
+<spirit endTime="" id="250" lv="LV.71" name="玲鹿" scene="20302" startTime=""/>
+<spirit endTime="" id="249" lv="LV.72" name="小玲鹿" scene="20303" startTime=""/>
+<spirit endTime="" id="252" lv="LV.72" name="小钻鼠" scene="20303" startTime=""/>
+<spirit endTime="" id="253" lv="LV.72" name="钻钻鼠" scene="20303" startTime=""/>
+<spirit endTime="" id="250" lv="LV.73" name="玲鹿" scene="20304" startTime=""/>
+<spirit endTime="" id="253" lv="LV.73" name="钻钻鼠" scene="20304" startTime=""/>
+<spirit endTime="" id="32" lv="LV.74" name="古啦多" scene="20305" startTime=""/>
+<spirit endTime="" id="35" lv="LV.74" name="古路尼" scene="20305" startTime=""/>
+<spirit endTime="" id="79" lv="LV.75" name="圆眼蜘蛛" scene="20401" startTime=""/>
+<spirit endTime="" id="140" lv="LV.75" name="小草虫" scene="20401" startTime=""/>
+<spirit endTime="" id="143" lv="LV.75" name="小黄蜂" scene="20401" startTime=""/>
+<spirit endTime="" id="79" lv="LV.76" name="圆眼蜘蛛" scene="20402" startTime=""/>
+<spirit endTime="" id="140" lv="LV.76" name="小草虫" scene="20402" startTime=""/>
+<spirit endTime="" id="143" lv="LV.76" name="小黄蜂" scene="20402" startTime=""/>
+<spirit endTime="" id="79" lv="LV.77" name="圆眼蜘蛛" scene="20403" startTime=""/>
+<spirit endTime="" id="140" lv="LV.77" name="小草虫" scene="20403" startTime=""/>
+<spirit endTime="" id="143" lv="LV.77" name="小黄蜂" scene="20403" startTime=""/>
+<spirit endTime="" id="119" lv="LV.77" name="喷火鸟" scene="20403" startTime=""/>
+<spirit endTime="" id="80" lv="LV.78" name="尖角蜘蛛" scene="20404" startTime=""/>
+<spirit endTime="" id="141" lv="LV.78" name="草衣虫" scene="20404" startTime=""/>
+<spirit endTime="" id="144" lv="LV.78" name="黄蜂后" scene="20404" startTime=""/>
+<spirit endTime="" id="80" lv="LV.79" name="尖角蜘蛛" scene="20405" startTime=""/>
+<spirit endTime="" id="141" lv="LV.79" name="草衣虫" scene="20405" startTime=""/>
+<spirit endTime="" id="14" lv="LV.79" name="烈焰龙" scene="20405" startTime=""/>
+<spirit endTime="" id="243" lv="LV.80" name="乌达" scene="20501" startTime=""/>
+<spirit endTime="" id="246" lv="LV.80" name="独眼怪" scene="20501" startTime=""/>
+<spirit endTime="" id="124" lv="LV.80" name="暗夜骷颅" scene="20501" startTime=""/>
+<spirit endTime="" id="291" lv="LV.80" name="小地狱犬" scene="20501" startTime=""/>
+<spirit endTime="" id="243" lv="LV.81" name="乌达" scene="20502" startTime=""/>
+<spirit endTime="" id="246" lv="LV.81" name="独眼怪" scene="20502" startTime=""/>
+<spirit endTime="" id="124" lv="LV.81" name="暗夜骷颅" scene="20502" startTime=""/>
+<spirit endTime="" id="53" lv="LV.81" name="鬼雾" scene="20502" startTime=""/>
+<spirit endTime="" id="291" lv="LV.81" name="小地狱犬" scene="20502" startTime=""/>
+<spirit endTime="" id="243" lv="LV.82" name="乌达" scene="20503" startTime=""/>
+<spirit endTime="" id="246" lv="LV.82" name="独眼怪" scene="20503" startTime=""/>
+<spirit endTime="" id="244" lv="LV.82" name="迷你乌" scene="20503" startTime=""/>
+<spirit endTime="" id="247" lv="LV.82" name="独眼魔" scene="20503" startTime=""/>
+<spirit endTime="" id="291" lv="LV.82" name="小地狱犬" scene="20503" startTime=""/>
+<spirit endTime="" id="125" lv="LV.83" name="夜巨魔" scene="20504" startTime=""/>
+<spirit endTime="" id="54" lv="LV.83" name="邪雾" scene="20504" startTime=""/>
+<spirit endTime="" id="244" lv="LV.83" name="迷你乌" scene="20504" startTime=""/>
+<spirit endTime="" id="247" lv="LV.83" name="独眼魔" scene="20504" startTime=""/>
+<spirit endTime="" id="292" lv="LV.83" name="地狱三头犬" scene="20504" startTime=""/>
+<spirit endTime="" id="37" lv="LV.83" name="扁嘴蝠" scene="20504" startTime=""/>
+<spirit endTime="" id="243" lv="LV.84" name="乌达" scene="20505" startTime=""/>
+<spirit endTime="" id="247" lv="LV.84" name="独眼魔" scene="20505" startTime=""/>
+<spirit endTime="" id="124" lv="LV.84" name="暗夜骷颅" scene="20505" startTime=""/>
+<spirit endTime="" id="291" lv="LV.84" name="小地狱犬" scene="20505" startTime=""/>
+<spirit endTime="" id="58" lv="LV.85" name="蒲公英" scene="20601" startTime=""/>
+<spirit endTime="" id="226" lv="LV.85" name="小河马" scene="20601" startTime=""/>
+<spirit endTime="" id="228" lv="LV.85" name="飞鱼" scene="20601" startTime=""/>
+<spirit endTime="" id="124" lv="LV.85" name="暗夜骷颅" scene="20601" startTime=""/>
+<spirit endTime="" id="53" lv="LV.85" name="鬼雾" scene="20601" startTime=""/>
+<spirit endTime="" id="58" lv="LV.86" name="蒲公英" scene="20602" startTime=""/>
+<spirit endTime="" id="226" lv="LV.86" name="小河马" scene="20602" startTime=""/>
+<spirit endTime="" id="228" lv="LV.86" name="飞鱼" scene="20602" startTime=""/>
+<spirit endTime="" id="230" lv="LV.86" name="小天马" scene="20602" startTime=""/>
+<spirit endTime="" id="5" lv="LV.86" name="焰火" scene="20602" startTime=""/>
+<spirit endTime="" id="81" lv="LV.87" name="双灯鱼" scene="20603" startTime=""/>
+<spirit endTime="" id="58" lv="LV.87" name="蒲公英" scene="20603" startTime=""/>
+<spirit endTime="" id="226" lv="LV.87" name="小河马" scene="20603" startTime=""/>
+<spirit endTime="" id="228" lv="LV.87" name="飞鱼" scene="20603" startTime=""/>
+<spirit endTime="" id="119" lv="LV.87" name="喷火鸟" scene="20603" startTime=""/>
+<spirit endTime="" id="100" lv="LV.87" name="阿米樱" scene="20603" startTime=""/>
+<spirit endTime="" id="227" lv="LV.88" name="河马小天使" scene="20604" startTime=""/>
+<spirit endTime="" id="106" lv="LV.88" name="晕晕鸡" scene="20604" startTime=""/>
+<spirit endTime="" id="48" lv="LV.88" name="布莱石" scene="20604" startTime=""/>
+<spirit endTime="" id="59" lv="LV.88" name="大蒲公英" scene="20604" startTime=""/>
+<spirit endTime="" id="229" lv="LV.88" name="飞羽" scene="20604" startTime=""/>
+<spirit endTime="" id="231" lv="LV.88" name="独角兽" scene="20604" startTime=""/>
+<spirit endTime="" id="100" lv="LV.88" name="阿米樱" scene="20604" startTime=""/>
+<spirit endTime="" id="227" lv="LV.89" name="河马小天使" scene="20605" startTime=""/>
+<spirit endTime="" id="128" lv="LV.89" name="冰封怨灵" scene="20605" startTime=""/>
+<spirit endTime="" id="229" lv="LV.89" name="飞羽" scene="20605" startTime=""/>
+<spirit endTime="" id="231" lv="LV.89" name="独角兽" scene="20605" startTime=""/>
+<spirit endTime="" id="106" lv="LV.89" name="晕晕鸡" scene="20605" startTime=""/>
+<spirit endTime="" id="216" lv="LV.90" name="豆豆龙" scene="20701" startTime=""/>
+<spirit endTime="" id="234" lv="LV.90" name="机甲壳" scene="20701" startTime=""/>
+<spirit endTime="" id="261" lv="LV.90" name="罗达械" scene="20701" startTime=""/>
+<spirit endTime="" id="300" lv="LV.90" name="缇塔" scene="20701" startTime=""/>
+<spirit endTime="" id="317" lv="LV.90" name="小机械贝贝" scene="20701" startTime=""/>
+<spirit endTime="" id="216" lv="LV.91" name="豆豆龙" scene="20702" startTime=""/>
+<spirit endTime="" id="234" lv="LV.91" name="机甲壳" scene="20702" startTime=""/>
+<spirit endTime="" id="261" lv="LV.91" name="罗达械" scene="20702" startTime=""/>
+<spirit endTime="" id="300" lv="LV.91" name="缇塔" scene="20702" startTime=""/>
+<spirit endTime="" id="317" lv="LV.91" name="小机械贝贝" scene="20702" startTime=""/>
+<spirit endTime="" id="216" lv="LV.92" name="豆豆龙" scene="20703" startTime=""/>
+<spirit endTime="" id="234" lv="LV.92" name="机甲壳" scene="20703" startTime=""/>
+<spirit endTime="" id="261" lv="LV.92" name="罗达械" scene="20703" startTime=""/>
+<spirit endTime="" id="217" lv="LV.92" name="火箭龙" scene="20703" startTime=""/>
+<spirit endTime="" id="235" lv="LV.92" name="机械蜥蜴" scene="20703" startTime=""/>
+<spirit endTime="" id="262" lv="LV.92" name="罗达战车" scene="20703" startTime=""/>
+<spirit endTime="" id="301" lv="LV.92" name="声波缇塔" scene="20703" startTime=""/>
+<spirit endTime="" id="217" lv="LV.93" name="火箭龙" scene="20704" startTime=""/>
+<spirit endTime="" id="235" lv="LV.93" name="机械蜥蜴" scene="20704" startTime=""/>
+<spirit endTime="" id="262" lv="LV.93" name="罗达战车" scene="20704" startTime=""/>
+<spirit endTime="" id="301" lv="LV.93" name="声波缇塔" scene="20704" startTime=""/>
+<spirit endTime="" id="318" lv="LV.93" name="机械贝贝" scene="20704" startTime=""/>
+<spirit endTime="" id="217" lv="LV.94" name="火箭龙" scene="20705" startTime=""/>
+<spirit endTime="" id="235" lv="LV.94" name="机械蜥蜴" scene="20705" startTime=""/>
+<spirit endTime="" id="262" lv="LV.94" name="罗达战车" scene="20705" startTime=""/>
+<spirit endTime="" id="301" lv="LV.94" name="声波缇塔" scene="20705" startTime=""/>
+<spirit endTime="" id="318" lv="LV.94" name="机械贝贝" scene="20705" startTime=""/>
+<spirit endTime="" id="69" lv="LV.95" name="迷你利乌" scene="20801" startTime=""/>
+<spirit endTime="" id="186" lv="LV.95" name="哈古利乌" scene="20801" startTime=""/>
+<spirit endTime="" id="232" lv="LV.95" name="小翼龙" scene="20801" startTime=""/>
+<spirit endTime="" id="273" lv="LV.95" name="触须草龙" scene="20801" startTime=""/>
+<spirit endTime="" id="276" lv="LV.95" name="小花嘴龙" scene="20801" startTime=""/>
+<spirit endTime="" id="279" lv="LV.95" name="小蛋蛋龙" scene="20801" startTime=""/>
+<spirit endTime="" id="285" lv="LV.95" name="霹雳龙" scene="20801" startTime=""/>
+<spirit endTime="" id="69" lv="LV.96" name="迷你利乌" scene="20802" startTime=""/>
+<spirit endTime="" id="186" lv="LV.96" name="哈古利乌" scene="20802" startTime=""/>
+<spirit endTime="" id="232" lv="LV.96" name="小翼龙" scene="20802" startTime=""/>
+<spirit endTime="" id="273" lv="LV.96" name="触须草龙" scene="20802" startTime=""/>
+<spirit endTime="" id="276" lv="LV.96" name="小花嘴龙" scene="20802" startTime=""/>
+<spirit endTime="" id="279" lv="LV.96" name="小蛋蛋龙" scene="20802" startTime=""/>
+<spirit endTime="" id="285" lv="LV.96" name="霹雳龙" scene="20802" startTime=""/>
+<spirit endTime="" id="288" lv="LV.96" name="蒸汽龙" scene="20802" startTime=""/>
+<spirit endTime="" id="232" lv="LV.97" name="小翼龙" scene="20803" startTime=""/>
+<spirit endTime="" id="233" lv="LV.97" name="翼龙" scene="20803" startTime=""/>
+<spirit endTime="" id="273" lv="LV.97" name="触须草龙" scene="20803" startTime=""/>
+<spirit endTime="" id="274" lv="LV.97" name="触角草龙" scene="20803" startTime=""/>
+<spirit endTime="" id="276" lv="LV.97" name="小花嘴龙" scene="20803" startTime=""/>
+<spirit endTime="" id="277" lv="LV.97" name="花嘴龙" scene="20803" startTime=""/>
+<spirit endTime="" id="279" lv="LV.97" name="小蛋蛋龙" scene="20803" startTime=""/>
+<spirit endTime="" id="280" lv="LV.97" name="蛋蛋龙" scene="20803" startTime=""/>
+<spirit endTime="" id="289" lv="LV.97" name="蒸汽甲龙" scene="20803" startTime=""/>
+<spirit endTime="" id="288" lv="LV.98" name="蒸汽龙" scene="20804" startTime=""/>
+<spirit endTime="" id="233" lv="LV.98" name="翼龙" scene="20804" startTime=""/>
+<spirit endTime="" id="273" lv="LV.98" name="触须草龙" scene="20804" startTime=""/>
+<spirit endTime="" id="274" lv="LV.98" name="触角草龙" scene="20804" startTime=""/>
+<spirit endTime="" id="276" lv="LV.98" name="小花嘴龙" scene="20804" startTime=""/>
+<spirit endTime="" id="277" lv="LV.98" name="花嘴龙" scene="20804" startTime=""/>
+<spirit endTime="" id="279" lv="LV.98" name="小蛋蛋龙" scene="20804" startTime=""/>
+<spirit endTime="" id="280" lv="LV.98" name="蛋蛋龙" scene="20804" startTime=""/>
+<spirit endTime="" id="289" lv="LV.98" name="蒸汽甲龙" scene="20804" startTime=""/>
+<spirit endTime="" id="233" lv="LV.99" name="翼龙" scene="20805" startTime=""/>
+<spirit endTime="" id="277" lv="LV.99" name="花嘴龙" scene="20805" startTime=""/>
+<spirit endTime="" id="280" lv="LV.99" name="蛋蛋龙" scene="20805" startTime=""/>
+<spirit endTime="" id="286" lv="LV.99" name="霹雳石龙" scene="20805" startTime=""/>
+<spirit endTime="" id="289" lv="LV.99" name="蒸汽甲龙" scene="20805" startTime=""/>
+<spirit endTime="" id="290" lv="LV.99" name="蒸汽神龙" scene="20805" startTime=""/>
+<spirit endTime="" id="287" lv="LV.99" name="霹雳金龙" scene="20805" startTime=""/>
+<spirit endTime="" id="238" lv="LV.100" name="格斗小六" scene="20901" startTime=""/>
+<spirit endTime="" id="239" lv="LV.100" name="格斗小七" scene="20901" startTime=""/>
+<spirit endTime="" id="242" lv="LV.100" name="火爆猴" scene="20901" startTime=""/>
+<spirit endTime="" id="37" lv="LV.100" name="扁嘴蝠" scene="20902" startTime=""/>
+<spirit endTime="" id="35" lv="LV.100" name="古路尼" scene="20902" startTime=""/>
+<spirit endTime="" id="32" lv="LV.100" name="古啦多" scene="20902" startTime=""/>
+<spirit endTime="" id="144" lv="LV.100" name="黄蜂后" scene="20903" startTime=""/>
+<spirit endTime="" id="251" lv="LV.100" name="多角玲鹿" scene="20903" startTime=""/>
+<spirit endTime="" id="254" lv="LV.100" name="霹雳旋风鼠" scene="20903" startTime=""/>
+<spirit endTime="" id="144" lv="LV.100" name="黄蜂后" scene="20904" startTime=""/>
+<spirit endTime="" id="141" lv="LV.100" name="草衣虫" scene="20904" startTime=""/>
+<spirit endTime="" id="80" lv="LV.100" name="尖角蜘蛛" scene="20904" startTime=""/>
+<spirit endTime="" id="293" lv="LV.100" name="炎魔地狱犬" scene="20905" startTime=""/>
+<spirit endTime="" id="245" lv="LV.100" name="乌拉塔" scene="20905" startTime=""/>
+<spirit endTime="" id="248" lv="LV.100" name="独眼巨魔" scene="20905" startTime=""/>
+<spirit endTime="" id="229" lv="LV.100" name="飞羽" scene="20906" startTime=""/>
+<spirit endTime="" id="227" lv="LV.100" name="河马小天使" scene="20906" startTime=""/>
+<spirit endTime="" id="231" lv="LV.100" name="独角兽" scene="20906" startTime=""/>
+<spirit endTime="" id="218" lv="LV.100" name="火箭喷射龙" scene="20907" startTime=""/>
+<spirit endTime="" id="236" lv="LV.100" name="机械龙" scene="20907" startTime=""/>
+<spirit endTime="" id="319" lv="LV.100" name="鹿角贝贝" scene="20907" startTime=""/>
+<spirit endTime="" id="275" lv="LV.100" name="触灵飞龙" scene="20908" startTime=""/>
+<spirit endTime="" id="290" lv="LV.100" name="蒸汽神龙" scene="20908" startTime=""/>
+<spirit endTime="" id="281" lv="LV.100" name="藤蔓蛋龙" scene="20908" startTime=""/>
+<spirit endTime="" id="12" lv="LV.100" name="蹦蹦花" scene="20909" startTime=""/>
+<spirit endTime="" id="15" lv="LV.100" name="烈火飞龙" scene="20909" startTime=""/>
+<spirit endTime="" id="18" lv="LV.100" name="水泡壳" scene="20909" startTime=""/>
+<spirit endTime="" id="41" lv="LV.100" name="音速犬" scene="20909" startTime=""/>
+<spirit endTime="" id="10" lv="LV.1～6" name="蹦蹦种子" scene="18" startTime=""/>
+<spirit endTime="" id="58" lv="LV.5～10" name="蒲公英" scene="18" startTime=""/>
+<spirit endTime="" id="58" lv="LV.9～13" name="蒲公英" scene="33" startTime=""/>
+<spirit endTime="" id="70" lv="LV.11～16" name="奇丽草" scene="33" startTime=""/>
+<spirit endTime="" id="70" lv="LV.15～20" name="奇丽草" scene="34" startTime=""/>
+<spirit endTime="" id="102" lv="LV.20～25" name="丢丢" scene="34" startTime=""/>
+<spirit endTime="" id="16" lv="LV.20～23" name="板板壳" scene="19" startTime=""/>
+<spirit endTime="" id="108" lv="LV.21～24" name="大尾鱼" scene="19" startTime=""/>
+<spirit endTime="" id="108" lv="LV.22～25" name="大尾鱼" scene="36" startTime=""/>
+<spirit endTime="" id="45" lv="LV.23～26" name="翡翠水母" scene="36" startTime=""/>
+<spirit endTime="" id="185" lv="LV.24～27" name="镰刀卡布" scene="37" startTime=""/>
+<spirit endTime="" id="81" lv="LV.25～28" name="双灯鱼" scene="37" startTime=""/>
+<spirit endTime="" id="81" lv="LV.26～29" name="双灯鱼" scene="38" startTime=""/>
+<spirit endTime="" id="185" lv="LV.27～30" name="镰刀卡布" scene="38" startTime=""/>
+<spirit endTime="" id="40" lv="LV.25～28" name="护主犬" scene="52" startTime=""/>
+<spirit endTime="" id="105" lv="LV.26～29" name="可立鸡" scene="52" startTime=""/>
+<spirit endTime="" id="105" lv="LV.27～30" name="可立鸡" scene="53" startTime=""/>
+<spirit endTime="" id="118" lv="LV.28～31" name="呆火鸟" scene="53" startTime=""/>
+<spirit endTime="" id="118" lv="LV.29～32" name="呆火鸟" scene="54" startTime=""/>
+<spirit endTime="" id="13" lv="LV.30～33" name="火苗龙" scene="54" startTime=""/>
+<spirit endTime="" id="13" lv="LV.31～34" name="火苗龙" scene="55" startTime=""/>
+<spirit endTime="" id="688" lv="LV.32～35" name="可爱猿" scene="55" startTime=""/>
+<spirit endTime="" id="47" lv="LV.30～33" name="小布石" scene="40" startTime=""/>
+<spirit endTime="" id="28" lv="LV.31～34" name="地鼠" scene="40" startTime=""/>
+<spirit endTime="" id="28" lv="LV.32～35" name="地鼠" scene="41" startTime=""/>
+<spirit endTime="" id="66" lv="LV.33～36" name="蜗石贝" scene="41" startTime=""/>
+<spirit endTime="" id="66" lv="LV.34～37" name="蜗石贝" scene="42" startTime=""/>
+<spirit endTime="" id="138" lv="LV.35～38" name="独角龙" scene="42" startTime=""/>
+<spirit endTime="" id="138" lv="LV.36～39" name="独角龙" scene="43" startTime=""/>
+<spirit endTime="" id="99" lv="LV.37～40" name="阿米亚特" scene="43" startTime=""/>
+<spirit endTime="" id="219" lv="LV.21～23" name="空灵兽" scene="134" startTime=""/>
+<spirit endTime="" id="709" lv="LV.24～27" name="红爪精灵" scene="156" startTime=""/>
+<spirit endTime="" id="637" lv="LV.28～30" name="赤足蚁" scene="157" startTime=""/>
+<spirit endTime="" id="847" lv="LV.21～23" name="蒜头熊" scene="179" startTime=""/>
+<spirit endTime="" id="844" lv="LV.21～23" name="毒蛙" scene="179" startTime=""/>
+<spirit endTime="" id="844" lv="LV.24～26" name="毒蛙" scene="183" startTime=""/>
+<spirit endTime="" id="149" lv="LV.25～27" name="小蜂猴" scene="183" startTime=""/>
+<spirit endTime="" id="149" lv="LV.28～30" name="小蜂猴" scene="185" startTime=""/>
+<spirit endTime="" id="847" lv="LV.28～30" name="蒜头熊" scene="185" startTime=""/>
+<spirit endTime="" id="96" lv="LV.31～33" name="呼呼猪" scene="17" startTime=""/>
+<spirit endTime="" id="127" lv="LV.31～33" name="雪娃娃" scene="17" startTime=""/>
+<spirit endTime="" id="127" lv="LV.35～40" name="雪娃娃" scene="44" startTime=""/>
+<spirit endTime="" id="130" lv="LV.36～41" name="雪豹球" scene="44" startTime=""/>
+<spirit endTime="" id="130" lv="LV.37～42" name="雪豹球" scene="45" startTime=""/>
+<spirit endTime="" id="147" lv="LV.38～43" name="小雪人" scene="45" startTime=""/>
+<spirit endTime="" id="147" lv="LV.39～44" name="小雪人" scene="46" startTime=""/>
+<spirit endTime="" id="172" lv="LV.40～45" name="小奥可" scene="46" startTime=""/>
+<spirit endTime="" id="554" lv="LV.31～33" name="南瓜乐乐" scene="73" startTime=""/>
+<spirit endTime="" id="554" lv="LV.34～36" name="南瓜乐乐" scene="74" startTime=""/>
+<spirit endTime="" id="73" lv="LV.34～36" name="幽灵酷少" scene="74" startTime=""/>
+<spirit endTime="" id="73" lv="LV.37～39" name="幽灵酷少" scene="75" startTime=""/>
+<spirit endTime="" id="413" lv="LV.38～40" name="幽灵羊" scene="75" startTime=""/>
+<spirit endTime="" id="469" lv="LV.31～33" name="水跃鱼" scene="125" startTime=""/>
+<spirit endTime="" id="461" lv="LV.33～35" name="圈圈海龟" scene="125" startTime=""/>
+<spirit endTime="" id="461" lv="LV.36～38" name="圈圈海龟" scene="137" startTime=""/>
+<spirit endTime="" id="526" lv="LV.38～40" name="呆呆蛙" scene="137" startTime=""/>
+<spirit endTime="" id="50" lv="LV.41～42" name="电圈怪" scene="59" startTime=""/>
+<spirit endTime="" id="56" lv="LV.41～42" name="闪电球" scene="59" startTime=""/>
+<spirit endTime="" id="56" lv="LV.43～44" name="闪电球" scene="60" startTime=""/>
+<spirit endTime="" id="87" lv="LV.43～44" name="电咩咩" scene="60" startTime=""/>
+<spirit endTime="" id="87" lv="LV.45～46" name="电咩咩" scene="131" startTime=""/>
+<spirit endTime="" id="135" lv="LV.45～46" name="小星光" scene="131" startTime=""/>
+<spirit endTime="" id="135" lv="LV.47～48" name="小星光" scene="154" startTime=""/>
+<spirit endTime="" id="398" lv="LV.47～48" name="电精战士" scene="154" startTime=""/>
+<spirit endTime="" id="398" lv="LV.49～50" name="电精战士" scene="61" startTime=""/>
+<spirit endTime="" id="961" lv="LV.49～50" name="音乐球球" scene="61" startTime=""/>
+<spirit endTime="" id="577" lv="LV.60" name="幽影蛇" scene="141" startTime=""/>
+<spirit endTime="" id="591" lv="LV.60" name="幽暗蟹" scene="141" startTime=""/>
+<spirit endTime="" id="591" lv="LV.60" name="幽暗蟹" scene="202" startTime=""/>
+<spirit endTime="" id="395" lv="LV.60" name="黑暗盖迪" scene="202" startTime=""/>
+<spirit endTime="" id="395" lv="LV.60" name="黑暗盖迪" scene="143" startTime=""/>
+<spirit endTime="" id="184" lv="LV.60" name="意志紫灵" scene="143" startTime=""/>
+<spirit endTime="" id="184" lv="LV.60" name="意志紫灵" scene="132" startTime=""/>
+<spirit endTime="" id="114" lv="LV.60" name="迷迷眼" scene="132" startTime=""/>
+<spirit endTime="" id="114" lv="LV.60" name="迷迷眼" scene="142" startTime=""/>
+<spirit endTime="" id="661" lv="LV.60" name="邪恶纺锤" scene="142" startTime=""/>
+<spirit endTime="" id="721" lv="LV.41～42" name="蓝朵" scene="145" startTime=""/>
+<spirit endTime="" id="736" lv="LV.41～42" name="呆目水母" scene="145" startTime=""/>
+<spirit endTime="" id="736" lv="LV.43～44" name="呆目水母" scene="146" startTime=""/>
+<spirit endTime="" id="760" lv="LV.43～44" name="酱油鱼" scene="146" startTime=""/>
+<spirit endTime="" id="760" lv="LV.45～46" name="酱油鱼" scene="148" startTime=""/>
+<spirit endTime="" id="718" lv="LV.45～46" name="符咒鲨" scene="148" startTime=""/>
+<spirit endTime="" id="718" lv="LV.47～48" name="符咒鲨" scene="147" startTime=""/>
+<spirit endTime="" id="733" lv="LV.47～48" name="锡拉" scene="147" startTime=""/>
+<spirit endTime="" id="733" lv="LV.49～50" name="锡拉" scene="150" startTime=""/>
+<spirit endTime="" id="621" lv="LV.49～50" name="米希" scene="150" startTime=""/>
+<spirit endTime="" id="621" lv="LV.49～50" name="米希" scene="149" startTime=""/>
+<spirit endTime="" id="188" lv="LV.49～50" name="十字蝌蚪" scene="149" startTime=""/>
+<spirit endTime="" id="315" lv="LV.41～42" name="小甲基丸" scene="88" startTime=""/>
+<spirit endTime="" id="246" lv="LV.41～42" name="独眼怪" scene="88" startTime=""/>
+<spirit endTime="" id="246" lv="LV.43～44" name="独眼怪" scene="89" startTime=""/>
+<spirit endTime="" id="291" lv="LV.43～44" name="小地狱犬" scene="89" startTime=""/>
+<spirit endTime="" id="291" lv="LV.45～46" name="小地狱犬" scene="90" startTime=""/>
+<spirit endTime="" id="338" lv="LV.45～46" name="恶魔猪" scene="90" startTime=""/>
+<spirit endTime="" id="338" lv="LV.47～48" name="恶魔猪" scene="91" startTime=""/>
+<spirit endTime="" id="214" lv="LV.47～48" name="萤火幽灵" scene="91" startTime=""/>
+<spirit endTime="" id="214" lv="LV.30～35" name="萤火幽灵" scene="93" startTime=""/>
+<spirit endTime="" id="875" lv="LV.49～50" name="小灵灵" scene="93" startTime=""/>
+<spirit endTime="" id="36" lv="LV.10～15" name="超音蝠" scene="20" startTime=""/>
+<spirit endTime="" id="143" lv="LV.10～15" name="小黄蜂" scene="20" startTime=""/>
+<spirit endTime="" id="143" lv="LV.52～54" name="小黄蜂" scene="62" startTime=""/>
+<spirit endTime="" id="228" lv="LV.52～54" name="飞鱼" scene="62" startTime=""/>
+<spirit endTime="" id="228" lv="LV.30～35" name="飞鱼" scene="140" startTime=""/>
+<spirit endTime="" id="187" lv="LV.53～55" name="羽多" scene="140" startTime=""/>
+<spirit endTime="" id="187" lv="LV.54～56" name="羽多" scene="64" startTime=""/>
+<spirit endTime="" id="367" lv="LV.43～45" name="鲁米" scene="100" startTime=""/>
+<spirit endTime="" id="652" lv="LV.43～45" name="甜筒丁丁" scene="100" startTime=""/>
+<spirit endTime="" id="652" lv="LV.43～45" name="甜筒丁丁" scene="126" startTime=""/>
+<spirit endTime="" id="181" lv="LV.43～45" name="呆桶企鹅" scene="126" startTime=""/>
+<spirit endTime="" id="745" lv="LV.51～53" name="小甲壳虫" scene="153" startTime=""/>
+<spirit endTime="" id="751" lv="LV.51～53" name="智慧虫" scene="153" startTime=""/>
+<spirit endTime="" id="751" lv="LV.52～54" name="智慧虫" scene="152" startTime=""/>
+<spirit endTime="" id="763" lv="LV.52～54" name="尖头皮靴" scene="152" startTime=""/>
+<spirit endTime="" id="763" lv="LV.53～55" name="尖头皮靴" scene="155" startTime=""/>
+<spirit endTime="" id="255" lv="LV.53～55" name="倒影娃娃" scene="155" startTime=""/>
+<spirit endTime="" id="332" lv="LV.51～53" name="小木乃伊" scene="165" startTime=""/>
+<spirit endTime="" id="359" lv="LV.51～53" name="武斗谋士" scene="165" startTime=""/>
+<spirit endTime="" id="2934" lv="LV.1～5" name="幽灵灵" scene="165" startTime=""/>
+<spirit endTime="" id="359" lv="LV.53～55" name="武斗谋士" scene="166" startTime=""/>
+<spirit endTime="" id="341" lv="LV.53～55" name="南瓜炸弹" scene="166" startTime=""/>
+<spirit endTime="" id="53" lv="LV.56～57" name="鬼雾" scene="68" startTime=""/>
+<spirit endTime="" id="92" lv="LV.56～57" name="梦游" scene="68" startTime=""/>
+<spirit endTime="" id="92" lv="LV.57～58" name="梦游" scene="69" startTime=""/>
+<spirit endTime="" id="124" lv="LV.57～58" name="暗夜骷颅" scene="69" startTime=""/>
+<spirit endTime="" id="124" lv="LV.58～59" name="暗夜骷颅" scene="70" startTime=""/>
+<spirit endTime="" id="463" lv="LV.58～59" name="念力兽" scene="70" startTime=""/>
+<spirit endTime="" id="463" lv="LV.59～60" name="念力兽" scene="71" startTime=""/>
+<spirit endTime="" id="312" lv="LV.59～60" name="恶魔独角兽" scene="71" startTime=""/>
+<spirit endTime="" id="531" lv="LV.56～58" name="小独角兽" scene="63" startTime=""/>
+<spirit endTime="" id="829" lv="LV.20～25" name="紫蝶虫" scene="63" startTime=""/>
+<spirit endTime="" id="531" lv="LV.56～58" name="小独角兽" scene="65" startTime=""/>
+<spirit endTime="" id="829" lv="LV.56～58" name="紫蝶虫" scene="65" startTime=""/>
+<spirit endTime="" id="829" lv="LV.57～59" name="紫蝶虫" scene="66" startTime=""/>
+<spirit endTime="" id="868" lv="LV.57～59" name="金羚雀" scene="66" startTime=""/>
+<spirit endTime="" id="868" lv="LV.58～60" name="金羚雀" scene="67" startTime=""/>
+<spirit endTime="" id="627" lv="LV.58～60" name="脆鸣鸟" scene="67" startTime=""/>
+<spirit endTime="" id="300" lv="LV.56～57" name="缇塔" scene="83" startTime=""/>
+<spirit endTime="" id="234" lv="LV.56～57" name="机甲壳" scene="83" startTime=""/>
+<spirit endTime="" id="234" lv="LV.57～58" name="机甲壳" scene="84" startTime=""/>
+<spirit endTime="" id="261" lv="LV.57～58" name="罗达械" scene="84" startTime=""/>
+<spirit endTime="" id="261" lv="LV.58～59" name="罗达械" scene="85" startTime=""/>
+<spirit endTime="" id="216" lv="LV.58～59" name="豆豆龙" scene="85" startTime=""/>
+<spirit endTime="" id="216" lv="LV.59～60" name="豆豆龙" scene="86" startTime=""/>
+<spirit endTime="" id="42" lv="LV.59～60" name="牵线木偶" scene="86" startTime=""/>
+<spirit endTime="" id="42" lv="LV.60～61" name="牵线木偶" scene="87" startTime=""/>
+<spirit endTime="" id="958" lv="LV.56～57" name="红顶剑龙" scene="78" startTime=""/>
+<spirit endTime="" id="276" lv="LV.56～57" name="小花嘴龙" scene="78" startTime=""/>
+<spirit endTime="" id="276" lv="LV.57～58" name="小花嘴龙" scene="82" startTime=""/>
+<spirit endTime="" id="273" lv="LV.57～58" name="触须草龙" scene="82" startTime=""/>
+<spirit endTime="" id="273" lv="LV.58～59" name="触须草龙" scene="80" startTime=""/>
+<spirit endTime="" id="285" lv="LV.58～59" name="霹雳龙" scene="80" startTime=""/>
+<spirit endTime="" id="285" lv="LV.59～60" name="霹雳龙" scene="79" startTime=""/>
+<spirit endTime="" id="288" lv="LV.59～60" name="蒸汽龙" scene="79" startTime=""/>
+<spirit endTime="" id="288" lv="LV.60～61" name="蒸汽龙" scene="81" startTime=""/>
+<spirit endTime="" id="69" lv="LV.60～61" name="迷你利乌" scene="81" startTime=""/>
+<spirit endTime="" id="335" lv="LV.56～58" name="恶魔狼" scene="169" startTime=""/>
+<spirit endTime="" id="356" lv="LV.56～58" name="小罗王" scene="169" startTime=""/>
+<spirit endTime="" id="356" lv="LV.57～59" name="小罗王" scene="167" startTime=""/>
+<spirit endTime="" id="347" lv="LV.57～59" name="铃铛鬼灵" scene="167" startTime=""/>
+<spirit endTime="" id="347" lv="LV.58～60" name="铃铛鬼灵" scene="168" startTime=""/>
+<spirit endTime="" id="350" lv="LV.58～60" name="雪浮灵" scene="168" startTime=""/>
+<spirit endTime="" id="667" lv="LV.21～23" name="贝瑟" scene="158" startTime=""/>
+<spirit endTime="" id="389" lv="LV.21～23" name="面包嘟嘟" scene="158" startTime=""/>
+<spirit endTime="" id="389" lv="LV.24～26" name="面包嘟嘟" scene="161" startTime=""/>
+<spirit endTime="" id="697" lv="LV.25～27" name="迷之石" scene="161" startTime=""/>
+<spirit endTime="" id="697" lv="LV.28～30" name="迷之石" scene="200" startTime=""/>
+<spirit endTime="" id="615" lv="LV.28～30" name="伏地兽" scene="200" startTime=""/>
+<spirit endTime="" id="379" lv="LV.42～45" name="布鲁斯" scene="100" startTime=""/>
+<spirit endTime="" id="370" lv="LV.42～45" name="雪豆丁" scene="100" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="68" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="68" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="69" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="69" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="70" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="70" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="71" startTime=""/>
+<spirit endTime="" id="585" lv="LV.10～20" name="毛懒懒" scene="71" startTime=""/>
+<spirit endTime="" id="646" lv="LV.25～30" name="小田田" scene="125" startTime=""/>
+<spirit endTime="" id="192" lv="LV.5～10" name="电狐" scene="59" startTime=""/>
+<spirit endTime="" id="192" lv="LV.5～10" name="电狐" scene="60" startTime=""/>
+<spirit endTime="" id="192" lv="LV.5～10" name="电狐" scene="61" startTime=""/>
+<spirit endTime="" id="582" lv="LV.20～25" name="煤球憨憨" scene="43" startTime=""/>
+<spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="52" startTime=""/>
+<spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="52" startTime=""/>
+<spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="53" startTime=""/>
+<spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="53" startTime=""/>
+<spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="54" startTime=""/>
+<spirit endTime="" id="535" lv="LV.10～15" name="小马驹" scene="54" startTime=""/>
+<spirit endTime="" id="536" lv="LV.45～48" name="千里赤云" scene="55" startTime=""/>
+<spirit endTime="" id="536" lv="LV.45～48" name="千里赤云" scene="55" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="88" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="88" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="89" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="89" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="90" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="90" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="91" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="91" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="93" startTime=""/>
+<spirit endTime="" id="404" lv="LV.10～15" name="鬼眼狂虫" scene="93" startTime=""/>
+<spirit endTime="" id="661" lv="LV.10～15" name="邪恶纺锤" scene="133" startTime=""/>
+<spirit endTime="" id="661" lv="LV.10～15" name="邪恶纺锤" scene="133" startTime=""/>
+<spirit endTime="" id="664" lv="LV.10～15" name="魔法水壶怪" scene="134" startTime=""/>
+<spirit endTime="" id="664" lv="LV.10～15" name="魔法水壶怪" scene="134" startTime=""/>
+<spirit endTime="" id="386" lv="LV.10～15" name="不倒叮当" scene="135" startTime=""/>
+<spirit endTime="" id="386" lv="LV.10～15" name="不倒叮当" scene="135" startTime=""/>
+<spirit endTime="" id="547" lv="LV.18～22" name="锯齿孢子" scene="137" startTime=""/>
+<spirit endTime="" id="730" lv="LV.10～15" name="红桃小丁" scene="137" startTime=""/>
+<spirit endTime="" id="757" lv="LV.10～15" name="小倒栽葱" scene="155" startTime=""/>
+<spirit endTime="" id="422" lv="LV.10～15" name="幼齿螳螂" scene="156" startTime=""/>
+<spirit endTime="" id="422" lv="LV.10～15" name="幼齿螳螂" scene="156" startTime=""/>
+<spirit endTime="" id="258" lv="LV.10～15" name="小曼陀罗猪" scene="157" startTime=""/>
+<spirit endTime="" id="555" lv="LV.10～15" name="小石头" scene="158" startTime=""/>
+<spirit endTime="" id="157" lv="LV.10～15" name="乖乖狼" scene="168" startTime=""/>
+<spirit endTime="" id="157" lv="LV.10～15" name="乖乖狼" scene="169" startTime=""/>
+<spirit endTime="" id="126" lv="LV.10～15" name="自由黄灵" scene="67" startTime=""/>
+<spirit endTime="" id="126" lv="LV.10～15" name="自由黄灵" scene="67" startTime=""/>
+<spirit endTime="" id="1" lv="LV.2～5" name="喵喵" scene="18" startTime=""/>
+<spirit endTime="" id="7" lv="LV.6～10" name="水蓝蓝" scene="36" startTime=""/>
+<spirit endTime="" id="4" lv="LV.6～10" name="火花" scene="52" startTime=""/>
+<spirit endTime="" id="205" lv="LV.10" name="果冻" scene="19" startTime=""/>
+<spirit endTime="" id="205" lv="LV.10" name="果冻" scene="36" startTime=""/>
+<spirit endTime="" id="205" lv="LV.10" name="果冻" scene="37" startTime=""/>
+<spirit endTime="" id="205" lv="LV.10" name="果冻" scene="38" startTime=""/>
+<spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="88" startTime=""/>
+<spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="89" startTime=""/>
+<spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="90" startTime=""/>
+<spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="91" startTime=""/>
+<spirit endTime="" id="335" lv="LV.10～15" name="恶魔狼" scene="93" startTime=""/>
+<spirit endTime="" id="425" lv="LV.15～20" name="呱呱" scene="103" startTime=""/>
+<spirit endTime="" id="297" lv="LV.20～30" name="幻象勇士" scene="95" startTime=""/>
+<spirit endTime="" id="606" lv="LV.5～10" name="火刺眼蜥蜴" scene="127" startTime=""/>
+<spirit endTime="" id="772" lv="LV.10～15" name="鬼火骷髅" scene="141" startTime=""/>
+<spirit endTime="" id="772" lv="LV.10～15" name="鬼火骷髅" scene="142" startTime=""/>
+<spirit endTime="" id="772" lv="LV.10～15" name="鬼火骷髅" scene="143" startTime=""/>
+<spirit endTime="" id="395" lv="LV.10～15" name="黑暗盖迪" scene="147" startTime=""/>
+<spirit endTime="" id="564" lv="LV.10～15" name="笔童" scene="133" startTime=""/>
+<spirit endTime="" id="967" lv="LV.10～15" name="鱼龙宝宝" scene="159" startTime=""/>
+<spirit endTime="" id="541" lv="LV.10～15" name="齿龙" scene="78" startTime=""/>
+<spirit endTime="" id="781" lv="LV.25～30" name="松果兽" scene="185" startTime=""/>
+<spirit endTime="" id="431" lv="LV.25～30" name="小灵灯笼" scene="110" startTime=""/>
+<spirit endTime="" id="1" lv="LV.5～10" name="喵喵" scene="127" startTime=""/>
+<spirit endTime="" id="4" lv="LV.5～10" name="火花" scene="127" startTime=""/>
+<spirit endTime="" id="7" lv="LV.5～10" name="水蓝蓝" scene="127" startTime=""/>
+<spirit endTime="" id="1" lv="LV.1" name="喵喵" scene="10001" startTime=""/>
+<spirit endTime="" id="4" lv="LV.1" name="火花" scene="10001" startTime=""/>
+<spirit endTime="" id="7" lv="LV.1" name="水蓝蓝" scene="10001" startTime=""/>
+<spirit endTime="" id="594" lv="LV.5～10" name="蓬蓬幼苗" scene="11000" startTime=""/>
+<spirit endTime="" id="600" lv="LV.5～10" name="小萝卜头" scene="11000" startTime=""/>
+<spirit endTime="" id="603" lv="LV.5～10" name="番茄小弟" scene="11000" startTime=""/>
+<spirit endTime="" id="631" lv="LV.5～10" name="鼓上蚤" scene="11000" startTime=""/>
+<spirit endTime="" id="416" lv="LV.5～10" name="斑斑竹" scene="11000" startTime=""/>
+<spirit endTime="" id="643" lv="LV.5～10" name="松土艾斯" scene="11000" startTime=""/>
+<spirit endTime="" id="63" lv="LV.5～10" name="阿蒙哞哞" scene="11000" startTime=""/>
+<spirit endTime="" id="643" lv="LV.5～10" name="松土艾斯" scene="11000" startTime=""/>
+<spirit endTime="" id="309" lv="LV.5～10" name="寄生菇菇" scene="11000" startTime=""/>
+<spirit endTime="" id="410" lv="LV.5～10" name="云翼雀" scene="11000" startTime=""/>
+<spirit endTime="" id="392" lv="LV.5～10" name="小奶牛" scene="11000" startTime=""/>
+<spirit endTime="" id="612" lv="LV.5～10" name="可爱趴趴" scene="11000" startTime=""/>
+<spirit endTime="" id="838" lv="LV.5～10" name="空明糖" scene="11000" startTime=""/>
+<spirit endTime="" id="633" lv="LV.10～15" name="肚兜面罩鼠" scene="173" startTime=""/>
+<spirit endTime="" id="252" lv="LV.10～15" name="小钻鼠" scene="173" startTime=""/>
+<spirit endTime="" id="492" lv="LV.10～15" name="可爱鼠" scene="173" startTime=""/>
+<spirit endTime="" id="509" lv="LV.10～15" name="线球鼠" scene="173" startTime=""/>
+<spirit endTime="" id="52" lv="LV.30～35" name="生命蓝灵" scene="200" startTime=""/>
+<spirit endTime="" id="30" lv="LV.2～5" name="多多" scene="58" startTime=""/>
+<spirit endTime="" id="133" lv="LV.2～5" name="小鼠獭" scene="58" startTime=""/>
+<spirit endTime="" id="40" lv="LV.2～5" name="护主犬" scene="58" startTime=""/>
+<spirit endTime="" id="115" lv="LV.10～15" name="多西" scene="95" startTime=""/>
+<spirit endTime="" id="206" lv="LV.10～15" name="小狮鹫" scene="95" startTime=""/>
+<spirit endTime="" id="449" lv="LV.15～20" name="桃花包子球" scene="103" startTime=""/>
+<spirit endTime="" id="452" lv="LV.15～20" name="清水之妖" scene="103" startTime=""/>
+<spirit endTime="" id="461" lv="LV.22～27" name="圈圈海龟" scene="105" startTime=""/>
+<spirit endTime="" id="558" lv="LV.12～17" name="棒棒柴" scene="110" startTime=""/>
+<spirit endTime="" id="449" lv="LV.25～30" name="桃花包子球" scene="110" startTime=""/>
+<spirit endTime="" id="452" lv="LV.25～30" name="清水之妖" scene="110" startTime=""/>
+<spirit endTime="" id="472" lv="LV.25～32" name="精魂" scene="106" startTime=""/>
+<spirit endTime="" id="497" lv="LV.25～32" name="失心魔" scene="106" startTime=""/>
+<spirit endTime="" id="477" lv="LV.28～35" name="流光镜" scene="107" startTime=""/>
+<spirit endTime="" id="480" lv="LV.28～35" name="焚香怪" scene="107" startTime=""/>
+<spirit endTime="" id="482" lv="LV.31～38" name="小荷" scene="108" startTime=""/>
+<spirit endTime="" id="487" lv="LV.31～38" name="蝶兰花" scene="108" startTime=""/>
+<spirit endTime="" id="447" lv="LV.34～41" name="兔尾绒" scene="109" startTime=""/>
+<spirit endTime="" id="495" lv="LV.34～41" name="五毒兽" scene="109" startTime=""/>
+<spirit endTime="" id="466" lv="LV.37～44" name="泪花犬" scene="112" startTime=""/>
+<spirit endTime="" id="506" lv="LV.37～44" name="熊猫秀才" scene="112" startTime=""/>
+<spirit endTime="" id="191" lv="LV.10～15" name="绿芽粘粘" scene="104" startTime=""/>
+<spirit endTime="" id="466" lv="LV.10～15" name="泪花犬" scene="104" startTime=""/>
+<spirit endTime="" id="564" lv="LV.28～35" name="笔童" scene="114" startTime=""/>
+<spirit endTime="" id="597" lv="LV.20～30" name="过桥米线" scene="118" startTime=""/>
+<spirit endTime="" id="89" lv="LV.20～30" name="格兰种子" scene="118" startTime=""/>
+<spirit endTime="" id="102" lv="LV.20～30" name="丢丢" scene="118" startTime=""/>
+<spirit endTime="" id="267" lv="LV.35～38" name="封印守卫" scene="129" startTime=""/>
+<spirit endTime="" id="273" lv="LV.35～38" name="触须草龙" scene="129" startTime=""/>
+<spirit endTime="" id="276" lv="LV.35～38" name="小花嘴龙" scene="129" startTime=""/>
+<spirit endTime="" id="474" lv="LV.25～32" name="绿芽蛋蛋" scene="130" startTime=""/>
+<spirit endTime="" id="89" lv="LV.25～32" name="格兰种子" scene="130" startTime=""/>
+<spirit endTime="" id="326" lv="LV.20～35" name="星星恶魔" scene="133" startTime=""/>
+<spirit endTime="" id="329" lv="LV.20～35" name="无牙恶魔" scene="133" startTime=""/>
+<spirit endTime="" id="350" lv="LV.20～35" name="雪浮灵" scene="133" startTime=""/>
+<spirit endTime="" id="33" lv="LV.32～35" name="路路" scene="135" startTime=""/>
+<spirit endTime="" id="226" lv="LV.32～35" name="小河马" scene="135" startTime=""/>
+<spirit endTime="" id="2037" lv="LV.10～15" name="呆呆鱼" scene="151" startTime=""/>
+<spirit endTime="" id="96" lv="LV.30～35" name="呼呼猪" scene="159" startTime=""/>
+<spirit endTime="" id="127" lv="LV.30～35" name="雪娃娃" scene="159" startTime=""/>
+<spirit endTime="" id="130" lv="LV.30～35" name="雪豹球" scene="159" startTime=""/>
+<spirit endTime="" id="367" lv="LV.30～35" name="鲁米" scene="159" startTime=""/>
+<spirit endTime="" id="370" lv="LV.30～35" name="雪豆丁" scene="159" startTime=""/>
+<spirit endTime="" id="379" lv="LV.30～35" name="布鲁斯" scene="159" startTime=""/>
+<spirit endTime="" id="760" lv="LV.30～35" name="酱油鱼" scene="159" startTime=""/>
+<spirit endTime="" id="733" lv="LV.30～35" name="锡拉" scene="159" startTime=""/>
+<spirit endTime="" id="721" lv="LV.30～35" name="蓝朵" scene="159" startTime=""/>
+<spirit endTime="" id="718" lv="LV.30～35" name="符咒鲨" scene="159" startTime=""/>
+<spirit endTime="" id="736" lv="LV.30～35" name="呆目水母" scene="159" startTime=""/>
+<spirit endTime="" id="469" lv="LV.30～35" name="水跃鱼" scene="159" startTime=""/>
+<spirit endTime="" id="185" lv="LV.30～35" name="镰刀卡布" scene="159" startTime=""/>
+<spirit endTime="" id="1426" lv="LV.10～15" name="嘟嘴豚" scene="162" startTime=""/>
+<spirit endTime="" id="163" lv="LV.10～15" name="斑斑猫" scene="173" startTime=""/>
+<spirit endTime="" id="28" lv="LV.10～15" name="地鼠" scene="173" startTime=""/>
+<spirit endTime="" id="706" lv="LV.10～15" name="机械方方" scene="208" startTime=""/>
+<spirit endTime="" id="652" lv="LV.10～15" name="甜筒丁丁" scene="26" startTime=""/>
+<spirit endTime="" id="724" lv="LV.10～15" name="雨天娃娃" scene="26" startTime=""/>
+<spirit endTime="2012-11-22" id="940" lv="LV.10～15" name="天蝎宝宝" scene="89" startTime="2012-10-28"/>
+<spirit endTime="2012-11-15" id="913" lv="LV.10～15" name="丑小鸭" scene="88" startTime="2012-11-09"/>
+<spirit endTime="2012-11-22" id="876" lv="LV.10～15" name="彩乐乐" scene="103" startTime="2012-11-16"/>
+<spirit endTime="2012-12-20" id="946" lv="LV.10～15" name="射手宝宝" scene="40" startTime="2012-11-23"/>
+<spirit endTime="" id="66" lv="LV.22～25" name="蜗石贝" scene="232" startTime=""/>
+<spirit endTime="" id="99" lv="LV.25～28" name="阿米亚特" scene="232" startTime=""/>
+<spirit endTime="2013-01-03" id="859" lv="LV.25～28" name="飞刀小木" scene="232" startTime="2012-12-07"/>
+<spirit endTime="2013-01-03" id="863" lv="LV.25～28" name="石族战士" scene="232" startTime="2012-12-21"/>
+<spirit endTime="2013-01-17" id="878" lv="LV.10～15" name="绿翼鸟" scene="183" startTime="2013-01-04"/>
+<spirit endTime="" id="550" lv="LV.20～23" name="冥想泡泡" scene="240" startTime=""/>
+<spirit endTime="" id="149" lv="LV.20～23" name="小蜂猴" scene="240" startTime=""/>
+<spirit endTime="" id="226" lv="LV.21～24" name="小河马" scene="241" startTime=""/>
+<spirit endTime="" id="228" lv="LV.21～24" name="飞鱼" scene="241" startTime=""/>
+<spirit endTime="" id="149" lv="LV.22～25" name="小蜂猴" scene="242" startTime=""/>
+<spirit endTime="" id="226" lv="LV.22～25" name="小河马" scene="242" startTime=""/>
+<spirit endTime="2013-01-24" id="880" lv="LV.10～15" name="小萌猪" scene="241" startTime="2013-01-11"/>
+<spirit endTime="2013-02-18" id="934" lv="LV.10～15" name="水瓶宝宝" scene="145" startTime="2013-01-20"/>
+<spirit endTime="2013-01-31" id="1001" lv="LV.10～15" name="格斗鸡仔" scene="241" startTime="2013-01-25"/>
+<spirit endTime="2013-02-28" id="993" lv="LV.10～15" name="萌多" scene="240" startTime="2013-02-01"/>
+<spirit endTime="2013-02-28" id="877" lv="LV.10～15" name="雷萌" scene="241" startTime="2013-02-08"/>
+<spirit endTime="2013-02-28" id="990" lv="LV.10～15" name="萌少" scene="242" startTime="2013-02-15"/>
+<spirit endTime="2013-02-28" id="775" lv="LV.10～15" name="雪天娃娃" scene="17" startTime="2013-02-01"/>
+<spirit endTime="2013-03-20" id="931" lv="LV.10～15" name="双鱼宝宝" scene="125" startTime="2013-02-19"/>
+<spirit endTime="2013-03-14" id="1013" lv="LV.10～15" name="冰石龙" scene="157" startTime="2013-03-01"/>
+<spirit endTime="2013-03-14" id="1015" lv="LV.10～15" name="紫幽龙" scene="157" startTime="2013-03-01"/>
+<spirit endTime="2013-04-11" id="1021" lv="LV.10～15" name="蓝胖子" scene="52" startTime="2013-03-15"/>
+<spirit endTime="2013-04-19" id="928" lv="LV.10～15" name="白羊宝宝" scene="52" startTime="2013-03-21"/>
+<spirit endTime="2013-04-11" id="1022" lv="LV.10～15" name="治愈火娃" scene="53" startTime="2013-03-21"/>
+<spirit endTime="2013-04-11" id="1024" lv="LV.10～15" name="火先锋" scene="54" startTime="2013-03-28"/>
+<spirit endTime="2013-04-25" id="1037" lv="LV.10～15" name="艾美丽" scene="111" startTime="2013-04-11"/>
+<spirit endTime="2013-05-20" id="970" lv="LV.10～15" name="金牛宝宝" scene="60" startTime="2013-04-20"/>
+<spirit endTime="2013-05-09" id="1047" lv="LV.10～15" name="艾雯" scene="111" startTime="2013-04-26"/>
+<spirit endTime="" id="1055" lv="LV.20～25" name="粉粉球" scene="249" startTime=""/>
+<spirit endTime="" id="1055" lv="LV.20～25" name="粉粉球" scene="250" startTime=""/>
+<spirit endTime="" id="1057" lv="LV.5～10" name="蹦蹦鼠" scene="11000" startTime=""/>
+<spirit endTime="2013-05-30" id="1059" lv="LV.10～15" name="蛇豆豆" scene="251" startTime="2013-05-10"/>
+<spirit endTime="2013-06-21" id="973" lv="LV.10～15" name="双子宝宝" scene="61" startTime="2013-05-21"/>
+<spirit endTime="2013-07-18" id="1077" lv="LV.10～15" name="霜刃豹" scene="17" startTime="2013-05-31"/>
+<spirit endTime="2013-07-18" id="1078" lv="LV.10～15" name="罗普尔" scene="40" startTime="2013-06-07"/>
+<spirit endTime="2013-07-22" id="937" lv="LV.10～15" name="巨蟹宝宝" scene="125" startTime="2013-06-22"/>
+<spirit endTime="2013-07-18" id="1080" lv="LV.10～15" name="火苗虎" scene="141" startTime="2013-06-22"/>
+<spirit endTime="2013-07-16" id="40" lv="LV.10～15" name="护主犬" scene="266" startTime="2013-07-15"/>
+<spirit endTime="2013-07-16" id="99" lv="LV.10～15" name="阿米亚特" scene="266" startTime="2013-07-15"/>
+<spirit endTime="2013-07-16" id="93" lv="LV.10～15" name="小帕尔萨斯" scene="266" startTime="2013-07-15"/>
+<spirit endTime="2013-08-22" id="976" lv="LV.10～15" name="狮子宝宝" scene="134" startTime="2013-07-23"/>
+<spirit endTime="" id="567" lv="LV.65" name="财多多" scene="21001" startTime=""/>
+<spirit endTime="" id="567" lv="LV.70" name="财多多" scene="21002" startTime=""/>
+<spirit endTime="" id="567" lv="LV.75" name="财多多" scene="21003" startTime=""/>
+<spirit endTime="" id="567" lv="LV.80" name="财多多" scene="21004" startTime=""/>
+<spirit endTime="" id="567" lv="LV.85" name="财多多" scene="21005" startTime=""/>
+<spirit endTime="" id="567" lv="LV.90" name="财多多" scene="21006" startTime=""/>
+<spirit endTime="" id="567" lv="LV.95" name="财多多" scene="21007" startTime=""/>
+<spirit endTime="" id="567" lv="LV.100" name="财多多" scene="21008" startTime=""/>
+<spirit endTime="" id="567" lv="LV.100" name="财多多" scene="21009" startTime=""/>
+<spirit endTime="" id="568" lv="LV.65" name="金豆豆" scene="21001" startTime=""/>
+<spirit endTime="" id="568" lv="LV.70" name="金豆豆" scene="21002" startTime=""/>
+<spirit endTime="" id="568" lv="LV.75" name="金豆豆" scene="21003" startTime=""/>
+<spirit endTime="" id="568" lv="LV.80" name="金豆豆" scene="21004" startTime=""/>
+<spirit endTime="" id="568" lv="LV.85" name="金豆豆" scene="21005" startTime=""/>
+<spirit endTime="" id="568" lv="LV.90" name="金豆豆" scene="21006" startTime=""/>
+<spirit endTime="" id="568" lv="LV.95" name="金豆豆" scene="21007" startTime=""/>
+<spirit endTime="" id="568" lv="LV.100" name="金豆豆" scene="21008" startTime=""/>
+<spirit endTime="" id="568" lv="LV.100" name="金豆豆" scene="21009" startTime=""/>
+<spirit endTime="" id="569" lv="LV.65" name="金宝宝" scene="21001" startTime=""/>
+<spirit endTime="" id="569" lv="LV.70" name="金宝宝" scene="21002" startTime=""/>
+<spirit endTime="" id="569" lv="LV.75" name="金宝宝" scene="21003" startTime=""/>
+<spirit endTime="" id="569" lv="LV.80" name="金宝宝" scene="21004" startTime=""/>
+<spirit endTime="" id="569" lv="LV.85" name="金宝宝" scene="21005" startTime=""/>
+<spirit endTime="" id="569" lv="LV.90" name="金宝宝" scene="21006" startTime=""/>
+<spirit endTime="" id="569" lv="LV.95" name="金宝宝" scene="21007" startTime=""/>
+<spirit endTime="" id="569" lv="LV.100" name="金宝宝" scene="21008" startTime=""/>
+<spirit endTime="" id="569" lv="LV.100" name="金宝宝" scene="21009" startTime=""/>
+<spirit endTime="" id="694" lv="LV.65" name="胆小狮子" scene="21001" startTime=""/>
+<spirit endTime="" id="694" lv="LV.70" name="胆小狮子" scene="21002" startTime=""/>
+<spirit endTime="" id="694" lv="LV.75" name="胆小狮子" scene="21003" startTime=""/>
+<spirit endTime="" id="694" lv="LV.80" name="胆小狮子" scene="21004" startTime=""/>
+<spirit endTime="" id="694" lv="LV.85" name="胆小狮子" scene="21005" startTime=""/>
+<spirit endTime="" id="694" lv="LV.90" name="胆小狮子" scene="21006" startTime=""/>
+<spirit endTime="" id="694" lv="LV.95" name="胆小狮子" scene="21007" startTime=""/>
+<spirit endTime="" id="694" lv="LV.100" name="胆小狮子" scene="21008" startTime=""/>
+<spirit endTime="" id="694" lv="LV.100" name="胆小狮子" scene="21009" startTime=""/>
+<spirit endTime="" id="695" lv="LV.65" name="玩具狮子" scene="21001" startTime=""/>
+<spirit endTime="" id="695" lv="LV.70" name="玩具狮子" scene="21002" startTime=""/>
+<spirit endTime="" id="695" lv="LV.75" name="玩具狮子" scene="21003" startTime=""/>
+<spirit endTime="" id="695" lv="LV.80" name="玩具狮子" scene="21004" startTime=""/>
+<spirit endTime="" id="695" lv="LV.85" name="玩具狮子" scene="21005" startTime=""/>
+<spirit endTime="" id="695" lv="LV.90" name="玩具狮子" scene="21006" startTime=""/>
+<spirit endTime="" id="695" lv="LV.95" name="玩具狮子" scene="21007" startTime=""/>
+<spirit endTime="" id="695" lv="LV.100" name="玩具狮子" scene="21008" startTime=""/>
+<spirit endTime="" id="695" lv="LV.100" name="玩具狮子" scene="21009" startTime=""/>
+<spirit endTime="" id="696" lv="LV.65" name="绒毛狮子" scene="21001" startTime=""/>
+<spirit endTime="" id="696" lv="LV.70" name="绒毛狮子" scene="21002" startTime=""/>
+<spirit endTime="" id="696" lv="LV.75" name="绒毛狮子" scene="21003" startTime=""/>
+<spirit endTime="" id="696" lv="LV.80" name="绒毛狮子" scene="21004" startTime=""/>
+<spirit endTime="" id="696" lv="LV.85" name="绒毛狮子" scene="21005" startTime=""/>
+<spirit endTime="" id="696" lv="LV.90" name="绒毛狮子" scene="21006" startTime=""/>
+<spirit endTime="" id="696" lv="LV.95" name="绒毛狮子" scene="21007" startTime=""/>
+<spirit endTime="" id="696" lv="LV.100" name="绒毛狮子" scene="21008" startTime=""/>
+<spirit endTime="" id="696" lv="LV.100" name="绒毛狮子" scene="21009" startTime=""/>
+<spirit endTime="2013-09-22" id="955" lv="LV.10～15" name="处女宝宝" scene="185" startTime="2013-09-04"/>
+<spirit endTime="2013-10-10" id="1143" lv="LV.10～15" name="龅牙兔" scene="18" startTime="2013-09-12"/>
+<spirit endTime="2013-10-23" id="943" lv="LV.10～15" name="天秤宝宝" scene="40" startTime="2013-09-22"/>
+<spirit endTime="" id="47" lv="LV.20～25" name="小布石" scene="279" startTime=""/>
+<spirit endTime="" id="28" lv="LV.20～25" name="地鼠" scene="279" startTime=""/>
+<spirit endTime="" id="47" lv="LV.20～25" name="小布石" scene="280" startTime=""/>
+<spirit endTime="" id="66" lv="LV.20～25" name="蜗石贝" scene="280" startTime=""/>
+<spirit endTime="2014-04-19" id="928" lv="LV.10～15" name="白羊宝宝" scene="52" startTime="2014-03-21"/>
+<spirit endTime="2014-05-20" id="970" lv="LV.10～15" name="金牛宝宝" scene="60" startTime="2014-04-20"/>
+<spirit endTime="2014-06-21" id="973" lv="LV.10～15" name="双子宝宝" scene="61" startTime="2014-05-21"/>
+<spirit endTime="2014-07-22" id="937" lv="LV.10～15" name="巨蟹宝宝" scene="125" startTime="2014-06-22"/>
+<spirit endTime="2014-08-22" id="976" lv="LV.10～15" name="狮子宝宝" scene="33" startTime="2014-07-23"/>
+<spirit endTime="2014-09-22" id="955" lv="LV.10～15" name="处女宝宝" scene="185" startTime="2014-08-23"/>
+<spirit endTime="2014-10-23" id="943" lv="LV.10～15" name="天秤宝宝" scene="40" startTime="2014-09-23"/>
+<spirit endTime="2013-11-22" id="940" lv="LV.10～15" name="天蝎宝宝" scene="232" startTime="2013-10-24"/>
+<spirit endTime="2013-12-21" id="946" lv="LV.10～15" name="射手宝宝" scene="158" startTime="2013-11-23"/>
+<spirit endTime="2014-01-19" id="925" lv="LV.10～15" name="摩羯宝宝" scene="17" startTime="2013-12-22"/>
+<spirit endTime="2014-02-18" id="934" lv="LV.10～15" name="水瓶宝宝" scene="145" startTime="2014-01-20"/>
+<spirit endTime="2014-03-20" id="931" lv="LV.10～15" name="双鱼宝宝" scene="125" startTime="2014-02-19"/>
+<spirit endTime="2013-11-14" id="1157" lv="LV.30" name="晶尾蝎" scene="280" startTime="2013-09-22"/>
+<spirit endTime="2013-11-28" id="99" lv="LV.20" name="阿米亚特" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="66" lv="LV.20" name="蜗石贝" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="47" lv="LV.20" name="小布石" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="40" lv="LV.20" name="护主犬" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="118" lv="LV.20" name="呆火鸟" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="28" lv="LV.20" name="地鼠" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="889" lv="LV.30" name="岩铠小将" scene="283" startTime="2013-09-19"/>
+<spirit endTime="2013-11-28" id="282" lv="LV.30" name="玛雅" scene="283" startTime="2013-09-19"/>
+<spirit endTime="" id="138" lv="LV.20～25" name="独角龙" scene="281" startTime=""/>
+<spirit endTime="" id="99" lv="LV.20～25" name="阿米亚特" scene="281" startTime=""/>
+<spirit endTime="" id="243" lv="LV.41～42" name="乌达" scene="88" startTime=""/>
+<spirit endTime="2013-12-26" id="205" lv="LV.20" name="果冻" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="454" lv="LV.20" name="清水领主" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="82" lv="LV.20" name="利灯鱼" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="109" lv="LV.20" name="黑当鱼" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="720" lv="LV.20" name="彩蝶鲨" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="723" lv="LV.20" name="蓝涛涛" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="939" lv="LV.30" name="利钳巨蟹" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2013-12-26" id="936" lv="LV.30" name="逍遥水瓶" scene="286" startTime="2013-09-19"/>
+<spirit endTime="2014-01-02" id="1202" lv="LV.10～15" name="红帽鸭吉吉" scene="17" startTime="2013-09-20"/>
+<spirit endTime="" id="58" lv="LV.15～20" name="蒲公英" scene="287" startTime=""/>
+<spirit endTime="" id="70" lv="LV.15～20" name="奇丽草" scene="287" startTime=""/>
+<spirit endTime="2013-02-20" id="50" lv="LV.20" name="电圈怪" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="56" lv="LV.20" name="闪电球" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="398" lv="LV.20" name="电精战士" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="28" lv="LV.20" name="地鼠" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="99" lv="LV.20" name="阿米亚特" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="66" lv="LV.20" name="蜗石贝" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="563" lv="LV.30" name="仙音" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-02-20" id="68" lv="LV.30" name="卡布托" scene="292" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="205" lv="LV.20" name="果冻" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="454" lv="LV.20" name="清水领主" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="228" lv="LV.20" name="飞鱼" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="226" lv="LV.20" name="小河马" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="143" lv="LV.20" name="小黄蜂" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="723" lv="LV.20" name="蓝涛涛" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="939" lv="LV.30" name="利钳巨蟹" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2013-03-20" id="915" lv="LV.30" name="美鹅鹅" scene="293" startTime="2013-09-19"/>
+<spirit endTime="2014-04-24" id="243" lv="LV.20" name="乌达" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="875" lv="LV.20" name="小灵灵" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="291" lv="LV.20" name="小地狱犬" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="276" lv="LV.20" name="小花嘴龙" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="273" lv="LV.20" name="触须草龙" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="335" lv="LV.20" name="恶魔狼" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="1163" lv="LV.30" name="小熊祭司" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-24" id="1101" lv="LV.30" name="恶灵豹" scene="296" startTime="2014-03-13"/>
+<spirit endTime="2014-04-07" id="359" lv="LV.15～20" name="武斗谋士" scene="297" startTime="2014-04-05"/>
+<spirit endTime="2014-04-07" id="506" lv="LV.15～20" name="熊猫秀才" scene="297" startTime="2014-04-05"/>
+<spirit endTime="2014-04-07" id="709" lv="LV.15～20" name="红爪精灵" scene="297" startTime="2014-04-05"/>
+<spirit endTime="2014-04-10" id="99" lv="LV.10～15" name="阿米亚特" scene="40" startTime="2014-03-06"/>
+<spirit endTime="" id="1004" lv="LV.5～10" name="玉米宝宝" scene="11000" startTime=""/>
+<spirit endTime="2014-05-08" id="657" lv="LV.10～15" name="雪影娃娃" scene="17" startTime="2013-04-11"/>
+<spirit endTime="" id="99" lv="LV.20～25" name="阿米亚特" scene="298" startTime=""/>
+<spirit endTime="" id="1333" lv="LV.20～25" name="棒棒酷熊" scene="298" startTime=""/>
+<spirit endTime="" id="1333" lv="LV.10～15" name="棒棒酷熊" scene="299" startTime=""/>
+<spirit endTime="" id="47" lv="LV.10～15" name="小布石" scene="299" startTime=""/>
+<spirit endTime="" id="469" lv="LV.25～30" name="水跃鱼" scene="302" startTime=""/>
+<spirit endTime="" id="1331" lv="LV.25～30" name="蛋壳小子" scene="302" startTime=""/>
+<spirit endTime="" id="1333" lv="LV.25～30" name="棒棒酷熊" scene="303" startTime=""/>
+<spirit endTime="" id="844" lv="LV.25～30" name="毒蛙" scene="303" startTime=""/>
+<spirit endTime="2014-05-25" id="175" lv="LV.43～45" name="雪灵兽" scene="126" startTime="2014-05-24"/>
+<spirit endTime="2014-05-29" id="129" lv="LV.42～45" name="雪精灵" scene="100" startTime="2014-05-23"/>
+<spirit endTime="" id="110" lv="LV.35～40" name="极地小熊" scene="44" startTime=""/>
+<spirit endTime="" id="1331" lv="LV.25～30" name="蛋壳小子" scene="304" startTime=""/>
+<spirit endTime="" id="1333" lv="LV.25～30" name="棒棒酷熊" scene="304" startTime=""/>
+<spirit endTime="" id="1357" lv="LV.20～25" name="黄灵" scene="305" startTime=""/>
+<spirit endTime="" id="1358" lv="LV.20～25" name="赤灵" scene="305" startTime=""/>
+<spirit endTime="" id="1376" lv="LV.20～25" name="蓝灵" scene="305" startTime=""/>
+<spirit endTime="2014-06-26" id="1364" lv="LV.30" name="白极圣王" scene="140" startTime="2014-05-01"/>
+<spirit endTime="2014-07-25" id="89" lv="LV.20" name="格兰种子" scene="308" startTime="2014-05-01"/>
+<spirit endTime="2014-07-25" id="102" lv="LV.20" name="丢丢" scene="308" startTime="2014-05-01"/>
+<spirit endTime="2014-07-25" id="70" lv="LV.20" name="奇丽草" scene="308" startTime="2014-05-01"/>
+<spirit endTime="2014-07-25" id="105" lv="LV.20" name="可立鸡" scene="308" startTime="2014-05-01"/>
+<spirit endTime="2014-07-25" id="108" lv="LV.20" name="大尾鱼" scene="308" startTime="2014-05-01"/>
+<spirit endTime="2014-07-25" id="389" lv="LV.20" name="面包嘟嘟" scene="308" startTime="2014-05-01"/>
+<spirit endTime="2014-11-06" id="465" lv="LV.20" name="控魂" scene="324" startTime="2013-09-12"/>
+<spirit endTime="2014-11-06" id="361" lv="LV.20" name="武斗宰相" scene="324" startTime="2013-09-12"/>
+<spirit endTime="2014-11-06" id="1021" lv="LV.20" name="蓝胖子" scene="324" startTime="2013-09-12"/>
+<spirit endTime="" id="844" lv="LV.20" name="毒蛙" scene="327" startTime=""/>
+<spirit endTime="" id="495" lv="LV.30" name="五毒兽" scene="327" startTime=""/>
+<spirit endTime="" id="66" lv="LV.20" name="蜗石贝" scene="328" startTime=""/>
+<spirit endTime="" id="447" lv="LV.30" name="兔尾绒" scene="328" startTime=""/>
+<spirit endTime="" id="1559" lv="LV.20～30" name="怪侠罗宾浣" scene="332" startTime=""/>
+<spirit endTime="" id="1563" lv="LV.20～30" name="百足先锋" scene="333" startTime=""/>
+<spirit endTime="2014-12-21" id="910" lv="LV.10" name="蛋小乐" scene="97" startTime="2014-12-20"/>
+<spirit endTime="2015-01-01" id="910" lv="LV.10" name="蛋小乐" scene="97" startTime="2015-01-01"/>
+<spirit endTime="" id="1559" lv="LV.20～30" name="怪侠罗宾浣" scene="334" startTime=""/>
+<spirit endTime="" id="1563" lv="LV.20～30" name="百足先锋" scene="334" startTime=""/>
+<spirit endTime="" id="1564" lv="LV.30" name="红角小诺" scene="334" startTime=""/>
+<spirit endTime="" id="1606" lv="LV.3～8" name="独角仙" scene="18" startTime=""/>
+<spirit endTime="" id="1600" lv="LV.27～30" name="墨镜小卡" scene="52" startTime=""/>
+<spirit endTime="" id="1602" lv="LV.32～35" name="萌陶陶" scene="40" startTime=""/>
+<spirit endTime="" id="1604" lv="LV.22～24" name="花菇子" scene="179" startTime=""/>
+<spirit endTime="2015-03-05" id="481" lv="LV.20" name="香魂" scene="107" startTime="2015-02-27"/>
+<spirit endTime="" id="700" isAct="1" lv="LV.25～30" name="向日葵" scene="185" startTime=""/>
+<spirit endTime="2015-05-01" id="1801" lv="LV.50" name="测试BOSS1" scene="347" startTime="2015-04-30"/>
+<spirit endTime="2015-05-01" id="1802" lv="LV.30" name="欧姐姐" scene="347" startTime="2015-04-30"/>
+<spirit endTime="2015-05-01" id="1803" lv="LV.30" name="测试花瓶2" scene="347" startTime="2015-04-30"/>
+<spirit endTime="2015-05-01" id="1804" lv="LV.30" name="老板" scene="347" startTime="2015-04-30"/>
+<spirit endTime="2015-05-02" id="1801" lv="LV.50" name="测试BOSS1" scene="347" startTime="2015-05-02"/>
+<spirit endTime="2015-05-02" id="1802" lv="LV.30" name="欧姐姐" scene="347" startTime="2015-05-02"/>
+<spirit endTime="2015-05-02" id="1803" lv="LV.30" name="测试花瓶2" scene="347" startTime="2015-05-02"/>
+<spirit endTime="2015-05-02" id="1804" lv="LV.30" name="老板" scene="347" startTime="2015-05-02"/>
+<spirit endTime="" id="485" lv="LV.45～50" name="邪恶玄武" scene="103" startTime=""/>
+<spirit endTime="" id="152" lv="LV.36～39" name="拉特" scene="131" startTime=""/>
+<spirit endTime="" id="1841" lv="LV.50" name="迷之神使" scene="18" startTime=""/>
+<spirit endTime="" id="1846" lv="LV.40～45" name="爱心娜娜" scene="364" startTime=""/>
+<spirit endTime="" id="1850" lv="LV.40～45" name="哨兵因因" scene="366" startTime=""/>
+<spirit endTime="" id="1842" lv="LV.40～45" name="烈焰诺诺" scene="368" startTime=""/>
+<spirit endTime="" id="1785" lv="LV.40～45" name="风元素" scene="369" startTime=""/>
+<spirit endTime="" id="1881" lv="LV.31～33" name="冰原领主" scene="17" startTime=""/>
+<spirit endTime="" id="1882" lv="LV.25～28" name="熔火暴徒" scene="52" startTime=""/>
+<spirit endTime="" id="400" lv="LV.45～50" name="霹雳领主" scene="377" startTime=""/>
+<spirit endTime="" id="1940" lv="LV.45～50" name="小塔塔" scene="367" startTime=""/>
+<spirit endTime="2016-01-07" id="1199" lv="LV.10～15" name="圣诞麋鹿王" scene="17" startTime="2015-12-25"/>
+<spirit endTime="2016-01-07" id="1204" lv="LV.10～15" name="圣诞鸭吉吉" scene="17" startTime="2015-12-25"/>
+<spirit endTime="2016-01-07" id="1212" lv="LV.10～15" name="圣诞天使鸟" scene="17" startTime="2015-12-25"/>
+<spirit endTime="2016-01-07" id="1201" lv="LV.10～15" name="圣诞呱呱" scene="17" startTime="2015-12-25"/>
+<spirit endTime="2016-01-07" id="1208" lv="LV.10～15" name="圣诞梅花鹿" scene="17" startTime="2015-12-25"/>
+<spirit endTime="2016-01-07" id="1205" lv="LV.10～15" name="圣诞小企鹅" scene="17" startTime="2015-12-25"/>
+<spirit endTime="" id="365" lv="LV.20～25" name="水球球" scene="19" startTime=""/>
+<spirit endTime="" id="111" lv="LV.20～25" name="白发懒人" scene="52" startTime=""/>
+<spirit endTime="" id="1982" lv="LV.20～25" name="蓝波菀" scene="364" startTime=""/>
+<spirit endTime="" id="673" lv="LV.15～20" name="豹子头" scene="33" startTime=""/>
+<spirit endTime="" id="1238" lv="LV.38～40" name="莲依依" scene="45" startTime=""/>
+<spirit endTime="" id="706" lv="LV.58～60" name="机械方方" scene="87" startTime=""/>
+<spirit endTime="" id="1727" lv="LV.45～50" name="利刺毒蝎" scene="407" startTime=""/>
+<spirit endTime="2017-10-26" id="1796" lv="LV.15～20" name="4399游戏喵" scene="390" startTime="2017-05-02"/>
+<spirit endTime="" id="2669" lv="LV.30～50" name="蓬蓬球" scene="430" startTime=""/>
+<spirit endTime="" id="447" lv="LV.30～50" name="兔尾绒" scene="430" startTime=""/>
+<spirit endTime="" id="2670" lv="LV.30～50" name="小烟雀" scene="431" startTime=""/>
+<spirit endTime="" id="126" lv="LV.30～50" name="自由黄灵" scene="431" startTime=""/>
+<spirit endTime="" id="2671" lv="LV.30～50" name="仪容鹦鹉" scene="433" startTime=""/>
+<spirit endTime="" id="229" lv="LV.30～50" name="飞羽" scene="433" startTime=""/>
+
+
+
+<spirit endTime="" id="652" lv="LV.30～40" name="甜筒丁丁" scene="2007" startTime=""/>
+<spirit endTime="" id="724" lv="LV.30～40" name="雨天娃娃" scene="2007" startTime=""/>
+<spirit endTime="" id="2227" lv="LV.10～20" name="曹丕子桓" scene="2007" startTime=""/>
+<spirit endTime="" id="10" lv="LV.50～60" name="蹦蹦种子" scene="2012" startTime=""/>
+<spirit endTime="" id="58" lv="LV.50～60" name="蒲公英" scene="2012" startTime=""/>
+<spirit endTime="" id="1606" lv="LV.50～60" name="独角仙" scene="2015" startTime=""/>
+<spirit endTime="" id="70" lv="LV.50～60" name="奇丽草" scene="2015" startTime=""/>
+<spirit endTime="" id="102" lv="LV.60～65" name="丢丢" scene="2016" startTime=""/>
+<spirit endTime="" id="105" lv="LV.70～80" name="可立鸡" scene="2018" startTime=""/>
+<spirit endTime="" id="40" lv="LV.70～80" name="护主犬" scene="2018" startTime=""/>
+<spirit endTime="" id="111" lv="LV.70～80" name="白发懒人" scene="2019" startTime=""/>
+<spirit endTime="" id="127" lv="LV.80～85" name="雪娃娃" scene="2023" startTime=""/>
+<spirit endTime="" id="96" lv="LV.80～85" name="呼呼猪" scene="2023" startTime=""/>
+<spirit endTime="" id="127" lv="LV.80～85" name="雪娃娃" scene="2024" startTime=""/>
+<spirit endTime="" id="181" lv="LV.80～85" name="呆桶企鹅" scene="2025" startTime=""/>
+<spirit endTime="" id="652" lv="LV.80～85" name="甜筒丁丁" scene="2025" startTime=""/>
+<spirit endTime="" id="367" lv="LV.80～85" name="鲁米" scene="2026" startTime=""/>
+<spirit endTime="" id="147" lv="LV.80～85" name="小雪人" scene="2027" startTime=""/>
+<spirit endTime="" id="130" lv="LV.80～85" name="雪豹球" scene="2027" startTime=""/>
+<spirit endTime="" id="243" lv="LV.85～90" name="乌达" scene="2028" startTime=""/>
+<spirit endTime="" id="246" lv="LV.85～90" name="独眼怪" scene="2028" startTime=""/>
+<spirit endTime="" id="291" lv="LV.85～90" name="小地狱犬" scene="2029" startTime=""/>
+<spirit endTime="" id="338" lv="LV.85～90" name="恶魔猪" scene="2031" startTime=""/>
+<spirit endTime="" id="338" lv="LV.85～90" name="恶魔猪" scene="2031" startTime=""/>
+<spirit endTime="" id="214" lv="LV.85～90" name="萤火幽灵" scene="2031" startTime=""/>
+<spirit endTime="" id="875" lv="LV.85～90" name="小灵灵" scene="2032" startTime=""/>
+<spirit endTime="" id="50" lv="LV.90～95" name="电圈怪" scene="2034" startTime=""/>
+<spirit endTime="" id="56" lv="LV.90～95" name="闪电球" scene="2035" startTime=""/>
+<spirit endTime="" id="87" lv="LV.90～95" name="电咩咩" scene="2036" startTime=""/>
+<spirit endTime="" id="135" lv="LV.90～95" name="小星光" scene="2037" startTime=""/>
+<spirit endTime="" id="398" lv="LV.90～95" name="电精战士" scene="2037" startTime=""/>
+<spirit endTime="" id="338" lv="LV.90～95" name="恶魔猪" scene="2030" startTime=""/>
+<spirit endTime="" id="2236" lv="LV.10～20" name="刘备玄德" scene="2012" startTime=""/>
+
+<spirit endTime="" id="25" lv="LV.10～20" name="咔咔羽毛" scene="2012" startTime=""/>
+<spirit endTime="" id="123" lv="LV.10～20" name="幸运熊" scene="2015" startTime=""/>
+<spirit endTime="" id="142" lv="LV.10～20" name="魔果多多" scene="2018" startTime=""/>
+<spirit endTime="" id="154" lv="LV.10～20" name="木豆丁" scene="2016" startTime=""/>
+<spirit endTime="" id="166" lv="LV.10～20" name="草头大眼鸭" scene="2019" startTime=""/>
+<spirit endTime="" id="455" lv="LV.10～20" name="小包子熊" scene="2026" startTime=""/>
+<spirit endTime="" id="519" lv="LV.10～20" name="黑桃小丑" scene="2028" startTime=""/>
+
+
+
+<spirit endTime="" id="140" lv="LV.15" name="小草虫" scene="203" startTime=""/>
+<spirit endTime="" id="1085" lv="LV.15" name="裘洛" scene="249" startTime=""/>
+<spirit endTime="" id="1080" lv="LV.10" name="火苗虎" scene="249" startTime=""/>
+<spirit endTime="" id="1328" lv="LV.15" name="铁项战灵" scene="260" startTime=""/>
+<spirit endTime="" id="1546" lv="LV.15" name="称重狮" scene="260" startTime=""/>
+<spirit endTime="" id="1001" lv="LV.15" name="格斗鸡仔" scene="260" startTime=""/>
+<spirit endTime="" id="952" lv="LV.10～15" name="小黑猫" scene="262" startTime=""/>
+<spirit endTime="" id="1055" lv="LV.10" name="粉粉球" scene="262" startTime=""/>
+<spirit endTime="" id="1338" lv="LV.15" name="绿草精灵" scene="115" startTime=""/>
+<spirit endTime="" id="1612" lv="LV.8～10" name="薯仔球" scene="115" startTime=""/>
+<spirit endTime="" id="1078" lv="LV.8～10" name="罗普尔" scene="288" startTime=""/>
+<spirit endTime="" id="1515" lv="LV.10～15" name="小螂" scene="288" startTime=""/>
+<spirit endTime="" id="1552" lv="LV.10～15" name="树桩芽芽" scene="288" startTime=""/>
+<spirit endTime="" id="1240" lv="LV.10～15" name="小灵菇" scene="290" startTime=""/>
+<spirit endTime="" id="419" lv="LV.15" name="伊贝儿" scene="290" startTime=""/>
+<spirit endTime="" id="1276" lv="LV.15" name="花灵子" scene="290" startTime=""/>
+<spirit endTime="" id="1236" lv="LV.15" name="参果果" scene="287" startTime=""/>
+<spirit endTime="" id="1326" lv="LV.10" name="拉卜卜" scene="287" startTime=""/>
+<spirit endTime="" id="1243" lv="LV.15" name="小芝灵" scene="287" startTime=""/>
+<spirit endTime="" id="1706" lv="LV.15" name="锄头掰掰" scene="412" startTime=""/>
+<spirit endTime="" id="701" lv="LV.15" name="棒棒花" scene="412" startTime=""/>
+<spirit endTime="" id="715" lv="LV.10" name="可爱柳" scene="413" startTime=""/>
+<spirit endTime="" id="603" lv="LV.10～15" name="番茄小弟" scene="414" startTime=""/>
+<spirit endTime="" id="1004" lv="LV.10～15" name="玉米宝宝" scene="414" startTime=""/>
+<spirit endTime="" id="1179" lv="LV.10～15" name="雨蝶" scene="417" startTime=""/>
+<spirit endTime="" id="1440" lv="LV.10" name="青萌鱼鱼" scene="417" startTime=""/>
+<spirit endTime="" id="437" lv="LV.10～15" name="朝天蟹" scene="417" startTime=""/>
+<spirit endTime="" id="1182" lv="LV.8～10" name="小电豹" scene="282" startTime=""/>
+<spirit endTime="" id="561" lv="LV.10～15" name="古筝" scene="282" startTime=""/>
+<spirit endTime="" id="1184" lv="LV.8～10" name="小雷虎" scene="282" startTime=""/>
+<spirit endTime="" id="993" lv="LV.15" name="萌多" scene="244" startTime=""/>
+<spirit endTime="" id="230" lv="LV.10～15" name="小天马" scene="244" startTime=""/>
+<spirit endTime="" id="877" lv="LV.10～15" name="雷萌" scene="244" startTime=""/>
+<spirit endTime="" id="878" lv="LV.8～10" name="绿翼鸟" scene="245" startTime=""/>
+<spirit endTime="" id="550" lv="LV.8～10" name="冥想泡泡" scene="245" startTime=""/>
+<spirit endTime="" id="990" lv="LV.8～10" name="萌少" scene="245" startTime=""/>
+<spirit endTime="" id="1112" lv="LV.10" name="骁勇骑士" scene="339" startTime=""/>
+<spirit endTime="" id="1000" lv="LV.15" name="执着灵兽" scene="339" startTime=""/>
+<spirit endTime="" id="1354" lv="LV.8～10" name="云翼紫龙" scene="424" startTime=""/>
+<spirit endTime="" id="958" lv="LV.8～10" name="红顶剑龙" scene="424" startTime=""/>
+<spirit endTime="" id="1104" lv="LV.15" name="梦想兽" scene="424" startTime=""/>
+<spirit endTime="" id="232" lv="LV.15" name="小翼龙" scene="265" startTime=""/>
+<spirit endTime="" id="279" lv="LV.15" name="小蛋蛋龙" scene="265" startTime=""/>
+<spirit endTime="" id="541" lv="LV.10" name="齿龙" scene="423" startTime=""/>
+<spirit endTime="" id="1015" lv="LV.10" name="紫幽龙" scene="423" startTime=""/>
+<spirit endTime="" id="1365" lv="LV.10" name="橙灵" scene="64" startTime=""/>
+<spirit endTime="" id="531" lv="LV.15" name="小独角兽" scene="64" startTime=""/>
+<spirit endTime="" id="1368" lv="LV.8～10" name="绿灵" scene="306" startTime=""/>
+<spirit endTime="" id="1380" lv="LV.10～15" name="紫灵" scene="306" startTime=""/>
+<spirit endTime="" id="1371" lv="LV.15" name="彩嘟嘟" scene="306" startTime=""/>
+<spirit endTime="" id="1377" lv="LV.10～15" name="彩灵" scene="306" startTime=""/>
+<spirit endTime="" id="861" lv="LV.10～15" name="骨族巫师" scene="236" startTime=""/>
+<spirit endTime="" id="863" lv="LV.10～15" name="石族战士" scene="236" startTime=""/>
+<spirit endTime="" id="861" lv="LV.10～15" name="骨族巫师" scene="234" startTime=""/>
+<spirit endTime="" id="988" lv="LV.10" name="彩蛋豆豆" scene="234" startTime=""/>
+<spirit endTime="" id="988" lv="LV.10" name="彩蛋豆豆" scene="235" startTime=""/>
+<spirit endTime="" id="959" lv="LV.10" name="阿帕苏" scene="235" startTime=""/>
+<spirit endTime="" id="859" lv="LV.10" name="飞刀小木" scene="238" startTime=""/>
+<spirit endTime="" id="865" lv="LV.8～10" name="图腾飞侠" scene="238" startTime=""/>
+<spirit endTime="" id="863" lv="LV.8～10" name="石族战士" scene="239" startTime=""/>
+<spirit endTime="" id="865" lv="LV.8～10" name="图腾飞侠" scene="239" startTime=""/>
+<spirit endTime="" id="1504" lv="LV.10～15" name="小巴哥" scene="336" startTime=""/>
+<spirit endTime="" id="1555" lv="LV.10～15" name="大眼蜂" scene="157" startTime=""/>
+<spirit endTime="" id="1521" lv="LV.10～15" name="啾啾驴" scene="156" startTime=""/>
+<spirit endTime="" id="1314" lv="LV.10～15" name="小荷灵" scene="134" startTime=""/>
+<spirit endTime="" id="1533" lv="LV.8～10" name="幽灵叽叽" scene="321" startTime=""/>
+<spirit endTime="" id="362" lv="LV.8～10" name="幽冥灯" scene="321" startTime=""/>
+<spirit endTime="" id="25" lv="LV.8～10" name="咔咔羽毛" scene="341" startTime=""/>
+<spirit endTime="" id="474" lv="LV.8～10" name="绿芽蛋蛋" scene="341" startTime=""/>
+<spirit endTime="" id="1681" lv="LV.10～15" name="福圈宝箱怪" scene="342" startTime=""/>
+<spirit endTime="" id="1677" lv="LV.10～15" name="图图" scene="342" startTime=""/>
+<spirit endTime="" id="1416" lv="LV.10～15" name="奶嘴萌星" scene="360" startTime=""/>
+<spirit endTime="" id="1422" lv="LV.10～15" name="迷糊水母" scene="360" startTime=""/>
+<spirit endTime="" id="1429" lv="LV.10～15" name="烟斗小宝" scene="359" startTime=""/>
+<spirit endTime="" id="1417" lv="LV.10～15" name="草莓蟹宝宝" scene="359" startTime=""/>
+<spirit endTime="" id="1424" lv="LV.10" name="斯内克" scene="353" startTime=""/>
+<spirit endTime="" id="1434" lv="LV.10" name="板牙小鲨" scene="353" startTime=""/>
+<spirit endTime="" id="1487" lv="LV.10" name="幽冰小主" scene="371" startTime=""/>
+<spirit endTime="" id="1468" lv="LV.8～10" name="暗黑陶陶" scene="371" startTime=""/>
+<spirit endTime="" id="841" lv="LV.8～10" name="幽冥胆小鬼" scene="371" startTime=""/>
+<spirit endTime="" id="754" lv="LV.8～10" name="火山岩" scene="355" startTime=""/>
+<spirit endTime="" id="1024" lv="LV.10～15" name="火先锋" scene="355" startTime=""/>
+<spirit endTime="" id="1022" lv="LV.15" name="治愈火娃" scene="355" startTime=""/>
+<spirit endTime="" id="1205" lv="LV.15" name="圣诞小企鹅" scene="285" startTime=""/>
+<spirit endTime="" id="1210" lv="LV.10～15" name="天使小萌" scene="285" startTime=""/>
+<spirit endTime="" id="1077" lv="LV.10～15" name="霜刃豹" scene="406" startTime=""/>
+<spirit endTime="" id="175" lv="LV.10～15" name="雪灵兽" scene="406" startTime=""/>
+<spirit endTime="" id="129" lv="LV.10" name="雪精灵" scene="126" startTime=""/>
+<spirit endTime="" id="1172" lv="LV.10" name="小图" scene="372" startTime=""/>
+<spirit endTime="" id="1157" lv="LV.10" name="晶尾蝎" scene="372" startTime=""/>
+<spirit endTime="" id="1477" lv="LV.10" name="镰刀使者" scene="375" startTime=""/>
+<spirit endTime="" id="1475" lv="LV.10" name="蹄小兵" scene="375" startTime=""/>
+<spirit endTime="" id="1455" lv="LV.10" name="暗黑小丸子" scene="375" startTime=""/>
+<spirit endTime="" id="1328" lv="LV.15" name="铁项战灵" scene="256" startTime=""/>
+<spirit endTime="" id="1058" lv="LV.15" name="金肩兽" scene="256" startTime=""/>
+<spirit endTime="" id="216" lv="LV.20～25" name="豆豆龙" scene="394" startTime=""/>
+<spirit endTime="" id="261" lv="LV.20～25" name="罗达械" scene="394" startTime=""/>
+<spirit endTime="" id="216" lv="LV.20～25" name="豆豆龙" scene="139" startTime=""/>
+<spirit endTime="" id="216" lv="LV.20～25" name="豆豆龙" scene="268" startTime=""/>
+<spirit endTime="" id="234" lv="LV.25～30" name="机甲壳" scene="268" startTime=""/>
+<spirit endTime="" id="317" lv="LV.10～20" name="小机械贝贝" scene="268" startTime=""/>
+<spirit endTime="" id="261" lv="LV.20～25" name="罗达械" scene="269" startTime=""/>
+<spirit endTime="" id="234" lv="LV.20～25" name="机甲壳" scene="269" startTime=""/>
+<spirit endTime="" id="317" lv="LV.10～20" name="小机械贝贝" scene="269" startTime=""/>
+<spirit endTime="" id="261" lv="LV.20～25" name="罗达械" scene="270" startTime=""/>
+<spirit endTime="" id="1129" lv="LV.20～25" name="机械怪蛋" scene="270" startTime=""/>
+<spirit endTime="" id="1131" lv="LV.20～25" name="锯轮" scene="271" startTime=""/>
+<spirit endTime="" id="1129" lv="LV.10～15" name="机械怪蛋" scene="271" startTime=""/>
+<spirit endTime="" id="985" lv="LV.45～60" name="布袋宝宝" scene="449" startTime=""/>
+<spirit endTime="" id="907" lv="LV.45～60" name="飞炮猴" scene="449" startTime=""/>
+<spirit endTime="" id="489" lv="LV.45～60" name="灵狐" scene="449" startTime=""/>
+<spirit endTime="" id="447" lv="LV.30～45" name="兔尾绒" scene="456" startTime=""/>
+<spirit endTime="" id="868" lv="LV.30～45" name="金羚雀" scene="456" startTime=""/>
+<spirit endTime="" id="3026" lv="LV.10" name="玉角兽" scene="456" startTime=""/>
+<spirit endTime="" id="910" lv="LV.30～45" name="蛋小乐" scene="458" startTime=""/>
+<spirit endTime="" id="1705" lv="LV.30～45" name="努力果树" scene="458" startTime=""/>
+<spirit endTime="" id="3027" lv="LV.10" name="长耳灵兽" scene="458" startTime=""/>
+<spirit endTime="" id="370" lv="LV.10～15" name="雪豆丁" scene="170" startTime=""/>
+<spirit endTime="" id="160" lv="LV.10～15" name="冰原剑" scene="170" startTime=""/>
+<spirit endTime="" id="370" lv="LV.10～15" name="雪豆丁" scene="175" startTime=""/>
+<spirit endTime="" id="160" lv="LV.10～15" name="冰原剑" scene="175" startTime=""/>
+<spirit endTime="" id="373" lv="LV.10" name="跳跳企鹅" scene="175" startTime=""/>
+<spirit endTime="" id="172" lv="LV.10～15" name="小奥可" scene="181" startTime=""/>
+<spirit endTime="" id="178" lv="LV.10～15" name="科多" scene="181" startTime=""/>
+<spirit endTime="" id="178" lv="LV.10～15" name="科多" scene="182" startTime=""/>
+<spirit endTime="" id="775" lv="LV.10～15" name="雪天娃娃" scene="182" startTime=""/>
+<spirit endTime="" id="676" lv="LV.10" name="冰晶狼崽" scene="182" startTime=""/>
+<spirit endTime="" id="379" lv="LV.10～15" name="布鲁斯" scene="187" startTime=""/>
+<spirit endTime="" id="178" lv="LV.10～15" name="科多" scene="187" startTime=""/>
+<spirit endTime="" id="775" lv="LV.10～15" name="雪天娃娃" scene="187" startTime=""/>
+<spirit endTime="" id="96" lv="LV.10～15" name="呼呼猪" scene="188" startTime=""/>
+<spirit endTime="" id="160" lv="LV.10～15" name="冰原剑" scene="188" startTime=""/>
+<spirit endTime="" id="775" lv="LV.10～15" name="雪天娃娃" scene="188" startTime=""/>
+<spirit endTime="" id="1908" lv="LV.10" name="水晶鹿" scene="188" startTime=""/>
+<spirit endTime="" id="52" lv="LV.24～26" name="生命蓝灵" scene="161" startTime=""/>
+
+
+
+
+
 </spiritRect>

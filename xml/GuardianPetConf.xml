@@ -1,93 +1,97 @@
 <GuardianPetConf name="guardianPet_conf" version="B6041">
-  <propertyDes attack="1" defend="1" energy="1" lv="1" magicAttack="1" magicDefend="1" needLvToNextPhase="5" phase="1"/>
-  <propertyDes attack="2" defend="2" energy="2" lv="2" magicAttack="2" magicDefend="2" needLvToNextPhase="5" phase="1"/>
-  <propertyDes attack="3" defend="3" energy="3" lv="3" magicAttack="3" magicDefend="3" needLvToNextPhase="5" phase="1"/>
-  <propertyDes attack="4" defend="4" energy="4" lv="4" magicAttack="4" magicDefend="4" needLvToNextPhase="5" phase="1"/>
-  <propertyDes attack="7" defend="7" energy="7" lv="5" magicAttack="7" magicDefend="7" needLvToNextPhase="10" phase="2"/>
-  <propertyDes attack="8" defend="8" energy="8" lv="6" magicAttack="8" magicDefend="8" needLvToNextPhase="10" phase="2"/>
-  <propertyDes attack="9" defend="9" energy="9" lv="7" magicAttack="9" magicDefend="9" needLvToNextPhase="10" phase="2"/>
-  <propertyDes attack="10" defend="10" energy="10" lv="8" magicAttack="10" magicDefend="10" needLvToNextPhase="10" phase="2"/>
-  <propertyDes attack="11" defend="11" energy="11" lv="9" magicAttack="11" magicDefend="11" needLvToNextPhase="10" phase="2"/>
-  <propertyDes attack="13" defend="13" energy="13" lv="10" magicAttack="13" magicDefend="13" needLvToNextPhase="15" phase="3"/>
-  <propertyDes attack="14" defend="14" energy="14" lv="11" magicAttack="14" magicDefend="14" needLvToNextPhase="15" phase="3"/>
-  <propertyDes attack="15" defend="15" energy="15" lv="12" magicAttack="15" magicDefend="15" needLvToNextPhase="15" phase="3"/>
-  <propertyDes attack="16" defend="16" energy="16" lv="13" magicAttack="16" magicDefend="16" needLvToNextPhase="15" phase="3"/>
-  <propertyDes attack="17" defend="17" energy="17" lv="14" magicAttack="17" magicDefend="17" needLvToNextPhase="15" phase="3"/>
-  <propertyDes attack="20" defend="20" energy="20" lv="15" magicAttack="20" magicDefend="20" needLvToNextPhase="21" phase="4"/>
-  <propertyDes attack="21" defend="21" energy="21" lv="16" magicAttack="21" magicDefend="21" needLvToNextPhase="21" phase="4"/>
-  <propertyDes attack="22" defend="22" energy="22" lv="17" magicAttack="22" magicDefend="22" needLvToNextPhase="21" phase="4"/>
-  <propertyDes attack="23" defend="23" energy="23" lv="18" magicAttack="23" magicDefend="23" needLvToNextPhase="21" phase="4"/>
-  <propertyDes attack="24" defend="24" energy="24" lv="19" magicAttack="24" magicDefend="24" needLvToNextPhase="21" phase="4"/>
-  <propertyDes attack="27" defend="27" energy="27" lv="20" magicAttack="27" magicDefend="27" needLvToNextPhase="21" phase="4"/>
-  <propertyDes attack="28" defend="28" energy="28" lv="21" magicAttack="28" magicDefend="28" needLvToNextPhase="27" phase="5"/>
-  <propertyDes attack="29" defend="29" energy="29" lv="22" magicAttack="29" magicDefend="29" needLvToNextPhase="27" phase="5"/>
-  <propertyDes attack="30" defend="30" energy="30" lv="23" magicAttack="30" magicDefend="30" needLvToNextPhase="27" phase="5"/>
-  <propertyDes attack="31" defend="31" energy="31" lv="24" magicAttack="31" magicDefend="31" needLvToNextPhase="27" phase="5"/>
-  <propertyDes attack="32" defend="32" energy="32" lv="25" magicAttack="32" magicDefend="32" needLvToNextPhase="27" phase="5"/>
-  <propertyDes attack="33" defend="33" energy="33" lv="26" magicAttack="33" magicDefend="33" needLvToNextPhase="27" phase="5"/>
-  <propertyDes attack="34" defend="34" energy="34" lv="27" magicAttack="34" magicDefend="34" needLvToNextPhase="33" phase="6"/>
-  <propertyDes attack="35" defend="35" energy="35" lv="28" magicAttack="35" magicDefend="35" needLvToNextPhase="33" phase="6"/>
-  <propertyDes attack="36" defend="36" energy="36" lv="29" magicAttack="36" magicDefend="36" needLvToNextPhase="33" phase="6"/>
-  <propertyDes attack="37" defend="37" energy="37" lv="30" magicAttack="37" magicDefend="37" needLvToNextPhase="33" phase="6"/>
-  <propertyDes attack="38" defend="38" energy="38" lv="31" magicAttack="38" magicDefend="38" needLvToNextPhase="33" phase="6"/>
-  <propertyDes attack="39" defend="39" energy="39" lv="32" magicAttack="39" magicDefend="39" needLvToNextPhase="33" phase="6"/>
-  <propertyDes attack="40" defend="40" energy="40" lv="33" magicAttack="40" magicDefend="40" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="41" defend="41" energy="41" lv="34" magicAttack="41" magicDefend="41" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="42" defend="42" energy="42" lv="35" magicAttack="42" magicDefend="42" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="43" defend="43" energy="43" lv="36" magicAttack="43" magicDefend="43" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="44" defend="44" energy="44" lv="37" magicAttack="44" magicDefend="44" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="45" defend="45" energy="45" lv="38" magicAttack="45" magicDefend="45" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="46" defend="46" energy="46" lv="39" magicAttack="46" magicDefend="46" needLvToNextPhase="40" phase="7"/>
-  <propertyDes attack="50" defend="50" energy="50" lv="40" magicAttack="50" magicDefend="50" needLvToNextPhase="" phase="8"/>
-  <consumeDes consume="30" lv="1"/>
-  <consumeDes consume="50" lv="2"/>
-  <consumeDes consume="60" lv="3"/>
-  <consumeDes consume="80" lv="4"/>
-  <consumeDes consume="100" lv="5"/>
-  <consumeDes consume="120" lv="6"/>
-  <consumeDes consume="150" lv="7"/>
-  <consumeDes consume="170" lv="8"/>
-  <consumeDes consume="200" lv="9"/>
-  <consumeDes consume="230" lv="10"/>
-  <consumeDes consume="260" lv="11"/>
-  <consumeDes consume="290" lv="12"/>
-  <consumeDes consume="330" lv="13"/>
-  <consumeDes consume="360" lv="14"/>
-  <consumeDes consume="400" lv="15"/>
-  <consumeDes consume="440" lv="16"/>
-  <consumeDes consume="480" lv="17"/>
-  <consumeDes consume="520" lv="18"/>
-  <consumeDes consume="570" lv="19"/>
-  <consumeDes consume="620" lv="20"/>
-  <consumeDes consume="670" lv="21"/>
-  <consumeDes consume="720" lv="22"/>
-  <consumeDes consume="770" lv="23"/>
-  <consumeDes consume="820" lv="24"/>
-  <consumeDes consume="880" lv="25"/>
-  <consumeDes consume="940" lv="26"/>
-  <consumeDes consume="1000" lv="27"/>
-  <consumeDes consume="1060" lv="28"/>
-  <consumeDes consume="1120" lv="29"/>
-  <consumeDes consume="1180" lv="30"/>
-  <consumeDes consume="1250" lv="31"/>
-  <consumeDes consume="1320" lv="32"/>
-  <consumeDes consume="1390" lv="33"/>
-  <consumeDes consume="1460" lv="34"/>
-  <consumeDes consume="1540" lv="35"/>
-  <consumeDes consume="1610" lv="36"/>
-  <consumeDes consume="1690" lv="37"/>
-  <consumeDes consume="1770" lv="38"/>
-  <consumeDes consume="1850" lv="39"/>
-  <highestLv value="40"/>
-  <lvPhaseDes lv="1" phase="1"/>
-  <lvPhaseDes lv="5" phase="2"/>
-  <lvPhaseDes lv="10" phase="3"/>
-  <lvPhaseDes lv="15" phase="4"/>
-  <lvPhaseDes lv="21" phase="5"/>
-  <lvPhaseDes lv="27" phase="6"/>
-  <lvPhaseDes lv="33" phase="7"/>
-  <lvPhaseDes lv="40" phase="8"/>
-  <guardianPetDes description="" id="1000001" name="达尔多"/>
-  <guardianPetDes description="" id="1000002" name="然德尔"/>
-  <guardianPetDes description="" id="1000003" name="丹迪"/>
+	<propertyDes attack="1" defend="1" energy="1" lv="1" magicAttack="1" magicDefend="1" needLvToNextPhase="5" phase="1"/>
+	<propertyDes attack="2" defend="2" energy="2" lv="2" magicAttack="2" magicDefend="2" needLvToNextPhase="5" phase="1"/>
+	<propertyDes attack="3" defend="3" energy="3" lv="3" magicAttack="3" magicDefend="3" needLvToNextPhase="5" phase="1"/>
+	<propertyDes attack="4" defend="4" energy="4" lv="4" magicAttack="4" magicDefend="4" needLvToNextPhase="5" phase="1"/>
+	<propertyDes attack="7" defend="7" energy="7" lv="5" magicAttack="7" magicDefend="7" needLvToNextPhase="10" phase="2"/>
+	<propertyDes attack="8" defend="8" energy="8" lv="6" magicAttack="8" magicDefend="8" needLvToNextPhase="10" phase="2"/>
+	<propertyDes attack="9" defend="9" energy="9" lv="7" magicAttack="9" magicDefend="9" needLvToNextPhase="10" phase="2"/>
+	<propertyDes attack="10" defend="10" energy="10" lv="8" magicAttack="10" magicDefend="10" needLvToNextPhase="10" phase="2"/>
+	<propertyDes attack="11" defend="11" energy="11" lv="9" magicAttack="11" magicDefend="11" needLvToNextPhase="10" phase="2"/>
+	<propertyDes attack="13" defend="13" energy="13" lv="10" magicAttack="13" magicDefend="13" needLvToNextPhase="15" phase="3"/>
+	<propertyDes attack="14" defend="14" energy="14" lv="11" magicAttack="14" magicDefend="14" needLvToNextPhase="15" phase="3"/>
+	<propertyDes attack="15" defend="15" energy="15" lv="12" magicAttack="15" magicDefend="15" needLvToNextPhase="15" phase="3"/>
+	<propertyDes attack="16" defend="16" energy="16" lv="13" magicAttack="16" magicDefend="16" needLvToNextPhase="15" phase="3"/>
+	<propertyDes attack="17" defend="17" energy="17" lv="14" magicAttack="17" magicDefend="17" needLvToNextPhase="15" phase="3"/>
+	<propertyDes attack="20" defend="20" energy="20" lv="15" magicAttack="20" magicDefend="20" needLvToNextPhase="21" phase="4"/>
+	<propertyDes attack="21" defend="21" energy="21" lv="16" magicAttack="21" magicDefend="21" needLvToNextPhase="21" phase="4"/>
+	<propertyDes attack="22" defend="22" energy="22" lv="17" magicAttack="22" magicDefend="22" needLvToNextPhase="21" phase="4"/>
+	<propertyDes attack="23" defend="23" energy="23" lv="18" magicAttack="23" magicDefend="23" needLvToNextPhase="21" phase="4"/>
+	<propertyDes attack="24" defend="24" energy="24" lv="19" magicAttack="24" magicDefend="24" needLvToNextPhase="21" phase="4"/>
+	<propertyDes attack="27" defend="27" energy="27" lv="20" magicAttack="27" magicDefend="27" needLvToNextPhase="21" phase="4"/>
+	<propertyDes attack="28" defend="28" energy="28" lv="21" magicAttack="28" magicDefend="28" needLvToNextPhase="27" phase="5"/>
+	<propertyDes attack="29" defend="29" energy="29" lv="22" magicAttack="29" magicDefend="29" needLvToNextPhase="27" phase="5"/>
+	<propertyDes attack="30" defend="30" energy="30" lv="23" magicAttack="30" magicDefend="30" needLvToNextPhase="27" phase="5"/>
+	<propertyDes attack="31" defend="31" energy="31" lv="24" magicAttack="31" magicDefend="31" needLvToNextPhase="27" phase="5"/>
+	<propertyDes attack="32" defend="32" energy="32" lv="25" magicAttack="32" magicDefend="32" needLvToNextPhase="27" phase="5"/>
+	<propertyDes attack="33" defend="33" energy="33" lv="26" magicAttack="33" magicDefend="33" needLvToNextPhase="27" phase="5"/>
+	<propertyDes attack="34" defend="34" energy="34" lv="27" magicAttack="34" magicDefend="34" needLvToNextPhase="33" phase="6"/>
+	<propertyDes attack="35" defend="35" energy="35" lv="28" magicAttack="35" magicDefend="35" needLvToNextPhase="33" phase="6"/>
+	<propertyDes attack="36" defend="36" energy="36" lv="29" magicAttack="36" magicDefend="36" needLvToNextPhase="33" phase="6"/>
+	<propertyDes attack="37" defend="37" energy="37" lv="30" magicAttack="37" magicDefend="37" needLvToNextPhase="33" phase="6"/>
+	<propertyDes attack="38" defend="38" energy="38" lv="31" magicAttack="38" magicDefend="38" needLvToNextPhase="33" phase="6"/>
+	<propertyDes attack="39" defend="39" energy="39" lv="32" magicAttack="39" magicDefend="39" needLvToNextPhase="33" phase="6"/>
+	<propertyDes attack="40" defend="40" energy="40" lv="33" magicAttack="40" magicDefend="40" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="41" defend="41" energy="41" lv="34" magicAttack="41" magicDefend="41" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="42" defend="42" energy="42" lv="35" magicAttack="42" magicDefend="42" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="43" defend="43" energy="43" lv="36" magicAttack="43" magicDefend="43" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="44" defend="44" energy="44" lv="37" magicAttack="44" magicDefend="44" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="45" defend="45" energy="45" lv="38" magicAttack="45" magicDefend="45" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="46" defend="46" energy="46" lv="39" magicAttack="46" magicDefend="46" needLvToNextPhase="40" phase="7"/>
+	<propertyDes attack="50" defend="50" energy="50" lv="40" magicAttack="50" magicDefend="50" needLvToNextPhase="" phase="8"/>
+	
+	<consumeDes consume="30" lv="1"/>
+	<consumeDes consume="50" lv="2"/>
+	<consumeDes consume="60" lv="3"/>
+	<consumeDes consume="80" lv="4"/>
+	<consumeDes consume="100" lv="5"/>
+	<consumeDes consume="120" lv="6"/>
+	<consumeDes consume="150" lv="7"/>
+	<consumeDes consume="170" lv="8"/>
+	<consumeDes consume="200" lv="9"/>
+	<consumeDes consume="230" lv="10"/>
+	<consumeDes consume="260" lv="11"/>
+	<consumeDes consume="290" lv="12"/>
+	<consumeDes consume="330" lv="13"/>
+	<consumeDes consume="360" lv="14"/>
+	<consumeDes consume="400" lv="15"/>
+	<consumeDes consume="440" lv="16"/>
+	<consumeDes consume="480" lv="17"/>
+	<consumeDes consume="520" lv="18"/>
+	<consumeDes consume="570" lv="19"/>
+	<consumeDes consume="620" lv="20"/>
+	<consumeDes consume="670" lv="21"/>
+	<consumeDes consume="720" lv="22"/>
+	<consumeDes consume="770" lv="23"/>
+	<consumeDes consume="820" lv="24"/>
+	<consumeDes consume="880" lv="25"/>
+	<consumeDes consume="940" lv="26"/>
+	<consumeDes consume="1000" lv="27"/>
+	<consumeDes consume="1060" lv="28"/>
+	<consumeDes consume="1120" lv="29"/>
+	<consumeDes consume="1180" lv="30"/>
+	<consumeDes consume="1250" lv="31"/>
+	<consumeDes consume="1320" lv="32"/>
+	<consumeDes consume="1390" lv="33"/>
+	<consumeDes consume="1460" lv="34"/>
+	<consumeDes consume="1540" lv="35"/>
+	<consumeDes consume="1610" lv="36"/>
+	<consumeDes consume="1690" lv="37"/>
+	<consumeDes consume="1770" lv="38"/>
+	<consumeDes consume="1850" lv="39"/>
+	
+	<highestLv value="40"/>
+	
+	<lvPhaseDes lv="1" phase="1"/>
+	<lvPhaseDes lv="5" phase="2"/>
+	<lvPhaseDes lv="10" phase="3"/>
+	<lvPhaseDes lv="15" phase="4"/>
+	<lvPhaseDes lv="21" phase="5"/>
+	<lvPhaseDes lv="27" phase="6"/>
+	<lvPhaseDes lv="33" phase="7"/>
+	<lvPhaseDes lv="40" phase="8"/>
+	
+	<guardianPetDes description="" id="1000001" name="达尔多"/>
+	<guardianPetDes description="" id="1000002" name="然德尔"/>
+    <guardianPetDes description="" id="1000003" name="丹迪"/>
 </GuardianPetConf>
