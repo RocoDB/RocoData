@@ -17995,6 +17995,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340888</ID>
+    <Name>源古之忆脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[源古之忆系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -18255,6 +18263,14 @@
     <Name>圣魔·冥炎魔犬名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第十四届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406435</ID>
+    <Name>源古之忆名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[源古之忆系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
