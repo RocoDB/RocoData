@@ -60,7 +60,7 @@
 <talentDes des="使用变化技能召唤龙魂，龙魂减免受伤并免疫异常，异常状态会侵蚀龙魂阶数。使用威力技能时龙系伙伴众多或自身精力不佳时改变当前环境或延长为龙阵环境，自身精力不佳时额外吸取其精力转化为护盾。" id="44" name="圣裁龙魂"/>
 <talentDes des="善于发现对手破绽，攻击被撕裂的对手时忽略不佳的物攻强化。主动攻击时根据其已损精力提升威力，对手精力不佳时攻击必中。" id="45" name="戮影猎手"/>
 <talentDes des="被动抵御非神水系技能爆发性伤害，被抵御的部分会转化为怒气。若击破对手护盾或令对手重伤则进入乘胜状态。霞姿月韵回合内主动使用威力技能后根据对手当前精力追加固伤。若战意层数较高，则威力技能额外删除对手PP值。攻击时根据自身怒气无视对手过高强化等级。" id="46" name="碧水惊秋"/>
-<talentDes des="青钟御体降低自身受到任意伤害，在场时雷暴天气异常消失则删除对手PP。攻击或受到攻击时青钟激发雷电覆盖一尾降低御体效果但提升自身威力伤害和双抗并根据覆雷之尾数量抵御爆发性伤害。" id="47" name="雷鸣千古"/>
+<talentDes des="青钟御体降低自身受到任意伤害，在场时雷暴天气异常消失则删除对手PP。攻击或受到攻击时青钟激发雷电覆盖一尾降低御体效果但提升自身威力伤害和双防并根据覆雷之尾数量抵御爆发性伤害。" id="47" name="雷鸣千古"/>
 <talentDes des="被动抵御非神水系技能爆发伤害，被抵御的部分会转化为怒气，怒气上限大幅提升。受到高额伤害后进入乘胜状态。主动使用变化技能时令场下宠物获得回复，溢出的回复量转变为波及伤害。霞姿月韵回合内主动使用威力技能后根据自身已损精力追加固伤。降低使用变化技能时的战意消退速度，攻击时根据自身怒气无视对手过高强化等级。" id="48" name="凌虚含烟"/>
 <talentDes des="空。" id="49" name="血脉49"/>
 <talentDes des="空。" id="50" name="血脉50"/>
@@ -76,7 +76,7 @@
 <talentDes des="冰属性技能威力提升25%。" id="60" name="冰霜幕"/>
 <talentDes des="自身受到威力伤害时暂时令自身系别变为自身最近使用技能的系别，闪避成功或受到克制伤害时提升技能威力。" id="61" name="水无常形"/>
 <talentDes des="自身威力技能牺牲伤害能力以大幅提升精力回复效果并将溢出精力化为伤害攻击对手。" id="62" name="春风化雨"/>
-<talentDes des="自身受到的较低伤害会转化为层层烟雨pp。造成威力伤害时凝聚1层水涛印记并回复自身PP，非阴雨天气下召唤血月天气3回合；造成固伤时消耗水涛印记转换为护盾。" id="63" name="聚水成涛"/>
+<talentDes des="自身受到的较低伤害会转化为灯引日换PP。造成威力伤害时凝聚1层水涛印记且非阴雨天气下召唤血月天气3回合；造成固伤时消耗水涛印记转换为护盾。" id="63" name="聚水成涛"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3249,22 +3249,25 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3173" name="MY2" power="--" ppMax="5" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="空" id="3174" name="ZY1" power="100" ppMax="8" property="8" speed="9" src="4010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3175" name="ZY2" power="100" ppMax="10" property="10" speed="10" src="5001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="赫然圣华，木德昭昭。净化自身并回复精力。免疫异常和负面并召唤阴雨天气均持续6回合，回合内根据自身威力技能数降低自身受到伤害，被暴击时根据自身变化技能数降低对手精力回复效果1回合。" id="3176" name="赫然圣德" power="--" ppMax="6" property="3" speed="15" src="6007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="雷泽涒叹，霜月皇极。净化自身并冰冻对手，被免疫时闪避后手技能或回复部分精力。重置对手正面强化，阴雨天气下效果显著；重置成功时额外吸取对手PP。免疫异常和负面2回合，回合内根据双方速度能力造成全体固伤并令双方负面强化者受到固伤及正面强化者回复精力。" id="3177" name="震泽霜月" power="--" ppMax="6" property="11" speed="11" src="4038_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="虹且绕之，风起云至。召唤阴雨天气3回合，召唤失败时反转对手强化。强化自身魔攻并根据对手已损精力追加固伤，回复自身精力并删除对手本回合技能PP。阴雨天气下必中。" id="3178" name="青虹生风" power="120" ppMax="10" property="3" speed="11" src="5008_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="波若山峦，声侔鬼神。根据对手已损精力追加固伤，根据双方阵亡宠物数回复自身精力。吸取对手PP，若其精力优势则效果显著。先手时必定暴击，后手时回复自身部分精力。" id="3179" name="惮赫千里" power="120" ppMax="10" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤阴雨天气均持续6回合，回合内自身首次受到伤害时大幅降低本回合后续伤害。" id="3180" name="重水纱衣" power="--" ppMax="6" property="16" speed="15" src="6020_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="连续2回合使用煞罡攻击对手。首回合根据层层烟雨PP追加固伤并隐藏本技能PP，层层烟雨PP枯竭时回复其PP；次回合返还本技能PP，删除对手PP且血月天气下必定暴击。" id="3181" name="镇煞" power="100" ppMax="8" property="16" speed="8" src="5008_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="根据层层烟雨PP提升威力。造成波及伤害，冰冻对手并删除其最近使用技能PP。先手时强化物攻并降低后手伤害，反之强制重置对手正面强化。非首次使用时额外回复自身精力。" id="3182" name="千流水刃" power="100" ppMax="10" property="3" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化自身并免疫异常4回合，释放本技能PP。吸取对手精力以回复其他技能PP，释放PP值越高效果越好。本技能免疫PP删除。" id="3183" name="层层烟雨" power="--" ppMax="6" property="3" speed="8" src="7006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="赫然圣华，木德昭昭。净化自身异常并回复精力。免疫异常和负面并召唤阴雨天气均持续6回合，回合内根据自身威力技能数降低自身受到伤害，并在被暴击或受到克制伤害后持续降低对手精力回复效果，降低成功时回复自身精力。" id="3176" name="赫然圣德" power="--" ppMax="6" property="3" speed="15" src="6007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="雷泽涒叹，霜月皇极。连续发动技能2回合：净化自身并免疫异常，净化成功时吸取对手PP；根据自身精力攻击对手并回复队友精力。首回合额外冰冻对手并闪避后手技能，召唤阴雨天气3回合并提升惮赫千里先手值；次回合后手时额外提升惮赫千里先手值并延长本技能1回合。" id="3177" name="震泽霜月" power="--" ppMax="8" property="11" speed="11" src="4038_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="虹且绕之，风起云至。召唤阴雨天气3回合，召唤失败时反转对手强化。强化自身魔攻并根据对手已损精力追加固伤并回复自身精力。根据对手正面强化删除其本回合技能PP。阴雨天气下必中。" id="3178" name="青虹生风" power="120" ppMax="12" property="3" speed="11" src="5008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="波若山峦，声侔鬼神。根据对手已损精力追加固伤，根据双方阵亡宠物数回复自身精力。吸取对手PP，若其精力优势则效果显著。先手时必定暴击，后手时回复自身部分精力。" id="3179" name="惮赫千里" power="100" ppMax="10" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤阴雨天气均持续6回合，回合内首次受伤后抵御爆发性伤害。" id="3180" name="净水有生" power="--" ppMax="6" property="16" speed="15" src="6020_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="连续2回合攻击对手。首回合根据灯引日换PP追加固伤，吸取对手队友精力以回复我方队友；次回合本技能PP较少时回复灯引日换PP，删除对手PP且血月天气下必定暴击。" id="3181" name="逆流" power="100" ppMax="8" property="16" speed="9" src="5008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="根据灯引日换PP提升威力。造成波及伤害，冰冻对手并删除其最近使用技能PP。先手时强化物攻并降低后手伤害，反之强制重置对手正面强化。非首次使用时额外回复自身精力。" id="3182" name="涟煞水刃" power="100" ppMax="10" property="3" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并免疫异常4回合，释放本技能PP。吸取对手精力以回复其他技能PP，释放PP值越高效果越好。本技能免疫PP删除。" id="3183" name="灯引日换" power="--" ppMax="6" property="3" speed="8" src="7006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3184" name="SS1" power="--" ppMax="5" property="5" speed="13" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="空" id="3185" name="SS2" power="80" ppMax="8" property="5" speed="9" src="4016_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3186" name="SS3" power="120" ppMax="10" property="5" speed="10" src="5019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3191" name="AA1" power="--" ppMax="5" property="3" speed="13" src="6020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3192" name="AA2" power="100" ppMax="12" property="3" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3193" name="AA3" power="--" ppMax="10" property="3" speed="10" src="7006_.swf" superFormID="" superFormSrc=""/>
-
-
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3194" name="HP1" power="120" ppMax="10" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3187" name="YC1" power="--" ppMax="7" property="12" speed="12" src="6008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3188" name="YC2" power="--" ppMax="9" property="12" speed="8" src="4066_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3189" name="YC3" power="120" ppMax="11" property="12" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3190" name="YC4" power="--" ppMax="11" property="12" speed="9" src="4007_.swf" superFormID="" superFormSrc=""/>
 
 
 
