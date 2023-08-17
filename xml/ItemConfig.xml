@@ -17510,9 +17510,9 @@
     <ID>34275373</ID>
     <Name>奶茶冰棍魔法装扮</Name>
     <Price>0</Price>
-    <Desc><![CDATA[图书兑换获得]]></Desc>
+    <Desc/>
     <Unique>1</Unique>
-    <ExpireTime>1465660800</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>34275374</ID>
@@ -51688,7 +51688,7 @@
     <Price>0</Price>
     <Desc><![CDATA[处暑的小茶杯里需要这块解暑的冰]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1664467200</ExpireTime>
+    <ExpireTime>1695916800</ExpireTime>
  </Item>
   <Item>
     <ID>67374860</ID>
