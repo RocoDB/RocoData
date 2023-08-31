@@ -78,6 +78,7 @@
 <talentDes des="自身威力技能牺牲伤害能力以大幅提升精力回复效果并将溢出精力化为伤害攻击对手。" id="62" name="春风化雨"/>
 <talentDes des="自身受到的较低伤害会转化为灯引日换PP。造成威力伤害时凝聚1层水涛印记且非阴雨天气下召唤血月天气3回合；造成固伤时消耗水涛印记转换为护盾。" id="63" name="聚水成涛"/>
 <talentDes des="无" id="64" name="无"/>
+<talentDes des="无" id="65" name="无"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3266,7 +3267,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="威力伤害后根据自身所处背包位置追加效果：较为靠前时对对手前三只宠物追加固伤；处于中间时对对手全体追加固伤；处于最后位置时删除对手PP。" id="3194" name="待势乘时" power="120" ppMax="10" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="悬光浮彩，铺锦卧虹。净化自身并回复精力，清除场上天气环境，成功则回复队友精力并重置本技能PP；若连续使用则额外消耗PP。免疫异常与负面5回合，回合内降低受到伤害，根据自身先后手强化物攻或速度等级，受到较高伤害时获得护盾。" id="3187" name="虹裳蜉羽" power="--" ppMax="7" property="12" speed="12" src="6008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="素练涵影，妙舞翩跹。免疫异常并发动技能均持续4回合，前三回合翩然起舞时吸取对手精力与PP并逐渐提高技能先手值。起舞前使对手进入睡眠并净化自身异常，一曲未罢便再次起舞则闪避对手后手技能。曲终后随机邀请队友登场并赋予其护盾。" id="3188" name="凌波弄影" power="--" ppMax="9" property="12" speed="8" src="4066_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="促弦高张，行云响遏。若正在起舞则打断舞蹈并造成较高伤害且免疫对手后手异常，反之强制重置对手正面强化。攻击对手后追加固伤，先手时造成波及伤害，后手时回复首格技能PP且令固伤显著。若对手处于睡眠则必定暴击。" id="3189" name="跳珠撼玉" power="110" ppMax="11" property="12" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="促弦高张，行云响遏。若正在起舞则打断舞蹈并造成较高伤害且免疫对手后手异常，反之强制重置对手正面强化。攻击对手后追加固伤，先手时造成波及伤害，后手时回复首格技能PP且令固伤显著。若对手处于睡眠则必定暴击。" id="3189" name="跳珠撼玉" power="120" ppMax="11" property="12" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="清商应律，流水和鸣。若正在起舞则提升威力。删除对手PP，若其上回合使用威力技能则追加固伤，否则额外删除变化技能PP。对手连续使用同类型技能则效果显著。" id="3190" name="应律和鸣" power="100" ppMax="13" property="12" speed="9" src="4007_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3195" name="BB1" power="--" ppMax="6" property="1" speed="12" src="4060_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3196" name="BB2" power="--" ppMax="7" property="11" speed="15" src="7004_.swf" superFormID="" superFormSrc=""/>
@@ -3284,6 +3285,13 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3219" name="CB1" power="--" ppMax="6" property="4" speed="14" src="6003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3220" name="CB2" power="90" ppMax="15" property="4" speed="10" src="4020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3221" name="CB3" power="100" ppMax="10" property="4" speed="8" src="5010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3216" name="ZY1" power="--" ppMax="6" property="11" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3217" name="ZY2" power="135" ppMax="20" property="11" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3218" name="ZY3" power="120" ppMax="15" property="13" speed="9" src="4026_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3224" name="幽王幻影" power="--" ppMax="10" property="14" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
+
+
+
 
 
   <SpiritSkillDes description="睡眠:睡眠状态无法操作" description2="睡着了。" id="10001" name="睡眠" property="1" src="2035.swf"/> 

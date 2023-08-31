@@ -123,51 +123,52 @@
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="29" level="15" name="激光枪" price1="300" price2="310" price3="320" price4="330" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="29" level="15" name="激光枪" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="30" level="15" name="鲨鱼法杖" price1="300" price2="310" price3="320" price4="330" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="30" level="15" name="鲨鱼法杖" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="31" level="16" name="刺豚鱼" price1="320" price2="330" price3="340" price4="350" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="31" level="16" name="刺豚鱼" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="32" level="16" name="幽灵灯笼" price1="320" price2="330" price3="340" price4="350" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="32" level="16" name="幽灵灯笼" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="33" level="17" name="热狗叉" price1="340" price2="350" price3="360" price4="370" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="33" level="17" name="热狗叉" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="34" level="17" name="蝴蝶法杖" price1="340" price2="350" price3="360" price4="370" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="34" level="17" name="蝴蝶法杖" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="35" level="18" name="榴莲锤" price1="360" price2="370" price3="380" price4="390" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="35" level="18" name="榴莲锤" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="36" level="18" name="钻石魔法书" price1="360" price2="370" price3="380" price4="390" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="36" level="18" name="钻石魔法书" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="37" level="19" name="猫爪手套" price1="380" price2="390" price3="400" price4="410" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="37" level="19" name="猫爪手套" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="38" level="19" name="皇冠法杖" price1="380" price2="390" price3="400" price4="410" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="38" level="19" name="皇冠法杖" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="39" level="20" name="鸽子钟" price1="400" price2="410" price3="420" price4="430" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="39" level="20" name="鸽子钟" price1="500" price2="500" price3="500" price4="500" type="0"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="40" level="20" name="爱心法杖" price1="400" price2="410" price3="420" price4="430" type="0"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="40" level="20" name="爱心法杖" price1="500" price2="500" price3="500" price4="500" type="0"/>
+
 
 
 
@@ -283,51 +284,51 @@
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="69" level="15" name="金蝴蝶盔甲" price1="300" price2="310" price3="320" price4="330" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="69" level="15" name="金蝴蝶盔甲" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="70" level="15" name="披肩法袍" price1="300" price2="310" price3="320" price4="330" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="70" level="15" name="披肩法袍" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="71" level="16" name="十字步兵盔甲" price1="320" price2="330" price3="340" price4="350" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="71" level="16" name="十字步兵盔甲" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="72" level="16" name="羽毛肩甲" price1="320" price2="330" price3="340" price4="350" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="72" level="16" name="羽毛肩甲" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="73" level="17" name="牛角护臂" price1="340" price2="350" price3="360" price4="370" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="73" level="17" name="牛角护臂" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="74" level="17" name="锦花法袍" price1="340" price2="350" price3="360" price4="370" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="74" level="17" name="锦花法袍" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="75" level="18" name="骑士盔甲" price1="360" price2="370" price3="380" price4="390" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="75" level="18" name="骑士盔甲" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="76" level="18" name="围脖法袍" price1="360" price2="370" price3="380" price4="390" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="76" level="18" name="围脖法袍" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="77" level="19" name="火焰盔甲" price1="380" price2="390" price3="400" price4="410" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="77" level="19" name="火焰盔甲" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="78" level="19" name="十字法袍" price1="380" price2="390" price3="400" price4="410" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="78" level="19" name="十字法袍" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="79" level="20" name="天使盔甲" price1="400" price2="410" price3="420" price4="430" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="79" level="20" name="天使盔甲" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="80" level="20" name="华丽法袍" price1="400" price2="410" price3="420" price4="430" type="1"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="80" level="20" name="华丽法袍" price1="500" price2="500" price3="500" price4="500" type="1"/>
 
 
 
@@ -384,30 +385,32 @@
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="94" level="14" name="熊猫头套" price1="350" price2="360" price3="370" price4="410" type="2"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="94" level="14" name="熊猫头套" price1="350" price2="360" price3="370" price4="385" type="2"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="95" level="15" name="小盆栽" price1="375" price2="385" price3="395" price4="435" type="2"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="95" level="15" name="小盆栽" price1="500" price2="500" price3="500" price4="500" type="2"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="96" level="16" name="奶牛帽子" price1="400" price2="410" price3="420" price4="460" type="2"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="96" level="16" name="奶牛帽子" price1="500" price2="500" price3="500" price4="500" type="2"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="97" level="17" name="草莓礼帽" price1="425" price2="435" price3="445" price4="485" type="2"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="97" level="17" name="草莓礼帽" price1="500" price2="500" price3="500" price4="500" type="2"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="98" level="18" name="银角头盔" price1="450" price2="460" price3="470" price4="510" type="2"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="98" level="18" name="银角头盔" price1="500" price2="500" price3="500" price4="500" type="2"/>
 
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="99" level="19" name="猫耳巫师帽" price1="475" price2="485" price3="495" price4="500" type="2"/>
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="99" level="19" name="猫耳巫师帽" price1="500" price2="500" price3="500" price4="500" type="2"/>
 
 
-<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="100" level="20" name="教皇帽" price1="500" price2="510" price3="520" price4="535" type="2"/>
+
+<EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="100" level="20" name="教皇帽" price1="500" price2="500" price3="500" price4="500" type="2"/>
+
 
 
 
@@ -497,6 +500,7 @@
 <EquipmentDes cdtLevel="100" getFrom="最强机甲获得" id="10005" level="20" name="圣灵之护" price1="750" price2="750" price3="750" price4="750" type="2"/>
 
 
+
 <EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="122" level="21" name="永恒时光" price1="1000" price2="1000" price3="1000" price4="1000" type="2"/>
 <EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="123" level="21" name="疾风斗篷" price1="1000" price2="1000" price3="1000" price4="1000" type="1"/>
 <EquipmentDes cdtLevel="100" getFrom="星辰之塔" id="124" level="21" name="炽炎盔甲" price1="1000" price2="1000" price3="1000" price4="1000" type="1"/>
@@ -508,8 +512,6 @@
 <EquipmentDes cdtLevel="100" getFrom="13周年限定" id="129" level="21" name="水都贝壳" price1="1000" price2="1000" price3="1000" price4="1000" type="1"/>
 <EquipmentDes cdtLevel="100" getFrom="13周年限定" id="130" level="21" name="水都珍珠" price1="1000" price2="1000" price3="1000" price4="1000" type="1"/>
 <EquipmentDes cdtLevel="100" getFrom="13周年限定" id="131" level="21" name="人鱼之泪" price1="1000" price2="1000" price3="1000" price4="1000" type="2"/>
-
-
 
 
 

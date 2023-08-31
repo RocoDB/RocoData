@@ -51712,7 +51712,7 @@
     <Price>0</Price>
     <Desc><![CDATA[白露时节活动所需道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1665676800</ExpireTime>
+    <ExpireTime>1697731200</ExpireTime>
  </Item>
   <Item>
     <ID>67374863</ID>
@@ -51720,7 +51720,7 @@
     <Price>0</Price>
     <Desc><![CDATA[白露时节活动所需道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1665676800</ExpireTime>
+    <ExpireTime>1697731200</ExpireTime>
  </Item>
   <Item>
     <ID>67374864</ID>
@@ -52073,6 +52073,14 @@
     <Desc><![CDATA[源古之心套装]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374908</ID>
+    <Name>数码核心</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[跟随8枚徽章一起从异世界掉落到了洛克王国。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1699545600</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
@@ -54600,7 +54608,7 @@
     <Price>0</Price>
     <Desc><![CDATA[四周年迪莫农场装扮]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1413043200</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>100990997</ID>
@@ -54864,7 +54872,7 @@
     <Price>0</Price>
     <Desc><![CDATA[四周年迪莫农场装扮]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1413043200</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>101056533</ID>
@@ -55128,7 +55136,7 @@
     <Price>0</Price>
     <Desc><![CDATA[四周年迪莫农场装扮]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1413043200</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>101122069</ID>
@@ -55392,7 +55400,7 @@
     <Price>0</Price>
     <Desc><![CDATA[四周年迪莫农场装扮]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1413043200</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>101187605</ID>
