@@ -79,6 +79,7 @@
 <talentDes des="自身受到的较低伤害会转化为灯引日换PP。造成威力伤害时凝聚1层水涛印记且非阴雨天气下召唤血月天气3回合；造成固伤时消耗水涛印记转换为护盾。" id="63" name="聚水成涛"/>
 <talentDes des="每使用两次技能后回复神秘药剂技能PP且每次使用专属药剂后，根据专属药剂特性强化一次神秘药剂技能效果，神秘药剂会根据上次使用技能改变技能属性。" id="64" name="合成药剂"/>
 <talentDes des="无" id="65" name="无"/>
+<talentDes des="无" id="66" name="无"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3291,6 +3292,15 @@
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3224" name="幽王幻影" power="--" ppMax="10" property="14" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面5回合，回合内根据调色板上的颜色追加效果：红色强化自身魔攻，黄色强化自身双防，蓝色删除对手最近使用技能PP。" id="3222" name="神工意匠" power="--" ppMax="6" property="16" speed="13" src="6009_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="恐惧对手并回复自身PP。依次在调色板上调制红黄蓝3色：红色根据恶魔系宠物提升技能威力并追加固伤，召唤血月天气3回合；黄色自身获得护盾，并造成波及伤害；蓝色回复自身精力，并删除对手技能PP。自身精力不佳时必中。" id="3223" name="三原色彩" power="100" ppMax="15" property="16" speed="10" src="5007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3205" name="ZL1" power="--" ppMax="5" property="4" speed="12" src="4061_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3206" name="ZL2" power="--" ppMax="3" property="4" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空。" id="3207" name="ZL3" power="120" ppMax="15" property="4" speed="8" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空。" id="3214" name="ZL4" power="120" ppMax="12" property="7" speed="9" src="5015_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3208" name="MK1" power="--" ppMax="2" property="14" speed="15" src="6003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空。" id="3209" name="MK2" power="100" ppMax="4" property="16" speed="12" src="4076_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3210" name="MK3" power="90" ppMax="10" property="14" speed="9" src="5027_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3215" name="MK4" power="135" ppMax="8" property="16" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
+
 
 
 

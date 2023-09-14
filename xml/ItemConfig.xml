@@ -5145,6 +5145,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620391</ID>
+    <Name>苍狼追猎头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍狼追猎套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8713,6 +8721,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751455</ID>
+    <Name>苍狼追猎衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍狼追猎套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -11802,6 +11818,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816965</ID>
+    <Name>苍狼追猎鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍狼追猎套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -12902,6 +12926,14 @@
     <Name>源古之心背饰</Name>
     <Price>0</Price>
     <Desc><![CDATA[源古之心女装套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882253</ID>
+    <Name>苍狼追猎背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍狼追猎套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -16699,6 +16731,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013510</ID>
+    <Name>苍狼追猎弓箭</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍狼追猎套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -17159,6 +17199,14 @@
     <Name>幻梦仙踪法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[幻梦仙踪套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209828</ID>
+    <Name>苍狼追猎法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍狼追猎套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -34696,7 +34744,7 @@
     <Price>0</Price>
     <Desc><![CDATA[寻找天界门卫活动中用来激活定位器]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1497542400</ExpireTime>
  </Item>
   <Item>
     <ID>67372728</ID>
