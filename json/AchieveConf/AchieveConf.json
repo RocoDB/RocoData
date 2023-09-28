@@ -492,6 +492,118 @@
       ]
     },
     {
+      "id": "36",
+      "tips": "获得战斗暴龙兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "勇气徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "tips": "获得钢铁加鲁鲁兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "友情徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "tips": "获得超比多兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "知识徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "tips": "获得花仙兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "纯真徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "tips": "获得伽楼达兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "爱心徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "tips": "获得神圣天使兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "希望徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "tips": "获得天女兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "光明徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "tips": "获得祖顿兽可点亮",
+      "type": "0",
+      "startDate": "",
+      "endDate": "",
+      "level": [
+        {
+          "id": "1",
+          "label": "诚实徽章",
+          "total": "1"
+        }
+      ]
+    },
+    {
       "id": "81",
       "tips": "收集宠物种类达到$total$",
       "type": "1",
