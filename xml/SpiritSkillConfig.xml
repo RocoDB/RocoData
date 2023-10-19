@@ -79,7 +79,8 @@
 <talentDes des="自身受到的较低伤害会转化为灯引日换PP。造成威力伤害时凝聚1层水涛印记且非阴雨天气下召唤血月天气3回合；造成固伤时消耗水涛印记转换为护盾。" id="63" name="聚水成涛"/>
 <talentDes des="每使用两次技能后回复神秘药剂技能PP且每次使用专属药剂后，根据专属药剂特性强化一次神秘药剂技能效果，神秘药剂会根据上次使用技能改变技能属性。" id="64" name="合成药剂"/>
 <talentDes des="长老永不跨越黑与白的界限。双方在背包内位置奇偶性相同则牺牲部分威力抗性以大幅提升自身威力伤害与速度能力；反之则牺牲部分威力伤害能力以提升威力抗性。对手也为紫玉长老时效果显著。" id="65" name="格分黑白"/>
-<talentDes des="无" id="66" name="无"/>
+<talentDes des="自身受到过高固伤时强化自身1级物攻，造成物理伤害后降低自身过高物攻强化，消耗自身精力时提高自身下次技能威力。" id="66" name="嗜血"/>
+<talentDes des="" id="69" name="无"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -659,7 +660,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害。" id="569" name="大力冲击" power="80" ppMax="15" property="13" speed="8" src="5003_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害。" id="570" name="石魂爆破" power="100" ppMax="10" property="13" speed="8" src="5014_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="让对手进入烧伤状态。" id="571" name="烈焰云" power="100" ppMax="10" property="2" speed="8" src="4002_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="次回合不可行动，本回合反伤，并且如果先手则免疫伤害。" id="572" name="火焰护罩" power="--" ppMax="5" property="2" speed="11" src="4003_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="次回合不可行动，闪避后手非必中技能，若对手本回合使用攻击技能则造成80点固定伤害。" id="572" name="火焰护罩" power="--" ppMax="5" property="2" speed="11" src="4003_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="帕尔萨斯的强大技能。" id="573" name="帕尔萨斯之吻" power="--" ppMax="15" property="16" speed="9" src="4002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="给对手造成一定伤害。" id="574" name="毁伤" power="80" ppMax="15" property="16" speed="9" src="4006_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="给对手造成对手50%的生命上限的伤害。" id="575" name="灵魂哀伤" power="--" ppMax="15" property="16" speed="9" src="4001_.swf"/>
@@ -998,7 +999,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="先锋君主AI" id="908" name="先锋君主AI" power="--" ppMax="15" property="1" speed="5" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="省略" id="909" name="吟唱" power="--" ppMax="15" property="1" speed="5" src="6001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="本回合受到对手伤害时，将1.5倍伤害返还给对手，没有受到伤害则自身损失40点HP，只有后手有效。" id="910" name="功率放大" power="--" ppMax="5" property="1" speed="8" src="7006_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="牺牲自身40%的HP，使得攻击等级或魔攻等级中的一项提升3级。" id="911" name="鲜血祭献" power="--" ppMax="5" property="1" speed="8" src="6004_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="消耗自身40%精力后，随机提高自身3级物攻或魔攻。" id="911" name="鲜血祭献" power="--" ppMax="5" property="1" speed="8" src="6004_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="五灵之1" id="912" name="五灵之1" power="--" ppMax="15" property="1" speed="15" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="五灵之2" id="913" name="五灵之2" power="--" ppMax="15" property="1" speed="1" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="五灵之3" id="914" name="五灵之3" power="--" ppMax="15" property="1" speed="1" src="4001_.swf"/>
@@ -1703,7 +1704,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="如云涌升，连续3回合对对手造成伤害，对PP耗尽的对手效果拔群。" id="1631" name="云起龙骧" power="120" ppMax="10" property="10" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="自身若在本回合进入到濒死状态，则对手场上的宠物HP降为0，连续使用时命中率会下降。" id="1632" name="玉殒" power="--" ppMax="5" property="11" speed="12" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="造成魔法伤害同时，极大几率使对手迷惑，并为己身回复20%生命值。" id="1554" name="倾城" power="125" ppMax="12" property="11" speed="9" src="4029_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="初夏轻眠入梦时。使双方进入梦境6回合，自身速度会大幅降低。二回合后若仍处于梦境中会回复自身生命与PP、提升魔防。" id="1636" name="南柯一梦" power="--" ppMax="10" property="11" speed="1" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="初夏轻眠入梦时。召唤梦境环境6回合并大幅降低自身速度。二回合后若仍处于梦境中则回复自身精力与技能PP并强化魔防。" id="1636" name="南柯一梦" power="--" ppMax="10" property="11" speed="1" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="镜花如幻水月眠。使对手进入睡眠，若场上环境为梦境，会延迟一回合进入睡眠，若对手正在酣睡，则会被无情打醒。" id="1637" name="镜花水月" power="--" ppMax="10" property="3" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="舞姿如红莲般灿烂，光耀夺目。" id="1635" name="红莲乱舞" power="150" ppMax="10" property="19" speed="12" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="倾盆暴雨，本回合有机率闪避对手的后手攻击并改变场上天气为阴雨，觉醒中会提升魔攻并驱散负面。" id="1577" name="暴雨" power="--" ppMax="6" property="3" speed="12" src="7006_.swf" superFormID="" superFormSrc=""/>
@@ -1994,7 +1995,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="海皇召唤深海水泡庇佑，获得强力护盾。立即净化自身且暂时免疫异常和负面强化5回合，并召唤一阵雷暴雨，使场上四回合内变为阴雨天气。" id="1902" name="海皇之佑" power="--" ppMax="5" property="3" speed="12" src="6006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="潮汐之怒，吞噬天地。连续2回合造成潮汐攻击，首回合为潮：锁定对手属性2回合；次回合为汐：根据护盾追加固伤。阴雨天气下根据威力伤害回复精力。" id="1903" name="潮汐之怒" power="80" ppMax="10" property="3" speed="10" src="4012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="立即净化自身，自身血量低于30%,会立即回复自身全部血量。免疫异常与负面强化5 回合，5回合内，每回合下潜可以获得随机增益，深潜可以获得额外血量和PP回复。" id="1911" name="凝息深潜" power="--" ppMax="6" property="3" speed="12" src="6009_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="必中技能，指挥鱼群，形成鱼阵包围对手。对手最近使用的非必中技能在后续3回合都无法命中，3回合内，每回合造成对手随机两项削弱，并造成对手持续掉血和PP值额外耗损。" id="1912" name="暗流鱼阵" power="--" ppMax="12" property="3" speed="10" src="4030_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="指挥鱼群，形成鱼阵包围对手。令对手最近使用技能在3回合内无法命中。3回合内持续削弱对手随机2项强化并根据其魔防强化造成固伤；删除其最近使用技能PP，对威力技能效果显著。本技能必中。" id="1912" name="暗流鱼阵" power="--" ppMax="12" property="3" speed="10" src="4030_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="高命中技能，在珊瑚群中穿梭，诱敌深入。命中后清除对手所有正面强化并使对手中剧毒，对手免疫剧毒则回复自身并提升自身2级魔攻再造成魔法伤害，剧毒成功则锁定场上为无天气效果。当对手血量低于其最大精力值的50%，本技能魔法伤害的威力提升。" id="1913" name="海屿瑚沼" power="110" ppMax="15" property="8" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="被动提供控制免疫，主动使用则净化自身并根据强化项数获得伤害减免与威力加成。若本技能后手出招，则令对手先手所用技能pp值大幅减少。" id="1914" name="休养生息" power="--" ppMax="10" property="11" speed="11" src="6007_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="连续2回合攻击对手，若场上无天气环境则必中且必定暴击。即使有天气环境也会在首回合获得随机强化。" id="1915" name="一瞬狂暴" power="85" ppMax="10" property="11" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -2303,7 +2304,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="令人头皮发麻的音乐，三回合给予对手音符冲击，首回合麻醉对手，失败则提升魔攻等级，次回合降低对手一级魔防再给予伤害，三回合乐曲演奏完毕后自身会陷入混乱状态并回复其他技能pp值。" id="2221" name="音速冲击" power="100" ppMax="12" property="4" speed="10" src="4020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="掌控雷与火。净化自身回复血量，5回合内免疫异常和负面强化并每回合赋予自身护盾。召唤暴晒天气，召唤失败则减免下回合受到的伤害。" id="2222" name="灭世雷炎体" power="--" ppMax="5" property="2" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="麻醉对手，被免疫则删除对手最近使用技能3PP并回复自身血量。若对手系别为（电系、龙系、草系、神草系）则追加一段固伤。反之则波及对手场下宠物的血量。" id="2223" name="雷鸣八卦" power="100" ppMax="8" property="4" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="地狱焚烧，罪恶业火。场上存在暴晒天气则提升威力，并根据双方当前血量赋予额外效果。若自身当前血量多于对手则追加一段固伤。若自身当前血量少于对手则回复其他技能1PP。当自身血量过低会触发斩杀。" id="2224" name="无明业火" power="120" ppMax="12" property="2" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="地狱焚烧，罪恶业火。场上存在暴晒天气则提升威力，并根据双方当前精力赋予额外效果。若自身当前精力多于对手则追加一段固伤。若自身当前精力少于对手则回复其他技能1PP。当自身精力过低会触发斩杀并回复自身精力。" id="2224" name="无明业火" power="120" ppMax="12" property="2" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="物初生端，天象而拜。净化自身并回复精力，免疫异常和负面并召唤芬芳环境均持续5回合，召唤失败则回复自身PP。" id="2225" name="龙星天象" power="--" ppMax="6" property="15" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="香糯可口，尽情享受。令对手睡眠，被免疫则删除对手PP最少技能的PP，非芬芳环境下提升删除效果。随机品尝到的粽子口味并获得一种特殊效果：必定暴击、回复精力和提升先手值。" id="2226" name="大块朵颐" power="120" ppMax="8" property="5" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="山雨欲来，疾风将至。净化自身并回复精力，免疫异常和负面并召唤暗黑城环境均持续五回合，回合内受伤时删除对手PP。" id="2232" name="风雨欲来" power="--" ppMax="6" property="16" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
@@ -3192,7 +3193,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="强化自身物防2级。" id="3086" name="肥皂泡泡" power="--" ppMax="5" property="13" speed="8" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="吐出大量气泡提升暴击强化攻击对手。" id="3087" name="空气泡泡" power="90" ppMax="10" property="3" speed="8" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="操纵小鱼群部下形成鱼阵攻击对手并降低其双防等级，降低失败则删除对手全技能PP。" id="3088" name="鱼群大进军" power="90" ppMax="15" property="3" speed="9" src="4030_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="发射角中导弹攻击对手。连续3回合发动技能：造成伤害并删除对手PP，对威力技能效果显著；随机降低对手两项强化并令其最近使用技能3回合无法命中。" id="3089" name="鱼叉火神炮" power="--" ppMax="12" property="4" speed="10" src="4008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="发射角中导弹攻击对手，令其最近使用技能3回合内无法命中。3回合内持续削弱对手随机2项强化并根据其物防正面强化造成固伤；删除其最近使用技能PP，对威力技能效果显著。本技能必中。" id="3089" name="鱼叉火神炮" power="--" ppMax="12" property="4" speed="10" src="4008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并根据双方已损精力回复自身精力，享受双方电系宠物提供护盾同时反弹1回合内受到的威力伤害。免疫异常与负面并召唤阴雨天气均持续5回合，回合内场上阴雨天气消失时回复自身精力并强化双防，若自身无护盾保护则提升其他技能先手值。" id="3090" name="铠甲守护" power="--" ppMax="6" property="3" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="甩出夺命飞锤斩杀对手，斩杀失败时回复自身精力并冰冻对手，被免疫则回复枯竭技能PP。降低自身受到的后手伤害，阴雨天气下根据对手非水系技能数延长回合数并令对手使用技能时额外耗损PP；否则召唤雷暴天气3回合，召唤失败则造成波及伤害。" id="3091" name="夺命飞锤" power="110" ppMax="9" property="3" speed="10" src="4077_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="雷神之锤向地面不断砸下会产生强大的冲击波与火花来攻击对手并降低其物防，降低失败则提升威力。回复自身PP并强化过低的物攻；吸取单系别对手精力回复自身，双系别且抵抗攻击则必定暴击。" id="3092" name="重锤火花" power="90" ppMax="8" property="4" speed="8" src="5007_.swf" superFormID="" superFormSrc=""/>
@@ -3287,7 +3288,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="麻醉对手。吸取对手本回合技能PP以回复自身PP，本技能PP被对手删除时回复PP效果显著。根据自身护盾值提升威力伤害并追加固伤，否则强化自身双防并获得闪避1回合。" id="3220" name="正负极球" power="90" ppMax="15" property="4" speed="10" src="4020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="免疫异常3回合，自身获得护盾并造成逐渐衰减的波及伤害。自身先手则强化魔攻，否则召唤雷暴天气4回合并根据所受伤害追加固伤。根据双方电系队友数提升技能威力。" id="3221" name="幻电锁链" power="100" ppMax="10" property="4" speed="8" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="压阵观敌，攻则必取。净化异常并回复精力，免疫控制类异常与诅咒并召唤陨石天气均持续6回合。与其他玉魔棋系列宠物同行且自身与其所处位置奇偶性相同则回合内免疫负面，令回复精力效果显著，提升威力伤害并降低所受威力伤害。" id="3216" name="掠阵候时" power="--" ppMax="6" property="11" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="纵横易见，斜伏杀机。强化自身魔攻，并吸取对手PP以回复自身变化技能PP。自身先手时损耗双倍PP以对非神系对手造成克制伤害。在场时命中新目标必中。" id="3217" name="斜出暗伏" power="135" ppMax="20" property="11" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="纵横易见，斜伏杀机。吸取对手PP以回复自身变化技能PP。自身先手时损耗双倍PP以对非神系对手造成克制伤害。在场时命中新目标必中且强化自身魔攻。" id="3217" name="斜出暗伏" power="135" ppMax="20" property="11" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="待时而进，倍道长驱。净化自身并回复精力，根据净化效果追加多回合效果：净化成功负面魔攻则回合内将魔攻等级置于1级；否则反弹对手先手伤害，并临时提升斜出暗伏先手值且使其必中。" id="3218" name="奔逸急行" power="120" ppMax="15" property="13" speed="9" src="4026_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3224" name="幽王幻影" power="--" ppMax="10" property="14" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面5回合，回合内根据调色板上的颜色追加效果：红色强化自身魔攻，黄色强化自身双防，蓝色删除对手最近使用技能PP。" id="3222" name="神工意匠" power="--" ppMax="6" property="16" speed="13" src="6009_.swf" superFormID="" superFormSrc=""/>
@@ -3296,10 +3297,10 @@
 <SpiritSkillDes attackType="1" damageType="3" description="闪耀的雷光庇护自身。净化自身并回复自身精力，根据净化数额外提高自身魔攻并将自身正面物攻以及速度强化转化为同等魔攻，获得1层击穿能力。5回合内持续获得护盾并提高自身伤害，自身存在PP枯竭技能时吸取对手技能PP以回复自身PP。本技能免疫删除PP。" id="3206" name="雷光护体" power="--" ppMax="3" property="4" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="挥舞出带有雷霆之力的拳风。提高自身1级物防，出手时未受到伤害则获得1层击穿能力并免疫异常2回合。若自身持有击穿能力层数则无视对手正面魔防强化并根据击穿能力层数获得暴击、破除对手护盾或回复PP效果。" id="3207" name="震雷拳意" power="130" ppMax="15" property="4" speed="8" src="5019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="决斗中模仿对手先手使用的招式。根据自身优势攻击决定伤害类型。模仿失败时降低自身速度并流失部分精力与PP值；模仿成功时删除对手PP并根据模仿技能类型追加伤害或获取增益。" id="3214" name="招式模仿" power="120" ppMax="12" property="7" speed="9" src="5015_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3208" name="MK1" power="--" ppMax="3" property="14" speed="15" src="6003_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空。" id="3209" name="MK2" power="100" ppMax="6" property="16" speed="11" src="4076_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3210" name="MK3" power="90" ppMax="12" property="14" speed="9" src="5027_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3215" name="MK4" power="135" ppMax="12" property="16" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="焚血护佑，屠戮邪魔。净化自身并回复精力，免疫异常并召唤血月天气均持续5回合，回合内根据自身损失精力值降低所受威力伤害。首回合消耗自身精力以回复其他技能PP。后续回合据自身额外流失的PP值回复自身精力。每使用两次技能后回复本技能PP。" id="3208" name="焚血庇佑" power="--" ppMax="3" property="14" speed="15" src="6003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="删除对手最近使用技能并根据自身当前精力值降低或回复自身精力，若为降低自身精力则删除效果显著并获得1回合闪避。免疫异常3回合，回合内自身累计受到2次固定伤害后强化自身下次威力技能。" id="3209" name="恶魔契约" power="100" ppMax="6" property="16" speed="11" src="4076_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="汲取全场阵亡魂魄为自身所用， 提升技能威力与斩杀线。恐惧对手并斩杀，斩杀成功时回复自身精力并永久获得删除PP效果以及提升本技能先手值；否则斩杀我方场下PP不佳队友以回复自身PP值。" id="3210" name="亡灵赐福" power="90" ppMax="12" property="14" speed="9" src="5027_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="消耗自身部分精力并对对手造成同等伤害。造成伤害后，自身精力优势时消耗部分精力并令双方每次使用技能额外消耗PP持续3回合；否则回复自身部分精力并令自身消耗精力时额外追加固伤。" id="3215" name="交换法则" power="135" ppMax="12" property="16" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="强化自身魔攻并造成波及伤害。根据对手异常数干扰其命中效果。删除对手PP，对不免疫诅咒或混乱异常的对手给予琴符标记并使删PP效果显著。" id="3238" name="琴音绕绕" power="110" ppMax="10" property="14" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="诅咒对手并回复自身PP。先手则提升技能威力并追加固伤，否则回复自身精力并降低对手魔防强化。对不免疫诅咒、混乱异常或携带琴符标记的对手效果显著。" id="3239" name="咒与琴声" power="110" ppMax="10" property="14" speed="10" src="4007_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空。" id="3231" name="XM1" power="--" ppMax="5" property="9" speed="14" src="6012_.swf" superFormID="" superFormSrc=""/>
@@ -3309,6 +3310,9 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3235" name="XT3" power="120" ppMax="12" property="5" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3236" name="XT4" power="110" ppMax="10" property="5" speed="11" src="5019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3237" name="XT5" power="90" ppMax="15" property="12" speed="10" src="5015_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3259" name="LB1" power="--" ppMax="6" property="13" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空空" id="3260" name="LB2" power="80" ppMax="10" property="13" speed="10" src="4007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3261" name="LB3" power="100" ppMax="12" property="2" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 
 
 
