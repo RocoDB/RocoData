@@ -81,6 +81,7 @@
 <talentDes des="长老永不跨越黑与白的界限。双方在背包内位置奇偶性相同则牺牲部分威力抗性以大幅提升自身威力伤害与速度能力；反之则牺牲部分威力伤害能力以提升威力抗性。对手也为紫玉长老时效果显著。" id="65" name="格分黑白"/>
 <talentDes des="自身受到过高固伤时强化自身1级物攻，造成物理伤害后降低自身过高物攻强化，消耗自身精力时提高自身下次技能威力。" id="66" name="嗜血"/>
 <talentDes des="" id="69" name="无"/>
+<talentDes des="" id="70" name="无"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -389,7 +390,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="一定机率让对手进入烧伤状态或恐惧状态，两效果不可同时出现。" id="298" name="火之刃" power="65" ppMax="15" property="2" speed="8" src="5014_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="10%概率烧伤对手。" id="299" name="火焰踢" power="75" ppMax="15" property="2" speed="8" src="5014_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="令对手进入烧伤状态。并且在2至5回合无法交换精灵，重复无效。" id="300" name="火焰漩涡" power="--" ppMax="15" property="2" speed="8" src="4002_.swf"/>
-<SpiritSkillDes attackType="2" damageType="1" description="一定机率让对手进入烧伤状态。" id="301" name="火焰冲击" power="60" ppMax="25" property="2" speed="8" src="5014_.swf"/>
+<SpiritSkillDes attackType="2" damageType="1" description="10%概率烧伤对手。" id="301" name="火焰冲击" power="60" ppMax="25" property="2" speed="8" src="5014_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手进入烧伤状态。" id="302" name="火焰喷发" power="95" ppMax="15" property="2" speed="8" src="4003_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="10%概率烧伤对手，同时自己也会受到轻微伤害。" id="303" name="烈焰冲锋" power="120" ppMax="15" property="2" speed="8" src="5014_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手进入烧伤状态。" id="304" name="热力爆弹" power="100" ppMax="10" property="2" speed="8" src="4005_.swf"/>
@@ -535,7 +536,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="令对手攻击和魔攻等级下降，使用后自身HP变为零。" id="444" name="临行留念" power="--" ppMax="10" property="16" speed="8" src="4005_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="提升自身魔攻等级。" id="445" name="阴谋" power="--" ppMax="20" property="16" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="提高暴击机率。" id="446" name="试刀" power="70" ppMax="15" property="16" speed="8" src="5007_.swf"/>
-<SpiritSkillDes attackType="2" damageType="1" description="本回合先发动攻击则正常威力计算，如果后发动，则2倍威力计算。" id="447" name="回击" power="90" ppMax="10" property="16" speed="8" src="5013_.swf"/>
+<SpiritSkillDes attackType="2" damageType="1" description="自身后手则造成2倍威力伤害。" id="447" name="回击" power="90" ppMax="10" property="16" speed="8" src="5013_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="对手的防御等级越高，攻击威力就越大。" id="448" name="惩罚之术" power="--" ppMax="5" property="16" speed="8" src="5013_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="对对手造成一定伤害。" id="449" name="见面礼" power="40" ppMax="20" property="16" speed="8" src="5013_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="抢夺对手本回合使用的强化或者恢复技能，对手后攻击则无效。" id="450" name="抢夺" power="--" ppMax="10" property="16" speed="12" src="4029_.swf"/>
@@ -603,7 +604,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="提升自身魔法攻击力。" id="512" name="风之打击" power="80" ppMax="15" property="10" speed="8" src="4050_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="本回合不攻击，下回合给对手造成更高的伤害。" id="513" name="落羽复仇" power="60" ppMax="15" property="10" speed="8" src="4028_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="强化自身2级物防。" id="514" name="坚壁" power="--" ppMax="5" property="13" speed="8" src="6006_.swf"/>
-<SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害，同时自己也受到一定伤害。" id="515" name="石之伤" power="120" ppMax="10" property="13" speed="8" src="5003_.swf"/>
+<SpiritSkillDes attackType="2" damageType="1" description="对对手造成伤害，同时自身减少一定精力。" id="515" name="石之伤" power="120" ppMax="10" property="13" speed="8" src="5003_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="用对手上回合刚用过的技能反过来攻击对手，一定命中。" id="516" name="克隆" power="--" ppMax="15" property="17" speed="8" src="7002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="若对手在冰冻状态，攻击威力加倍。" id="517" name="碎冰击" power="70" ppMax="15" property="6" speed="8" src="4040_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定几率让对手冰冻。" id="518" name="冰晶结界" power="40" ppMax="10" property="6" speed="9" src="4022_.swf"/>
@@ -3310,9 +3311,18 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3235" name="XT3" power="120" ppMax="12" property="5" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3236" name="XT4" power="110" ppMax="10" property="5" speed="11" src="5019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3237" name="XT5" power="90" ppMax="15" property="12" speed="10" src="5015_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3259" name="LB1" power="--" ppMax="6" property="13" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空空" id="3260" name="LB2" power="80" ppMax="10" property="13" speed="10" src="4007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3261" name="LB3" power="100" ppMax="12" property="2" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤陨石天气均持续6回合，回合内将不利于自身的强化转换为物攻正面强化；降低自身受到克制伤害；造成抵抗伤害时删除对手最近使用技能PP。" id="3259" name="号令回响" power="--" ppMax="6" property="13" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="召唤陨石天气持续一定回合并根据其回合数提升技能伤害。恐惧对手并造成波及伤害，回复自身精力。连续翻开乐谱则双倍耗损本技能PP造成必暴。" id="3260" name="谱中生乐" power="90" ppMax="10" property="13" speed="10" src="4007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="挥动指挥棒拍打节奏，且根据挥棒次数提升技能伤害，召唤暴晒天气持续一定回合。回复自身精力与PP，释放自身大于3的物攻等级额外回复石系技能PP。我方先手则强化自身物攻并降低对手后手精力回复效果，否则追加对手全体固伤并提升自身下回合技能先手值。" id="3261" name="指挥若定" power="100" ppMax="12" property="2" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3240" name="AA1" power="--" ppMax="4" property="16" speed="15" src="6003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3241" name="AA2" power="--" ppMax="10" property="13" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3242" name="AA3" power="120" ppMax="15" property="9" speed="11" src="5015_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3243" name="AA4" power="120" ppMax="15" property="16" speed="9" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3244" name="AA5" power="110" ppMax="15" property="13" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空空" id="3254" name="QL1" power="80" ppMax="12" property="10" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空空" id="3255" name="QL2" power="100" ppMax="8" property="10" speed="9" src="4007_.swf" superFormID="" superFormSrc=""/>
+
+
 
 
 

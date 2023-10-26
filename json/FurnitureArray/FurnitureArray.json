@@ -3440,8 +3440,8 @@
     },
     {
       "id": "121000126",
-      "name": "万圣夜壁纸",
-      "info": "14年万圣夜系列家具",
+      "name": "幽灵壁纸",
+      "info": "古堡系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -3470,8 +3470,8 @@
     },
     {
       "id": "121000127",
-      "name": "万圣夜地板",
-      "info": "14年万圣夜系列家具",
+      "name": "荆棘地板",
+      "info": "古堡系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -3500,8 +3500,8 @@
     },
     {
       "id": "121000128",
-      "name": "万圣夜石门",
-      "info": "14年万圣夜系列家具",
+      "name": "南瓜石礁门",
+      "info": "古堡系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -5384,8 +5384,8 @@
     },
     {
       "id": "121000192",
-      "name": "万圣节家具门",
-      "info": "万圣节系列家具",
+      "name": "暗夜石门",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -5414,8 +5414,8 @@
     },
     {
       "id": "121000193",
-      "name": "万圣节家具壁纸",
-      "info": "万圣节系列家具",
+      "name": "暗夜壁纸",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -5444,8 +5444,8 @@
     },
     {
       "id": "121000194",
-      "name": "万圣节家具地板",
-      "info": "万圣节系列家具",
+      "name": "矩形地板",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -13435,8 +13435,8 @@
     },
     {
       "id": "122000189",
-      "name": "万圣节家具摆件钟",
-      "info": "万圣节系列家具",
+      "name": "小恶魔挂钟",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -19326,8 +19326,8 @@
     },
     {
       "id": "123000195",
-      "name": "万圣夜魔床",
-      "info": "14年万圣夜系列家具",
+      "name": "蛛网魔床",
+      "info": "古堡系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -19352,8 +19352,8 @@
     },
     {
       "id": "123000196",
-      "name": "万圣夜烛台",
-      "info": "14年万圣夜系列家具",
+      "name": "幽火烛台",
+      "info": "古堡系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -21247,8 +21247,8 @@
     },
     {
       "id": "123000264",
-      "name": "万圣节家具床",
-      "info": "万圣节系列家具",
+      "name": "暗夜床",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -21277,8 +21277,8 @@
     },
     {
       "id": "123000265",
-      "name": "万圣节家具地毯",
-      "info": "万圣节系列家具",
+      "name": "糖果地毯",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -21307,8 +21307,8 @@
     },
     {
       "id": "123000266",
-      "name": "万圣节家具椅子",
-      "info": "万圣节系列家具",
+      "name": "树桩凳",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -21337,8 +21337,8 @@
     },
     {
       "id": "123000267",
-      "name": "万圣节家具桌子",
-      "info": "万圣节系列家具",
+      "name": "南瓜桌",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -28400,8 +28400,8 @@
     },
     {
       "id": "124000079",
-      "name": "万圣夜糖缸",
-      "info": "14年万圣夜系列家具",
+      "name": "神秘糖缸",
+      "info": "古堡系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -29550,8 +29550,8 @@
     },
     {
       "id": "124000118",
-      "name": " 万圣节家具摆件",
-      "info": "万圣节系列家具",
+      "name": "暗夜梳妆台",
+      "info": "暗夜系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",

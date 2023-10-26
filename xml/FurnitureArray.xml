@@ -3677,8 +3677,8 @@
     </Furniture>
     <Furniture>
         <id>121000126</id>
-        <name><![CDATA[万圣夜壁纸]]></name>
-        <info><![CDATA[14年万圣夜系列家具]]></info>
+        <name><![CDATA[幽灵壁纸]]></name>
+        <info><![CDATA[古堡系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -3709,8 +3709,8 @@
     </Furniture>
     <Furniture>
         <id>121000127</id>
-        <name><![CDATA[万圣夜地板]]></name>
-        <info><![CDATA[14年万圣夜系列家具]]></info>
+        <name><![CDATA[荆棘地板]]></name>
+        <info><![CDATA[古堡系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -3741,8 +3741,8 @@
     </Furniture>
     <Furniture>
         <id>121000128</id>
-        <name><![CDATA[万圣夜石门]]></name>
-        <info><![CDATA[14年万圣夜系列家具]]></info>
+        <name><![CDATA[南瓜石礁门]]></name>
+        <info><![CDATA[古堡系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -5753,8 +5753,8 @@
     </Furniture>
     <Furniture>
         <id>121000192</id>
-        <name><![CDATA[万圣节家具门]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[暗夜石门]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -5785,8 +5785,8 @@
     </Furniture>
     <Furniture>
         <id>121000193</id>
-        <name><![CDATA[万圣节家具壁纸]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[暗夜壁纸]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -5817,8 +5817,8 @@
     </Furniture>
     <Furniture>
         <id>121000194</id>
-        <name><![CDATA[万圣节家具地板]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[矩形地板]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -14333,8 +14333,8 @@
     </Furniture>
     <Furniture>
         <id>122000189</id>
-        <name><![CDATA[万圣节家具摆件钟]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[小恶魔挂钟]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -20577,8 +20577,8 @@
     </Furniture>
     <Furniture>
         <id>123000195</id>
-        <name><![CDATA[万圣夜魔床]]></name>
-        <info><![CDATA[14年万圣夜系列家具]]></info>
+        <name><![CDATA[蛛网魔床]]></name>
+        <info><![CDATA[古堡系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -20605,8 +20605,8 @@
     </Furniture>
     <Furniture>
         <id>123000196</id>
-        <name><![CDATA[万圣夜烛台]]></name>
-        <info><![CDATA[14年万圣夜系列家具]]></info>
+        <name><![CDATA[幽火烛台]]></name>
+        <info><![CDATA[古堡系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -22638,8 +22638,8 @@
     </Furniture>
     <Furniture>
         <id>123000264</id>
-        <name><![CDATA[万圣节家具床]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[暗夜床]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -22670,8 +22670,8 @@
     </Furniture>
     <Furniture>
         <id>123000265</id>
-        <name><![CDATA[万圣节家具地毯]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[糖果地毯]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -22702,8 +22702,8 @@
     </Furniture>
     <Furniture>
         <id>123000266</id>
-        <name><![CDATA[万圣节家具椅子]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[树桩凳]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -22734,8 +22734,8 @@
     </Furniture>
     <Furniture>
         <id>123000267</id>
-        <name><![CDATA[万圣节家具桌子]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[南瓜桌]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -30261,8 +30261,8 @@
     </Furniture>
     <Furniture>
         <id>124000079</id>
-        <name><![CDATA[万圣夜糖缸]]></name>
-        <info><![CDATA[14年万圣夜系列家具]]></info>
+        <name><![CDATA[神秘糖缸]]></name>
+        <info><![CDATA[古堡系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -31489,8 +31489,8 @@
     </Furniture>
     <Furniture>
         <id>124000118</id>
-        <name><![CDATA[ 万圣节家具摆件]]></name>
-        <info><![CDATA[万圣节系列家具]]></info>
+        <name><![CDATA[暗夜梳妆台]]></name>
+        <info><![CDATA[暗夜系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
