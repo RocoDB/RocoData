@@ -18928,7 +18928,7 @@
     <Price>0</Price>
     <Desc><![CDATA[变成粽子啦！]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1342627200</ExpireTime>
  </Item>
   <Item>
     <ID>50397233</ID>
@@ -19920,7 +19920,7 @@
     <Price>0</Price>
     <Desc/>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1432742400</ExpireTime>
  </Item>
   <Item>
     <ID>67174459</ID>
@@ -20336,7 +20336,7 @@
     <Price>0</Price>
     <Desc/>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1282838400</ExpireTime>
  </Item>
   <Item>
     <ID>67239980</ID>
@@ -49064,7 +49064,7 @@
     <Price>0</Price>
     <Desc><![CDATA[很重要的约定信物，千万不要遗失哦！]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1700409600</ExpireTime>
  </Item>
   <Item>
     <ID>67374515</ID>
@@ -52329,6 +52329,46 @@
     <Desc><![CDATA[礼包内有6种努力值果实各20个。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374927</ID>
+    <Name>春绿果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蕴含了春天气息的果子]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1704384000</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374928</ID>
+    <Name>夏意花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蕴含了夏天气息的花儿]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1704384000</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374929</ID>
+    <Name>秋实果</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蕴含了秋天气息的果子]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1704384000</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374930</ID>
+    <Name>冬凌花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蕴含了冬天气息的花儿]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1704384000</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374931</ID>
+    <Name>红花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蕴含了硕果格兰魔力的花朵]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1704384000</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
