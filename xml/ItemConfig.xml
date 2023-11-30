@@ -49720,7 +49720,7 @@
     <Price>0</Price>
     <Desc><![CDATA[魔方转转转活动所需道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1608825600</ExpireTime>
+    <ExpireTime>1704988800</ExpireTime>
  </Item>
   <Item>
     <ID>67374597</ID>
@@ -49728,7 +49728,7 @@
     <Price>0</Price>
     <Desc><![CDATA[魔方转转转活动所需道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1608825600</ExpireTime>
+    <ExpireTime>1704988800</ExpireTime>
  </Item>
   <Item>
     <ID>67374598</ID>
@@ -52369,6 +52369,30 @@
     <Desc><![CDATA[蕴含了硕果格兰魔力的花朵]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1704384000</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374932</ID>
+    <Name>奶油蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[奶油口味的生日蛋糕]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1703779200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374933</ID>
+    <Name>巧克力蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[巧克力口味的生日蛋糕]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1703779200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374934</ID>
+    <Name>水果蛋糕</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[水果口味的生日蛋糕]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1703779200</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
