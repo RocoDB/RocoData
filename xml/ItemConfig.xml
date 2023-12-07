@@ -5161,6 +5161,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620393</ID>
+    <Name>逐光同行蓝帽子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620394</ID>
+    <Name>逐光同行粉帽子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8745,6 +8761,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751457</ID>
+    <Name>逐光同行蓝外套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751458</ID>
+    <Name>逐光同行粉外套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -11850,6 +11882,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816967</ID>
+    <Name>逐光同行蓝鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816968</ID>
+    <Name>逐光同行粉鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -12958,6 +13006,22 @@
     <Name>苍狼追猎背饰</Name>
     <Price>0</Price>
     <Desc><![CDATA[苍狼追猎套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882254</ID>
+    <Name>逐光同行雪光</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882255</ID>
+    <Name>逐光同行冰凌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -16771,6 +16835,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013511</ID>
+    <Name>逐光同行叮叮猫</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013512</ID>
+    <Name>逐光同行铛铛猫</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18471,6 +18551,14 @@
     <Name>圣魔·侠兔名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第十六届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406438</ID>
+    <Name>逐光同行名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[荣誉名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
