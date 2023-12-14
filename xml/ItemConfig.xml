@@ -5177,6 +5177,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620395</ID>
+    <Name>智灵骇客头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[智灵骇客套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8777,6 +8785,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751459</ID>
+    <Name>智灵骇客衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[智灵骇客套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -11898,6 +11914,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816969</ID>
+    <Name>智灵骇客鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[智灵骇客套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13022,6 +13046,14 @@
     <Name>逐光同行冰凌</Name>
     <Price>0</Price>
     <Desc><![CDATA[逐光同行套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882256</ID>
+    <Name>智灵骇客背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[智灵骇客套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -16851,6 +16883,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013513</ID>
+    <Name>智灵骇客长剑</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[智灵骇客套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -17319,6 +17359,14 @@
     <Name>苍狼追猎法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[苍狼追猎套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209829</ID>
+    <Name>智灵骇客法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[智灵骇客套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
