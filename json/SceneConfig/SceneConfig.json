@@ -5232,6 +5232,15 @@
       "allowData": ""
     },
     {
+      "id": "479",
+      "name": "主题乐园",
+      "sceneVer": "1",
+      "top": "479",
+      "ver": "1.000",
+      "bgMusic": "new_01.swf|amb_1.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",
