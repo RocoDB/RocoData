@@ -2886,7 +2886,7 @@
     <Furniture>
         <id>121000101</id>
         <name><![CDATA[春意盎然壁纸]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -2918,7 +2918,7 @@
     <Furniture>
         <id>121000102</id>
         <name><![CDATA[碧草芬芳地板]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -2950,7 +2950,7 @@
     <Furniture>
         <id>121000103</id>
         <name><![CDATA[春藤门]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -13037,7 +13037,7 @@
     <Furniture>
         <id>122000141</id>
         <name><![CDATA[藤蔓花架]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -13065,7 +13065,7 @@
     <Furniture>
         <id>122000142</id>
         <name><![CDATA[绿藤窗]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -16616,7 +16616,7 @@
                 <materialNum>20</materialNum>
             </recycleMaterial>
         </recycleMaterialArray>
-        <rechargeMoneyPerDay>1</rechargeMoneyPerDay>
+        <rechargeMoneyPerDay>2</rechargeMoneyPerDay>
         <settleType>102</settleType>
         <comfortable>1</comfortable>
         <settleLayer>27</settleLayer>
@@ -19778,7 +19778,7 @@
     <Furniture>
         <id>123000163</id>
         <name><![CDATA[除湿机]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -19806,7 +19806,7 @@
     <Furniture>
         <id>123000164</id>
         <name><![CDATA[玫瑰茶几]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -19834,7 +19834,7 @@
     <Furniture>
         <id>123000165</id>
         <name><![CDATA[粉红地毯]]></name>
-        <info><![CDATA[春天来了系列家具，不过期。]]></info>
+        <info><![CDATA[春天来了系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
