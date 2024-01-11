@@ -4160,8 +4160,8 @@
     },
     {
       "id": "121000150",
-      "name": "樱花祭壁纸",
-      "info": "樱花祭系列家具",
+      "name": "樱花壁纸",
+      "info": "樱花系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -4190,8 +4190,8 @@
     },
     {
       "id": "121000151",
-      "name": "樱花祭地板",
-      "info": "樱花祭系列家具",
+      "name": "樱花地板",
+      "info": "樱花系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -4221,7 +4221,7 @@
     {
       "id": "121000152",
       "name": "樱花大门",
-      "info": "樱花祭系列家具",
+      "info": "樱花系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -20013,7 +20013,7 @@
     {
       "id": "123000216",
       "name": "樱花地毯",
-      "info": "樱花祭系列家具",
+      "info": "樱花系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -20043,7 +20043,7 @@
     {
       "id": "123000217",
       "name": "樱花床",
-      "info": "樱花祭系列家具",
+      "info": "樱花系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -20069,7 +20069,7 @@
     {
       "id": "123000218",
       "name": "樱花椅",
-      "info": "樱花祭系列家具",
+      "info": "樱花系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",

@@ -4445,8 +4445,8 @@
     </Furniture>
     <Furniture>
         <id>121000150</id>
-        <name><![CDATA[樱花祭壁纸]]></name>
-        <info><![CDATA[樱花祭系列家具]]></info>
+        <name><![CDATA[樱花壁纸]]></name>
+        <info><![CDATA[樱花系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -4477,8 +4477,8 @@
     </Furniture>
     <Furniture>
         <id>121000151</id>
-        <name><![CDATA[樱花祭地板]]></name>
-        <info><![CDATA[樱花祭系列家具]]></info>
+        <name><![CDATA[樱花地板]]></name>
+        <info><![CDATA[樱花系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -4510,7 +4510,7 @@
     <Furniture>
         <id>121000152</id>
         <name><![CDATA[樱花大门]]></name>
-        <info><![CDATA[樱花祭系列家具]]></info>
+        <info><![CDATA[樱花系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -21314,7 +21314,7 @@
     <Furniture>
         <id>123000216</id>
         <name><![CDATA[樱花地毯]]></name>
-        <info><![CDATA[樱花祭系列家具]]></info>
+        <info><![CDATA[樱花系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -21346,7 +21346,7 @@
     <Furniture>
         <id>123000217</id>
         <name><![CDATA[樱花床]]></name>
-        <info><![CDATA[樱花祭系列家具]]></info>
+        <info><![CDATA[樱花系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -21374,7 +21374,7 @@
     <Furniture>
         <id>123000218</id>
         <name><![CDATA[樱花椅]]></name>
-        <info><![CDATA[樱花祭系列家具]]></info>
+        <info><![CDATA[樱花系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>

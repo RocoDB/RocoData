@@ -23,7 +23,7 @@
 <talentDes des="草系技能威力提升25%。" id="7" name="茂盛"/>
 <talentDes des="使用威力技能时40%几率触发圣光审判，降低对手双防强化1级。" id="8" name="圣光审判"/>
 <talentDes des="精力＜45%时造成威力伤害后恢复自身20%最大精力。" id="9" name="嗜血屠戮"/>
-<talentDes des="电系技能威力提升25%。" id="10" name="雷霆之怒"/>
+<talentDes des="电系技能威力提升25%。" id="10" name="雷霆"/>
 <talentDes des="体内流淌野性血脉之力，使用技能后回复自身60点精力。" id="11" name="野性血脉"/>
 <talentDes des="受寒冰护甲庇佑，双防能力值提升40点。" id="12" name="寒冰护甲"/>
 <talentDes des="上场时强化自身1级物攻并回复自身25%最大精力。" id="13" name="惊雷之势"/>
@@ -80,7 +80,7 @@
 <talentDes des="每使用两次技能后回复神秘药剂技能PP且每次使用专属药剂后，根据专属药剂特性强化一次神秘药剂技能效果，神秘药剂会根据上次使用技能改变技能属性。" id="64" name="合成药剂"/>
 <talentDes des="长老永不跨越黑与白的界限。双方在背包内位置奇偶性相同则牺牲部分威力抗性以大幅提升自身威力伤害与速度能力；反之则牺牲部分威力伤害能力以提升威力抗性。对手也为紫玉长老时效果显著。" id="65" name="格分黑白"/>
 <talentDes des="自身受到＞100点固伤时强化自身1级物攻，造成物理威力伤害后自身强化&gt;1时降低1级，消耗自身精力时提高自身下次技能威力。" id="66" name="嗜血"/>
-<talentDes des="萌属性技能威力提升25%。" id="67" name="童真"/>
+<talentDes des="萌系技能威力提升25%。" id="67" name="童真"/>
 <talentDes des="处于控制异常时减免受到的伤害，处于非控制异常时每次行动回复部分精力；处于异常阵亡时根据剩余PP造成固伤。" id="68" name="异常基因"/>
 <talentDes des="石系技能威力提升25%。" id="69" name="流砂"/>
 <talentDes des="先手出招时降低自身受到的后手非克制非抵抗威力伤害。首次登场时获得满层狡黠印记，自身造成或受到抵抗伤害时获取1层狡黠印记。受到克制伤害时消耗1层狡黠印记并大幅降低本次伤害。" id="70" name="狡黠"/>
@@ -89,12 +89,12 @@
 <talentDes des="空" id="73" name="蓄锐"/>
 <talentDes des="毒系技能威力提升25%。" id="74" name="淬毒"/>
 <talentDes des="恶魔系技能威力提升25%。" id="75" name="诡诈"/>
-<talentDes des="空" id="76" name="血脉76"/>
+<talentDes des="据相邻队友数及斗气层数提升威力伤害。受到威力伤害时消耗相邻队友精力并获得斗气，若致队友阵亡则获得2层白堕将其视为游魂。攻击新目标或击败对手时额外获得白堕。使用变化技能时召唤血月天气后回复枯竭威力技能PP并消耗额外白堕使回复效果显著。" id="76" name="鏖斗"/>
 <talentDes des="空" id="77" name="血脉77"/>
 <talentDes des="空" id="78" name="血脉78"/>
 <talentDes des="空" id="79" name="血脉79"/>
 <talentDes des="白玉国王与玛瑙战车同行。国王每次登场获得免疫异常1回合，且主动使用技能后精力仍少于玛瑙战车时则与其交换精力，若交换后精力仍少于对手则额外获得护盾。自身无法行动或精力＜20%则降低受到伤害，并将降低部分转至我方队友；根据自身无法行动回合数持续提升技能威力伤害。" id="80" name="王车易位"/>
-<talentDes des="皇后阵亡或精力少于对手且主动换下，则驱逐对手并使我方下个上场宠物获得护盾，若上场为国王则令其使用技能后回复全技能PP。" id="81" name="引离战术"/>
+<talentDes des="皇后阵亡或主动换下则驱逐对手（有全局触发限制）并使我方下个上场宠物获得护盾，若上场为国王则令其使用技能后回复全技能PP。" id="81" name="引离战术"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -1888,7 +1888,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="转守为攻。删除对手场下宠物精力，若对手场上宠物为雌性，则伤害有所追加。" id="1778" name="亲疏有别" power="90" ppMax="5" property="11" speed="11" src="4010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="海棠依旧。攻击对手后，若对手场上宠物性别为雌性，造成伤害后会使对手恐惧。若对手免疫恐惧，则会发动第二段伤害。若为雄性，则造成伤害后会使对手迷惑。若对手免疫迷惑，则会删除对手全体技能2PP。" id="1779" name="绿肥红瘦" power="70" ppMax="10" property="4" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="召唤守护魔灵，立即净化自身并回复生命值，5回合内免疫异常及负面强化并降低自身受到的伤害，防控回合内自身少于50%时能够暂时抵御爆发性伤害，召唤迷雾天气5回合；PP值较低时，为场下首位存活宠物回复生命值和PP。" id="1783" name="魔灵契约" power="--" ppMax="4" property="16" speed="13" src="6003_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="通过判定场上是否存在迷雾天气来赋予对手不同的效果。" id="1784" name="幻影迷踪" power="--" ppMax="5" property="14" speed="11" src="4029_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="迷雾天气下清除迷雾天气并反弹对手后手攻击；非迷雾天气下恐惧对手，被免疫时强化自身2级魔攻。" id="1784" name="幻影迷踪" power="--" ppMax="5" property="14" speed="11" src="4029_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="清除对手强化后造成伤害，清除成功则删除对手技能PP，免疫强化清除则追加一段固伤；若对手无强化且场上无天气/环境效果则回复魔灵契约1PP；清除场上非迷雾的天气/环境效果。" id="1785" name="摄魂诅咒" power="120" ppMax="8" property="14" speed="10" src="4024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="召唤迷雾天气提升自身1级魔攻，并追加伤害；迷雾天气下会获得伤害增幅；无法命中幽灵系宠物。" id="1786" name="颠覆信仰" power="100" ppMax="10" property="14" speed="9" src="4058_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="破战之势，护国而狂。必中。连续三回合发动攻势，若亲密值满，则后续回合伤害值得到提升。每回合会吸收伤害加予自身。" id="1790" name="背水一战" power="110" ppMax="5" property="18" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -3359,12 +3359,12 @@
 <SpiritSkillDes attackType="2" damageType="1" description="双爪蓄势以待造成2段伤害并强化自身物攻，使对手中毒并重置其强化，若其正面强化项数多于负面强化项数则强制重置。召唤血月天气4回合，召唤失败则召唤瘴气环境4回合。" id="3277" name="蓄力冲锋" power="100" ppMax="10" property="8" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="爪影齐现瞬间造成3段伤害并回复自身精力。恐惧对手并删除其PP。任意天气下额外删除对手最近使用技能PP，反之环境下吸取对手队友精力以回复我方全体精力。" id="3278" name="三重爪影" power="70" ppMax="10" property="16" speed="10" src="5001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="造成4段伤害，根据回合尾数奇偶性回复自身上回合技能PP或其他技能PP。自身精力≤50%则清空全体技能PP枯竭队友精力以使双方精力回复失效并降低自身受到的威力伤害，若失效时自身精力多于对手则将精力扣除至对手一致以获得护盾。" id="3279" name="锁敌之爪" power="60" ppMax="12" property="16" speed="9" src="4058_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空" id="3225" name="AAAA1" power="60" ppMax="8" property="9" speed="13" src="4019_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3226" name="AAAA2" power="70" ppMax="12" property="9" speed="10" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="出不入兮往不反，平原忽兮路超远。据自身白堕层数提升先手值。净化自身并回复精力，免疫异常并召唤血月天气或沃土环境均持续6回合。回合内降低自身受到的伤害并据自身基础物攻能力值提升双防能力值，后续回合若自身技能在一回合内消耗&gt;4PP时吸取对手全技能PP以回复我方全体精力。被动免疫束缚与诅咒。" id="3225" name="絷药援反" power="60" ppMax="8" property="9" speed="13" src="4019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="旌蔽日兮敌若云，矢交坠兮士争先。连续发动技能3回合，回合内免疫负面强化。首回合净化自身，束缚对手并无效其后手治疗，满层白堕时额外召唤沃土环境6回合。后续回合威力伤害失效并据首回合威力伤害追加固伤；末回合先手时令自身下次使用披甲错戈时附加效果必定生效，后手时强化自身1级魔攻。" id="3226" name="连云覆日" power="70" ppMax="12" property="9" speed="10" src="7003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3227" name="AAAA3" power="120" ppMax="12" property="16" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3228" name="AAAA4" power="135" ppMax="10" property="16" speed="8" src="5001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3229" name="AAAA5" power="110" ppMax="12" property="16" speed="11" src="7008_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="空" id="3230" name="AAAA6" power="80" ppMax="10" property="9" speed="12" src="5010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="天时怼兮威灵怒，严杀尽兮弃原野。删除对手最近使用技能PP并诱导其先手使用的技能。诱导失败时追加固伤并回复自身PP值最少技能PP。白堕满层时消耗2层白堕并禁锢对手，本技能PP枯竭时消耗自身全部精力并复活游魂队友。" id="3228" name="胁天怼灵" power="135" ppMax="10" property="16" speed="8" src="5001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="操吴戈兮被犀甲，车错毂兮短兵接。召唤血月天气4回合，根据对手强化及异常数删除其全技能PP并据自身白堕层数追加固伤。消耗相邻队友精力，致其阵亡时获得2层白堕将其视为游魂。据相邻队友阵亡数依次附加恐惧对手，倒置对手正面强化并锁定其强化效果。" id="3229" name="披甲错戈" power="110" ppMax="12" property="16" speed="11" src="7008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="凌余阵兮躐余行，左骖殪兮右刃伤。据自身正面强化提升技能威力并据自身白堕层数追加固伤。反转自身负面强化且伤害后重置自身正面强化，据重置强化数删除对手最近使用技能。击败对手时回复我方全体精力并获得斗气及白堕。自身强化＞5级时召唤沃土环境6回合。" id="3230" name="凌阵躐敌" power="80" ppMax="10" property="9" speed="12" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3281" name="QF1" power="100" ppMax="10" property="11" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面并召唤沃土环境均持续5回合，回合内若受到魔攻伤害则转化为物攻，反之受到物攻伤害则强化自身物防。" id="3282" name="纵横交错" power="--" ppMax="6" property="9" speed="14" src="6006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="恐惧对手，并根据对手石系队友数降低其威力伤害。造成对手石系宠物波及伤害，以回复我方石系队友精力；若我方主石系宠物数≥对手则追加固伤，否则自身获得护盾。" id="3283" name="横行直撞" power="100" ppMax="10" property="13" speed="10" src="4005_.swf" superFormID="" superFormSrc=""/>
@@ -3400,7 +3400,8 @@
 <SpiritSkillDes attackType="1" damageType="3" description="向对手扔出爆竹造成伤害并使其烧伤，烧伤成功则回复自身精力。召唤暴晒天气3回合，对手上回合使用威力技能则删除其最近使用技能PP，并根据天气回合数持续降低对手威力伤害；若为变化技能则删除其全技能PP。" id="3308" name="BZ2" power="--" ppMax="12" property="2" speed="10" src="4002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="落子决断，早有预判。被动免疫控制类异常。净化自身并回复精力，强化自身双防。免疫负面并召唤沃土环境均持续6回合，回合内：记录自身受到伤害，并在防控结束回合将累计受伤的25%以回复我方队友精力；自身使用变化技能时删除对手变化技能PP；若皇后与国王背包所处位为相邻时，则提升皇后技能威力伤害。" id="3309" name="举棋若定" power="--" ppMax="7" property="9" speed="14" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="棋子对弈，交错对峙。连续3回合造成固伤，首回合混乱对手，根据我方玉魔棋队友数追加多段固伤，沃土环境下延长其回合数且自身获得护盾；后续回合若自身其他技能先手时反弹对手伤害，否则删除对手先手技能PP并回复我方队友精力。" id="3310" name="棋布错峙" power="--" ppMax="10" property="5" speed="10" src="4024_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3311" name="WL1" power="--" ppMax="5" property="7" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="空空" id="3312" name="WL2" power="--" ppMax="9" property="7" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 
 
 
