@@ -26,15 +26,15 @@
 <talentDes des="电系技能威力提升25%。" id="10" name="雷霆"/>
 <talentDes des="体内流淌野性血脉之力，使用技能后回复自身60点精力。" id="11" name="野性血脉"/>
 <talentDes des="受寒冰护甲庇佑，双防能力值提升40点。" id="12" name="寒冰护甲"/>
-<talentDes des="上场时强化自身1级物攻并回复自身25%最大精力。" id="13" name="惊雷之势"/>
+<talentDes des="替换上场时强化自身1级物攻并获得自身25%最大精力的护盾。" id="13" name="惊雷之势"/>
 <talentDes des="主动使用技能时赋予自身护盾。" id="14" name="镇岳蔽身"/>
 <talentDes des="威力技能先破除对手护盾再攻击。" id="15" name="日月之眼"/>
 <talentDes des="使用威力和变化技能时分别删除对手此类技能PP。" id="16" name="革凡成圣"/>
-<talentDes des="使用作用目标为对手的技能时碧天清晓PP&gt;2追加，否则回复己方全体宠物精力；然后回复碧天清晓PP。" id="17" name="清露晨流"/>
+<talentDes des="使用作用目标为对手的技能时碧天清晓PP&gt;2追加固伤，否则回复己方全体宠物精力；然后回复碧天清晓PP。" id="17" name="清露晨流"/>
 <talentDes des="使用技能后留下豪炎之印标记对手，对手已被标记则标记其队友。对手存活数较多且均被标记则清除豪炎之印标记并回复豪炎意志和除岁余辉PP。" id="18" name="引火乘风"/>
 <talentDes des="笨重的龟甲覆身对对手的能力变化感知变得笨拙，无视对手非速度强化且相同先手时自身后手。" id="19" name="龟灵重铠"/>
 <talentDes des="每使用3次技能后强化下次的专属技能。" id="20" name="音律和弦"/>
-<talentDes des="天生绝强体，使用技能后强制重置自身强化并据此删除对手PP。火云邪神替换上场时免疫异常直至使用招牌绝技。" id="21" name="毛发尽失"/>
+<talentDes des="天生绝强体，使用技能后强制重置自身强化并据此删除对手PP。替换上场时免疫异常直至使用招牌绝技。" id="21" name="毛发尽失"/>
 <talentDes des="替换上场时使用特殊火焰试探对手，若对手基础物防能力值低于我方基础物攻能力值或免疫驱逐或不免疫负面则强化自身专属技能。" id="22" name="原焰"/>
 <talentDes des="蓄力已久，一击惊天。自身使用威力技能根据双方PP枯竭技能数提升威力，使用威力和变化技能时自身分别获得攻击和防御能力。​" id="23" name="力释惊天"/>
 <talentDes des="械龙自动攻击视野中的目标并汲取其精力，连续3次命中同个非神系对手后掠夺其属性能力。对手若不能提供额外的属性能力则会受到额外伤害。受到高伤害时会激怒械龙，主动护主抵御爆发伤害后回复精力并提升威力。" id="24" name="噬元械龙"/>
@@ -462,7 +462,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="麻醉对手。" id="357" name="麻醉粉" power="--" ppMax="30" property="5" speed="8" src="4011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="回复自身部分精力。" id="358" name="光合作用" power="--" ppMax="5" property="5" speed="8" src="6008_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害。" id="359" name="藤之鞭" power="35" ppMax="15" property="5" speed="8" src="5004_.swf"/>
-<SpiritSkillDes attackType="2" damageType="1" description="攻击对手，同时自己也会受到轻微伤害。" id="360" name="木叶刺" power="120" ppMax="15" property="5" speed="8" src="5006_.swf"/>
+<SpiritSkillDes attackType="2" damageType="1" description="攻击对手，同时反弹自身部分伤害。" id="360" name="木叶刺" power="120" ppMax="15" property="5" speed="8" src="5006_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="几回合内，睡眠免疫。" id="361" name="清醒" power="--" ppMax="10" property="5" speed="8" src="6001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="提高自身的魔防等级，但下回合受到伤害提高。" id="362" name="补充电力" power="--" ppMax="20" property="4" speed="8" src="6003_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="70%概率强化自身1级魔攻。" id="363" name="汇集电力" power="50" ppMax="10" property="4" speed="8" src="4010_.swf"/>
@@ -3374,10 +3374,10 @@
 <SpiritSkillDes attackType="2" damageType="1" description="恐惧对手并追加固伤，回复自身其他技能PP且蒸汽容量≥4立方时额外回复火系技能PP。非暴晒天气下删除对手最近使用技能PP并造成波及伤害。自身先手降低对手后手精力回复效果与威力伤害。" id="3290" name="铁锤击" power="100" ppMax="10" property="17" speed="10" src="5004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="发射蒸汽燃烧的火焰攻击对手，若容量饱和时释放2立方蒸汽造成爆发性伤害。将场上回合较短的暴晒天气延长至8回合，否则强化自身物攻并追加固伤。" id="3291" name="火枪喷射" power="90" ppMax="8" property="2" speed="8" src="4003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3267" name="BB1" power="--" ppMax="6" property="7" speed="15" src="6001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3268" name="BB2" power="--" ppMax="15" property="8" speed="11" src="4006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3269" name="BB3" power="100" ppMax="10" property="7" speed="10" src="5019_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3270" name="BB4" power="120" ppMax="15" property="15" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3271" name="BB5" power="120" ppMax="12" property="18" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3268" name="BB2" power="--" ppMax="12" property="3" speed="11" src="4006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3269" name="BB3" power="100" ppMax="12" property="15" speed="10" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3270" name="BB4" power="100" ppMax="12" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3271" name="BB5" power="90" ppMax="10" property="18" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="空" id="3272" name="BB6" power="120" ppMax="8" property="7" speed="10" src="7003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3295" name="LX1" power="90" ppMax="10" property="7" speed="10" src="5019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3286" name="SHZX" power="--" ppMax="8" property="17" speed="13" src="6002_.swf" superFormID="" superFormSrc=""/>
@@ -3402,7 +3402,9 @@
 <SpiritSkillDes attackType="1" damageType="3" description="棋子对弈，交错对峙。连续3回合造成固伤，首回合混乱对手，根据我方玉魔棋队友数追加多段固伤，沃土环境下延长其回合数且自身获得护盾；后续回合若自身其他技能先手时反弹对手伤害，否则删除对手先手技能PP并回复我方队友精力。" id="3310" name="棋布错峙" power="--" ppMax="10" property="5" speed="10" src="4024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空空" id="3311" name="WL1" power="--" ppMax="5" property="7" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="空空" id="3312" name="WL2" power="--" ppMax="9" property="7" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3313" name="LY1" power="--" ppMax="5" property="9" speed="13" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空空" id="3314" name="LY2" power="70" ppMax="10" property="9" speed="10" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空空" id="3315" name="LY3" power="100" ppMax="8" property="9" speed="7" src="4043_.swf" superFormID="" superFormSrc=""/>
 
 
   <SpiritSkillDes description="睡眠：至多4回合内无法行动，受到非光系宠物威力攻击时立即解除。" description2="睡着了。" id="10001" name="睡眠" property="1" src="2035.swf"/> 

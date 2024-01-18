@@ -5030,7 +5030,7 @@
       "sceneVer": "1",
       "top": "456",
       "ver": "1.00000",
-      "bgMusic": "new_113.swf",
+      "bgMusic": "new_119.swf",
       "allowData": ""
     },
     {
@@ -5048,7 +5048,7 @@
       "sceneVer": "1",
       "top": "456",
       "ver": "1.00000",
-      "bgMusic": "new_113.swf",
+      "bgMusic": "new_120.swf",
       "allowData": ""
     },
     {
@@ -5238,6 +5238,15 @@
       "top": "479",
       "ver": "1.000",
       "bgMusic": "new_01.swf|amb_1.swf",
+      "allowData": ""
+    },
+    {
+      "id": "480",
+      "name": "药庐",
+      "sceneVer": "1",
+      "top": "456",
+      "ver": "1.00000",
+      "bgMusic": "new_118.swf",
       "allowData": ""
     },
     {

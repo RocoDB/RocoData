@@ -124,7 +124,7 @@
     {
       "id": "13",
       "name": "惊雷之势",
-      "des": "上场时强化自身1级物攻并回复自身25%最大精力。"
+      "des": "替换上场时强化自身1级物攻并获得自身25%最大精力的护盾。"
     },
     {
       "id": "14",
@@ -144,7 +144,7 @@
     {
       "id": "17",
       "name": "清露晨流",
-      "des": "使用作用目标为对手的技能时碧天清晓PP\u003E2追加，否则回复己方全体宠物精力；然后回复碧天清晓PP。"
+      "des": "使用作用目标为对手的技能时碧天清晓PP\u003E2追加固伤，否则回复己方全体宠物精力；然后回复碧天清晓PP。"
     },
     {
       "id": "18",
@@ -164,7 +164,7 @@
     {
       "id": "21",
       "name": "毛发尽失",
-      "des": "天生绝强体，使用技能后强制重置自身强化并据此删除对手PP。火云邪神替换上场时免疫异常直至使用招牌绝技。"
+      "des": "天生绝强体，使用技能后强制重置自身强化并据此删除对手PP。替换上场时免疫异常直至使用招牌绝技。"
     },
     {
       "id": "22",
@@ -6313,7 +6313,7 @@
       "name": "木叶刺",
       "attackType": "2",
       "damageType": "1",
-      "description": "攻击对手，同时自己也会受到轻微伤害。",
+      "description": "攻击对手，同时反弹自身部分伤害。",
       "power": "120",
       "ppMax": "15",
       "property": "草",
@@ -52907,8 +52907,8 @@
       "damageType": "3",
       "description": "空",
       "power": "--",
-      "ppMax": "15",
-      "property": "毒",
+      "ppMax": "12",
+      "property": "水",
       "speed": "11",
       "src": "4006_.swf",
       "superFormID": "",
@@ -52923,8 +52923,8 @@
       "damageType": "1",
       "description": "空",
       "power": "100",
-      "ppMax": "10",
-      "property": "武",
+      "ppMax": "12",
+      "property": "龙",
       "speed": "10",
       "src": "5019_.swf",
       "superFormID": "",
@@ -52938,10 +52938,10 @@
       "attackType": "2",
       "damageType": "1",
       "description": "空",
-      "power": "120",
-      "ppMax": "15",
-      "property": "龙",
-      "speed": "11",
+      "power": "100",
+      "ppMax": "12",
+      "property": "武",
+      "speed": "10",
       "src": "5006_.swf",
       "superFormID": "",
       "superFormSrc": "",
@@ -52954,8 +52954,8 @@
       "attackType": "2",
       "damageType": "1",
       "description": "空",
-      "power": "120",
-      "ppMax": "12",
+      "power": "90",
+      "ppMax": "10",
       "property": "光",
       "speed": "9",
       "src": "5013_.swf",
@@ -53343,6 +53343,54 @@
       "property": "武",
       "speed": "10",
       "src": "5005_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
+    },
+    {
+      "id": "3313",
+      "name": "LY1",
+      "attackType": "1",
+      "damageType": "3",
+      "description": "空空",
+      "power": "--",
+      "ppMax": "5",
+      "property": "土",
+      "speed": "13",
+      "src": "6006_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
+    },
+    {
+      "id": "3314",
+      "name": "LY2",
+      "attackType": "2",
+      "damageType": "2",
+      "description": "空空",
+      "power": "70",
+      "ppMax": "10",
+      "property": "土",
+      "speed": "10",
+      "src": "5004_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
+    },
+    {
+      "id": "3315",
+      "name": "LY3",
+      "attackType": "1",
+      "damageType": "2",
+      "description": "空空",
+      "power": "100",
+      "ppMax": "8",
+      "property": "土",
+      "speed": "7",
+      "src": "4043_.swf",
       "superFormID": "",
       "superFormSrc": "",
       "description2": "",

@@ -134,7 +134,7 @@
     <Price>0</Price>
     <Desc><![CDATA[占用编号]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1530720000</ExpireTime>
  </Item>
   <Item>
     <ID>16842771</ID>
@@ -342,7 +342,7 @@
     <Price>0</Price>
     <Desc><![CDATA[传说中丢出必定能够捕捉的咕噜球]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1703952000</ExpireTime>
  </Item>
   <Item>
     <ID>17039368</ID>
@@ -862,7 +862,7 @@
     <Price>0</Price>
     <Desc><![CDATA[比例10经验药水]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1711641600</ExpireTime>
  </Item>
   <Item>
     <ID>17235970</ID>
@@ -870,7 +870,7 @@
     <Price>0</Price>
     <Desc><![CDATA[比例20经验药水]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1711641600</ExpireTime>
  </Item>
   <Item>
     <ID>17235972</ID>
@@ -902,7 +902,7 @@
     <Price>0</Price>
     <Desc><![CDATA[较强效果的成长果实，宠物等级越高，获得经验越多。]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1711641600</ExpireTime>
  </Item>
   <Item>
     <ID>17301506</ID>
@@ -18607,6 +18607,14 @@
     <Name>逐光同行名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[荣誉名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406439</ID>
+    <Name>圣魔·审判名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第十七届系别赛名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -47032,7 +47040,7 @@
     <Price>0</Price>
     <Desc><![CDATA[闻着好香呀。]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1677168000</ExpireTime>
+    <ExpireTime>1709222400</ExpireTime>
  </Item>
   <Item>
     <ID>67374244</ID>
@@ -47040,7 +47048,7 @@
     <Price>0</Price>
     <Desc><![CDATA[一块钱能买五个的馒头]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1677168000</ExpireTime>
+    <ExpireTime>1709222400</ExpireTime>
  </Item>
   <Item>
     <ID>67374245</ID>
@@ -52545,6 +52553,30 @@
     <Desc><![CDATA[逐光同行粉色套装]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374937</ID>
+    <Name>春联</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[春意盛宴活动道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1711036800</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374938</ID>
+    <Name>剪纸</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[春意盛宴活动道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1711036800</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374939</ID>
+    <Name>烟花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[春意盛宴活动道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1711036800</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
