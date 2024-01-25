@@ -10,7 +10,7 @@
   <Weather id="9" tooltip="沃土环境：土系宠物双防能力值上升，水系草系与冰系宠物速度能力值下降"></Weather>
   <Weather id="10" tooltip="龙阵环境：龙系宠物每回合首次受到威力伤害时，删除龙系对手对应威力技能PP与非龙系攻击者所有威力技能PP"></Weather>
   <Weather id="11" tooltip="化境环境：武系宠物受到威力伤害下降，武系宠物攻击时不被概率闪避"></Weather>
-  <Weather id="12" tooltip="圣光天气：光系技能威力伤害上升，光系宠物受到非神系技能威力伤害下降，双方异常免疫状态"></Weather>
+  <Weather id="12" tooltip="圣光天气：光系技能威力伤害上升，光系宠物受到非神系技能威力伤害下降，双方免疫异常状态"></Weather>
   <Weather id="13" tooltip="血月天气：恶魔系技能威力伤害上升，恶魔系宠物每回合回复精力"></Weather>
   <Weather id="14" tooltip="迷宫环境：虫系宠物受到魔法威力伤害下降，非虫系宠物每回合受到伤害"></Weather>
   <Weather id="15" tooltip="铁壁环境：机械系宠物速度能力值和受到克制威力伤害下降"></Weather>
