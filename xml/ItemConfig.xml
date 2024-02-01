@@ -19715,6 +19715,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>50397300</ID>
+    <Name>祈福耀龙变形魔法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以将目标变成耀龙形象]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>67174402</ID>
     <Name>皮卡设计的封面</Name>
     <Price>0</Price>
@@ -52280,7 +52288,7 @@
     <Price>0</Price>
     <Desc><![CDATA[兔年灯会家具套装]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1681920000</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>67374889</ID>
@@ -52681,6 +52689,54 @@
     <Desc><![CDATA[春意盛宴活动道具]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1711036800</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374940</ID>
+    <Name>祈福龙礼花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后可以在场景中放出祈福节宠物图案的礼花]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374941</ID>
+    <Name>砾尊狂狮家具套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[砾尊狂狮家具套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374942</ID>
+    <Name>巴哈姆特家具套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[巴哈姆特家具套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374943</ID>
+    <Name>鲤沐福源套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[鲤沐福源套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374944</ID>
+    <Name>龙心颂泽套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙心颂泽套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374945</ID>
+    <Name>岁稔年丰农场套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[岁稔年丰农场套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
@@ -55059,6 +55115,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>100925468</ID>
+    <Name>岁稔年丰迪莫稻草人</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>100990978</ID>
     <Name>农场小屋</Name>
     <Price>0</Price>
@@ -55319,6 +55383,14 @@
     <Name>灯会美食农场小屋</Name>
     <Price>0</Price>
     <Desc><![CDATA[灯会美食主题农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>100991011</ID>
+    <Name>岁稔年丰小屋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -55587,6 +55659,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101056547</ID>
+    <Name>岁稔年丰遮阳伞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101122050</ID>
     <Name>普通稻草堆</Name>
     <Price>0</Price>
@@ -55851,6 +55931,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101122083</ID>
+    <Name>岁稔年丰艾米公仔</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101187586</ID>
     <Name>农场告示牌</Name>
     <Price>0</Price>
@@ -56111,6 +56199,14 @@
     <Name>灯会美食告示牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[灯会美食主题农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>101187619</ID>
+    <Name>岁稔年丰告示牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

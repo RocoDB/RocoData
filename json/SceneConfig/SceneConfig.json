@@ -5250,6 +5250,15 @@
       "allowData": ""
     },
     {
+      "id": "481",
+      "name": "恶狮谷",
+      "sceneVer": "1",
+      "top": "456",
+      "ver": "1.00000",
+      "bgMusic": "new_121.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",

@@ -182,6 +182,26 @@
       "description": "将目标变成绿衣洛克"
     },
     {
+      "id": "831",
+      "name": "龙舟变形魔法",
+      "itemID": "50397243",
+      "target": "1",
+      "type": "3",
+      "dur": "",
+      "actionType": "4",
+      "description": "使用变成龙舟"
+    },
+    {
+      "id": "812",
+      "name": "变粽子",
+      "itemID": "50397232",
+      "target": "1",
+      "type": "3",
+      "dur": "10",
+      "actionType": "4",
+      "description": "将目标变成一个粽子"
+    },
+    {
       "id": "841",
       "name": "达尔多变形魔法",
       "itemID": "50397252",
@@ -760,6 +780,16 @@
       "dur": "",
       "actionType": "4",
       "description": "将目标变成福灯"
+    },
+    {
+      "id": "898",
+      "name": "耀龙变形魔法",
+      "itemID": "50397300",
+      "target": "1",
+      "type": "3",
+      "dur": "",
+      "actionType": "4",
+      "description": "将目标变成耀龙"
     }
   ]
 }
