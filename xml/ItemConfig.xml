@@ -972,7 +972,7 @@
     <ID>17432578</ID>
     <Name>火烧眉毛</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会火烧眉毛技能<br>限用宠物（30级-包含进化）<br>火花，火苗龙<br>技能描述<br>给对手造成伤害，自身几回合内免疫睡眠]]></Desc>
+    <Desc><![CDATA[学会火烧眉毛技能<br>限用宠物（30级-包含进化）<br>火花、火苗龙、麋鹿<br>技能描述<br>给对手造成伤害，自身几回合内免疫睡眠]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1068,7 +1068,7 @@
     <ID>17432590</ID>
     <Name>口吐冰莲</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会口吐冰莲技能<br>限用宠物（30级）<br>阿布、超能阿布、圣龙阿布<br>技能描述<br>一定概率让对手进入冰冻状态。]]></Desc>
+    <Desc><![CDATA[学会口吐冰莲技能<br>限用宠物（30级）<br>阿布、超能阿布、圣龙阿布、格兰球<br>技能描述<br>一定概率让对手进入冰冻状态。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1188,7 +1188,7 @@
     <ID>17432605</ID>
     <Name>死亡来临</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会死亡来临技能<br>限用宠物（30级）<br>萌哥,萌之勇者,萌之王者<br>技能描述<br>3回合后对方宠物死亡，换宠物则失效]]></Desc>
+    <Desc><![CDATA[学会死亡来临技能<br>限用宠物（30级）<br>萌哥、萌之勇者、萌之王者、格兰球<br>技能描述<br>3回合后对方宠物死亡，换宠物则失效]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1196,7 +1196,7 @@
     <ID>17432606</ID>
     <Name>混乱审判</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会混乱审判技能<br>限用宠物（50级）<br>萌之勇者,萌之王者<br>技能描述<br>造成一定伤害，对方处于混乱状态则提升自身攻击等级]]></Desc>
+    <Desc><![CDATA[学会混乱审判技能<br>限用宠物（50级）<br>萌之勇者、萌之王者、格兰球<br>技能描述<br>造成一定伤害，对方处于混乱状态则提升自身攻击等]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1220,7 +1220,7 @@
     <ID>17432609</ID>
     <Name>升龙咆哮</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会升龙咆哮技能<br>限用宠物（60级）<br>赤炎飞龙<br>技能描述<br>提升自身魔攻等级2级]]></Desc>
+    <Desc><![CDATA[学会升龙咆哮技能<br>限用宠物（60级）<br>赤炎飞龙、格兰球、麋鹿<br>技能描述<br>提升自身魔攻等级2级]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1252,7 +1252,7 @@
     <ID>17432613</ID>
     <Name>金刚飞比</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会金刚飞比技能<br>限用宠物（30级）<br>飞比<br>技能描述<br>提升自身攻击等级]]></Desc>
+    <Desc><![CDATA[学会金刚飞比技能<br>限用宠物（30级）<br>飞比、暴角龙<br>技能描述<br>提升自身攻击等级]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1268,7 +1268,7 @@
     <ID>17432615</ID>
     <Name>妖狐之魅</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会妖狐之魅技能<br>限用宠物（40级）<br>美妖狐、美妖萌萌狐<br>技能描述<br>让对方进入麻醉状态]]></Desc>
+    <Desc><![CDATA[学会妖狐之魅技能<br>限用宠物（40级）<br>美妖狐、美妖萌萌狐、格兰球<br>技能描述<br>让对方进入麻醉状态]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
