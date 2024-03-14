@@ -5201,6 +5201,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620398</ID>
+    <Name>魔法歌手头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法歌手套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8825,6 +8833,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751462</ID>
+    <Name>魔法歌手衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法歌手套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -11970,6 +11986,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816972</ID>
+    <Name>魔法歌手鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法歌手套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13118,6 +13142,14 @@
     <Name>龙悦良辰雕龙</Name>
     <Price>0</Price>
     <Desc><![CDATA[龙悦良辰套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882259</ID>
+    <Name>魔法歌手背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法歌手套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -16987,6 +17019,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013516</ID>
+    <Name>魔法歌手手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法歌手套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -17463,6 +17503,14 @@
     <Name>智灵骇客法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[智灵骇客套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209830</ID>
+    <Name>魔法歌手法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法歌手套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -43488,7 +43536,7 @@
     <Price>0</Price>
     <Desc><![CDATA[春色渐浓活动，增添春色的道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1554393600</ExpireTime>
+    <ExpireTime>1714060800</ExpireTime>
  </Item>
   <Item>
     <ID>67373784</ID>
@@ -43496,7 +43544,7 @@
     <Price>0</Price>
     <Desc><![CDATA[春色渐浓活动，增添春色的道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1554393600</ExpireTime>
+    <ExpireTime>1714060800</ExpireTime>
  </Item>
   <Item>
     <ID>67373785</ID>
@@ -43504,7 +43552,7 @@
     <Price>0</Price>
     <Desc><![CDATA[春色渐浓活动，增添春色的道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1554393600</ExpireTime>
+    <ExpireTime>1714060800</ExpireTime>
  </Item>
   <Item>
     <ID>67373786</ID>
@@ -43512,7 +43560,7 @@
     <Price>0</Price>
     <Desc><![CDATA[春色渐浓活动，增添春色的道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1554393600</ExpireTime>
+    <ExpireTime>1714060800</ExpireTime>
  </Item>
   <Item>
     <ID>67373787</ID>
