@@ -232,7 +232,7 @@
   <SceneDes bgMusic="new_56.swf|amb_7.swf" id="141" name="暗黑岭" sceneVer="1" top="141" ver="1.000"/>
   <SceneDes bgMusic="new_56.swf|amb_7.swf" id="142" name="暗黑宠物基地" sceneVer="1" top="141" ver="1.60320"/>
   <SceneDes bgMusic="new_56.swf|amb_7.swf" id="143" name="暗黑魔法学院" sceneVer="1" top="141" ver="1.000"/>
-  <SceneDes bgMusic="new_1000.swf|amb_1000.swf" id="144" name="大剧院" sceneVer="1" top="144" ver="1.000"/>
+  <SceneDes bgMusic="new_1000.swf|amb_1000.swf" id="144" name="大剧院" sceneVer="1" top="389" ver="1.000"/>
   <SceneDes bgMusic="new_59.swf|amb_6.swf" id="145" name="亚特兰蒂斯广场" sceneVer="1" top="145" ver="1.000"/>
   <SceneDes bgMusic="new_59.swf|amb_6.swf" id="146" name="凯旋门" sceneVer="1" top="145" ver="1.000"/>
   <SceneDes bgMusic="new_60.swf|amb_6.swf" id="147" name="亚特兰蒂斯古道" sceneVer="1" top="145" ver="1.000"/>
@@ -325,7 +325,7 @@
   <SceneDes bgMusic="new_81.swf|amb_2.swf" id="233" name="乐维的秘密基地" sceneVer="1" top="10" ver="1.00000"/>
   <SceneDes bgMusic="new_83.swf|amb_1.swf" id="234" name="潘多诺格小集市" sceneVer="1" top="40" ver="1.50470"/>
   <SceneDes bgMusic="new_82.swf|amb_1.swf" id="235" name="潘多诺格广场" sceneVer="1" top="40" ver="1.5050"/>
-  <SceneDes bgMusic="new_57.swf|amb_2.swf" id="237" name="剧院经理办公室" sceneVer="1" top="144" ver="1.60380"/>
+  <SceneDes bgMusic="new_57.swf|amb_2.swf" id="237" name="经理办公室" sceneVer="1" top="389" ver="1.60380"/>
   <SceneDes bgMusic="new_82.swf|amb_1.swf" id="236" name="潘多诺格许愿壁" sceneVer="1" top="40" ver="1.00000"/>
   <SceneDes bgMusic="new_82.swf|amb_2.swf" id="239" name="潘多诺格禁地" sceneVer="1" top="40" ver="1.5053"/>
   <SceneDes bgMusic="new_83.swf|amb_1.swf" id="238" name="潘多诺格源地" sceneVer="1" top="40" ver="1.00000"/>
@@ -435,7 +435,7 @@
   <SceneDes bgMusic="new_03.swf|amb_4.swf" id="316" name="钓鱼岛" sceneVer="1" top="13" ver="1.00000"/>
   <SceneDes bgMusic="new_92.swf|amb_8.swf" id="317" name="星之法阵" sceneVer="1" top="263" ver="1.00000"/>
   <SceneDes bgMusic="new_65.swf|amb_1.swf" id="318" name="巨石水晶台" sceneVer="1" top="18" ver="1.60380"/>
-  <SceneDes bgMusic="new_84.swf|amb_1.swf" id="319" name="儿童剧场" sceneVer="1" top="389" ver="1.00000"/>
+  <SceneDes bgMusic="new_84.swf|amb_1.swf" id="319" name="星光演播厅" sceneVer="1" top="389" ver="1.00000"/>
   <SceneDes bgMusic="new_49.swf|amb_7.swf" id="320" name="禁忌的书房" sceneVer="1" top="5" ver="1.60240"/>
   <SceneDes bgMusic="new_25.swf|amb_7.swf" id="321" name="幽之迷牢" sceneVer="1" top="5" ver="1.00000"/>
   <SceneDes bgMusic="new_18.swf" id="324" name="幽暗之地" sceneVer="1" top="141" ver="1.00000"/>

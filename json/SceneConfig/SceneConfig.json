@@ -2031,7 +2031,7 @@
       "id": "144",
       "name": "大剧院",
       "sceneVer": "1",
-      "top": "144",
+      "top": "389",
       "ver": "1.000",
       "bgMusic": "new_1000.swf|amb_1000.swf",
       "allowData": ""
@@ -2866,9 +2866,9 @@
     },
     {
       "id": "237",
-      "name": "剧院经理办公室",
+      "name": "经理办公室",
       "sceneVer": "1",
-      "top": "144",
+      "top": "389",
       "ver": "1.60380",
       "bgMusic": "new_57.swf|amb_2.swf",
       "allowData": ""
@@ -3856,7 +3856,7 @@
     },
     {
       "id": "319",
-      "name": "儿童剧场",
+      "name": "星光演播厅",
       "sceneVer": "1",
       "top": "389",
       "ver": "1.00000",
