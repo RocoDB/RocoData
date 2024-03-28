@@ -22,6 +22,7 @@
   <Weather id="21" tooltip="锁定：当前无天气环境且无法改变"></Weather>
   <Weather id="22" tooltip="曙光天气：非光系宠物行动后强制重置自身正负面强化"></Weather>
   <Weather id="23" tooltip="风林火山环境：双方被攻击时受到额外伤害，精力低于一半的宠物PP回复效果下降，神火系宠物所受额外伤害和精力阈值下降"></Weather>
-  <Weather id="24" tooltip="无"></Weather>
+  <Weather id="24" tooltip="乐园环境：萌系宠物回复精力效果提升，萌系威力技能对恶魔、幽灵、虫系宠物造成克制伤害，对机械、萌系宠物造成正常伤害。"></Weather>
+  <Weather id="25" tooltip=""></Weather>
   <Weather id="100" tooltip="无：当前无天气环境"></Weather>
 </Weathers>
