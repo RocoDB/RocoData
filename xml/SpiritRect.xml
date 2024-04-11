@@ -346,7 +346,7 @@
 <spirit endTime="" id="216" lv="LV.58～59" name="豆豆龙" scene="85" startTime=""/>
 <spirit endTime="" id="216" lv="LV.59～60" name="豆豆龙" scene="86" startTime=""/>
 <spirit endTime="" id="42" lv="LV.59～60" name="牵线木偶" scene="86" startTime=""/>
-<spirit endTime="" id="42" lv="LV.60～61" name="牵线木偶" scene="87" startTime=""/>
+<spirit endTime="" id="42" lv="LV.59～60" name="牵线木偶" scene="87" startTime=""/>
 <spirit endTime="" id="958" lv="LV.56～57" name="红顶剑龙" scene="78" startTime=""/>
 <spirit endTime="" id="276" lv="LV.56～57" name="小花嘴龙" scene="78" startTime=""/>
 <spirit endTime="" id="276" lv="LV.57～58" name="小花嘴龙" scene="82" startTime=""/>
@@ -355,8 +355,8 @@
 <spirit endTime="" id="285" lv="LV.58～59" name="霹雳龙" scene="80" startTime=""/>
 <spirit endTime="" id="285" lv="LV.59～60" name="霹雳龙" scene="79" startTime=""/>
 <spirit endTime="" id="288" lv="LV.59～60" name="蒸汽龙" scene="79" startTime=""/>
-<spirit endTime="" id="288" lv="LV.60～61" name="蒸汽龙" scene="81" startTime=""/>
-<spirit endTime="" id="69" lv="LV.60～61" name="迷你利乌" scene="81" startTime=""/>
+<spirit endTime="" id="288" lv="LV.59～60" name="蒸汽龙" scene="81" startTime=""/>
+<spirit endTime="" id="69" lv="LV.59～60" name="迷你利乌" scene="81" startTime=""/>
 <spirit endTime="" id="335" lv="LV.56～58" name="恶魔狼" scene="169" startTime=""/>
 <spirit endTime="" id="356" lv="LV.56～58" name="小罗王" scene="169" startTime=""/>
 <spirit endTime="" id="356" lv="LV.57～59" name="小罗王" scene="167" startTime=""/>
