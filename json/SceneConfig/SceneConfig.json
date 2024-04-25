@@ -5268,6 +5268,15 @@
       "allowData": ""
     },
     {
+      "id": "483",
+      "name": "洛克之路",
+      "sceneVer": "1",
+      "top": "5",
+      "ver": "1.00000",
+      "bgMusic": "new_122.swf|amb_7.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",

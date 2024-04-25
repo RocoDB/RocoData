@@ -4850,7 +4850,7 @@
         <comfortable>20</comfortable>
         <settleLayer>5</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -4882,7 +4882,7 @@
         <comfortable>20</comfortable>
         <settleLayer>3</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -4914,7 +4914,7 @@
         <comfortable>12</comfortable>
         <settleLayer>7</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -14234,7 +14234,7 @@
         <comfortable>8</comfortable>
         <settleLayer>15</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -14262,7 +14262,7 @@
         <comfortable>8</comfortable>
         <settleLayer>15</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -14290,7 +14290,7 @@
         <comfortable>8</comfortable>
         <settleLayer>15</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -14318,7 +14318,7 @@
         <comfortable>8</comfortable>
         <settleLayer>15</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -21954,7 +21954,7 @@
         <comfortable>5</comfortable>
         <settleLayer>21</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>
@@ -32076,7 +32076,7 @@
         <comfortable>5</comfortable>
         <settleLayer>35</settleLayer>
         <funcType>0</funcType>
-        <expireTime>90</expireTime>
+        <expireTime>0</expireTime>
         <buildLevel>0</buildLevel>
         <sendExp>0</sendExp>
         <buildEnergy>0</buildEnergy>

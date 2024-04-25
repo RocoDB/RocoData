@@ -52792,7 +52792,7 @@
     <Price>0</Price>
     <Desc><![CDATA[圣诞天使套装]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1566817056</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>67374947</ID>
@@ -52993,6 +52993,14 @@
     <Desc><![CDATA[露西亚套装]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374972</ID>
+    <Name>仙鹤羽毛</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙鹤羽毛，可在联动活动正式开启后获得进度值。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1721318400</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

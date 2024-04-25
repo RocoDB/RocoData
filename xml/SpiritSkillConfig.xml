@@ -3511,7 +3511,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="拙山朴水，藏巧蕴秀。净化并回复自身精力及威力技能PP。免疫异常并召唤乐园环境均持续6回合。回合内，自身每次使用其他技能时额外回复精力，若该技能作用目标为对手则据此追加固伤。降低自身受到的暴击及非抵抗威力伤害。被动免疫睡眠、冰冻。" id="3349" name="怀珠韫玉" power="--" ppMax="7" property="11" speed="15" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="文立于广大，而辞致于精微。清除对手正面强化并诱导其本回合使用的技能，乐园环境下删除对手本回合使用技能PP。若诱导时该技能PP已枯竭，则禁止该技能PP被回复。记录自身受到的先手威力伤害并使自身下次使用威力技能时据此回复自身精力并追加固伤。自身有任意强化时必中。" id="3350" name="致论精微" power="--" ppMax="10" property="18" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="笔底长鸣，醒聩震聋。连续发动技能3回合，首回合迷惑对手成功时则回合内必定暴击。每回合降低对手后手精力回复，若场上对手与自身相邻队友一致则额外删除其全技能PP。首回合迷惑对手，净化自身及后手被施加的异常与负面并据此提升技能威力与PP回复，净化成功时额外发动技能1回合。" id="3351" name="刻笔鸣弦" power="125" ppMax="12" property="18" speed="11" src="7010_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="有哀寄声，慊慊长思。记录对手本回合使用的技能并延长场上乐园或梦境环境3回合，延长失败则召唤乐园环境5回合。束缚对手，束缚成功时降低其魔防并暂时锁定其强化，净化并回复自身精力，免疫异常3回合。回合内令对手每次主动使用技能时为我方施加混乱并虚弱其对我方其他宠物造成的威力伤害；延长环境与召唤环境均失败时使对手每次使用技能时额外消耗PP，若对手使用技能与首回合记录一致则额外对其造成魔法威力伤害。" id="3352" name="南雁思归" power="--" ppMax="10" property="11" speed="8" src="7004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="有哀寄声，慊慊长思。记录对手本回合使用的技能并延长场上乐园或梦境环境3回合，延长失败则召唤乐园环境5回合。束缚对手，束缚成功时降低其魔防并暂时锁定其强化，净化并回复自身精力，免疫异常4回合。回合内令对手每次主动使用技能时为我方施加混乱并虚弱其对我方其他宠物造成的威力伤害；延长环境与召唤环境均失败时使对手每次使用技能时额外消耗PP，若对手使用技能与首回合记录一致则额外对其造成魔法威力伤害。" id="3352" name="南雁思归" power="--" ppMax="10" property="11" speed="8" src="7004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="流景长风，归入君怀。据场上乐园或梦境环境剩余回合数删除对手技能PP。回复首格技能PP并追加固伤。场上不为乐园或梦境环境时强化本技能效果：必中且强化自身1级魔攻并召唤乐园环境5回合，增强本技能PP回复效果并使自身下次使用本技能时先手值额外提升。" id="3353" name="流景逐君" power="90" ppMax="12" property="11" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3368" name="GZ1" power="100" ppMax="15" property="1" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="看破对手招式技巧，必中。删除对手最近使用的技能4PP。" id="3359" name="复眼" power="110" ppMax="7" property="12" speed="7" src="4049_.swf" superFormID="" superFormSrc=""/>
@@ -3522,7 +3522,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="连续掷出雪球5回合，投掷结束时回复自身技能PP。首回合冰冻对手并删除其技能PP，先手出招时则后续回合必中。每次命中对手或使用威力技能带出时均会不断提高投掷力度以增加技能威力。投掷力度过大时会依次使自身受到固伤、降低自身双防、对我方全体宠物造成固伤的反噬效果。" id="3347" name="掷雪球" power="40" ppMax="10" property="6" speed="9" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="满层厚脂肪时额外强化1级魔攻再攻击。后手出招时回复自身最少技能PP值。若自身本回合行动次数超过1次时使自身下次使用本技能时强化本技能：据行动次数提升技能威力并追加固伤。" id="3348" name="雪域狂欢" power="40" ppMax="10" property="6" speed="8" src="4038_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身，免疫异常与负面6回合且回合内降低自身受到固伤。猪神形态时召唤血月天气6回合并据本技能PP回复自身精力。曼陀罗形态时自身后手则获得护盾，后续回合回复自身精力且提升草系技能先手值。" id="3371" name="战体护佑" power="--" ppMax="5" property="16" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="猪神形态时强化自身物攻并造成波及伤害，自身受到先手伤害则反弹对手；若自身精力＜50%则飞奔下场，并重置自身强化令下个上场宠物获得护盾。曼陀罗形态时强化自身物防并召唤芬芳环境4回合，回复我方全体精力并重置队友负面；删除对手最近使用技能PP，且删除后PP为0则追加固伤。" id="3372" name="晓月低昂" power="80" ppMax="12" property="5" speed="9" src="4016_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="猪神形态时强化自身物攻并造成波及伤害，自身受到先手伤害则反弹对手；若自身精力＜50%则飞奔下场，并重置自身强化令下个上场宠物获得护盾。曼陀罗形态时强化自身物防并召唤芬芳环境4回合，回复我方全体精力并重置队友负面；删除对手最近使用技能PP，且删除后PP为0则追加固伤。" id="3372" name="晓月低昂" power="110" ppMax="12" property="5" speed="9" src="4016_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="猪神形态时恐惧对手，成功则对其斩杀；攻击时将自身正面物攻视为对手负面物防等级，同时造成波及伤害。曼陀罗形态时诅咒对手并删除其最近使用技能PP，回复我方全体精力与草系技能PP，若自身受到克制伤害则回复队友精力并使删除PP效果显著。" id="3373" name="猪突猛进" power="120" ppMax="10" property="16" speed="10" src="5004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3374" name="XK1" power="80" ppMax="9" property="1" speed="13" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3375" name="XK2" power="100" ppMax="10" property="1" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
@@ -3533,6 +3533,11 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3365" name="JD3" power="100" ppMax="12" property="13" speed="8" src="5013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3369" name="LYLC" power="--" ppMax="5" property="3" speed="12" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3370" name="MTFY" power="--" ppMax="5" property="9" speed="12" src="6009_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3366" name="F1" power="100" ppMax="10" property="7" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3367" name="Y1" power="100" ppMax="10" property="15" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3388" name="FY1" power="--" ppMax="8" property="8" speed="14" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3389" name="FY2" power="90" ppMax="9" property="8" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空空" id="3390" name="FY3" power="100" ppMax="10" property="8" speed="8" src="4007_.swf" superFormID="" superFormSrc=""/>
 
 
 
