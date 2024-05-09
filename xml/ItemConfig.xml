@@ -18459,6 +18459,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340892</ID>
+    <Name>电之脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340893</ID>
+    <Name>龙之脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340894</ID>
+    <Name>毒之脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -18767,6 +18791,14 @@
     <Name>耀龙祈福名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[祈福名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406441</ID>
+    <Name>圣魔·曼陀罗名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第十八届系别赛名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
