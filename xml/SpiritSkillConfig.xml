@@ -163,6 +163,7 @@
 <talentDes des="在场时双方不受梦境效果影响。主动使用变化技能结算完毕后，若场上不为梦境环境或梦境环境不足5回合，则召唤梦境环境5回合。梦境环境下，主动使用威力技能时使本次技能必中且提升技能威力。" id="84" name="清醒梦"/>
 <talentDes des="每次上场时据自身精力值变换形态：精力≥50%为猪神形态则提升自身攻击技能威力值；精力＜50%为曼陀罗形态则降低自身每次受到的威力伤害并免疫对手后手暴击。" id="85" name="猪罗万象"/>
 <talentDes des="土系技能威力提升25%。" id="86" name="无垠"/>
+<talentDes des="空空" id="87" name="空白"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3546,7 +3547,10 @@
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3396" name="DA1" power="90" ppMax="11" property="18" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空空" id="3397" name="DA2" power="100" ppMax="10" property="9" speed="8" src="7007_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3358" name="砾尊狂狮AI" power="--" ppMax="10" property="9" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3398" name="WH1" power="--" ppMax="7" property="2" speed="14" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3399" name="WH2" power="120" ppMax="10" property="2" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3400" name="WH3" power="--" ppMax="10" property="2" speed="9" src="7005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3401" name="WH4" power="100" ppMax="12" property="2" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 
 
   </SpiritSkillConfig>

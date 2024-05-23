@@ -18483,6 +18483,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340895</ID>
+    <Name>步步生莲脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -18799,6 +18807,14 @@
     <Name>圣魔·曼陀罗名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第十八届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406442</ID>
+    <Name>飞天概念名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
