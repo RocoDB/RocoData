@@ -5209,6 +5209,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620399</ID>
+    <Name>飞天浮影头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天浮影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620400</ID>
+    <Name>飞天逐影头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天逐影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8841,6 +8857,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751463</ID>
+    <Name>飞天浮影衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天浮影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751464</ID>
+    <Name>飞天逐影衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天逐影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -11994,6 +12026,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816973</ID>
+    <Name>飞天浮影鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天浮影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816974</ID>
+    <Name>飞天逐影鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天逐影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13150,6 +13198,22 @@
     <Name>魔法歌手背饰</Name>
     <Price>0</Price>
     <Desc><![CDATA[魔法歌手套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882260</ID>
+    <Name>飞天浮影背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天浮影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882261</ID>
+    <Name>飞天逐影背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天逐影套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -14398,6 +14462,22 @@
     <Name>龙悦良辰福</Name>
     <Price>0</Price>
     <Desc><![CDATA[龙悦良辰套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947810</ID>
+    <Name>飞天浮影莲花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天浮影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947811</ID>
+    <Name>飞天逐影琵琶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天逐影套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17023,6 +17103,14 @@
     <Name>魔法歌手手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[魔法歌手套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013517</ID>
+    <Name>飞天浮影玉瓶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[飞天浮影套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -51680,7 +51768,7 @@
     <Price>0</Price>
     <Desc><![CDATA[杂技小刺喜欢的小苹果]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1651766400</ExpireTime>
+    <ExpireTime>1720713600</ExpireTime>
  </Item>
   <Item>
     <ID>67374801</ID>
@@ -53049,6 +53137,22 @@
     <Desc><![CDATA[仙鹤羽毛，可在联动活动正式开启后获得进度值。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1721318400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374973</ID>
+    <Name>魔法学院套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法学院套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374974</ID>
+    <Name>磁矿石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[带有磁性的矿石]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1720713600</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
