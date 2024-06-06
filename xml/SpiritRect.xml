@@ -330,10 +330,9 @@
 <spirit endTime="" id="463" lv="LV.58～59" name="念力兽" scene="70" startTime=""/>
 <spirit endTime="" id="463" lv="LV.59～60" name="念力兽" scene="71" startTime=""/>
 <spirit endTime="" id="312" lv="LV.59～60" name="恶魔独角兽" scene="71" startTime=""/>
-<spirit endTime="" id="531" lv="LV.56～58" name="小独角兽" scene="63" startTime=""/>
 <spirit endTime="" id="829" lv="LV.20～25" name="紫蝶虫" scene="63" startTime=""/>
-<spirit endTime="" id="531" lv="LV.56～58" name="小独角兽" scene="65" startTime=""/>
 <spirit endTime="" id="829" lv="LV.56～58" name="紫蝶虫" scene="65" startTime=""/>
+<spirit endTime="" id="228" lv="LV.56～58" name="飞鱼" scene="65" startTime=""/>
 <spirit endTime="" id="829" lv="LV.57～59" name="紫蝶虫" scene="66" startTime=""/>
 <spirit endTime="" id="868" lv="LV.57～59" name="金羚雀" scene="66" startTime=""/>
 <spirit endTime="" id="868" lv="LV.58～60" name="金羚雀" scene="67" startTime=""/>
@@ -870,7 +869,6 @@
 <spirit endTime="" id="541" lv="LV.10" name="齿龙" scene="423" startTime=""/>
 <spirit endTime="" id="1015" lv="LV.10" name="紫幽龙" scene="423" startTime=""/>
 <spirit endTime="" id="1365" lv="LV.10" name="橙灵" scene="64" startTime=""/>
-<spirit endTime="" id="531" lv="LV.15" name="小独角兽" scene="64" startTime=""/>
 <spirit endTime="" id="1368" lv="LV.8～10" name="绿灵" scene="306" startTime=""/>
 <spirit endTime="" id="1380" lv="LV.10～15" name="紫灵" scene="306" startTime=""/>
 <spirit endTime="" id="1371" lv="LV.15" name="彩嘟嘟" scene="306" startTime=""/>
@@ -982,7 +980,9 @@
 <spirit endTime="" id="577" lv="LV.50～60" name="幽影蛇" scene="481" startTime=""/>
 <spirit endTime="" id="538" lv="LV.50～60" name="菇菇丁" scene="481" startTime=""/>
 <spirit endTime="" id="1457" lv="LV.20～30" name="暗黑多哥" scene="481" startTime=""/>
-
+<spirit endTime="" id="691" lv="LV.10～15" name="皮球孔雀" scene="64" startTime=""/>
+<spirit endTime="" id="228" lv="LV.20～25" name="飞鱼" scene="63" startTime=""/>
+<spirit endTime="" id="1452" lv="LV.10～15" name="暗黑火猴" scene="334" startTime=""/>
 
 
 </spiritRect>

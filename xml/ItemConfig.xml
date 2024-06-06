@@ -32662,9 +32662,9 @@
     <ID>67372396</ID>
     <Name>红豆</Name>
     <Price>0</Price>
-    <Desc><![CDATA[美味汤圆活动产出]]></Desc>
+    <Desc><![CDATA[粽享好时光活动使用]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1425571200</ExpireTime>
+    <ExpireTime>1721318400</ExpireTime>
  </Item>
   <Item>
     <ID>67372397</ID>
@@ -40502,9 +40502,9 @@
     <ID>67373386</ID>
     <Name>粽叶</Name>
     <Price>0</Price>
-    <Desc><![CDATA[粽香情浓活动相关道具]]></Desc>
+    <Desc><![CDATA[粽享好时光活动使用]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1561046400</ExpireTime>
+    <ExpireTime>1721318400</ExpireTime>
  </Item>
   <Item>
     <ID>67373387</ID>
@@ -53153,6 +53153,14 @@
     <Desc><![CDATA[带有磁性的矿石]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1720713600</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374975</ID>
+    <Name>飞天逐影套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[甘肃文旅联动-飞天逐影套装。]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

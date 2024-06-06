@@ -164,7 +164,9 @@
 <talentDes des="每次上场时据自身精力值变换形态：精力≥50%为猪神形态则提升自身攻击技能威力值；精力＜50%为曼陀罗形态则降低自身每次受到的威力伤害并免疫对手后手暴击。" id="85" name="猪罗万象"/>
 <talentDes des="土系技能威力提升25%。" id="86" name="无垠"/>
 <talentDes des="空空" id="87" name="空白"/>
-<talentDes des="" id="88" name="DY"/>
+<talentDes des="" id="88" name="DJ"/>
+<talentDes des="" id="89" name="空白"/>
+<talentDes des="" id="90" name="空白"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3486,7 +3488,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="强化自身1级命中和闪避。75%概率流转成功大幅提升威力并降低对手精力恢复效果1回合；流转失败时大幅降低威力，删除对手PP并造成波及伤害。" id="3318" name="星月流转" power="100" ppMax="10" property="11" speed="9" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="根据自身本回合所受伤害提升威力。重置自身命中和闪避强化后回复精力，自身精力＜50%时效果显著；追加固伤，自身无暴击强化时效果显著；删除对手本回合技能PP，造成抵抗威力伤害时效果显著并回复自身其他技能PP。" id="3319" name="星光迸发" power="120" ppMax="12" property="11" speed="8" src="5015_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面6回合，回合内自身主副系别失去被克制关系且降低受到的伤害，对手存在正面强化时自身技能必中。本技能免疫删除PP。" id="3328" name="垂丝海棠" power="--" ppMax="3" property="1" speed="15" src="6008_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="寄生对手并召唤芬芳环境3回合。强化自身魔攻并重置自身魔防，重置成功则回复本技能PP与自身精力。若自身上回合使用大地回春则追加固伤并吸取对手队友精力回复我方队友。" id="3329" name="桃柳争妍" power="70" ppMax="7" property="5" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="寄生对手并召唤芬芳环境3回合。强化自身魔攻并重置自身魔防，重置成功则回复本技能PP与自身精力。若自身上回合使用大地回春则追加固伤并吸取对手精力回复我方队友。" id="3329" name="桃柳争妍" power="70" ppMax="7" property="5" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="恐惧对手并回复自身精力。强化自身魔防并重置自身闪避，重置成功则回复本技能PP并删除对手最近使用技能PP。若自身上回合使用百卉含英则额外强化自身魔防并删除对手PP。" id="3330" name="大地回春" power="80" ppMax="8" property="9" speed="10" src="7004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="强化自身闪避并重置自身魔攻，重置成功则回复本技能PP并使本技能获得一定回合必暴效果。若自身上回合使用桃柳争妍则追加固伤并延长芬芳环境回合数，否则召唤暴晒天气4回合并令自身威力技能下回合提升先手值。" id="3331" name="百卉含英" power="100" ppMax="10" property="2" speed="8" src="4004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身，回复精力并提升较低魔攻强化。免疫异常并召唤阴雨天气均持续5回合，回合内根据场上天气环境剩余回合数降低所受威力伤害，阴雨天气下额外降低所受固定伤害。" id="3322" name="雾雨空濛" power="--" ppMax="6" property="3" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
@@ -3552,10 +3554,14 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3399" name="WH2" power="120" ppMax="10" property="2" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空空" id="3400" name="WH3" power="--" ppMax="11" property="2" speed="8" src="7005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3401" name="WH4" power="100" ppMax="10" property="2" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3402" name="NZZJ" power="--" ppMax="6" property="9" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3403" name="WYYY" power="--" ppMax="8" property="8" speed="12" src="4013_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3404" name="GRJT" power="100" ppMax="10" property="9" speed="11" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3402" name="HZHJ" power="--" ppMax="6" property="9" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3403" name="LYSY" power="--" ppMax="8" property="8" speed="12" src="4013_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3404" name="SSFB" power="100" ppMax="10" property="9" speed="11" src="5004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3405" name="CYZT" power="120" ppMax="14" property="9" speed="9" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3406" name="HL1" power="--" ppMax="4" property="10" speed="14" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空空" id="3407" name="HL2" power="130" ppMax="12" property="10" speed="10" src="5008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空空" id="3408" name="HL3" power="110" ppMax="12" property="11" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3409" name="HL4" power="--" ppMax="10" property="11" speed="8" src="6018_.swf" superFormID="" superFormSrc=""/>
 
 
   </SpiritSkillConfig>

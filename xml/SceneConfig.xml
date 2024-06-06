@@ -595,6 +595,10 @@
   <SceneDes bgMusic="new_121.swf" id="481" name="恶狮谷" sceneVer="1" top="456" ver="1.00000"/>
   <SceneDes bgMusic="new_25.swf|amb_7.swf" id="482" name="禁闭处" sceneVer="1" top="482" ver="1.00000"/>
   <SceneDes bgMusic="new_122.swf|amb_7.swf" id="483" name="洛克之路" sceneVer="1" top="5" ver="1.00000"/>
+  <SceneDes bgMusic="new_123.swf" id="484" name="浮影·官鹅沟" sceneVer="1" top="486" ver="1.00000"/>
+  <SceneDes bgMusic="new_123.swf" id="485" name="浮影·鸣沙月牙" sceneVer="1" top="486" ver="1.00000"/>
+  <SceneDes bgMusic="new_123.swf" id="486" name="浮影·玉门孤域" sceneVer="1" top="486" ver="1.00000"/>
+  <SceneDes bgMusic="new_10.swf|amb_1.swf" id="487" name="独角仙踪" sceneVer="1" top="18" ver="1.000"/>
 
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>

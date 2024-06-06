@@ -2650,14 +2650,6 @@
       "endTime": ""
     },
     {
-      "id": "531",
-      "name": "小独角兽",
-      "lv": "LV.56～58",
-      "scene": "63",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
       "id": "829",
       "name": "紫蝶虫",
       "lv": "LV.20～25",
@@ -2666,16 +2658,16 @@
       "endTime": ""
     },
     {
-      "id": "531",
-      "name": "小独角兽",
+      "id": "829",
+      "name": "紫蝶虫",
       "lv": "LV.56～58",
       "scene": "65",
       "startTime": "",
       "endTime": ""
     },
     {
-      "id": "829",
-      "name": "紫蝶虫",
+      "id": "228",
+      "name": "飞鱼",
       "lv": "LV.56～58",
       "scene": "65",
       "startTime": "",
@@ -6914,14 +6906,6 @@
       "endTime": ""
     },
     {
-      "id": "531",
-      "name": "小独角兽",
-      "lv": "LV.15",
-      "scene": "64",
-      "startTime": "",
-      "endTime": ""
-    },
-    {
       "id": "1368",
       "name": "绿灵",
       "lv": "LV.8～10",
@@ -7806,6 +7790,30 @@
       "name": "暗黑多哥",
       "lv": "LV.20～30",
       "scene": "481",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "691",
+      "name": "皮球孔雀",
+      "lv": "LV.10～15",
+      "scene": "64",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "228",
+      "name": "飞鱼",
+      "lv": "LV.20～25",
+      "scene": "63",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "1452",
+      "name": "暗黑火猴",
+      "lv": "LV.10～15",
+      "scene": "334",
       "startTime": "",
       "endTime": ""
     }
