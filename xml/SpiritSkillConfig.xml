@@ -167,6 +167,7 @@
 <talentDes des="" id="88" name="DJ"/>
 <talentDes des="" id="89" name="空白"/>
 <talentDes des="" id="90" name="空白"/>
+<talentDes des="" id="91" name="空白"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -385,7 +386,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="对对手造成一定伤害。" id="208" name="泥石流" power="40" ppMax="15" property="9" speed="8" src="4009_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="令对手命中等级下降。" id="209" name="扔泥巴" power="20" ppMax="10" property="9" speed="8" src="4009_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="3回合持续造成固伤。" id="210" name="沙地狱" power="60" ppMax="15" property="9" speed="8" src="4009_.swf"/>
-<SpiritSkillDes attackType="1" damageType="3" description="令对手的命中强化下降1级。" id="211" name="扔沙" power="--" ppMax="15" property="9" speed="8" src="4015_.swf"/>
+<SpiritSkillDes attackType="1" damageType="3" description="降低对手1级命中。" id="211" name="扔沙" power="--" ppMax="15" property="9" speed="8" src="4015_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="待补充" id="212" name="撒菱" power="--" ppMax="20" property="9" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="提高自身暴击率。" id="213" name="攻击雷电" power="90" ppMax="15" property="12" speed="8" src="4020_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="先攻击，如果对手本回合回复HP，则加到自己身上。" id="214" name="虫咬咬" power="60" ppMax="20" property="12" speed="8" src="5002_.swf"/>
@@ -745,7 +746,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="神奇的技能。" id="568" name="嗜血" power="60" ppMax="10" property="17" speed="8" src="7004_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害。" id="569" name="大力冲击" power="80" ppMax="15" property="13" speed="8" src="5003_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害。" id="570" name="石魂爆破" power="100" ppMax="10" property="13" speed="8" src="5014_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="让对手进入烧伤状态。" id="571" name="烈焰云" power="100" ppMax="10" property="2" speed="8" src="4002_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="烧伤对手。" id="571" name="烈焰云" power="100" ppMax="10" property="2" speed="8" src="4002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="闪避后手非必中技能，若对手无法行动或使用进攻技能则造成80点固伤。次回合不可行动。" id="572" name="火焰护罩" power="--" ppMax="5" property="2" speed="11" src="4003_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="帕尔萨斯的强大技能。" id="573" name="帕尔萨斯之吻" power="--" ppMax="15" property="16" speed="9" src="4002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="给对手造成一定伤害。" id="574" name="毁伤" power="80" ppMax="15" property="16" speed="9" src="4006_.swf"/>
@@ -1534,7 +1535,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="优秀的猎手在占得先机时会一击毙命！先手出招时，会斩杀低血量宠物并造成波及，觉醒中命中与威力提升。" id="1375" name="残暴打击" power="100" ppMax="15" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="狂野的咆哮足以震慑对手，震慑失败会削弱对手并强化自身。" id="1376" name="狮子咆哮" power="--" ppMax="5" property="7" speed="8" src="4029_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="根据对手已损失血量追加伤害。觉醒中命中提升。" id="1377" name="屠戮之爪" power="100" ppMax="15" property="7" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="啄穿对手护甲的一击。" id="1378" name="啄穿" power="90" ppMax="20" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="啄穿对手并降低其1级物防。" id="1378" name="啄穿" power="90" ppMax="20" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="穿透对手防御的攻击，穿戴灭却机炮可提升命中和威力。" id="1380" name="Fk18机炮" power="120" ppMax="25" property="17" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="消除对手的PP值与额外强化，穿戴死亡凝视可提升威力与消强穿透。" id="1381" name="Db56激光" power="100" ppMax="5" property="18" speed="9" src="4010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="根据对手当前生命追加伤害，穿戴猛火挂会波及场下对手。" id="1382" name="Mk02爆弹" power="105" ppMax="10" property="19" speed="8" src="4062_.swf" superFormID="" superFormSrc=""/>
@@ -1862,7 +1863,7 @@
 <SpiritSkillDes attackType="1" damageType="1" description="0" id="1706" name="劝降" power="--" ppMax="10" property="12" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="0" id="1707" name="抢夺" power="--" ppMax="10" property="12" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="北风般的咆哮，混杂极寒的冰气削减对手双防并使对手冰冻，然后造成巨大伤害，自身也承受部分伤害。" id="1708" name="凛冬之怒" power="150" ppMax="8" property="6" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="3" description="充满魅惑的机械之舞，使对手陷入迷惑的同时，悄无声息的将对手至于死地。同时召唤铁壁5回合保护自身。" id="1709" name="魅惑之舞" power="--" ppMax="6" property="17" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="充满魅惑的机械之舞，使对手陷入迷惑的同时，悄无声息的将对手置于死地。同时召唤铁壁5回合保护自身。" id="1709" name="魅惑之舞" power="--" ppMax="6" property="17" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="今朝有酒今朝醉，明日愁来明日愁。提升1级物攻，命中后会随机攻击场下队友，miss则降低对手双防1级。" id="1712" name="今朝醉" power="100" ppMax="8" property="3" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="丹青不知老将至，富贵于我如浮云。清除对手的强化，回复自身。造成伤害后诅咒对手，免疫诅咒的删除对手全体技能2PP，召唤迷雾天气6回合。" id="1713" name="浮云朝露" power="120" ppMax="10" property="14" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="自身会获得无穷的力量，而对手则会陷入死亡。净化自身。4回合内免疫异常及负面强化，回复40%HP及其他技能1PP。顽冥不化的对手两回合后会阵亡。" id="1714" name="死亡绝境" power="--" ppMax="4" property="17" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3562,6 +3563,13 @@
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3407" name="HL2" power="130" ppMax="12" property="10" speed="10" src="5008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3408" name="HL3" power="110" ppMax="12" property="11" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空空" id="3409" name="HL4" power="--" ppMax="10" property="11" speed="8" src="6018_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3378" name="YY1" power="--" ppMax="6" property="6" speed="15" src="6020_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3379" name="YY2" power="120" ppMax="12" property="6" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3380" name="YY3" power="100" ppMax="12" property="10" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3381" name="YY4" power="--" ppMax="8" property="6" speed="11" src="7006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3382" name="YY5" power="130" ppMax="10" property="6" speed="11" src="4040_.swf" superFormID="" superFormSrc=""/>
+
+
 
 
   </SpiritSkillConfig>

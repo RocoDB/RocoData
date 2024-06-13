@@ -5313,6 +5313,15 @@
       "allowData": ""
     },
     {
+      "id": "488",
+      "name": "月夜独角仙踪",
+      "sceneVer": "1",
+      "top": "18",
+      "ver": "1.000",
+      "bgMusic": "new_10.swf|amb_1.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",
