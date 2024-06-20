@@ -984,6 +984,8 @@
 <spirit endTime="" id="691" lv="LV.10～15" name="皮球孔雀" scene="64" startTime=""/>
 <spirit endTime="" id="228" lv="LV.20～25" name="飞鱼" scene="63" startTime=""/>
 <spirit endTime="" id="1452" lv="LV.10～15" name="暗黑火猴" scene="334" startTime=""/>
-
+<spirit endTime="" id="1606" lv="LV.20～30" name="独角仙" scene="488" startTime=""/>
+<spirit endTime="" id="1240" lv="LV.20～30" name="小灵菇" scene="488" startTime=""/>
+<spirit endTime="" id="3212" lv="LV.20～25" name="小地鼠" scene="488" startTime=""/>
 
 </spiritRect>

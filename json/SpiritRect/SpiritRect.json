@@ -7824,6 +7824,30 @@
       "scene": "334",
       "startTime": "",
       "endTime": ""
+    },
+    {
+      "id": "1606",
+      "name": "独角仙",
+      "lv": "LV.20～30",
+      "scene": "488",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "1240",
+      "name": "小灵菇",
+      "lv": "LV.20～30",
+      "scene": "488",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "3212",
+      "name": "小地鼠",
+      "lv": "LV.20～25",
+      "scene": "488",
+      "startTime": "",
+      "endTime": ""
     }
   ]
 }

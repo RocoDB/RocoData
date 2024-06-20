@@ -3533,8 +3533,8 @@
 <SpiritSkillDes attackType="2" damageType="1" description="据自身强化提升技能威力伤害。恐惧对手，若其存在正面强化则额外删除对手本回合技能PP。任意天气下追加固伤；任意环境下自身获得护盾并造成波及伤害。" id="3375" name="横刀式" power="100" ppMax="10" property="1" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="连续3回合发动技能，每回合炫技时将自身物攻转化为部分魔攻再造成伤害。首回合造成波及伤害并回复自身精力；末回合回复自身其他技能PP，若自身无正面强化则使回复PP效果显著。" id="3376" name="掌勺炫技" power="80" ppMax="8" property="5" speed="8" src="4016_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="寄生对手并追加固伤，被免疫则下回合限制自身受到的伤害。强化自身魔攻，对手存在强化时降低自身速度等级。" id="3377" name="舞勺之颠" power="120" ppMax="10" property="5" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化自身并据自身物防能力值获得护盾，自身当前精力不高于200点时额外回复自身精力值，连续使用本技能时消耗自身全部护盾并回复自身精力。免疫异常并召唤陨石天气均持续5回合。回合内：反弹自身每回合受到的首次物理威力伤害并降低自身物防能力值，自身受击时将自身正面物攻强化视为额外的物防强化，阵亡时赋予对手4层狩猎印记。被动免疫束缚。" id="3363" name="无敌甲胄" power="--" ppMax="6" property="13" speed="13" src="6012_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="重置对手正面双防强化并赋予其狩猎印记。自身无护盾时增强重置范围并在重置成功时获得护盾；自身有护盾时回复其他技能PP，存在枯竭技能时额外赋予对手狩猎印记，对手身上狩猎印记不低于3层时额外据双方物防能力值追加固伤，自身当前护盾值不低于200点时消耗自身一半护盾值并据此回复我方场下携带猎手血脉队友精力值。" id="3364" name="犰狳爆裂拳" power="135" ppMax="12" property="13" speed="9" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并据自身物防能力值获得护盾，自身当前精力不高于200点时额外回复自身精力值，连续使用本技能时消耗自身全部护盾并回复自身精力。免疫异常并召唤陨石天气均持续5回合。回合内：反弹自身每回合受到的首次物理威力伤害并降低自身物防能力值，自身受击时将自身正面物攻及速度强化分别视为额外的物防及魔防强化，阵亡时赋予对手4层狩猎印记。被动免疫束缚。" id="3363" name="无敌甲胄" power="--" ppMax="6" property="13" speed="13" src="6012_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="重置对手正面双防强化并赋予其狩猎印记。自身无护盾时提升先手值，增强重置范围并据此获得护盾与提升技能威力；自身有护盾时回复其他技能PP，存在枯竭技能时额外赋予对手狩猎印记，对手身上狩猎印记不低于3层时额外据双方物防能力值追加固伤，自身当前护盾值不低于200点时消耗自身一半护盾值并据此回复我方场下携带猎手血脉队友精力值。" id="3364" name="犰狳爆裂拳" power="135" ppMax="12" property="13" speed="9" src="5019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="删除对手技能PP，自身当前精力不高于200点则回复自身其他技能PP后赋予对手狩猎印记并驱逐自身。出手前未受到对手攻击时降低其1级双防并锁定其强化。自身无护盾时，使对手下次使用技能时降低其技能先手值，净化自身，净化成功时获得护盾并使对手下只上场宠物进入束缚状态；自身有护盾时据对手强化等级数额外删除其最近使用技能PP，自身当前护盾值不低于200点时消耗自身一半护盾值并据此对对手全体造成波及伤害。" id="3365" name="巨盾猛砸" power="100" ppMax="12" property="13" speed="8" src="5013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常与负面5回合，期间降低每回合首次所受到的固伤且每回合首次受到威力伤害时波及对手。" id="3369" name="琉云璃彩" power="--" ppMax="5" property="3" speed="12" src="6002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，闪避后手非必中技能。免疫异常与负面5回合，回合内降低自身所受伤害并提升精力回复效果。" id="3370" name="马踏飞燕" power="--" ppMax="5" property="9" speed="12" src="6009_.swf" superFormID="" superFormSrc=""/>
@@ -3555,10 +3555,10 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3399" name="WH2" power="120" ppMax="10" property="2" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空空" id="3400" name="WH3" power="--" ppMax="11" property="2" speed="8" src="7005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3401" name="WH4" power="100" ppMax="10" property="2" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3402" name="HZHJ" power="--" ppMax="6" property="9" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3402" name="JCXJ" power="--" ppMax="6" property="9" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3403" name="LYSY" power="--" ppMax="8" property="8" speed="12" src="4013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3404" name="SSFB" power="100" ppMax="10" property="9" speed="11" src="5004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3405" name="CYZT" power="120" ppMax="14" property="9" speed="9" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3405" name="TNQK" power="120" ppMax="14" property="9" speed="10" src="5004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空空" id="3406" name="HL1" power="--" ppMax="4" property="10" speed="14" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3407" name="HL2" power="130" ppMax="12" property="10" speed="10" src="5008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空空" id="3408" name="HL3" power="110" ppMax="12" property="11" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
@@ -3568,6 +3568,13 @@
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3380" name="YY3" power="100" ppMax="12" property="10" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3381" name="YY4" power="--" ppMax="8" property="6" speed="11" src="7006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3382" name="YY5" power="130" ppMax="10" property="6" speed="11" src="4040_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3410" name="WYYY" power="100" ppMax="6" property="8" speed="9" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3383" name="AA1" power="--" ppMax="2" property="4" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3384" name="AA2" power="110" ppMax="5" property="4" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3385" name="AA3" power="135" ppMax="12" property="18" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3386" name="AA4" power="125" ppMax="10" property="4" speed="9" src="7012_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3387" name="AA5" power="--" ppMax="4" property="10" speed="12" src="4041_.swf" superFormID="" superFormSrc=""/>
+
 
 
 
