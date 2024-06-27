@@ -5322,6 +5322,15 @@
       "allowData": ""
     },
     {
+      "id": "489",
+      "name": "灵河三角洲",
+      "sceneVer": "1",
+      "top": "489",
+      "ver": "1.000",
+      "bgMusic": "new_124.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",
