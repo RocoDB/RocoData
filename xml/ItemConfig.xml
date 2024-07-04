@@ -5233,6 +5233,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620402</ID>
+    <Name>仙灵溢彩头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙灵溢彩套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620403</ID>
+    <Name>神迹流光头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[神迹流光套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8889,6 +8905,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751466</ID>
+    <Name>仙灵溢彩衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙灵溢彩套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751467</ID>
+    <Name>神迹流光衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[神迹流光套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12066,6 +12098,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816976</ID>
+    <Name>仙灵溢彩鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙灵溢彩套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816977</ID>
+    <Name>神迹流光鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[神迹流光套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13246,6 +13294,22 @@
     <Name>梦幻星河背饰</Name>
     <Price>0</Price>
     <Desc><![CDATA[梦幻星河套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882263</ID>
+    <Name>仙灵溢彩翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙灵溢彩套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882264</ID>
+    <Name>神迹流光翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[神迹流光套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -14510,6 +14574,14 @@
     <Name>飞天逐影琵琶</Name>
     <Price>0</Price>
     <Desc><![CDATA[飞天逐影套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947812</ID>
+    <Name>仙灵溢彩小马</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙灵溢彩套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17155,6 +17227,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013519</ID>
+    <Name>仙灵溢彩法杖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[仙灵溢彩套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013520</ID>
+    <Name>神迹流光法杖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[神迹流光套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -17647,6 +17735,14 @@
     <Name>梦幻星河法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[梦幻星河套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209832</ID>
+    <Name>神迹流光法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[神迹流光套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
