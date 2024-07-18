@@ -1721,6 +1721,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>17432672</ID>
+    <Name>散藤</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会散藤技能<br>限用宠物（20级-包含进化）<br>小、青铜、白金、黄金、星耀和王者独角兽<br>技能描述<br>宠物等级越高伤害越高。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432673</ID>
+    <Name>健步</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会健步技能<br>限用宠物（40级-包含进化）<br>小、青铜、白金、黄金、星耀和王者独角兽<br>技能描述<br>令对手当前精力值减半。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>17498114</ID>
     <Name>升级果</Name>
     <Price>0</Price>
