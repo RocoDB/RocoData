@@ -769,7 +769,6 @@
 <spirit endTime="" id="1238" lv="LV.38～40" name="莲依依" scene="45" startTime=""/>
 <spirit endTime="" id="706" lv="LV.58～60" name="机械方方" scene="87" startTime=""/>
 <spirit endTime="" id="1727" lv="LV.45～50" name="利刺毒蝎" scene="407" startTime=""/>
-<spirit endTime="2017-10-26" id="1796" lv="LV.15～20" name="4399游戏喵" scene="390" startTime="2017-05-02"/>
 <spirit endTime="" id="2669" lv="LV.30～50" name="蓬蓬球" scene="430" startTime=""/>
 <spirit endTime="" id="447" lv="LV.30～50" name="兔尾绒" scene="430" startTime=""/>
 <spirit endTime="" id="2670" lv="LV.30～50" name="小烟雀" scene="431" startTime=""/>
@@ -987,5 +986,9 @@
 <spirit endTime="" id="1606" lv="LV.20～30" name="独角仙" scene="488" startTime=""/>
 <spirit endTime="" id="1240" lv="LV.20～30" name="小灵菇" scene="488" startTime=""/>
 <spirit endTime="" id="3212" lv="LV.20～25" name="小地鼠" scene="488" startTime=""/>
-
+<spirit endTime="" id="1" lv="LV.5" name="喵喵" scene="390" startTime=""/>
+<spirit endTime="" id="4" lv="LV.5" name="火花" scene="390" startTime=""/>
+<spirit endTime="" id="7" lv="LV.5" name="水蓝蓝" scene="390" startTime=""/>
+<spirit endTime="" id="3221" lv="LV.25～30" name="红沙耳狐" scene="490" startTime=""/>
+<spirit endTime="" id="3222" lv="LV.20～25" name="苦行骆驼" scene="491" startTime=""/>
 </spiritRect>

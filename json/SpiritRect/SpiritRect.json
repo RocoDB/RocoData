@@ -6162,14 +6162,6 @@
       "endTime": ""
     },
     {
-      "id": "1796",
-      "name": "4399游戏喵",
-      "lv": "LV.15～20",
-      "scene": "390",
-      "startTime": "2017-05-02",
-      "endTime": "2017-10-26"
-    },
-    {
       "id": "2669",
       "name": "蓬蓬球",
       "lv": "LV.30～50",
@@ -7846,6 +7838,46 @@
       "name": "小地鼠",
       "lv": "LV.20～25",
       "scene": "488",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "1",
+      "name": "喵喵",
+      "lv": "LV.5",
+      "scene": "390",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "4",
+      "name": "火花",
+      "lv": "LV.5",
+      "scene": "390",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "7",
+      "name": "水蓝蓝",
+      "lv": "LV.5",
+      "scene": "390",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "3221",
+      "name": "红沙耳狐",
+      "lv": "LV.25～30",
+      "scene": "490",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "3222",
+      "name": "苦行骆驼",
+      "lv": "LV.20～25",
+      "scene": "491",
       "startTime": "",
       "endTime": ""
     }
