@@ -170,7 +170,7 @@
 <talentDes des="退场时重置全部望月层数，若场上为冰雹天气则置为2层。自身持有望月或异常时获得控制异常免疫并据异常及负面提升技能威力，受月光庇佑受到的掉血异常转化为等额精力回复。主动使用威力技能时降低自身回复精力效果并据此血脉提升的威力次数追加固伤，若自身无望月层数则额外提升技能威力。首次阵亡时复生并诅咒自身且永久提升主动使用技能时造成的固伤。" id="91" name="盈亏流转"/>
 <talentDes des="据对手身上明光印记提升精力回复效果。每次登场后首次精力值降低至50%以下时格挡本回合后续伤害。自身当前精力值不超过50%时抵御爆发性伤害并使回复后的精力不得超过50%最大精力值令超出部分转化为护盾。攻击时消耗部分护盾并提升技能威力，力天使状态下攻击非新目标时额外召唤雷暴天气，若对手身上明光印记已达上限则清除其身上明光印记后追加固伤并获得护盾。与神属性对手对战时获得异常免疫并提高自身造成的伤害，击败神属性对手时永久提高自身所有伤害。" id="92" name="神霄苍雷"/>
 <talentDes des="虫属性技能威力提升25%。" id="93" name="蚕食"/>
-
+<talentDes des="" id="94" name=""/>
 
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -2399,7 +2399,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="香糯可口，尽情享受。令对手睡眠，被免疫则删除对手PP最少技能的PP，非芬芳环境下提升删除效果。随机品尝到的粽子口味并获得一种特殊效果：必定暴击、回复精力和提升先手值。" id="2226" name="大块朵颐" power="120" ppMax="8" property="5" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="山雨欲来，疾风将至。净化自身并回复精力，免疫异常和负面并召唤暗黑城环境均持续五回合，回合内受伤时删除对手PP。" id="2232" name="风雨欲来" power="--" ppMax="6" property="16" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="安伏如石，飞起如燕。先手则提升威力并造成波及伤害，后手则回复自身精力并反弹受到的伤害。" id="2233" name="燕起东丘" power="120" ppMax="10" property="16" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="虚无之魂，空虚渺茫。净化自身恢复血量，免疫异常5回合。若场上为天气则改变为暴晒5回合，若场上为环境则改变为芬芳5回合。本技能PP为0时圣魂入体，强化专属技能。" id="2203" name="缥缈圣魂" power="--" ppMax="1" property="2" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="虚无之魂，空虚渺茫。净化自身并回复精力，免疫异常与负面5回合。若场上为天气则改变为暴晒5回合，若场上为环境则改变为芬芳5回合。本技能PP为0时圣魂入体，强化专属技能。" id="2203" name="缥缈圣魂" power="--" ppMax="1" property="2" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="恐惧对手。被免疫则删除对手全体技能1PP。若缥缈圣魂PP为0时则额外删除对手全体技能1PP。根据自身血量追加额外效果，当血量在50%以上时，额外追加一段固伤。当血量在20%-50%之间时，对对手造成暴击伤害。当血量低于20%时，恢复与对手同等血量，若血量比对手多则恢复自身部分精力。技能使用后回复缥缈圣魂1PP。" id="2204" name="烽火孤烟" power="100" ppMax="12" property="2" speed="10" src="4041_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="大漠孤烟直，长河落日圆。清除自身负面强化后造成伤害。若缥缈圣魂PP为0时则提高本技能威力。若后手出招则恢复自身精力并波及对手场下宠物血量。场上存在芬芳环境，降低对手1级魔防。技能使用后回复缥缈圣魂1PP。" id="2205" name="长河落日" power="120" ppMax="15" property="5" speed="11" src="4016_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="击水三千，扶摇九万。净化自身并回复精力，根据对手场下克制翼属性的宠物数减少威力伤害一回合，暂时免疫异常状态和负面强化。场上若非疾风天气或自身存在护盾则提供额外加成和效果。" id="2206" name="扶摇苍穹" power="--" ppMax="5" property="10" speed="14" src="6010_.swf" superFormID="" superFormSrc=""/>
@@ -3599,6 +3599,11 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空。" id="3449" name="HH1" power="--" ppMax="6" property="5" speed="15" src="6004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空。" id="3450" name="HH2" power="120" ppMax="12" property="5" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="空。" id="3451" name="HH3" power="125" ppMax="12" property="18" speed="11" src="4041_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3438" name="MN1" power="--" ppMax="6" property="2" speed="15" src="6003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空。" id="3439" name="MN2" power="120" ppMax="12" property="2" speed="10" src="7008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3440" name="MN3" power="125" ppMax="12" property="10" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3441" name="MN4" power="110" ppMax="10" property="2" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
+
 
 
 
