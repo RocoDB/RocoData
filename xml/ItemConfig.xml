@@ -53355,6 +53355,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>67374977</ID>
+    <Name>皮革</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[制作拳套活动道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1728576000</ExpireTime>
+ </Item>
+  <Item>
     <ID>83951618</ID>
     <Name>萌鸡小屋</Name>
     <Price>0</Price>
