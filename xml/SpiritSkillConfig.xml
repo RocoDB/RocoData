@@ -147,7 +147,7 @@
 <talentDes des="处于控制异常时减免受到的伤害，处于非控制异常时每次行动回复部分精力；处于异常阵亡时根据剩余PP造成固伤。" id="68" name="异常基因"/>
 <talentDes des="石属性技能威力提升25%。" id="69" name="流砂"/>
 <talentDes des="先手出招时降低自身受到的后手非克制非抵抗威力伤害。首次登场时获得满层狡黠印记，自身造成或受到抵抗伤害时获取1层狡黠印记。受到克制伤害时消耗1层狡黠印记并大幅降低本次伤害。" id="70" name="狡黠"/>
-<talentDes des="根据自身携带水草光冰的技能属性获得部分被动免疫。" id="71" name="保护色"/>
+<talentDes des="根据自身携带不同的技能属性数获得部分被动免疫。" id="71" name="保护色"/>
 <talentDes des="机械属性技能威力提升25%。" id="72" name="超频"/>
 <talentDes des="使用变化技能时根据最大PP值追加固伤，使用基础威力不超过100的威力技能时根据最大PP值提升威力。" id="73" name="蓄锐"/>
 <talentDes des="毒属性技能威力提升25%。" id="74" name="淬毒"/>
@@ -171,7 +171,7 @@
 <talentDes des="据对手身上明光印记提升精力回复效果。每次登场后首次精力值降低至50%以下时格挡本回合后续伤害。自身当前精力值不超过50%时抵御爆发性伤害并使回复后的精力不得超过50%最大精力值令超出部分转化为护盾。攻击时消耗部分护盾并提升技能威力，力天使状态下攻击非新目标时额外召唤雷暴天气，若对手身上明光印记已达上限则清除其身上明光印记后追加固伤并获得护盾。与神属性对手对战时获得异常免疫并提高自身造成的伤害，击败神属性对手时永久提高自身所有伤害。" id="92" name="神霄苍雷"/>
 <talentDes des="虫属性技能威力提升25%。" id="93" name="蚕食"/>
 <talentDes des="抵御爆发性威力伤害并将抵御部分转化为怒火。主动使用威力技能时据怒火值回复精力，若怒火值已满则获得1层焰影并强化1级物攻与速度，若使用时已存在焰影则额外获得1层焰影并获得护盾；获得4层焰影时消耗全部怒火及焰影并对双方造成高额固伤且波及对手场下。连续使用同一威力技能则消耗部分怒火值对对手追加等额固伤。" id="94" name="反刍"/>
-
+<talentDes des="95" id="95" name="95"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -1324,7 +1324,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="消耗自身精力治愈场下受伤最重的队友，同时提升自身防御。" id="1145" name="恩泽" power="--" ppMax="20" property="3" speed="9" src="6020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="驱散对手的增益状态，并籍此治疗自身。" id="1146" name="洗礼" power="125" ppMax="10" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="删除对手全技能2PP并回复自身精力。" id="1147" name="净化" power="80" ppMax="5" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="消耗自身部分精力值，短期内限制对手攻击，对手越强限制越大。" id="1148" name="牺牲" power="175" ppMax="10" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="消耗自身部分精力值，降低对手伤害能力2回合，对神属性宠物效果显著。" id="1148" name="牺牲" power="175" ppMax="10" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="回复己方全体宠物精力，对自身效果显著。" id="1149" name="祈愿" power="--" ppMax="20" property="3" speed="9" src="6020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="被精灵王们用于封印火魔的咒文，对火魔和其他火属性宠物有极大约束力。" id="1150" name="伊利亚" power="75" ppMax="20" property="3" speed="9" src="4068_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="熊熊燃烧的烈焰，根据对手当前精力追加伤害。" id="1151" name="璀璨花火" power="80" ppMax="10" property="2" speed="9" src="4041_.swf" superFormID="" superFormSrc=""/>
@@ -3603,6 +3603,15 @@
 <SpiritSkillDes attackType="1" damageType="1" description="免疫异常1回合并倒置自身负面强化。删除对手全技能PP并回复自身，后手时额外获得怒火值。攻击时若自身存在焰影则强化1级物攻并追加固伤；若焰影超过1层则额外召唤暴晒天气，召唤失败时提升PP删除量并强化自身1级物防与速度。" id="3439" name="焰影逐日" power="120" ppMax="12" property="2" speed="10" src="7008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="删除对手技能PP，先手时将自身造成的部分威力伤害转化为怒火值并追加等额固伤。清除对手正面强化若自身怒火值已满则增强为强制清除，清除成功时降低自身双防强化。" id="3440" name="焚云炽翼" power="125" ppMax="12" property="10" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="据自身怒火值提升技能威力，攻击时若自身精力低于对手则强化1级物攻。恐惧对手并净化自身，净化成功时据净化项数额外获得怒火值并回复技能PP。重置自身双攻外的正面强化并降低对手同等类型的强化各1级。" id="3441" name="烜角穿魂" power="100" ppMax="10" property="2" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3448" name="GM" power="--" ppMax="6" property="3" speed="14" src="6003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3457" name="GL" power="--" ppMax="8" property="6" speed="10" src="4040_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空。" id="3458" name="SH" power="120" ppMax="12" property="3" speed="9" src="5010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3452" name="YY1" power="--" ppMax="8" property="17" speed="14" src="6005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3453" name="YY2" power="--" ppMax="10" property="14" speed="11" src="4007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3454" name="YY3" power="120" ppMax="15" property="14" speed="10" src="5027_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3455" name="YY4" power="125" ppMax="15" property="17" speed="11" src="7001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3456" name="YY5" power="120" ppMax="15" property="18" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+
 
 
 
