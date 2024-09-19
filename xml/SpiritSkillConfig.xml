@@ -3608,9 +3608,9 @@
 <SpiritSkillDes attackType="2" damageType="2" description="空。" id="3458" name="SH" power="120" ppMax="12" property="3" speed="9" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3452" name="YY1" power="--" ppMax="7" property="14" speed="14" src="6005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3453" name="YY2" power="--" ppMax="10" property="14" speed="10" src="4007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3454" name="YY3" power="120" ppMax="15" property="14" speed="9" src="5027_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空" id="3455" name="YY4" power="125" ppMax="15" property="17" speed="11" src="7001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3456" name="YY5" power="120" ppMax="15" property="18" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3454" name="YY3" power="120" ppMax="12" property="14" speed="9" src="5027_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3455" name="YY4" power="125" ppMax="15" property="17" speed="11" src="7001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3456" name="YY5" power="120" ppMax="10" property="18" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复大量精力，免疫异常与负面并召唤血月天气均持续5回合，回合内自身精力首次＜50%时立即回复部分精力，每回合出手前受伤则提升威力。" id="3427" name="断耳求生" power="--" ppMax="7" property="16" speed="13" src="6003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="迷惑对手，被免疫则根据自身正面强化等级追加固伤。先手时降低本回合所受威力伤害，否则回复精力。若对手使用威力技能则删除对应技能PP，否则降低其精力恢复效果3回合。" id="3428" name="粉末偷袭" power="--" ppMax="10" property="9" speed="11" src="4011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="根据自身正面强化等级提升威力。回复自身其他技能PP，威力伤害被抵抗时删除对手PP。若对手最大精力不足为惧时根据其已损精力造成固伤，否则召唤我方场下至多3只存活宠物根据各自最高威力造成固伤。" id="3429" name="煽风点火" power="120" ppMax="12" property="16" speed="8" src="5004_.swf" superFormID="" superFormSrc=""/>
@@ -3621,7 +3621,11 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3436" name="BB1" power="--" ppMax="5" property="8" speed="12" src="4013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="空" id="3437" name="BB2" power="120" ppMax="10" property="8" speed="9" src="4017_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3444" name="BB3" power="120" ppMax="10" property="7" speed="10" src="5019_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3445" name="CC" power="--" ppMax="5" property="12" speed="12" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3446" name="YW" power="100" ppMax="10" property="12" speed="10" src="5008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3447" name="SS" power="--" ppMax="5" property="12" speed="12" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3442" name="BZ1" power="--" ppMax="5" property="7" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3443" name="BZ2" power="100" ppMax="9" property="7" speed="8" src="5004_.swf" superFormID="" superFormSrc=""/>
 
 
 
