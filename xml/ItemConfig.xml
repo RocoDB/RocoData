@@ -5273,6 +5273,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620405</ID>
+    <Name>黑猫警长头套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620406</ID>
+    <Name>白猫班长头套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8953,6 +8969,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751469</ID>
+    <Name>黑猫警长衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751470</ID>
+    <Name>白猫班长衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12150,6 +12182,22 @@
     <Name>魔龙铠甲鞋子</Name>
     <Price>0</Price>
     <Desc><![CDATA[魔龙铠甲套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816979</ID>
+    <Name>黑猫警长鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816980</ID>
+    <Name>白猫班长鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17307,6 +17355,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013523</ID>
+    <Name>黑猫警长对讲机</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013524</ID>
+    <Name>白猫班长手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18803,6 +18867,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340897</ID>
+    <Name>摩托主题脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -19143,6 +19215,14 @@
     <Name>圣魔·花语心名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第十九届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406445</ID>
+    <Name>摩托主题名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -53419,6 +53499,94 @@
     <ExpireTime>1728576000</ExpireTime>
  </Item>
   <Item>
+    <ID>67374978</ID>
+    <Name>丰收呱呱礼花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后可以在场景里放出丰收呱呱图案的礼花]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374979</ID>
+    <Name>丰收路路礼花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后可以在场景里放出丰收路路图案的礼花]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374980</ID>
+    <Name>森林守护主题家具</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长联动系列家具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374981</ID>
+    <Name>线索1-胡须</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[看起来很普通的一根胡须]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374982</ID>
+    <Name>线索2-手套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[看起来很陌生，好像没见过]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374983</ID>
+    <Name>线索3-衣服碎片</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[一块布料碎片，如果能找到它的主人或许……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374984</ID>
+    <Name>线索4-脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[这个脚印看起来好像有些眼熟！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374985</ID>
+    <Name>线索5-腰带</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[这是……一条腰带？]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374986</ID>
+    <Name>线索6-裤子碎片</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[一块深色的布料，看不出有什么特别之处]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374987</ID>
+    <Name>线索7-手掌印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[这是！手掌印！好像有些头绪了！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374988</ID>
+    <Name>线索8-黑影</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[一团黑影，究竟会是什么呢？]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
     <ID>83951618</ID>
     <Name>萌鸡小屋</Name>
     <Price>0</Price>
@@ -55803,6 +55971,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>100925469</ID>
+    <Name>森林之家稻草人</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>100990978</ID>
     <Name>农场小屋</Name>
     <Price>0</Price>
@@ -56071,6 +56247,14 @@
     <Name>岁稔年丰小屋</Name>
     <Price>0</Price>
     <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>100991012</ID>
+    <Name>森林之家房子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -56347,6 +56531,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101056548</ID>
+    <Name>森林之家椅子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101122050</ID>
     <Name>普通稻草堆</Name>
     <Price>0</Price>
@@ -56619,6 +56811,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101122084</ID>
+    <Name>森林之家公仔</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101187586</ID>
     <Name>农场告示牌</Name>
     <Price>0</Price>
@@ -56887,6 +57087,14 @@
     <Name>岁稔年丰告示牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[岁稔年丰农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>101187620</ID>
+    <Name>森林之家公告牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -57231,6 +57439,22 @@
     <Name>凯蒂猫套装</Name>
     <Price>0</Price>
     <Desc><![CDATA[联动限定凯蒂猫套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>151715875</ID>
+    <Name>飞行器魔法装扮</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>151715876</ID>
+    <Name>摩托车魔法装扮</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

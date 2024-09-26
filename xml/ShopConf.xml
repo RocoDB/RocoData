@@ -12,6 +12,7 @@
 <item type="2" id="67374924" itemName="1000万经验礼包" tips="1000万宠物经验值大礼包，礼包内有50个20万经验果。" />
 <item type="2" id="67374925" itemName="500万经验礼包" tips="500万宠物经验值大礼包，礼包内有25个20万经验果。" />
 <item type="2" id="67374926" itemName="努力值果实礼包" tips="礼包内有6种努力值果实各20个。" />
+<item type="1" id="131392" itemName="潼裳·渚雷" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="131382" itemName="沁漪·赫苏" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="129200" itemName="流光·伊瑟拉" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="129200" itemName="流光·伊瑟拉" tips="先获得宠物才可以使用哦！" />
@@ -148,6 +149,7 @@
 <item type="1" id="3004" itemName="阿努拉尼" tips="阿努拉尼" />
 <item type="1" id="2956" itemName="西塔尔" tips="西塔尔" />
 <item type="1" id="3201" itemName="卡利俄珀" tips="卡利俄珀" />
+<item type="1" id="3244" itemName="俄尔普斯" tips="俄尔普斯" />
 <item type="1" id="2928" itemName="美狄亚" tips="美狄亚" />
 <item type="1" id="1822" itemName="劫影龙皇" tips="劫影龙皇" />
 <item type="1" id="2302" itemName="龙之飞儿" tips="龙之飞儿" />
@@ -331,6 +333,7 @@
 <item type="4" id="67374935" itemName="逐光之约家具套装" tips="逐光之约系列家具" />
 <item type="4" id="67374942" itemName="巴哈姆特家具套装" tips="巴哈姆特系列家具" />
 <item type="4" id="67374941" itemName="砾尊狂狮家具套装" tips="砾尊狂狮系列家具" />
+<item type="4" id="67374980" itemName="森林守护主题家具" tips="黑猫警长联动系列家具" />
 <item type="4" id="122000131" itemName="彩色粽子" tips="端午系列家具" />
 <item type="4" id="121000156" itemName="端午节壁纸" tips="端午系列家具" />
 <item type="4" id="121000157" itemName="端午节地板" tips="端午系列家具" />
@@ -460,6 +463,14 @@
 <item type="4" id="121000191" itemName="金秋家具门" tips="金秋系列家具" />
 <item type="4" id="123000262" itemName="金秋家具椅子" tips="金秋系列家具" />
 <item type="4" id="123000263" itemName="金秋家具桌子" tips="金秋系列家具" />
+<item type="4" id="122000243" itemName="森林守护时钟" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000468" itemName="森林守护床" tips="黑猫警长联动系列家具" />
+<item type="4" id="121000348" itemName="森林守护壁纸" tips="黑猫警长联动系列家具" />
+<item type="4" id="121000349" itemName="森林守护地板" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000469" itemName="森林守护地毯" tips="黑猫警长联动系列家具" />
+<item type="4" id="121000350" itemName="森林守护门" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000470" itemName="森林守护椅子" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000471" itemName="森林守护桌子" tips="黑猫警长联动系列家具" />
 <item type="5" id="100990988" itemName="知识兔子小屋" tips="农场装扮，不过期哦！" />
 <item type="5" id="101056524" itemName="夏日躺椅" tips="农场装扮，不过期哦！" />
 <item type="5" id="101122060" itemName="美味圣代杯" tips="农场装扮，不过期哦！" />
@@ -891,4 +902,6 @@
 <item type="2" id="50397248" itemName="南瓜魔咒" tips="使用后可将目标变成南瓜！" />
 <item type="2" id="67374940" itemName="祈福龙礼花" tips="使用后可以在场景中放出祈福节宠物图案的礼花。" />
 <item type="2" id="50397300" itemName="祈福耀龙变形魔法" tips="将目标变成祈福龙！" />
+<item type="2" id="67374978" itemName="丰收呱呱礼花" tips="使用后可以在场景中放出丰收呱呱图案的礼花。" />
+<item type="2" id="67374979" itemName="丰收路路礼花" tips="使用后可以在场景中放出丰收路路图案的礼花。" />
 </Items>

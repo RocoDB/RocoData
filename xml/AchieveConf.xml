@@ -45,6 +45,7 @@
 <title id="43" tips="获得祖顿兽可点亮" type="0">  <level id="1" label="诚实徽章" total="1"/>    </title>
 <title id="44" tips="获得浮影铜奔马可点亮" type="0">  <level id="1" label="铜奔马徽章" total="1"/>    </title>
 <title id="45" tips="通过活动跃迁流光兑换可点亮" type="0">  <level id="1" label="流光异彩徽章" total="1"/>    </title>
+<title id="46" tips="获得黑猫警长可点亮" type="0">  <level id="1" label="黑猫警长纪念徽章" total="1"/>    </title>
 
 <title id="81" tips="收集宠物种类达到$total$" type="1">  <level id="1" label="宠物爱好者" total="50"/>  <level id="2" label="宠物收藏家" total="500"/>  <level id="3" label="宠物园馆长" total="1000"/>  </title>
 <title id="82" tips="成功孵化宠物蛋数量达到$total$" type="1">  <level id="1" label="宠物孵化员" total="20"/>  <level id="2" label="宠物孵蛋达人" total="100"/>  <level id="3" label="宠物科学家" total="500"/>  </title>
