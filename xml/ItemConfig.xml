@@ -18200,7 +18200,7 @@
     <Price>0</Price>
     <Desc><![CDATA[可以参加欢乐模仿秀的魔法装扮]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1536854400</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>34275370</ID>
@@ -18248,7 +18248,7 @@
     <Price>0</Price>
     <Desc><![CDATA[翼王魔法装扮]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1413043200</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>34275376</ID>
