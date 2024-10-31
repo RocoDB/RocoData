@@ -19227,6 +19227,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34406446</ID>
+    <Name>圣魔·糖心名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第二十届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34471938</ID>
     <Name>夏日海滩冒泡框</Name>
     <Price>0</Price>
