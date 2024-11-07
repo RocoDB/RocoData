@@ -334,6 +334,7 @@
 <item type="4" id="67374942" itemName="巴哈姆特家具套装" tips="巴哈姆特系列家具" />
 <item type="4" id="67374941" itemName="砾尊狂狮家具套装" tips="砾尊狂狮系列家具" />
 <item type="4" id="67374980" itemName="森林守护主题家具" tips="黑猫警长联动系列家具" />
+<item type="4" id="67374989" itemName="森林之家主题家具" tips="黑猫警长联动系列家具" />
 <item type="4" id="122000131" itemName="彩色粽子" tips="端午系列家具" />
 <item type="4" id="121000156" itemName="端午节壁纸" tips="端午系列家具" />
 <item type="4" id="121000157" itemName="端午节地板" tips="端午系列家具" />
@@ -471,6 +472,14 @@
 <item type="4" id="121000350" itemName="森林守护门" tips="黑猫警长联动系列家具" />
 <item type="4" id="123000470" itemName="森林守护椅子" tips="黑猫警长联动系列家具" />
 <item type="4" id="123000471" itemName="森林守护桌子" tips="黑猫警长联动系列家具" />
+<item type="4" id="122000244" itemName="森林之家时钟" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000472" itemName="森林之家床" tips="黑猫警长联动系列家具" />
+<item type="4" id="121000351" itemName="森林之家壁纸" tips="黑猫警长联动系列家具" />
+<item type="4" id="121000352" itemName="森林之家地板" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000473" itemName="森林之家地毯" tips="黑猫警长联动系列家具" />
+<item type="4" id="121000353" itemName="森林之家门" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000474" itemName="森林之家椅子" tips="黑猫警长联动系列家具" />
+<item type="4" id="123000475" itemName="森林之家桌子" tips="黑猫警长联动系列家具" />
 <item type="5" id="100990988" itemName="知识兔子小屋" tips="农场装扮，不过期哦！" />
 <item type="5" id="101056524" itemName="夏日躺椅" tips="农场装扮，不过期哦！" />
 <item type="5" id="101122060" itemName="美味圣代杯" tips="农场装扮，不过期哦！" />
