@@ -652,7 +652,7 @@
 <SpiritSkillDes attackType="1" damageType="1" description="使对手剩余1点HP，自身自曝死亡" id="469" name="必杀技" power="--" ppMax="10" property="1" speed="15" src="4058_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="生命过低时，自身自爆死亡。" id="470" name="暴走装置" power="--" ppMax="10" property="1" speed="8" src="4030_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率降低对手的魔防等级。" id="471" name="毁灭一击" power="100" ppMax="10" property="17" speed="8" src="4029_.swf"/>
-<SpiritSkillDes attackType="2" damageType="3" description="给对手造成一定伤害。" id="472" name="飞轮击打" power="--" ppMax="5" property="17" speed="8" src="5014_.swf"/>
+<SpiritSkillDes attackType="2" damageType="1" description="给对手造成一定伤害。" id="472" name="飞轮击打" power="--" ppMax="5" property="17" speed="8" src="5014_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="令对手魔防等级大量下降。" id="473" name="金属噪音" power="--" ppMax="40" property="17" speed="8" src="7001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="较高机率让对手命中等级下降。" id="474" name="光线反射" power="80" ppMax="10" property="17" speed="8" src="4010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="1" description="该回合内多次攻击对手。" id="475" name="迷雾重重" power="10" ppMax="20" property="14" speed="8" src="4005_.swf"/>
@@ -1268,7 +1268,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="3回合内每回合持续造成100点固伤，并且有概率使对手沉睡。" id="1086" name="幽灵反骨" power="--" ppMax="5" property="14" speed="8" src="4029_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="自身先手时50%概率强化魔攻2级，后手则80%概率强化速度1级。" id="1087" name="灵域风暴" power="100" ppMax="10" property="14" speed="8" src="4050_.swf"/> 
 <SpiritSkillDes attackType="1" damageType="2" description="如果本轮先手，则必定提升魔防2级。如果本轮后手，则恢复150点生命值。" id="1088" name="幽冥守护" power="120" ppMax="10" property="14" speed="8" src="4010_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="令对手命中等级降低1级，自己先手时，额外附带60点固伤。" id="1089" name="暗黑强袭" power="90" ppMax="10" property="14" speed="8" src="4041_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="降低对手1级命中，自身先手时追加60点固伤。" id="1089" name="暗黑强袭" power="90" ppMax="10" property="14" speed="8" src="4041_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="高命中技能。重置对手正面强化并删除对手PP。" id="1090" name="鬼雾消散" power="100" ppMax="5" property="14" speed="8" src="4010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="3回合不会出现异常状态，3回合内受到对手攻击时，必定使对手麻醉。" id="1091" name="冥暗圣铠" power="--" ppMax="5" property="14" speed="10" src="6011_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="必定使对手受到诅咒。" id="1092" name="冥暗诅咒" power="110" ppMax="15" property="14" speed="8" src="4006_.swf"/>
@@ -1646,7 +1646,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="恐吓对手宠物，使其因畏惧而换宠。" id="1489" name="辽来也" power="75" ppMax="4" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="以青木之力谐振脉轮。回复自身精力并短暂减免所受伤害。" id="1490" name="青木脉轮" power="90" ppMax="20" property="20" speed="10" src="4016_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="历经炽炎试炼后觉醒的强力技能，造成伤害同时有极大几率烧伤对手并降低其魔防等级。" id="1491" name="燃木气旋" power="100" ppMax="20" property="2" speed="10" src="4005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="历经幽冥试炼后觉醒的强力技能，造成伤害同时有极大几率使对手恐惧或降低所有技能PP值。" id="1492" name="幽冥刻印" power="60" ppMax="20" property="14" speed="10" src="4049_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="历经幽冥试炼后觉醒的强力技能。恐惧对手，被免疫则删除对手PP。" id="1492" name="幽冥刻印" power="60" ppMax="20" property="14" speed="10" src="4049_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="列王加持神圣庇护。净化自身并回复50%自身最大精力，强化自身1级双防。免疫异常4回合。" id="1493" name="列王守护" power="--" ppMax="4" property="18" speed="14" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="王者路路AI" id="1494" name="王者路路AI" power="100" ppMax="10" property="5" speed="11" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并强化1级闪避与速度，免疫异常4回合。" id="1495" name="暗之帷幕" power="--" ppMax="2" property="14" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
@@ -2352,7 +2352,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="召唤阴雨天气并冰冻对手。若场上不是阴雨天气则必定暴击，若对手无异常则吸取对手PP。" id="2167" name="高压水枪" power="120" ppMax="12" property="3" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="召唤迷雾天气5回合。清除自身异常并回复精力，5回合内免疫异常状态，每回合给与自身护盾。后续回合削弱自身不同属性或回复其他技能PP。" id="2174" name="幽幽斗篷" power="--" ppMax="5" property="14" speed="14" src="6004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="大声尖叫。命中后恐惧对手，被免疫则降低对手魔防并降低对手的精力回复效果，任意天气/环境均强化此效果。本回合未受到伤害则必中并提升威力，反之则删除PP。" id="2175" name="惊声尖叫" power="120" ppMax="12" property="14" speed="10" src="6001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="喜怒无常。双方负面提升威力，倒置对手正面强化后攻击，倒置失败则额外追加固伤。" id="2176" name="负面情绪" power="100" ppMax="10" property="14" speed="8" src="4006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="喜怒无常。倒置对手正面强化，并据双方负面强化提升威力伤害；若倒倒置失败则追加固伤。" id="2176" name="负面情绪" power="100" ppMax="10" property="14" speed="8" src="4006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="暂时免疫异常4回合，回复自身精力值并在回合内提升自身双防能力。" id="2182" name="穷溟驾浪" power="--" ppMax="4" property="3" speed="12" src="6006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="木石填海，浩瀚为志。净化自身并回复精力，暂时免疫异常和负面。先手召唤阴雨天气，后手召唤疾风天气，召唤失败则根据己方阵亡队友数提升自身暴击伤害。" id="2177" name="平海浩志" power="--" ppMax="6" property="3" speed="12" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="天羽缭乱，无双乱舞。强化暴击并冰冻对手，被免疫则回复PP。先手则追加多次伤害，后手则回复精力。" id="2178" name="天羽乱舞" power="120" ppMax="7" property="10" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -3638,11 +3638,11 @@
 <SpiritSkillDes attackType="1" damageType="3" description="连续发动技能3回合。每回合降低对手精力回复并据自身闪避强化追加固伤，首回合记录场上天气环境并将其清除，清除成功则据此获得闪避负面。末回合清除首回合的记录，据自身持有的强化追加效果：有负面闪避强化时获得1级物攻强化，有正面闪避强化时将对手物防置为负1级。" id="3470" name="破空" power="--" ppMax="8" property="7" speed="11" src="4019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="据自身已损精力提升技能威力。恐惧对手，自身有负面闪避强化时删除对手技能PP，有正面闪避强化时额外发动技能1回合。场上有天气环境时将自身低于1级的物攻强化置为1级，若为被记录的天气环境则据自身正负面闪避强化额外获得追加固伤或提升技能发动回合数效果。" id="3471" name="不蠧" power="120" ppMax="12" property="1" speed="10" src="5015_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="净化自身异常并回复精力，强化1级闪避并回复首格变化技能PP，免疫异常5回合，自身正面闪避强化高于2级时额外获得物攻强化并免疫负面强化。回合内：抵御爆发性伤害并据负面闪避强化数提升抵御效果；主动使用威力技能时据自身负面闪避等级数无视对手正面物防或将其物防视为负1级再攻击。" id="3472" name="修檀" power="100" ppMax="6" property="5" speed="11" src="5019_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，吸收正义之力增强自身身躯以降低受到的后手伤害。免疫异常与负面5回合，非首回合降低自身所受伤害且造成或受到≤100点伤害时获得1层正义之力。" id="3467" name="和平使者" power="--" ppMax="5" property="18" speed="14" src="6010_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="使用传呼机呼叫导弹支援，若连续呼叫则额外消耗本技能PP使威力伤害分解为多段固伤；否则强化自身物攻并召唤疾风天气持续一定回合。造成波及伤害并回复自身其他技能PP，自身无物攻正面强化时回复效果显著。据本技能已损PP降低对手精力回复效果持续3回合。" id="3468" name="弹雨狂澜" power="110" ppMax="25" property="10" speed="8" src="5003_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="恐惧对手并重置其正面强化，重置成功则回复自身上回合使用技能PP。回复自身精力，疾风天气下则精力回复效果显著并提升本技能先手值；否则据正义之力层数持续令对手使用非翼系技能时额外耗损1PP。若对手使用多回合技能则额外发动本技能2回合，额外回合：追加固伤并删除对手本回合技能PP。" id="3469" name="风速翼击" power="100" ppMax="10" property="10" speed="10" src="4004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="空空" id="3476" name="WG1" power="90" ppMax="11" property="14" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3477" name="WG2" power="--" ppMax="5" property="14" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，强化自身双防并吸收正义之力增强自身身躯以降低受到的后手伤害。免疫异常与负面5回合，非首回合降低自身所受伤害且造成或受到≤100点伤害时获得1层正义之力。" id="3467" name="和平使者" power="--" ppMax="5" property="18" speed="14" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="使用传呼机呼叫导弹支援，若连续呼叫则额外消耗本技能PP使威力伤害分解为多段固伤；否则强化自身物攻并召唤疾风天气持续一定回合。造成波及伤害并回复自身其他技能PP，自身无物攻正面强化时回复效果显著。据本技能已损PP降低对手精力回复效果持续3回合。" id="3468" name="弹雨狂澜" power="120" ppMax="25" property="10" speed="8" src="5003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="恐惧对手并重置其正面强化，重置成功则回复自身上回合使用技能PP。回复自身精力，疾风天气下则精力回复效果显著并提升本技能先手值；否则令对手使用技能时额外耗损1PP持续3回合。若对手使用多回合技能则额外发动本技能2回合，额外回合：追加固伤并删除对手本回合技能PP。" id="3469" name="风速翼击" power="100" ppMax="10" property="10" speed="10" src="4004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="回复自身其他技能PP；净化自身异常并据净化情况使回复PP效果显著，若净化失败则删除对手本回合技能PP并降低自身强化。根据自身不利状态提升威力值；若自身先手则使提升威力值效果显著并回复自身精力，且技能必中。" id="3476" name="影鸦啼" power="90" ppMax="11" property="14" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫控制类异常并召唤迷雾天气均持续5回合，回合内若自身存在负面强化则随机给予自身2项非控制类异常并获得护盾。" id="3477" name="诡之披风" power="--" ppMax="5" property="14" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空空" id="3478" name="SS1" power="90" ppMax="10" property="2" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空空" id="3479" name="SS2" power="--" ppMax="5" property="2" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="净化自身并回复精力，免疫异常并召唤雷暴天气均持续5回合。回合内：降低自身所受每段伤害，持有天雷时使用物理技能会据雷杼剩余PP值获得额外的物攻强化等级增幅；持有地火时使用魔法技能会反转后手受到的负面强化。被动免疫混乱、麻醉、睡眠。" id="3459" name="平阵掣电" power="65" ppMax="6" property="4" speed="12" src="7012_.swf" superFormID="" superFormSrc=""/>

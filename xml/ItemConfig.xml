@@ -31422,9 +31422,9 @@
     <ID>67372193</ID>
     <Name>冰晶碎片</Name>
     <Price>0</Price>
-    <Desc><![CDATA[参加活动唤醒幽灵冰姬获得]]></Desc>
+    <Desc><![CDATA[冰霜试炼活动相关道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1414684800</ExpireTime>
+    <ExpireTime>1735833600</ExpireTime>
  </Item>
   <Item>
     <ID>67372194</ID>
@@ -53617,6 +53617,14 @@
     <Desc><![CDATA[一团黑影，究竟会是什么呢？]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1730995200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374989</ID>
+    <Name>森林之家主题家具</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[黑猫警长联动系列家具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
