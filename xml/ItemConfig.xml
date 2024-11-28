@@ -5289,6 +5289,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620407</ID>
+    <Name>潮游庆生头套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -8985,6 +8993,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751471</ID>
+    <Name>潮游庆生外套</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12202,6 +12218,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816981</ID>
+    <Name>潮游庆生鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13406,6 +13430,14 @@
     <Name>魔龙铠甲翅膀</Name>
     <Price>0</Price>
     <Desc><![CDATA[魔龙铠甲套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882266</ID>
+    <Name>潮游庆生气球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -14678,6 +14710,14 @@
     <Name>仙灵溢彩小马</Name>
     <Price>0</Price>
     <Desc><![CDATA[仙灵溢彩套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947813</ID>
+    <Name>潮游迪莫玩偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17367,6 +17407,14 @@
     <Name>白猫班长手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013525</ID>
+    <Name>潮游游戏手柄</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -53623,6 +53671,14 @@
     <Name>森林之家主题家具</Name>
     <Price>0</Price>
     <Desc><![CDATA[黑猫警长联动系列家具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374990</ID>
+    <Name>潮游庆生套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
