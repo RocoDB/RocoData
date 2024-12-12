@@ -705,7 +705,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="自身精力越低伤害越高。" id="519" name="深渊之伤" power="--" ppMax="5" property="6" speed="8" src="5005_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="5回合内连续攻击，威力持续增加。" id="520" name="坚韧之力" power="55" ppMax="10" property="9" speed="8" src="5006_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="2回合内闪避后手非必中技能。" id="521" name="大地宽恕" power="--" ppMax="5" property="9" speed="12" src="6011_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手冰冻。" id="522" name="雪迷" power="50" ppMax="25" property="6" speed="8" src="4022_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="10%概率冰冻对手。" id="522" name="雪迷" power="50" ppMax="25" property="6" speed="8" src="4022_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手冰冻。" id="523" name="冰冻打击" power="95" ppMax="10" property="6" speed="8" src="4040_.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="当前回合受到伤害则威力增加。" id="524" name="钝冰击" power="70" ppMax="10" property="6" speed="4" src="5003_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="50%概率降低对手魔防强化。" id="525" name="暗冰光线" power="80" ppMax="15" property="6" speed="8" src="4029_.swf"/>
@@ -1218,7 +1218,7 @@
 <SpiritSkillDes attackType="1" damageType="2" description="3~5回合内免疫睡眠。" id="1032" name="烈火轰雷" power="90" ppMax="5" property="2" speed="8" src="7005_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="强化自身1级魔攻和速度。" id="1033" name="冰咆哮" power="90" ppMax="10" property="6" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="5回合内每回合获得60点护盾。" id="1034" name="冰晶护盾" power="--" ppMax="5" property="6" speed="8" src="6002_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="一定机率让对手冰冻。" id="1035" name="冰之怒吼" power="110" ppMax="10" property="6" speed="8" src="4001_.swf"/>
+<SpiritSkillDes attackType="1" damageType="2" description="10%概率冰冻对手。" id="1035" name="冰之怒吼" power="110" ppMax="10" property="6" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="若对手在冰冻状态，攻击威力加倍。" id="1036" name="冰魄强击" power="90" ppMax="10" property="6" speed="8" src="4040_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="对处于冰冻状态的宠物必定出现暴击。" id="1037" name="寒霜爆裂" power="75" ppMax="10" property="6" speed="8" src="4040_.swf"/>
 <SpiritSkillDes attackType="1" damageType="2" description="解除对手的冰冻状态，并且造成一定伤害。如果对手不处于冰冻状态，则产生固伤30点。" id="1038" name="寒冰裂地" power="--" ppMax="10" property="6" speed="8" src="7002_.swf"/>
@@ -1356,7 +1356,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="清除自身状态并恢复50%的血量。变身的四回合内，免疫异常状态并提升专属技能的暴击。该技能免疫常规类型的清除PP效果。" id="1172" name="兽性觉醒" power="--" ppMax="1" property="14" speed="15" src=".swf" superFormID="1810" superFormSrc="1810-.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="诅咒对手的利爪，有几率附加诅咒或降低防御。" id="1173" name="诅咒之爪" power="100" ppMax="25" property="7" speed="9" src="5001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="高概率破除对手防御效果的攻击，但是同时会牺牲自身的防御。" id="1174" name="鲁莽" power="135" ppMax="25" property="7" speed="9" src="5001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="如果对手属性有水、恶魔、幽灵、神水，则吞噬对手的PP值转化为自身物攻。" id="1175" name="新月恶灵" power="100" ppMax="15" property="14" speed="9" src="5001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="对手为水、恶魔、幽灵或神水属性则删除对手PP并强化自身物攻。" id="1175" name="新月恶灵" power="100" ppMax="15" property="14" speed="9" src="5001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="穆图AI" id="1176" name="穆图AI" power="--" ppMax="10" property="7" speed="9" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="提升2级魔攻，并觉醒之外的其他技能恢复PP值。" id="1177" name="深渊魔能" power="--" ppMax="5" property="16" speed="12" src="4067_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="刺眼的光芒，暂时降低对手本回合的命中。" id="1178" name="闪光灯" power="100" ppMax="5" property="1" speed="9" src="4041_.swf" superFormID="" superFormSrc=""/>
@@ -1506,7 +1506,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="毁灭性的一击，并降低对手1级魔防。" id="1333" name="猴赛雷" power="175" ppMax="5" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="感觉自己又变帅了，强化自身魔攻。" id="1334" name="萌萌哒" power="--" ppMax="3" property="1" speed="9" src="4024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="单于发怒了，立即净化自身、恢复部分生命值、强化自身物攻与速度，并且五回合内免疫异常状态。" id="1335" name="黄金铁骑" power="--" ppMax="1" property="9" speed="15" src=".swf" superFormID="11062" superFormSrc="11062-.swf"/>
-<SpiritSkillDes attackType="2" damageType="1" description="汲取对手魂魄的痛击，斩杀精力值不足175的对手，自身正面物攻强化等级会提升斩杀线。" id="1336" name="汲魂者" power="100" ppMax="20" property="16" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="汲取对手魂魄的痛击。斩杀精力不足175的对手，自身存在正面强化时提升斩杀线；若斩杀成功则强化自身物攻，否则回复自身精力。" id="1336" name="汲魂者" power="100" ppMax="20" property="16" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常与负面4回合。" id="1337" name="恶魔之拥" power="--" ppMax="4" property="16" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="洞悉一切的目光，消除对手的强化等级与PP值。" id="1342" name="超人射线" power="120" ppMax="10" property="1" speed="9" src="4010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="降低对手宠物大量魔防，背包中的宠物也会被波及。" id="1343" name="夜幕降临" power="--" ppMax="4" property="16" speed="10" src="4029_.swf" superFormID="" superFormSrc=""/>
@@ -2300,7 +2300,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="口衔刀剑，队友协同。烧伤对手，被免疫则提升自身抗性强化。3回合内发起协战召唤物攻最高队友一同攻击。任意天气/环境下回复PP。" id="2112" name="口衔刀剑" power="--" ppMax="6" property="2" speed="9" src="4024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="散发诱惑气息。强化自身双防，疾风天气下效果显著。迷惑对手，被免疫或已存在迷惑异常则降低其双攻强化，降低失败则吸取对手精力回复自身。" id="2113" name="花漾诱惑" power="--" ppMax="8" property="10" speed="10" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="自身先手重置对手正面强化，否则根据自身强化追加固伤。" id="2114" name="翼心翼意" power="100" ppMax="10" property="10" speed="8" src="4050_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="千里冰封，万里雪飘。根据场上天气的存在情况有不同效果。" id="2118" name="冰封雪" power="100" ppMax="12" property="6" speed="8" src="4040_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="千里冰封，万里雪飘。冰雹天气下对非冰属性宠物造成暴击伤害并冻结对手，冻结被免疫则降低其魔防2级再造成伤害。非冰雹天气下强化自身1级魔攻和魔防再造成伤害，后续2回合造成150点固伤。" id="2118" name="冰封雪" power="100" ppMax="12" property="6" speed="8" src="4040_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身负面并回复精力，如有冰属性宠物同行则回复效果显著。冰冻对手，若对手之前已处于冻结状态则重置其正面强化，无正面强化时降低1级魔防。" id="2119" name="水冰花" power="--" ppMax="6" property="6" speed="11" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="炽热血脉，魔性无双。立即净化自身并回复精力，暂时免疫异常状态和负面强化并减免部分威力伤害，召唤迷雾天气5回合。" id="2115" name="炽热魔血" power="--" ppMax="5" property="14" speed="12" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="吸血本性，不死寄生。威力伤害部分回复自身体力，当对手体力劣势时额外造成波及伤害。" id="2116" name="死灵寄生" power="120" ppMax="10" property="14" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -2444,7 +2444,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="薄霭云淡，收风凝川。据自身已损精力追加固伤并消除双方正面强化。消除对手成功则删除其最近使用技能pp，否则为己方精力上限最高的队友提供精力与pp回复。若对手不具有冰冻或睡眠抗性，会赋予对手场上宠物和下一只替换的宠物额外的削弱状态并回复自身部分技能PP。受到伤害时必中。" id="2247" name="烟波长静" power="--" ppMax="10" property="3" speed="7" src="4030_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="澄渊映斗，星汉西流。冰冻对手，免疫则为下一只出场宠物提供护盾，储能层数越低效果越好。若自身无正面强化额外回复层数，之后在非冰雹天气下强化魔攻。" id="2248" name="灵渊移星" power="110" ppMax="10" property="6" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="炽热火焰，围绕自身。净化自身并五回合内免疫异常和负面强化。恢复自身精力并召唤暴晒天气五回合。召唤失败则提升一级魔攻和魔防。" id="2261" name="炽热羽翼" power="--" ppMax="5" property="2" speed="12" src="6004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="火灾之兆。烧伤对手，被免疫则回复其他技能1PP并给予对手固伤。若对手后手使用攻击类技能则烧伤对手并删除对手全体技能PP值。若对手先手使用变化类技能则恢复自身精力。" id="2262" name="大灾炎" power="--" ppMax="8" property="2" speed="10" src="4041_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="火灾之兆。烧伤对手，被免疫则回复自身其他技能PP并追加固伤。对手先手使用变化类技能则回复自身精力，若后手使用攻击类技能则删除对手PP。" id="2262" name="大灾炎" power="--" ppMax="8" property="2" speed="10" src="4041_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="天灾一瞬，地变千世。净化自身并回复精力，若对手是水或翼属性则提升回复效果。召唤阴雨天气5回合，回合内免疫负面并自身获得随机异常状态。被动免疫恐惧、睡眠。" id="2263" name="天灾地变" power="--" ppMax="6" property="3" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="水无本性，善恶随心。根据双方异常状态提升威力。冰冻对手，被免疫则删除其PP。根据自身异常追加一种效果：回复PP且死亡时回复部分精力重生；攻击时回复精力。" id="2264" name="覆天洪浪" power="100" ppMax="10" property="3" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="挫锐弭争，是为知者。净化自身异常并免疫异常五回合，回合内转移自身负面给对手。召唤龙阵环境五回合，失败则标记锁定对手。回复自身精力，若对手被锁定则删除其PP。" id="2268" name="和光同尘" power="--" ppMax="6" property="15" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
@@ -3646,8 +3646,8 @@
 <SpiritSkillDes attackType="1" damageType="1" description="恐惧对手并重置其正面强化，重置成功则回复自身上回合使用技能PP。回复自身精力，疾风天气下则精力回复效果显著并提升本技能先手值；否则令对手使用技能时额外耗损1PP持续3回合。若对手使用多回合技能则额外发动本技能2回合，额外回合：追加固伤并删除对手本回合技能PP。" id="3469" name="风速翼击" power="100" ppMax="10" property="10" speed="10" src="4004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="回复自身其他技能PP；净化自身异常并据净化情况使回复PP效果显著，若净化失败则删除对手本回合技能PP并降低自身强化。根据自身不利状态提升威力值；若自身先手则使提升威力值效果显著并回复自身精力，且技能必中。" id="3476" name="影鸦啼" power="90" ppMax="11" property="14" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫控制类异常并召唤迷雾天气均持续5回合，回合内若自身存在负面强化则随机给予自身2项非控制类异常并获得护盾。" id="3477" name="诡之披风" power="--" ppMax="5" property="14" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空空" id="3478" name="SS1" power="90" ppMax="10" property="2" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空空" id="3479" name="SS2" power="--" ppMax="5" property="2" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="连续3回合发动技能，回合内据双方PP情况提升威力值；首回合额外追加固伤，若对手存在正面强化则回复自身精力；后续回合若对手属性为水、龙或石则额外强制降低其物防强化。" id="3478" name="斜眼冲击" power="90" ppMax="10" property="2" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，自身后手时强化物攻等级。免疫异常与负面并召唤暴晒天气均持续5回合，回合内降低自身所受威力伤害，若对手存在护盾则降低效果显著。" id="3479" name="鬼火护盾" power="--" ppMax="5" property="2" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="净化自身并回复精力，对手无正面强化时，消耗天雷并赋予其命中强化且锁定其强化3回合。免疫异常并召唤雷暴天气均持续5回合。回合内：降低自身所受每段伤害，持有天雷时使用物理技能会据雷杼剩余PP值获得额外的物攻强化等级增幅；持有地火时使用魔法技能会反转后手受到的负面强化。被动免疫混乱、麻醉、睡眠。" id="3459" name="平阵掣电" power="65" ppMax="6" property="4" speed="12" src="7012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="据对手强化及自身持有的天雷与地火提升威力。麻醉对手并删除其全技能PP，若删除量不足则破除对手护盾并据其精力追加固伤。持有天雷时造成的抵抗伤害提升，持有地火时本技能伤害类型为火属性伤害。回复自身其他技能PP，若使用后本技能PP枯竭则额外强化自身1级魔攻并删除对手技能PP。" id="3460" name="雷杼" power="100" ppMax="5" property="4" speed="10" src="7008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="消耗雷杼技能PP并据此提升魔攻强化且删除对手技能PP，免疫异常2回合，若雷杼技能PP枯竭则额外追加固伤。对手有正面双防强化时，消耗地火并重置其双防强化。" id="3461" name="擘山轰鼓" power="125" ppMax="12" property="4" speed="11" src="5014_.swf" superFormID="" superFormSrc=""/>
@@ -3727,7 +3727,22 @@
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3491" name="FF3" power="80" ppMax="12" property="1" speed="11" src="7006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3492" name="FF4" power="120" ppMax="12" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3493" name="FF5" power="110" ppMax="12" property="1" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤冰雹天气均持续5回合，回合内每回合强化自身1级闪避并在闪避成功时回复自身首技能1PP，自身使用威力技能后令对手1回合内精力回复效果降低30%。" id="3586" name="奇幻雪界" power="--" ppMax="6" property="6" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="召唤3股冰锥环绕自身，每回合飞出1股在对手精力较低时发起斩杀。首回合冰冻对手，被免疫则回复其他技能1PP并根据我方已损精力造成波及伤害，自身先手时回复PP效果显著，自身后手时回复我方场下存活宠物波及伤害等额的精力。" id="3587" name="冰锥风暴" power="--" ppMax="8" property="6" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3588" name="GG1" power="90" ppMax="9" property="5" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3589" name="GG2" power="70" ppMax="6" property="3" speed="12" src="4001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3590" name="GG3" power="80" ppMax="9" property="5" speed="8" src="4004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3591" name="GG4" power="110" ppMax="11" property="3" speed="10" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3535" name="DD" power="120" ppMax="7" property="13" speed="8" src="7005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3536" name="DD1" power="60" ppMax="5" property="13" speed="8" src="4059_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3537" name="DD2" power="--" ppMax="6" property="13" speed="10" src="4050_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="空" id="3538" name="DD3" power="--" ppMax="10" property="13" speed="11" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3539" name="DD4" power="100" ppMax="8" property="13" speed="8" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3540" name="DD5" power="125" ppMax="10" property="13" speed="9" src="5007_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3541" name="DD6" power="--" ppMax="6" property="13" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3542" name="DD7" power="--" ppMax="12" property="13" speed="10" src="4041_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3543" name="DD8" power="90" ppMax="12" property="13" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3544" name="DD9" power="100" ppMax="5" property="13" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
 
 
 
