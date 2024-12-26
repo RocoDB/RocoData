@@ -10865,6 +10865,102 @@
         </productArray>
     </Furniture>
     <Furniture>
+        <id>121000354</id>
+        <name><![CDATA[虹猫蓝兔主题壁纸]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506055</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>5</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000355</id>
+        <name><![CDATA[虹猫蓝兔主题地板]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>3</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000356</id>
+        <name><![CDATA[虹猫蓝兔玉蟾宫门]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>15</comfortable>
+        <settleLayer>7</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
         <id>122000004</id>
         <name><![CDATA[青青绿野壁画]]></name>
         <info><![CDATA[把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。]]></info>
@@ -16851,6 +16947,38 @@
             </recycleMaterial>
             <recycleMaterial>
                 <materialId>117506055</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>101</settleType>
+        <comfortable>8</comfortable>
+        <settleLayer>15</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>122000245</id>
+        <name><![CDATA[虹猫蓝兔灵鸽贴纸]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
                 <materialNum>1</materialNum>
             </recycleMaterial>
         </recycleMaterialArray>
@@ -30337,6 +30465,102 @@
         </productArray>
     </Furniture>
     <Furniture>
+        <id>123000476</id>
+        <name><![CDATA[虹猫蓝兔麒麟地毯]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000477</id>
+        <name><![CDATA[虹猫蓝兔古韵圆凳]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000478</id>
+        <name><![CDATA[虹猫蓝兔古韵圆桌]]></name>
+        <info><![CDATA[虹猫蓝兔主题家]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
         <id>124000000</id>
         <name><![CDATA[贝壳]]></name>
         <info><![CDATA[除了长得像洛克贝以外，也没什么特别的了。]]></info>
@@ -34085,6 +34309,38 @@
         <id>124000135</id>
         <name><![CDATA[源古之忆摆件]]></name>
         <info><![CDATA[源古之忆系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>103</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>35</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>124000136</id>
+        <name><![CDATA[虹猫蓝兔剑侠屏风]]></name>
+        <info><![CDATA[虹猫蓝兔主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>

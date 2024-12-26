@@ -1729,7 +1729,7 @@
 <SpiritSkillDes attackType="2" damageType="3" description="黑化的完全形态。立即净化自身并回复生命与PP值，短时间内免疫异常状态。 " id="1576" name="狂浪觉醒" power="--" ppMax="1" property="3" speed="15" src=".swf" superFormID="11494" superFormSrc="11494-.swf"/>
 <SpiritSkillDes attackType="2" damageType="1" description="降下天罚破除对手防御并按对手的损失血量追加伤害。狂暴状态下会提升攻击段数。" id="1595" name="魂狩天罚" power="90" ppMax="15" property="21" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="汇聚已方队友信念与力量的浩瀚波涛，会斩杀200血以下的对手宠物，成功斩杀会重置觉醒技能的PP值。觉醒中威力会由对手场上宠物的强化获得加成。" id="1578" name="波澜" power="75" ppMax="10" property="21" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="凝聚冰霜保护自身，暂时免疫异常状态，五回合内持续恢复生命，降低自身受到的伤害，期间受击会冻结对手。" id="1583" name="凝霜" power="--" ppMax="4" property="6" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="凝聚冰霜保护自身，免疫异常状态5回合。回合内持续回复精力并降低自身受到的伤害，期间受击会冰冻对手。" id="1583" name="凝霜" power="--" ppMax="4" property="6" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="受伤时愈战愈勇的龙吟摄人心魂，效果会随自身血量的减少而提升。" id="1587" name="灭却战吼" power="80" ppMax="10" property="15" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="以破晓之力攻击对手，对克制属性宠物提升25点威力，删除抵抗属性宠物1PP。" id="1590" name="晨光破晓" power="100" ppMax="10" property="4" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="谈笑间樯橹灰飞烟灭。立即净化自身，暂时免疫异常状态与负面强化，回复生命并改变场上天气为暴晒。" id="1598" name="雄姿英发" power="--" ppMax="4" property="18" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3685,11 +3685,11 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3525" name="ZW" power="--" ppMax="3" property="12" speed="12" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3526" name="BL" power="100" ppMax="12" property="12" speed="9" src="5011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="空" id="3527" name="MW" power="--" ppMax="7" property="12" speed="9" src="5007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3494" name="YY1" power="120" ppMax="10" property="9" speed="11" src="5012_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3494" name="YY1" power="120" ppMax="12" property="9" speed="11" src="5012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3495" name="YY2" power="--" ppMax="8" property="9" speed="11" src="7004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空" id="3496" name="YY3" power="90" ppMax="12" property="9" speed="10" src="4030_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3497" name="YY4" power="--" ppMax="6" property="9" speed="15" src="6020_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3498" name="YY5" power="120" ppMax="12" property="9" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3496" name="YY3" power="80" ppMax="12" property="9" speed="10" src="4030_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3497" name="YY4" power="--" ppMax="6" property="9" speed="14" src="6020_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3498" name="YY5" power="120" ppMax="10" property="9" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3545" name="LJ" power="120" ppMax="10" property="10" speed="8" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3546" name="QZ" power="40" ppMax="30" property="10" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3547" name="LQ" power="--" ppMax="20" property="10" speed="8" src="6008_.swf" superFormID="" superFormSrc=""/>
@@ -3724,8 +3724,8 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3488" name="HH9" power="70" ppMax="12" property="15" speed="11" src="5015_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3489" name="FF1" power="--" ppMax="6" property="1" speed="15" src="6008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3490" name="FF2" power="--" ppMax="8" property="1" speed="12" src="7004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3491" name="FF3" power="80" ppMax="12" property="1" speed="11" src="7006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="空" id="3492" name="FF4" power="120" ppMax="12" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3491" name="FF3" power="80" ppMax="12" property="1" speed="11" src="4028_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3492" name="FF4" power="110" ppMax="12" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3493" name="FF5" power="110" ppMax="12" property="1" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤冰雹天气均持续5回合，回合内每回合强化自身1级闪避并在闪避成功时回复自身首技能1PP，自身使用威力技能后令对手1回合内精力回复效果降低30%。" id="3586" name="奇幻雪界" power="--" ppMax="6" property="6" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="召唤3股冰锥环绕自身，每回合飞出1股在对手精力较低时发起斩杀。首回合冰冻对手，被免疫则回复其他技能1PP并根据我方已损精力造成波及伤害，自身先手时回复PP效果显著，自身后手时回复我方场下存活宠物波及伤害等额的精力。" id="3587" name="冰锥风暴" power="--" ppMax="8" property="6" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -3762,6 +3762,9 @@
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3583" name="CG" power="120" ppMax="10" property="15" speed="8" src="5009_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3584" name="ZH" power="--" ppMax="5" property="15" speed="14" src="4001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3585" name="CD" power="100" ppMax="9" property="15" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3592" name="YJX" power="--" ppMax="6" property="11" speed="13" src="6018_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3593" name="KH" power="--" ppMax="6" property="6" speed="10" src="4040_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3594" name="PZ" power="120" ppMax="12" property="11" speed="9" src="5003_.swf" superFormID="" superFormSrc=""/>
 
 
   </SpiritSkillConfig>

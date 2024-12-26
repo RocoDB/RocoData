@@ -10165,6 +10165,96 @@
       "productArray": []
     },
     {
+      "id": "121000354",
+      "name": "虹猫蓝兔主题壁纸",
+      "info": "虹猫蓝兔主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "5",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000355",
+      "name": "虹猫蓝兔主题地板",
+      "info": "虹猫蓝兔主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "3",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000356",
+      "name": "虹猫蓝兔玉蟾宫门",
+      "info": "虹猫蓝兔主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "15",
+      "settleLayer": "7",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "122000004",
       "name": "青青绿野壁画",
       "info": "把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。",
@@ -15792,6 +15882,36 @@
         },
         {
           "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "101",
+      "comfortable": "8",
+      "settleLayer": "15",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "122000245",
+      "name": "虹猫蓝兔灵鸽贴纸",
+      "info": "虹猫蓝兔主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
           "materialNum": "1"
         }
       ],
@@ -28446,6 +28566,96 @@
       "productArray": []
     },
     {
+      "id": "123000476",
+      "name": "虹猫蓝兔麒麟地毯",
+      "info": "虹猫蓝兔主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000477",
+      "name": "虹猫蓝兔古韵圆凳",
+      "info": "虹猫蓝兔主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000478",
+      "name": "虹猫蓝兔古韵圆桌",
+      "info": "虹猫蓝兔主题家",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "124000000",
       "name": "贝壳",
       "info": "除了长得像洛克贝以外，也没什么特别的了。",
@@ -31982,6 +32192,36 @@
       "id": "124000135",
       "name": "源古之忆摆件",
       "info": "源古之忆系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "103",
+      "comfortable": "10",
+      "settleLayer": "35",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "124000136",
+      "name": "虹猫蓝兔剑侠屏风",
+      "info": "虹猫蓝兔主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",

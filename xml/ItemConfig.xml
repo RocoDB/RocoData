@@ -5305,6 +5305,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620409</ID>
+    <Name>蓝兔剑心头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620410</ID>
+    <Name>虹猫仗剑头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9017,6 +9033,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751473</ID>
+    <Name>蓝兔剑心衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751474</ID>
+    <Name>虹猫仗剑衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12250,6 +12282,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816983</ID>
+    <Name>蓝兔剑心鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816984</ID>
+    <Name>虹猫仗剑鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13478,6 +13526,22 @@
     <Name>至臻·萌萌小熊猫气球</Name>
     <Price>0</Price>
     <Desc><![CDATA[至臻·萌萌小熊猫气球]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882269</ID>
+    <Name>蓝兔傲雪寒梅</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882270</ID>
+    <Name>虹猫踏雪寻梅</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -14758,6 +14822,22 @@
     <Name>潮游迪莫玩偶</Name>
     <Price>0</Price>
     <Desc><![CDATA[穿上潮游魔方同款套装，一起为它庆生吧！]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947814</ID>
+    <Name>蓝兔冰魄剑</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947815</ID>
+    <Name>虹猫布偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17467,6 +17547,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013527</ID>
+    <Name>蓝兔布偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013528</ID>
+    <Name>虹猫长虹剑</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -17983,6 +18079,22 @@
     <Name>萌萌小熊猫法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[萌萌小熊猫套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209835</ID>
+    <Name>蓝兔雪舞冰歌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[蓝兔剑心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209836</ID>
+    <Name>虹猫火舞旋风</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫仗剑套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19003,6 +19115,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340901</ID>
+    <Name>灵鸽传书脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫蓝兔系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -19359,6 +19479,14 @@
     <Name>圣魔·糖心名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第二十届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406447</ID>
+    <Name>长虹贯日名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[虹猫蓝兔系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
