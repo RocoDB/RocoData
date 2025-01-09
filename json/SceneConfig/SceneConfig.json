@@ -5367,6 +5367,15 @@
       "allowData": ""
     },
     {
+      "id": "495",
+      "name": "云梦仙居",
+      "sceneVer": "1",
+      "top": "495",
+      "ver": "1.000",
+      "bgMusic": "new_127.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",

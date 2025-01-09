@@ -992,4 +992,7 @@
 <spirit endTime="" id="7" lv="LV.5" name="水蓝蓝" scene="390" startTime=""/>
 <spirit endTime="" id="3221" lv="LV.25～30" name="红沙耳狐" scene="490" startTime=""/>
 <spirit endTime="" id="3222" lv="LV.20～25" name="苦行骆驼" scene="491" startTime=""/>
+<spirit endTime="" id="724" lv="LV.25～30" name="雨天娃娃" scene="495" startTime=""/>
+<spirit endTime="" id="526" lv="LV.25～30" name="呆呆蛙" scene="495" startTime=""/>
+<spirit endTime="" id="19" lv="LV.5～10" name="毛毛" scene="495" startTime=""/>
 </spiritRect>
