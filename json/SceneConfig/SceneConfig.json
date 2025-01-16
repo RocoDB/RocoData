@@ -2420,7 +2420,7 @@
       "sceneVer": "1",
       "top": "170",
       "ver": "1.000",
-      "bgMusic": "new_69.swf|amb_3.swf",
+      "bgMusic": "new_129.swf",
       "allowData": ""
     },
     {
@@ -4868,7 +4868,7 @@
       "sceneVer": "1",
       "top": "412",
       "ver": "1.00000",
-      "bgMusic": "new_102.swf",
+      "bgMusic": "new_129.swf",
       "allowData": ""
     },
     {
@@ -5373,6 +5373,15 @@
       "top": "495",
       "ver": "1.000",
       "bgMusic": "new_127.swf",
+      "allowData": ""
+    },
+    {
+      "id": "496",
+      "name": "廻梦之潭",
+      "sceneVer": "1",
+      "top": "456",
+      "ver": "1.000",
+      "bgMusic": "new_128.swf",
       "allowData": ""
     },
     {
