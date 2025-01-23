@@ -460,7 +460,7 @@
   <SceneDes bgMusic="new_26.swf" id="342" name="藏宝地库" sceneVer="1" top="341" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="343" name="天使之都" sceneVer="1" top="241" ver="1.00000"/>
   <SceneDes bgMusic="new_47.swf" id="344" name="建木祭坛" sceneVer="1" top="341" ver="1.00000"/>
-  <SceneDes bgMusic="new_52.swf" id="345" name="VIP神殿" sceneVer="1" top="190" ver="1.00000"/>
+  <SceneDes bgMusic="new_131.swf" id="345" name="VIP神殿" sceneVer="1" top="190" ver="1.00000"/>
   <SceneDes bgMusic="new_27.swf" id="346" name="移动迷宫" sceneVer="1" top="341" ver="1.00000"/>
   <SceneDes bgMusic="new_96.swf" id="347" name="佛窟bug版" sceneVer="1" top="341" ver="1.00000"/>
   <SceneDes bgMusic="new_96.swf" id="347" name="佛窟" sceneVer="2" top="341" ver="1.00000"/>
@@ -606,8 +606,9 @@
   <SceneDes bgMusic="new_125.swf" id="492" name="永眠之地" sceneVer="1" top="493" ver="1.000"/>
   <SceneDes bgMusic="new_125.swf" id="493" name="星晶谷" sceneVer="1" top="493" ver="1.000"/>
   
-  <SceneDes bgMusic="new_127.swf" id="495" name="云梦仙居" sceneVer="1" top="495" ver="1.000"/>
+  <SceneDes bgMusic="new_127.swf" id="495" name="云梦仙居" sceneVer="1" top="456" ver="1.000"/>
   <SceneDes bgMusic="new_128.swf" id="496" name="廻梦之潭" sceneVer="1" top="456" ver="1.000"/>
+  <SceneDes bgMusic="new_130.swf" id="497" name="云雾影镜" sceneVer="1" top="456" ver="1.000"/>
 
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>

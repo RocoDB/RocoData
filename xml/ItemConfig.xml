@@ -18264,7 +18264,7 @@
     <Price>0</Price>
     <Desc><![CDATA[开学大礼包赠送。]]></Desc>
     <Unique>1</Unique>
-    <ExpireTime>1376236800</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>34275337</ID>
@@ -53985,6 +53985,14 @@
     <Desc><![CDATA[使用后可以在场景放出梅花图案的礼花]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374992</ID>
+    <Name>乐动能量</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[音雨和鸣活动道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1741881600</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

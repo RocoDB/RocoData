@@ -4085,7 +4085,7 @@
       "sceneVer": "1",
       "top": "190",
       "ver": "1.00000",
-      "bgMusic": "new_52.swf",
+      "bgMusic": "new_131.swf",
       "allowData": ""
     },
     {
@@ -5370,7 +5370,7 @@
       "id": "495",
       "name": "云梦仙居",
       "sceneVer": "1",
-      "top": "495",
+      "top": "456",
       "ver": "1.000",
       "bgMusic": "new_127.swf",
       "allowData": ""
@@ -5382,6 +5382,15 @@
       "top": "456",
       "ver": "1.000",
       "bgMusic": "new_128.swf",
+      "allowData": ""
+    },
+    {
+      "id": "497",
+      "name": "云雾影镜",
+      "sceneVer": "1",
+      "top": "456",
+      "ver": "1.000",
+      "bgMusic": "new_130.swf",
       "allowData": ""
     },
     {
