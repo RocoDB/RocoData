@@ -107,7 +107,7 @@
       "sceneVer": "2",
       "top": "1",
       "ver": "4.60320",
-      "bgMusic": "new_42.swf",
+      "bgMusic": "new_03.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -242,7 +242,7 @@
       "sceneVer": "2",
       "top": "13",
       "ver": "5.60450",
-      "bgMusic": "new_42.swf",
+      "bgMusic": "new_90.swf",
       "allowData": "false"
     },
     {
@@ -314,7 +314,7 @@
       "sceneVer": "2",
       "top": "22",
       "ver": "2.60170",
-      "bgMusic": "new_42.swf",
+      "bgMusic": "new_03.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -2420,7 +2420,7 @@
       "sceneVer": "1",
       "top": "170",
       "ver": "1.000",
-      "bgMusic": "new_129.swf",
+      "bgMusic": "new_69.swf|amb_3.swf",
       "allowData": ""
     },
     {
@@ -3010,7 +3010,7 @@
     },
     {
       "id": "250",
-      "name": "第一试练场",
+      "name": "荣光河畔",
       "sceneVer": "1",
       "top": "250",
       "ver": "1.60450",
@@ -4085,7 +4085,7 @@
       "sceneVer": "1",
       "top": "190",
       "ver": "1.00000",
-      "bgMusic": "new_131.swf",
+      "bgMusic": "new_52.swf",
       "allowData": ""
     },
     {
@@ -4868,7 +4868,7 @@
       "sceneVer": "1",
       "top": "412",
       "ver": "1.00000",
-      "bgMusic": "new_129.swf",
+      "bgMusic": "new_102.swf",
       "allowData": ""
     },
     {
