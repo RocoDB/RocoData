@@ -3012,7 +3012,7 @@
       "id": "250",
       "name": "荣光河畔",
       "sceneVer": "1",
-      "top": "250",
+      "top": "263",
       "ver": "1.60450",
       "bgMusic": "new_92.swf|amb_8.swf",
       "allowData": ""
@@ -5391,6 +5391,15 @@
       "top": "456",
       "ver": "1.000",
       "bgMusic": "new_130.swf",
+      "allowData": ""
+    },
+    {
+      "id": "498",
+      "name": "菲伊诺斯",
+      "sceneVer": "1",
+      "top": "263",
+      "ver": "1.000",
+      "bgMusic": "new_132.swf",
       "allowData": ""
     },
     {
