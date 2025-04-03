@@ -12,6 +12,8 @@
 <item type="2" id="67374924" itemName="1000万经验礼包" tips="1000万宠物经验值大礼包，礼包内有50个20万经验果。" />
 <item type="2" id="67374925" itemName="500万经验礼包" tips="500万宠物经验值大礼包，礼包内有25个20万经验果。" />
 <item type="2" id="67374926" itemName="努力值果实礼包" tips="礼包内有6种努力值果实各20个。" />
+<item type="1" id="129080" itemName="搴芳·史小韵" tips="先获得宠物才可以使用哦！" />
+<item type="1" id="129080" itemName="搴芳·史小韵" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="128240" itemName="繁盛·光孔雀女王" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="132720" itemName="踏雪寻梅·虹猫" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="132730" itemName="踏雪寻梅·蓝兔" tips="先获得宠物才可以使用哦！" />
@@ -168,6 +170,7 @@
 <item type="1" id="2956" itemName="西塔尔" tips="西塔尔" />
 <item type="1" id="3201" itemName="卡利俄珀" tips="卡利俄珀" />
 <item type="1" id="3244" itemName="俄尔普斯" tips="俄尔普斯" />
+<item type="1" id="3285" itemName="希柯莉" tips="俄尔普斯" />
 <item type="1" id="2928" itemName="美狄亚" tips="美狄亚" />
 <item type="1" id="1822" itemName="劫影龙皇" tips="劫影龙皇" />
 <item type="1" id="2302" itemName="龙之飞儿" tips="龙之飞儿" />
