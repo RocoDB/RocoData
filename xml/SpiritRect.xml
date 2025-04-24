@@ -995,4 +995,10 @@
 <spirit endTime="" id="724" lv="LV.25～30" name="雨天娃娃" scene="495" startTime=""/>
 <spirit endTime="" id="526" lv="LV.25～30" name="呆呆蛙" scene="495" startTime=""/>
 <spirit endTime="" id="19" lv="LV.5～10" name="毛毛" scene="495" startTime=""/>
+<spirit endTime="2025-06-05" id="1549" lv="LV.10～15" name="恶灵乘务员" scene="287" startTime="2025-04-17"/>
+<spirit endTime="2025-06-05" id="1311" lv="LV.10～15" name="嘟噜小宝" scene="336" startTime="2025-04-17"/>
+<spirit endTime="2025-06-05" id="1578" lv="LV.10～15" name="小诺诺" scene="449" startTime="2025-04-17"/>
+<spirit endTime="2025-06-05" id="1484" lv="LV.10～15" name="贪睡小蛇" scene="250" startTime="2025-04-17"/>
+<spirit endTime="2025-06-05" id="2282" lv="LV.10～15" name="脆皮鸡哥哥" scene="214" startTime="2025-04-17"/>
+<spirit endTime="2025-06-05" id="2283" lv="LV.10～15" name="脆皮鸡弟弟" scene="130" startTime="2025-04-17"/>
 </spiritRect>
