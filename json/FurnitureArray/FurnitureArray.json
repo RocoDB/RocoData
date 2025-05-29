@@ -10435,6 +10435,96 @@
       "productArray": []
     },
     {
+      "id": "121000363",
+      "name": "梦魇园游壁纸",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506052",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "5",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000364",
+      "name": "梦魇园游地板",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "3",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000365",
+      "name": "梦魇园游门",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "15",
+      "settleLayer": "7",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "122000004",
       "name": "青青绿野壁画",
       "info": "把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。",
@@ -16152,6 +16242,36 @@
         },
         {
           "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "101",
+      "comfortable": "8",
+      "settleLayer": "15",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "122000248",
+      "name": "梦魇园游墙饰",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
           "materialNum": "1"
         }
       ],
@@ -29120,6 +29240,126 @@
         },
         {
           "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000487",
+      "name": "梦魇园游床",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "23",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000488",
+      "name": "梦魇园游地毯",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000489",
+      "name": "梦魇园游凳子",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000490",
+      "name": "梦魇园游桌子",
+      "info": "梦魇园游系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
           "materialNum": "1"
         }
       ],

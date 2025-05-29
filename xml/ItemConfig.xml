@@ -5441,6 +5441,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620412</ID>
+    <Name>梦魇园游头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620413</ID>
+    <Name>葵蜜甜心帽子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[葵蜜甜心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620414</ID>
+    <Name>至臻·葵蜜甜心帽子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[至臻·葵蜜甜心帽子]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9177,6 +9201,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751476</ID>
+    <Name>梦魇园游衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751477</ID>
+    <Name>葵蜜甜心衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[葵蜜甜心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12434,6 +12474,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816986</ID>
+    <Name>梦魇园游鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816987</ID>
+    <Name>葵蜜甜心鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[葵蜜甜心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13686,6 +13742,22 @@
     <Name>飞鹰绅士翅膀</Name>
     <Price>0</Price>
     <Desc><![CDATA[飞鹰绅士套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882272</ID>
+    <Name>梦魇园游装饰彩带</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882273</ID>
+    <Name>葵蜜甜心翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[葵蜜甜心套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -14990,6 +15062,14 @@
     <Name>飞鹰绅士玩偶</Name>
     <Price>0</Price>
     <Desc><![CDATA[飞鹰绅士套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947817</ID>
+    <Name>梦魇园游玩具熊</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17723,6 +17803,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013530</ID>
+    <Name>梦魇园游幽灵娃娃</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013531</ID>
+    <Name>葵蜜甜心手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[葵蜜甜心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18271,6 +18367,14 @@
     <Name>至臻·飞鹰绅士法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[至臻·飞鹰绅士法阵]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209839</ID>
+    <Name>葵蜜甜心法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[葵蜜甜心套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -20488,7 +20592,7 @@
     <Price>0</Price>
     <Desc><![CDATA[可以把洛克变成冰箱狮]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1421337600</ExpireTime>
+    <ExpireTime>1752336000</ExpireTime>
  </Item>
   <Item>
     <ID>50397274</ID>
@@ -54119,6 +54223,14 @@
     <Name>红色3星情报蛋</Name>
     <Price>0</Price>
     <Desc><![CDATA[哨兵因因的情报中获取的宠物蛋。可随机孵化出宠物。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374996</ID>
+    <Name>梦魇园游主题家具</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇园游主题家具]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

@@ -12,6 +12,8 @@
 <item type="2" id="67374924" itemName="1000万经验礼包" tips="1000万宠物经验值大礼包，礼包内有50个20万经验果。" />
 <item type="2" id="67374925" itemName="500万经验礼包" tips="500万宠物经验值大礼包，礼包内有25个20万经验果。" />
 <item type="2" id="67374926" itemName="努力值果实礼包" tips="礼包内有6种努力值果实各20个。" />
+<item type="1" id="132770" itemName="稚梦·螣岚" tips="先获得宠物才可以使用哦！" />
+<item type="1" id="132770" itemName="稚梦·螣岚" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="130040" itemName="牧歌·阿努拉尼" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="130040" itemName="牧歌·阿努拉尼" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="126610" itemName="葳蕤·凯路斯" tips="先获得宠物才可以使用哦！" />
@@ -433,6 +435,7 @@
 <item type="4" id="67374941" itemName="砾尊狂狮家具套装" tips="砾尊狂狮系列家具" />
 <item type="4" id="67374980" itemName="森林守护主题家具" tips="黑猫警长联动系列家具" />
 <item type="4" id="67374989" itemName="森林之家主题家具" tips="黑猫警长联动系列家具" />
+<item type="4" id="67374996" itemName="梦魇园游主题家具" tips="梦魇园游主题系列家具" />
 <item type="4" id="122000131" itemName="彩色粽子" tips="端午系列家具" />
 <item type="4" id="121000156" itemName="端午节壁纸" tips="端午系列家具" />
 <item type="4" id="121000157" itemName="端午节地板" tips="端午系列家具" />
@@ -448,6 +451,14 @@
 <item type="4" id="121000224" itemName="端午节家具门" tips="端午系列家具" />
 <item type="4" id="123000306" itemName="端午节家具椅子" tips="端午系列家具" />
 <item type="4" id="123000307" itemName="端午节家具桌子" tips="端午系列家具" />
+<item type="4" id="122000248" itemName="梦魇园游墙饰" tips="梦魇园游主题系列家具" />
+<item type="4" id="123000487" itemName="梦魇园游床" tips="梦魇园游主题系列家具" />
+<item type="4" id="121000363" itemName="梦魇园游壁纸" tips="梦魇园游主题系列家具" />
+<item type="4" id="121000364" itemName="梦魇园游地板" tips="梦魇园游主题系列家具" />
+<item type="4" id="123000488" itemName="梦魇园游地毯" tips="梦魇园游主题系列家具" />
+<item type="4" id="121000365" itemName="梦魇园游门" tips="梦魇园游主题系列家具" />
+<item type="4" id="123000489" itemName="梦魇园游凳子" tips="梦魇园游主题系列家具" />
+<item type="4" id="123000490" itemName="梦魇园游桌子" tips="梦魇园游主题系列家具" />
 <item type="4" id="124000125" itemName="亚特兰蒂斯摆件" tips="亚特兰蒂斯系列家具" />
 <item type="4" id="122000197" itemName="亚特兰蒂斯摆件钟" tips="亚特兰蒂斯系列家具" />
 <item type="4" id="123000292" itemName="亚特兰蒂斯床" tips="亚特兰蒂斯系列家具" />
