@@ -5465,6 +5465,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620415</ID>
+    <Name>梦魇蜻蜓帽子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9217,6 +9225,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751478</ID>
+    <Name>梦魇蜻蜓衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12490,6 +12506,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816988</ID>
+    <Name>梦魇蜻蜓鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -15070,6 +15094,14 @@
     <Name>梦魇园游玩具熊</Name>
     <Price>0</Price>
     <Desc><![CDATA[梦魇园游套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947818</ID>
+    <Name>梦魇蜻蜓星星</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17819,6 +17851,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013532</ID>
+    <Name>梦魇蜻蜓手杖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18375,6 +18415,14 @@
     <Name>葵蜜甜心法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[葵蜜甜心套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209840</ID>
+    <Name>梦魇蜻蜓法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -54231,6 +54279,14 @@
     <Name>梦魇园游主题家具</Name>
     <Price>0</Price>
     <Desc><![CDATA[梦魇园游主题家具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374997</ID>
+    <Name>梦魇蜻蜓主题套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
