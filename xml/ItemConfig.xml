@@ -1788,7 +1788,7 @@
     <ID>17432680</ID>
     <Name>水波术</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会水波术技能<br>限用宠物（50级）<br>冰翼晶灵、傲雪冰灵<br>技能描述<br>给对手较重的伤害。]]></Desc>
+    <Desc><![CDATA[学会水波术技能<br>限用宠物（50级）<br>空灵斗士<br>技能描述<br>给对手较重的伤害。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1845,6 +1845,38 @@
     <Name>破解术</Name>
     <Price>0</Price>
     <Desc><![CDATA[学会破解术技能<br>限用宠物（50级）<br>冰翼晶灵、傲雪冰灵、暮雪尾兽、雪顶妖兽、幽兰雪魅<br>技能描述<br>降低对手1级物防与物攻。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432689</ID>
+    <Name>践踏之击</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会践踏之击技能<br>限用宠物（50级）<br>空灵斗士<br>技能描述<br>一定机率让对手恐惧，对使用变小技能的对手伤害加倍。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432690</ID>
+    <Name>反射护盾</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会反射护盾技能<br>限用宠物（50级）<br>空灵斗士<br>技能描述<br>10回合内自身受到的物理伤害减半。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432691</ID>
+    <Name>光之壁垒</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会光之壁垒技能<br>限用宠物（50级）<br>空灵斗士<br>技能描述<br>10回合内，己方受到的魔法攻击伤害减半。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432692</ID>
+    <Name>强力汲取</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会强力汲取技能<br>限用宠物（50级）<br>空灵斗士<br>技能描述<br>回复自身精力。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -54287,6 +54319,14 @@
     <Name>梦魇蜻蜓主题套装</Name>
     <Price>0</Price>
     <Desc><![CDATA[梦魇蜻蜓主题套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67374998</ID>
+    <Name>粉色1星情报蛋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[哨兵因因的情报中获取的宠物蛋。可随机孵化出宠物。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
