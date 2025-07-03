@@ -790,6 +790,16 @@
       "dur": "",
       "actionType": "4",
       "description": "将目标变成耀龙"
+    },
+    {
+      "id": "899",
+      "name": "维克变形魔法",
+      "itemID": "50397301",
+      "target": "1",
+      "type": "3",
+      "dur": "",
+      "actionType": "4",
+      "description": "将目标变成维克"
     }
   ]
 }

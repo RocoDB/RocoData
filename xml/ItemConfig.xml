@@ -417,6 +417,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>17039377</ID>
+    <Name>时光球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[周年纪念咕噜球，送给每一个小洛克，希望大家喜欢！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>17170434</ID>
     <Name>测试经验药丸</Name>
     <Price>0</Price>
@@ -5513,6 +5521,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620417</ID>
+    <Name>时光绮梦头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9281,6 +9297,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751480</ID>
+    <Name>时光绮梦衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12570,6 +12594,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816990</ID>
+    <Name>时光绮梦鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13846,6 +13878,14 @@
     <Name>时光华舞光轮</Name>
     <Price>0</Price>
     <Desc><![CDATA[时光华舞主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882275</ID>
+    <Name>时光绮梦羽蝶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -17931,6 +17971,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013534</ID>
+    <Name>时光绮梦袖珍钟</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18503,6 +18551,14 @@
     <Name>时光华舞法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[时光华舞主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209842</ID>
+    <Name>时光绮梦法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19555,6 +19611,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340905</ID>
+    <Name>15周年纪念脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[15周年主题系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -19935,6 +19999,14 @@
     <Name>圣魔·鳞甲蜥蜴名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第二十二届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406450</ID>
+    <Name>15周年主题名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[15周年主题系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -20935,6 +21007,14 @@
     <Name>祈福耀龙变形魔法</Name>
     <Price>0</Price>
     <Desc><![CDATA[可以将目标变成耀龙形象]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>50397301</ID>
+    <Name>维克变形魔法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以将目标变成维克形象]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -22695,6 +22775,14 @@
     <Name>山海秘境随机蛋·贰</Name>
     <Price>0</Price>
     <Desc><![CDATA[山海秘境中获得的宠物蛋，可随机孵化出宠物。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67305576</ID>
+    <Name>迪莫系列之蛋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[会孵出什么形态的迪莫来呢？]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -54385,6 +54473,14 @@
     <Desc><![CDATA[唤醒公测冰龙王所需道具]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>1770307200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375000</ID>
+    <Name>15周年礼花</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[洛克王国15周年的主题礼花，可以在场景中使用召唤出礼花图案。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

@@ -5412,6 +5412,24 @@
       "allowData": ""
     },
     {
+      "id": "500",
+      "name": "星骸瞭望塔",
+      "sceneVer": "1",
+      "top": "408",
+      "ver": "1.00000",
+      "bgMusic": "new_108.swf",
+      "allowData": ""
+    },
+    {
+      "id": "501",
+      "name": "协律时钟",
+      "sceneVer": "1",
+      "top": "501",
+      "ver": "1.00000",
+      "bgMusic": "new_133.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",

@@ -94,5 +94,6 @@
   <Magic actionType="4" id="838" itemID="50397248" name="南瓜魔法" target="1" type="3">将目标变成南瓜</Magic>
   <Magic actionType="4" id="897" itemID="50397299" name="福灯变形魔法" target="1" type="3">将目标变成福灯</Magic>
   <Magic actionType="4" id="898" itemID="50397300" name="耀龙变形魔法" target="1" type="3">将目标变成耀龙</Magic>
+  <Magic actionType="4" id="899" itemID="50397301" name="维克变形魔法" target="1" type="3">将目标变成维克</Magic>
     
   </Magics>

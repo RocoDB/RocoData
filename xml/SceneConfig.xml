@@ -611,6 +611,8 @@
   <SceneDes bgMusic="new_130.swf" id="497" name="云雾影镜" sceneVer="1" top="456" ver="1.000"/>
   <SceneDes bgMusic="new_132.swf" id="498" name="菲伊诺斯" sceneVer="1" top="263" ver="1.000"/>
   <SceneDes bgMusic="new_84.swf|amb_1.swf" id="499" name="星光演播厅" sceneVer="1" top="389" ver="1.00000"/>
+  <SceneDes bgMusic="new_108.swf" id="500" name="星骸瞭望塔" sceneVer="1" top="408" ver="1.00000"/>
+  <SceneDes bgMusic="new_133.swf" id="501" name="协律时钟" sceneVer="1" top="501" ver="1.00000"/>
 
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
