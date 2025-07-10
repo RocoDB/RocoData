@@ -48,6 +48,7 @@
 <title id="46" tips="获得黑猫警长可点亮" type="0">  <level id="1" label="黑猫警长纪念徽章" total="1"/>    </title>
 <title id="47" tips="在诗酒载侠气活动中达成100%收集进度" type="0">  <level id="1" label="虹猫蓝兔纪念徽章" total="1"/>    </title>
 <title id="48" tips="在粽横四海糯香传活动中全服粽香值达到50000" type="0">  <level id="1" label="粽横四海徽章" total="1"/>    </title>
+<title id="49" tips="在时光的华尔兹活动中达成100%收集进度" type="0">  <level id="1" label="15周年纪念徽章" total="1"/>    </title>
 
 <title id="81" tips="收集宠物种类达到$total$" type="1">  <level id="1" label="宠物爱好者" total="50"/>  <level id="2" label="宠物收藏家" total="500"/>  <level id="3" label="宠物园馆长" total="1000"/>  </title>
 <title id="82" tips="成功孵化宠物蛋数量达到$total$" type="1">  <level id="1" label="宠物孵化员" total="20"/>  <level id="2" label="宠物孵蛋达人" total="100"/>  <level id="3" label="宠物科学家" total="500"/>  </title>

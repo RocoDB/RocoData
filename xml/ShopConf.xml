@@ -1064,6 +1064,13 @@
 <item type="7" id="34209840" itemName="梦魇蜻蜓法阵" tips="梦魇蜻蜓主题套装" />
 <item type="7" id="34013532" itemName="梦魇蜻蜓手杖" tips="梦魇蜻蜓主题套装" />
 <item type="7" id="33947818" itemName="梦魇蜻蜓星星" tips="梦魇蜻蜓主题套装" />
+<item type="7" id="67375001" itemName="时光绮梦套装" tips="时光绮梦套装" />
+<item type="7" id="33620417" itemName="时光绮梦头发" tips="时光绮梦套装" />
+<item type="7" id="33751480" itemName="时光绮梦衣服" tips="时光绮梦套装" />
+<item type="7" id="33816990" itemName="时光绮梦鞋子" tips="时光绮梦套装" />
+<item type="7" id="33882275" itemName="时光绮梦羽蝶" tips="时光绮梦套装" />
+<item type="7" id="34013534" itemName="时光绮梦袖珍钟" tips="时光绮梦套装" />
+<item type="7" id="34209842" itemName="时光绮梦法阵" tips="时光绮梦套装" />
 <item type="7" id="34275368" itemName="月饼魔法装扮" tips="月饼魔法装扮" />
 <item type="7" id="151715851" itemName="圣域左将套装" tips="圣域左将魔法装扮" />
 <item type="7" id="151715845" itemName="堕天使套装" tips="堕天使魔法装扮" />
@@ -1091,4 +1098,6 @@
 <item type="2" id="50397300" itemName="祈福耀龙变形魔法" tips="将目标变成祈福龙！" />
 <item type="2" id="67374978" itemName="丰收呱呱礼花" tips="使用后可以在场景中放出丰收呱呱图案的礼花。" />
 <item type="2" id="67374979" itemName="丰收路路礼花" tips="使用后可以在场景中放出丰收路路图案的礼花。" />
+<item type="2" id="67375000" itemName="15周年礼花" tips="使用后可以在场景中放出15周年纪念图案的礼花。" />
+<item type="2" id="50397301" itemName="维克变形魔法" tips="使用后可将目标变成维克！" />
 </Items>

@@ -107,7 +107,7 @@
       "sceneVer": "2",
       "top": "1",
       "ver": "4.60320",
-      "bgMusic": "new_03.swf|amb_2.swf",
+      "bgMusic": "new_95.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -242,7 +242,7 @@
       "sceneVer": "2",
       "top": "13",
       "ver": "5.60450",
-      "bgMusic": "new_58.swf",
+      "bgMusic": "new_95.swf",
       "allowData": "false"
     },
     {
@@ -314,7 +314,7 @@
       "sceneVer": "2",
       "top": "22",
       "ver": "2.60170",
-      "bgMusic": "new_03.swf|amb_2.swf",
+      "bgMusic": "new_95.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -5427,6 +5427,24 @@
       "top": "501",
       "ver": "1.00000",
       "bgMusic": "new_133.swf",
+      "allowData": ""
+    },
+    {
+      "id": "502",
+      "name": "协律之缝",
+      "sceneVer": "1",
+      "top": "502",
+      "ver": "1.00000",
+      "bgMusic": "new_133.swf",
+      "allowData": ""
+    },
+    {
+      "id": "503",
+      "name": "15周年纪念园",
+      "sceneVer": "1",
+      "top": "503",
+      "ver": "1.00000",
+      "bgMusic": "new_95.swf",
       "allowData": ""
     },
     {

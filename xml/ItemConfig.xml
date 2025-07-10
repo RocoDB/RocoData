@@ -54483,6 +54483,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>67375001</ID>
+    <Name>时光绮梦套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时光绮梦套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>83951618</ID>
     <Name>萌鸡小屋</Name>
     <Price>0</Price>
@@ -56883,6 +56891,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>100925471</ID>
+    <Name>时渊之影稻草人</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时渊之影农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>100990978</ID>
     <Name>农场小屋</Name>
     <Price>0</Price>
@@ -57167,6 +57183,14 @@
     <Name>侠心守望农场小屋</Name>
     <Price>0</Price>
     <Desc><![CDATA[虹猫蓝兔系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>100991014</ID>
+    <Name>时渊之影农场小屋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时渊之影农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -57459,6 +57483,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101056550</ID>
+    <Name>时渊之影遮阳伞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时渊之影农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101122050</ID>
     <Name>普通稻草堆</Name>
     <Price>0</Price>
@@ -57747,6 +57779,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101122086</ID>
+    <Name>时渊之影玩偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时渊之影农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101187586</ID>
     <Name>农场告示牌</Name>
     <Price>0</Price>
@@ -58031,6 +58071,14 @@
     <Name>侠心守望告示牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[虹猫蓝兔系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>101187622</ID>
+    <Name>时渊之影告示牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[时渊之影农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
