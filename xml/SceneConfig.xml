@@ -612,9 +612,11 @@
   <SceneDes bgMusic="new_132.swf" id="498" name="菲伊诺斯" sceneVer="1" top="263" ver="1.000"/>
   <SceneDes bgMusic="new_84.swf|amb_1.swf" id="499" name="星光演播厅" sceneVer="1" top="389" ver="1.00000"/>
   <SceneDes bgMusic="new_108.swf" id="500" name="星骸瞭望塔" sceneVer="1" top="408" ver="1.00000"/>
-  <SceneDes bgMusic="new_133.swf" id="501" name="协律时钟" sceneVer="1" top="501" ver="1.00000"/>
+  <SceneDes bgMusic="new_133.swf" id="501" name="协律时钟" sceneVer="1" top="502" ver="1.00000"/>
   <SceneDes bgMusic="new_133.swf" id="502" name="协律之缝" sceneVer="1" top="502" ver="1.00000"/>
   <SceneDes bgMusic="new_95.swf" id="503" name="15周年纪念园" sceneVer="1" top="503" ver="1.00000"/>
+  <SceneDes bgMusic="new_134.swf" id="504" name="铭律时渊" sceneVer="1" top="502" ver="1.00000"/>
+  <SceneDes bgMusic="new_134.swf" id="505" name="协律屏障" sceneVer="1" top="502" ver="1.00000"/>
 
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>

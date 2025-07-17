@@ -5424,7 +5424,7 @@
       "id": "501",
       "name": "协律时钟",
       "sceneVer": "1",
-      "top": "501",
+      "top": "502",
       "ver": "1.00000",
       "bgMusic": "new_133.swf",
       "allowData": ""
@@ -5445,6 +5445,24 @@
       "top": "503",
       "ver": "1.00000",
       "bgMusic": "new_95.swf",
+      "allowData": ""
+    },
+    {
+      "id": "504",
+      "name": "铭律时渊",
+      "sceneVer": "1",
+      "top": "502",
+      "ver": "1.00000",
+      "bgMusic": "new_134.swf",
+      "allowData": ""
+    },
+    {
+      "id": "505",
+      "name": "协律屏障",
+      "sceneVer": "1",
+      "top": "502",
+      "ver": "1.00000",
+      "bgMusic": "new_134.swf",
       "allowData": ""
     },
     {
