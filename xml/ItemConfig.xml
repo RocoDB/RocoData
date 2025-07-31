@@ -54507,6 +54507,54 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>67375004</ID>
+    <Name>1号骨化石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375005</ID>
+    <Name>2号骨化石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375006</ID>
+    <Name>3号骨化石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375007</ID>
+    <Name>4号骨化石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375008</ID>
+    <Name>5号骨化石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375009</ID>
+    <Name>6号骨化石</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
     <ID>83951618</ID>
     <Name>萌鸡小屋</Name>
     <Price>0</Price>
