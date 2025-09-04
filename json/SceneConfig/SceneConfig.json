@@ -107,7 +107,7 @@
       "sceneVer": "2",
       "top": "1",
       "ver": "4.60320",
-      "bgMusic": "new_95.swf|amb_2.swf",
+      "bgMusic": "new_42.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -242,7 +242,7 @@
       "sceneVer": "2",
       "top": "13",
       "ver": "5.60450",
-      "bgMusic": "new_95.swf",
+      "bgMusic": "new_42.swf",
       "allowData": "false"
     },
     {
@@ -314,7 +314,7 @@
       "sceneVer": "2",
       "top": "22",
       "ver": "2.60170",
-      "bgMusic": "new_95.swf|amb_2.swf",
+      "bgMusic": "new_42.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -5463,6 +5463,42 @@
       "top": "502",
       "ver": "1.00000",
       "bgMusic": "new_134.swf",
+      "allowData": ""
+    },
+    {
+      "id": "506",
+      "name": "赤壁幻境一重",
+      "sceneVer": "1",
+      "top": "103",
+      "ver": "1.000",
+      "bgMusic": "new_43.swf",
+      "allowData": ""
+    },
+    {
+      "id": "507",
+      "name": "赤壁幻境二重",
+      "sceneVer": "1",
+      "top": "103",
+      "ver": "1.000",
+      "bgMusic": "new_43.swf",
+      "allowData": ""
+    },
+    {
+      "id": "508",
+      "name": "赤壁幻境三重",
+      "sceneVer": "1",
+      "top": "103",
+      "ver": "1.000",
+      "bgMusic": "new_43.swf",
+      "allowData": ""
+    },
+    {
+      "id": "509",
+      "name": "赤壁幻境",
+      "sceneVer": "1",
+      "top": "103",
+      "ver": "1.000",
+      "bgMusic": "new_43.swf",
       "allowData": ""
     },
     {

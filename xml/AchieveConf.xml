@@ -72,7 +72,7 @@
 <title id="100" tips="钓鱼大赛的钓鱼成就达到对应等级" type="2">  <level id="1" label="渔秀才" total="1"/>  <level id="2" label="渔举人" total="2"/>  <level id="3" label="渔状元" total="3"/>  </title>
 <title id="101" tips="投放的礼花达到对应个数。" type="2">  <level id="1" label="初级礼花使者" total="1"/>  <level id="2" label="中级礼花使者" total="2"/>  <level id="3" label="首席礼花大使" total="3"/>  </title>
 <title id="102" tips="剧目筹备活动热度排行前100。" type="0">  <level id="1" label="剧目筹备专家" total="1"/>    </title>
-
+<title id="103" tips="战船之间活动积分排行前100。" type="0">  <level id="1" label="轻功水上漂" total="1"/>    </title>
 
 
 

@@ -13,7 +13,7 @@
   
   
    
-  <SceneDes bgMusic="new_95.swf|amb_2.swf" id="1" name="商店街" sceneVer="2" top="1" ver="4.60320"/>
+  <SceneDes bgMusic="new_42.swf|amb_2.swf" id="1" name="商店街" sceneVer="2" top="1" ver="4.60320"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="2" name="皮卡服装店" sceneVer="1" top="1" ver="4.60350"/>
   <SceneDes bgMusic="new_46.swf|amb_1.swf" id="3" name="古拉拉家具店" sceneVer="1" top="389" ver="1.60350"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="4" name="博得材料屋" sceneVer="1" top="1" ver="4.60170"/>
@@ -31,7 +31,7 @@
   
   
   
-  <SceneDes allowData="false" bgMusic="new_95.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
+  <SceneDes allowData="false" bgMusic="new_42.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
   <SceneDes bgMusic="new_33.swf|amb_2.swf" id="14" name="城堡大厅" sceneVer="1" top="13" ver="2.60280"/>
   <SceneDes bgMusic="new_01.swf|amb_1.swf" id="16" name="主题乐园" sceneVer="1" top="12" ver="1.60450"/>
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="17" name="雪人谷" sceneVer="1" top="17" ver="3.60380"/>
@@ -41,7 +41,7 @@
   <SceneDes bgMusic="new_03.swf|amb_1.swf" id="22" name="2013年4月的彼得大道" sceneVer="1" top="22" ver="2.60170"/>
   
   
-  <SceneDes bgMusic="new_95.swf|amb_2.swf" id="22" name="彼得大道" sceneVer="2" top="22" ver="2.60170"/>
+  <SceneDes bgMusic="new_42.swf|amb_2.swf" id="22" name="彼得大道" sceneVer="2" top="22" ver="2.60170"/>
   <SceneDes bgMusic="new_05.swf|amb_2.swf" id="23" name="爱心教堂" sceneVer="1" top="22" ver="1.005"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="24" name="智慧出版社" sceneVer="1" top="22" ver="3.60450"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="25" name="洛克银行" sceneVer="1" top="22" ver="3.60370"/>
@@ -617,7 +617,10 @@
   <SceneDes bgMusic="new_95.swf" id="503" name="15周年纪念园" sceneVer="1" top="503" ver="1.00000"/>
   <SceneDes bgMusic="new_134.swf" id="504" name="铭律时渊" sceneVer="1" top="502" ver="1.00000"/>
   <SceneDes bgMusic="new_134.swf" id="505" name="协律屏障" sceneVer="1" top="502" ver="1.00000"/>
-
+  <SceneDes bgMusic="new_43.swf" id="506" name="赤壁幻境一重" sceneVer="1" top="103" ver="1.000"/>
+  <SceneDes bgMusic="new_43.swf" id="507" name="赤壁幻境二重" sceneVer="1" top="103" ver="1.000"/>
+  <SceneDes bgMusic="new_43.swf" id="508" name="赤壁幻境三重" sceneVer="1" top="103" ver="1.000"/>
+  <SceneDes bgMusic="new_43.swf" id="509" name="赤壁幻境" sceneVer="1" top="103" ver="1.000"/>
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="2002" name="VIP魔法台" sceneVer="1" top="2002" ver="1.00000"/>

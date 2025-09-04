@@ -5529,6 +5529,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620418</ID>
+    <Name>枭姬套装头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[枭姬主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620419</ID>
+    <Name>孔明套装头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[孔明主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9305,6 +9321,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751481</ID>
+    <Name>枭姬套装衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[枭姬主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751482</ID>
+    <Name>孔明套装衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[孔明主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12602,6 +12634,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816991</ID>
+    <Name>枭姬套装鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[枭姬主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816992</ID>
+    <Name>孔明套装鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[孔明主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13886,6 +13934,14 @@
     <Name>时光绮梦羽蝶</Name>
     <Price>0</Price>
     <Desc><![CDATA[时光绮梦主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882276</ID>
+    <Name>孔明套装翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[孔明主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -15222,6 +15278,22 @@
     <Name>迪莫追捕气球</Name>
     <Price>0</Price>
     <Desc><![CDATA[迪莫气球球]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947821</ID>
+    <Name>枭姬套装手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[枭姬主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947822</ID>
+    <Name>孔明套装手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[孔明主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
