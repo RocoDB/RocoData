@@ -188,7 +188,7 @@
 <talentDes des="自身非首回合登场则免疫异常1回合，且时间加速令双方使用任意技能时额外消耗PP；令双方使用变化技能时强制重置各自的一项正面强化。自身阵亡或换下或被驱逐则将正面强化转移至下一名上场的队友。" id="109" name="流光转瞬"/>
 <talentDes des="赛诺拉斯拥有3次回溯自身次数，非首发登场3回合后获得1级物攻及双防强化，4回合后将自身精力及强化回溯至与自身登场时一致。回溯成功时获得1层湮影并回复自身技能PP且波及对手场下。" id="110" name="暗影回溯"/>
 <talentDes des="主动使用技能时，记录对手当前PP总量，若对手当前PP总量超过上次记录总量2PP，则回复自身精力及技能PP，自身未受到先手伤害时额外获得1层妙算。据妙算层数提升自身双防能力值，造成克制伤害时，消耗1层妙算并提升本次伤害。" id="112" name="神机"/>
-<talentDes des="枭姬非首发登场时，利用剑心将自身属性改变与对手主属性一致且据改变后属性追加效果：受到抵抗伤害则令自身下次使用威力技能时额外删除对手最近使用技能PP；受到克制伤害则令自身下次使用威力技能时必定造成克制伤害且回复我方队友精力；对手主属性与自身改变后属性不一致则额外回复队友精力。" id="111" name="剑心"/>
+<talentDes des="枭姬非首发登场时，利用剑心将自身属性改变与对手主属性一致且据改变后属性追加效果：受到抵抗伤害则令自身下次使用威力技能时额外删除对手最近使用技能PP；受到克制伤害则令自身下次使用威力技能时必定造成克制伤害且回复我方队友精力；对手主属性与自身改变后属性一致则额外回复队友精力。" id="111" name="剑心"/>
 <talentDes des="自身造成威力伤害时获得灵力，芬芳环境下提升获得的灵力。获得的灵力溢出时，将溢出部分转化为护盾。自身将场上非芬芳环境改变为芬芳环境时额外免疫负面强化并使自身下次主动使用威力技能时，据该技能属性额外造成魔法威力固伤。" id="113" name="灵曜"/>
 <talentDes des="" id="114" name="114"/>
 
@@ -3911,12 +3911,12 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常与负面强化并召唤血月天气均持续5回合。回合内：提升自身造成的固伤；主动使用除本技能外的技能时，删除该技能部分PP并获得等额原料且据持有的原料数回复自身精力，本次获得的原料数不低于4份时额外回复其他技能1PP；每次受伤时，消耗1份原料后降低此次伤害。" id="3716" name="原料转换" power="--" ppMax="6" property="16" speed="13" src="6003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="连续发动技能3回合。首回合：恐惧对手并删除对手技能PP。持有任意铁锤时，令自身下次主动使用威力技能时额外提升1级魔攻。否则，消耗8份原料后打造恶魔铁锤且额外删除对手技能PP并对对手全体追加固伤；不足8份原料时，消耗4份原料并打造破甲铁锤对场上对手追加固伤；末回合：消耗自身铁锤并重置对手正面强化；若消耗了恶魔铁锤则会额外使自身下次使用的威力技能必定暴击。" id="3725" name="暗影锻造" power="70" ppMax="20" property="16" speed="10" src="5024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常6回合，天气下额外召唤暴晒天气并免疫负面强化6回合。回合内：降低受到的固伤，据妙算层数提升技能威力，天气下退场时令下个登场队友首次主动使用技能时，额外提升先手值。" id="3726" name="借风" power="--" ppMax="6" property="15" speed="15" src="6005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="消耗自身当前PP值不高于6PP的威力技能全部PP并据此提升魔攻强化，消耗成功时下次主动使用本技能，若自身受到先手伤害，则回复满上次消耗的威力技能全部PP值；否则强化自身1级魔攻。自身有枯竭技能时，使对手进入沉睡并追加固伤；枯竭技能较多时额外回复其他技能PP。" id="3727" name="空城" power="90" ppMax="10" property="18" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="消耗自身当前PP值不高于6PP的威力技能全部PP并据此提升魔攻强化，消耗成功时下次主动使用本技能，若自身受到先手伤害，则回复满上次消耗的威力技能全部PP值；否则回复上次实际消耗的威力技能PP值一半PP。自身有枯竭技能时，使对手进入沉睡并追加固伤；枯竭技能较多时，据此删除对手技能PP并回复借风1PP。" id="3727" name="空城" power="90" ppMax="10" property="18" speed="10" src="5014_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="据自身枯竭技能数提升威力。重置对手正面强化，妙算已达3层时增强为倒置对手正面强化。若对手上回合与本回合使用技能不一致，则删除其本回合技能PP。回复自身精力，若回复后不超过一半则清除场上非优势天气环境，清除成功时回复自身当前PP值最少的技能1PP。" id="3728" name="观星" power="100" ppMax="12" property="15" speed="10" src="5007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="连续发动技能3回合。主动使用时烧伤对手，烧伤成功时使其本次在场受到的伤害提升。出手前受伤则必中并吸取对手精力回复我方场下队友，未受伤时删除对手技能PP并回复自身未枯竭的技能PP；将场上非暴晒天气改变为暴晒天气。后续回合：威力伤害失效并据自身魔攻能力值追加固伤。若场上对手与首回合一致则提升本次固伤并回复自身精力；否则额外发动本技能1回合并删除对手技能PP。" id="3729" name="谋算" power="90" ppMax="12" property="2" speed="8" src="4003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="连续发动技能4回合。主动使用时烧伤对手，烧伤成功时使其本次在场受到的伤害提升。出手前受伤则必中并吸取对手精力回复我方场下队友，未受伤时删除对手技能PP并回复自身未枯竭的技能PP；将场上非暴晒天气改变为暴晒天气。后续回合：威力伤害失效并据自身魔攻能力值追加固伤。若场上对手与首回合一致则提升本次固伤并回复自身精力；否则删除对手技能PP。" id="3729" name="谋算" power="90" ppMax="12" property="2" speed="8" src="4003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面6回合，回合内首回合清除场上天气环境，成功则自身后续回合降低所受的威力伤害且使用威力技能时额外回复上回合技能PP；非首回合若对手主属性与自身剑心改变后属性不一致则提升物攻强化，且使用技能时额外回复我方队友精力。" id="3730" name="砺武" power="--" ppMax="6" property="1" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="吸取对手PP以回复自身其他技能PP，追加固伤并自身获得护盾。若对手主属性与自身剑心改变后属性不一致则令对手每次使用技能时持续消耗PP。受剑心影响本回合若受到抵抗或克制伤害，则下次使用本技能时额外删除最近使用技能PP或回复队友精力。任意天气环境下本技能必中且提升先手值。" id="3731" name="断江" power="100" ppMax="12" property="1" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="枭姬登场时首次使用本技能则据剑心改变的次数连续发动多回合技能，后续回合自身先手时额外免疫异常1回合并强制降低对手物防。非首次则据剑心改变的次数提升威力；回复自身精力并造成波及伤害，重置对手双攻正面强化且任意天气环境下变为强制，成功则根据正面等级持续降低其精力回复效果。" id="3732" name="礼剑" power="110" ppMax="10" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="吸取对手PP以回复自身其他技能PP，追加固伤并自身获得护盾。若对手主属性与自身剑心改变后属性不一致则令对手每次使用技能时持续消耗PP。受剑心影响本回合若受到抵抗或克制伤害，则下次使用本技能时额外删除最近使用技能PP或回复队友精力。任意天气环境下本技能必中且提升先手值。" id="3731" name="断江" power="100" ppMax="12" property="1" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="枭姬登场时首次使用本技能则连续发动4回合，后续回合自身先手时额外免疫异常1回合并强制降低对手物防。非首次则据剑心改变次数与本技能使用次数提升威力；回复自身精力并造成波及伤害，重置对手双攻正面强化且任意天气环境下变为强制，成功则根据正面等级持续降低其精力回复效果。" id="3732" name="礼剑" power="110" ppMax="10" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3733" name="BY1" power="--" ppMax="6" property="11" speed="12" src="6008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3734" name="BY2" power="100" ppMax="12" property="11" speed="8" src="5008_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤芬芳环境均持续6回合。回合内：降低所受伤害，非芬芳环境下增强降低效果；受伤时，若自身当前精力不超过一半则据自身已损精力消耗灵力并回复自身精力且获得护盾；受到威力伤害时，赋予对手随机掉血异常。被动免疫掉血异常。" id="3735" name="幻境隐耀" power="--" ppMax="6" property="5" speed="15" src="6019_.swf" superFormID="" superFormSrc=""/>
@@ -3929,10 +3929,12 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3742" name="JL1" power="--" ppMax="6" property="7" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3743" name="JL2" power="70" ppMax="10" property="7" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3744" name="AA1" power="--" ppMax="6" property="9" speed="15" src="6004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3745" name="AA2" power="--" ppMax="10" property="9" speed="10" src="7004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3745" name="AA2" power="--" ppMax="10" property="9" speed="8" src="7004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="3746" name="AA3" power="100" ppMax="10" property="18" speed="10" src="5015_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3747" name="AA4" power="125" ppMax="12" property="9" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3747" name="AA4" power="125" ppMax="12" property="9" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3748" name="AA5" power="--" ppMax="5" property="18" speed="11" src="4034_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="随机发动3至5回合。每回合有50%概率提高自身1级物攻；末回合必中且必定暴击并根据发动回合数依次获得：烧伤对手，随机清除对手1项正面强化，随机清空场上对手1个技能PP。" id="3752" name="核心超载​" power="80" ppMax="6" property="17" speed="8" src="5004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常及负面强化，召唤暴晒天气5回合。回合内：自身主动使用威力技能时，若场上为暴晒天气，则消耗自身精力并对对手追加固伤，且烧伤对手；烧伤失败时提升自身1级双防。" id="3753" name="阳灼驱动" power="--" ppMax="4" property="2" speed="12" src="6004_.swf" superFormID="" superFormSrc=""/>
 
 
 

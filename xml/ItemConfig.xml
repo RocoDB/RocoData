@@ -5545,6 +5545,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620420</ID>
+    <Name>苍原幻境头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍原幻境套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9337,6 +9345,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751483</ID>
+    <Name>苍原幻境衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍原幻境套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751484</ID>
+    <Name>至臻·苍原幻境衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[至臻·苍原幻境衣服]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12650,6 +12674,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816993</ID>
+    <Name>苍原幻境鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍原幻境套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -13942,6 +13974,14 @@
     <Name>孔明套装翅膀</Name>
     <Price>0</Price>
     <Desc><![CDATA[孔明主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882277</ID>
+    <Name>苍原幻境背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍原幻境套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18067,6 +18107,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013535</ID>
+    <Name>苍原幻境手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍原幻境套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18647,6 +18695,14 @@
     <Name>时光绮梦法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[时光绮梦主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209843</ID>
+    <Name>苍原幻境法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[苍原幻境套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -54649,6 +54705,38 @@
     <Desc><![CDATA[它仿佛一枚连接古今的印记……]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1757606400</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375010</ID>
+    <Name>好学生套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[好学生套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>434802496</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375011</ID>
+    <Name>大学士套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[大学士套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375012</ID>
+    <Name>魔法学生装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[魔法学生装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375013</ID>
+    <Name>孔明套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[孔明套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

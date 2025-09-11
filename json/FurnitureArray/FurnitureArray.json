@@ -10885,6 +10885,96 @@
       "productArray": []
     },
     {
+      "id": "121000378",
+      "name": "七彩瓜田壁纸",
+      "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "5",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000379",
+      "name": "七彩瓜田地板",
+      "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "3",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000380",
+      "name": "七彩瓜田门",
+      "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "15",
+      "settleLayer": "7",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "122000004",
       "name": "青青绿野壁画",
       "info": "把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。",
@@ -16771,6 +16861,36 @@
       "id": "122000253",
       "name": "计定江天贴纸",
       "info": "计定江天主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "101",
+      "comfortable": "8",
+      "settleLayer": "15",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "122000254",
+      "name": "七彩瓜田贴纸",
+      "info": "七彩瓜田主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -30336,6 +30456,96 @@
       "productArray": []
     },
     {
+      "id": "123000506",
+      "name": "七彩瓜田地毯",
+      "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000507",
+      "name": "七彩瓜田椅子",
+      "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000508",
+      "name": "七彩瓜田床",
+      "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "23",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "124000000",
       "name": "贝壳",
       "info": "除了长得像洛克贝以外，也没什么特别的了。",
@@ -33932,6 +34142,36 @@
       "id": "124000137",
       "name": "计定江天木质士兵",
       "info": "计定江天主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "103",
+      "comfortable": "10",
+      "settleLayer": "35",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "124000138",
+      "name": "七彩瓜田冰激凌",
+      "info": "七彩瓜田主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
