@@ -192,7 +192,7 @@
 <talentDes des="自身造成威力伤害时获得灵力，芬芳环境下提升获得的灵力。获得的灵力溢出时，将溢出部分转化为护盾。非芬芳环境下，自身召唤芬芳环境成功时额外免疫负面强化并使自身下次主动使用威力技能时，据该技能属性额外造成魔法威力固伤。" id="113" name="灵曜"/>
 <talentDes des="攻击时，若对手全体被着色的宠物不超过2只，则对对手场上宠物进行着色，若场上对手已被着色，则获得1层储能。使用任意技能时回复场下队友精力。登场时，若上只队友未阵亡，则为其写生。被写生的队友击败对手时自身获得1层储能，若对手已被着色则提升威力伤害。" id="114" name="着色"/>
 <talentDes des="自身主动触发回复精力效果时，若当前精力小于自身最大精力的一半则回满自身精力。主动使用魔法类或物理类技能命中对手时，若自身当前精力不少于自身最大精力的一半则额外追加固伤。" id="115" name="双重奏"/>
-
+<talentDes des="116" id="116" name="116"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3965,6 +3965,13 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3778" name="AA" power="--" ppMax="6" property="1" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3779" name="AA1" power="100" ppMax="10" property="1" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3780" name="AA2" power="120" ppMax="12" property="1" speed="7" src="7004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3775" name="ZX1" power="--" ppMax="6" property="3" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3776" name="ZX2" power="100" ppMax="9" property="8" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3777" name="ZX3" power="--" ppMax="12" property="3" speed="10" src="4008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3782" name="BB1" power="--" ppMax="6" property="1" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3783" name="BB2" power="120" ppMax="10" property="1" speed="11" src="5001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3784" name="BB3" power="120" ppMax="12" property="2" speed="9" src="7005_.swf" superFormID="" superFormSrc=""/>
+
 
 
 

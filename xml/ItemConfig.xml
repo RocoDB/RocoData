@@ -19843,6 +19843,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340906</ID>
+    <Name>虫之脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340907</ID>
+    <Name>武之脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340908</ID>
+    <Name>翼之脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -20239,6 +20263,14 @@
     <Name>圣魔·冰火名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第二十三届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406452</ID>
+    <Name>圣魔·甜筒名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第二十四届系别赛名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
