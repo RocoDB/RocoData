@@ -11729,6 +11729,102 @@
         </productArray>
     </Furniture>
     <Furniture>
+        <id>121000381</id>
+        <name><![CDATA[跃动魔方壁纸]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>5</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000382</id>
+        <name><![CDATA[跃动魔方地板]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>3</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000383</id>
+        <name><![CDATA[跃动魔方门]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>15</comfortable>
+        <settleLayer>7</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
         <id>122000004</id>
         <name><![CDATA[青青绿野壁画]]></name>
         <info><![CDATA[把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。]]></info>
@@ -18031,6 +18127,38 @@
             </recycleMaterial>
             <recycleMaterial>
                 <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>101</settleType>
+        <comfortable>8</comfortable>
+        <settleLayer>15</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>122000255</id>
+        <name><![CDATA[跃动魔方气球]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
                 <materialNum>1</materialNum>
             </recycleMaterial>
             <recycleMaterial>
@@ -32577,6 +32705,102 @@
         </productArray>
     </Furniture>
     <Furniture>
+        <id>123000509</id>
+        <name><![CDATA[跃动魔方地毯]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506055</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000510</id>
+        <name><![CDATA[跃动魔方椅子]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000511</id>
+        <name><![CDATA[跃动魔方床]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506051</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>23</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
         <id>124000000</id>
         <name><![CDATA[贝壳]]></name>
         <info><![CDATA[除了长得像洛克贝以外，也没什么特别的了。]]></info>
@@ -36421,6 +36645,38 @@
         <id>124000138</id>
         <name><![CDATA[七彩瓜田冰激凌]]></name>
         <info><![CDATA[七彩瓜田主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>103</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>35</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>124000139</id>
+        <name><![CDATA[跃动魔方礼盒]]></name>
+        <info><![CDATA[跃动魔方系列家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>

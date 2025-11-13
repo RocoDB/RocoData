@@ -10975,6 +10975,96 @@
       "productArray": []
     },
     {
+      "id": "121000381",
+      "name": "跃动魔方壁纸",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "5",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000382",
+      "name": "跃动魔方地板",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "3",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000383",
+      "name": "跃动魔方门",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "15",
+      "settleLayer": "7",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "122000004",
       "name": "青青绿野壁画",
       "info": "把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。",
@@ -16898,6 +16988,36 @@
         },
         {
           "materialId": "117506057",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "101",
+      "comfortable": "8",
+      "settleLayer": "15",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "122000255",
+      "name": "跃动魔方气球",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
           "materialNum": "1"
         },
         {
@@ -30546,6 +30666,96 @@
       "productArray": []
     },
     {
+      "id": "123000509",
+      "name": "跃动魔方地毯",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000510",
+      "name": "跃动魔方椅子",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000511",
+      "name": "跃动魔方床",
+      "info": "跃动魔方系列家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "23",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "124000000",
       "name": "贝壳",
       "info": "除了长得像洛克贝以外，也没什么特别的了。",
@@ -34172,6 +34382,36 @@
       "id": "124000138",
       "name": "七彩瓜田冰激凌",
       "info": "七彩瓜田主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "103",
+      "comfortable": "10",
+      "settleLayer": "35",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "124000139",
+      "name": "跃动魔方礼盒",
+      "info": "跃动魔方系列家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
