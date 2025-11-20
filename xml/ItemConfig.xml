@@ -5577,6 +5577,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620424</ID>
+    <Name>无限可能头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[无限可能套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9409,6 +9417,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751488</ID>
+    <Name>无限可能衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[无限可能套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12754,6 +12770,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816997</ID>
+    <Name>无限可能鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[无限可能套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -15422,6 +15446,22 @@
     <Name>孔明套装手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[孔明主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947823</ID>
+    <Name>拴Q企鹅气球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[企鹅气球]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947824</ID>
+    <Name>无限可能装备包</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[无限可能套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
