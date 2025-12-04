@@ -1140,7 +1140,7 @@
     <ID>17432598</ID>
     <Name>龙颜强化</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会龙颜强化技能<br>限用宠物（35级）<br>冰龙勇士<br>技能描述<br>一定概率提升自身的魔攻等级。]]></Desc>
+    <Desc><![CDATA[学会龙颜强化技能<br>限用宠物（35级）<br>冰龙勇士、狂战冰龙、冰龙王、公测冰龙王<br>技能描述<br>一定概率提升自身的魔攻等级。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1148,7 +1148,7 @@
     <ID>17432599</ID>
     <Name>嗜血寒冰</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会嗜血寒冰技能<br>限用宠物（50级）<br>狂战冰龙<br>技能描述<br>损失自身HP让对方进入冰冻状态。]]></Desc>
+    <Desc><![CDATA[学会嗜血寒冰技能<br>限用宠物（50级）<br>狂战冰龙、冰龙王、公测冰龙王<br>技能描述<br>损失自身HP让对方进入冰冻状态。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -1156,7 +1156,7 @@
     <ID>17432600</ID>
     <Name>灭天冰霜</Name>
     <Price>0</Price>
-    <Desc><![CDATA[学会灭天冰霜技能<br>限用宠物（65级）<br>冰龙王<br>技能描述<br>对于冰冻的宠物，魔抗等级越低伤害越高。]]></Desc>
+    <Desc><![CDATA[学会灭天冰霜技能<br>限用宠物（65级）<br>冰龙王、公测冰龙王<br>技能描述<br>对于冰冻的宠物，魔抗等级越低伤害越高。]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -5585,6 +5585,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620425</ID>
+    <Name>幽影法师帽子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幽影法师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620426</ID>
+    <Name>冬龙诗头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冬龙诗主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620427</ID>
+    <Name>龙灵主题头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙灵主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9425,6 +9449,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751489</ID>
+    <Name>幽影法师衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幽影法师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751490</ID>
+    <Name>冬龙诗衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冬龙诗主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751491</ID>
+    <Name>龙灵主题衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙灵主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12778,6 +12826,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33816998</ID>
+    <Name>幽影法师鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幽影法师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33816999</ID>
+    <Name>冬龙诗鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冬龙诗主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33817000</ID>
+    <Name>龙灵主题鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙灵主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14094,6 +14166,38 @@
     <Name>跃动魔方滑板</Name>
     <Price>0</Price>
     <Desc><![CDATA[跃动魔方套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882280</ID>
+    <Name>幽影法师背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幽影法师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882281</ID>
+    <Name>至臻·幽影法师背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[至臻·幽影法师背饰]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882282</ID>
+    <Name>冬龙诗雪龙</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冬龙诗主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882283</ID>
+    <Name>龙灵主题翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙灵主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -15462,6 +15566,14 @@
     <Name>无限可能装备包</Name>
     <Price>0</Price>
     <Desc><![CDATA[无限可能套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947825</ID>
+    <Name>幽影法师手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幽影法师套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18267,6 +18379,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013539</ID>
+    <Name>冬龙诗龙杖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冬龙诗主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013540</ID>
+    <Name>龙灵主题法杖</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙灵主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -18871,6 +18999,14 @@
     <Name>跃动魔方法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[跃动魔方套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209846</ID>
+    <Name>幽影法师法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[幽影法师套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -54993,6 +55129,14 @@
     <Desc><![CDATA[跃动魔方主题家具]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375021</ID>
+    <Name>龙灵罗盘</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[龙灵寻宝活动道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1768492800</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

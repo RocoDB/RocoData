@@ -17,7 +17,7 @@
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="2" name="皮卡服装店" sceneVer="1" top="1" ver="4.60350"/>
   <SceneDes bgMusic="new_46.swf|amb_1.swf" id="3" name="古拉拉家具店" sceneVer="1" top="389" ver="1.60350"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="4" name="博得材料屋" sceneVer="1" top="1" ver="4.60170"/>
-  <SceneDes bgMusic="new_58.swf" id="5" name="魔法学院" sceneVer="1" top="5" ver="2.60280"/>
+  <SceneDes bgMusic="new_02.swf" id="5" name="魔法学院" sceneVer="1" top="5" ver="2.60280"/>
   <SceneDes bgMusic="new_02.swf|amb_2.swf" id="6" name="教学楼" sceneVer="1" top="5" ver="3.5054"/>
   <SceneDes bgMusic="new_02.swf|amb_2.swf" id="10007" name="教学楼" sceneVer="1" top="5" ver="3.5054"/>
   <SceneDes bgMusic="new_02.swf|amb_2.swf" id="7" name="图书馆" sceneVer="1" top="5" ver="2.009"/>
@@ -31,7 +31,7 @@
   
   
   
-  <SceneDes allowData="false" bgMusic="new_42.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
+  <SceneDes allowData="false" bgMusic="new_31.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
   <SceneDes bgMusic="new_33.swf|amb_2.swf" id="14" name="城堡大厅" sceneVer="1" top="13" ver="2.60280"/>
   <SceneDes bgMusic="new_01.swf|amb_1.swf" id="16" name="主题乐园" sceneVer="1" top="12" ver="1.60450"/>
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="17" name="雪人谷" sceneVer="1" top="17" ver="3.60380"/>
