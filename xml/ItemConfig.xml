@@ -1889,6 +1889,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>17432693</ID>
+    <Name>钟灵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会钟灵技能<br>限用宠物（60级）<br>苍翼天使<br>技能描述<br>净化自身并回复精力，召唤曙光天气且一定回合内获得增益。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432694</ID>
+    <Name>明目</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会明目技能<br>限用宠物（70级）<br>苍翼天使<br>技能描述<br>据钟灵数提升威力，根据自身上回合使用的威力类型追加不同效果。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>17432695</ID>
+    <Name>龙吟</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[学会龙吟技能<br>限用宠物（80级）<br>苍翼天使<br>技能描述<br>据自身当前精力值提升威力，删除自身携带的魔法技能获取增益。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>17498114</ID>
     <Name>升级果</Name>
     <Price>0</Price>
@@ -10700,9 +10724,9 @@
     <ID>33816731</ID>
     <Name>枫雪镇鞋子</Name>
     <Price>0</Price>
-    <Desc/>
+    <Desc><![CDATA[枫雪镇套装]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1640620800</ExpireTime>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>33816732</ID>
