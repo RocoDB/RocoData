@@ -5633,6 +5633,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620428</ID>
+    <Name>冰山探险头发（女）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰山探险套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620429</ID>
+    <Name>冰山探险头发（男）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰山探险套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620430</ID>
+    <Name>冰雪心音头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9497,6 +9521,30 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751492</ID>
+    <Name>冰山探险衣服（男）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰山探险套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751493</ID>
+    <Name>冰雪心音衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751494</ID>
+    <Name>冰山探险衣服（女）</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰山探险套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12874,6 +12922,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817001</ID>
+    <Name>冰山探险鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰山探险套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33817002</ID>
+    <Name>冰雪心音鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14222,6 +14286,14 @@
     <Name>龙灵主题翅膀</Name>
     <Price>0</Price>
     <Desc><![CDATA[龙灵主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882284</ID>
+    <Name>冰雪心音圆曲</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18419,6 +18491,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013541</ID>
+    <Name>冰雪心音提琴</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音主题套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -19031,6 +19111,14 @@
     <Name>幽影法师法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[幽影法师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209847</ID>
+    <Name>冰雪心音法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音主题套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -55161,6 +55249,38 @@
     <Desc><![CDATA[龙灵寻宝活动道具]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1768492800</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375022</ID>
+    <Name>枫雪镇套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[枫雪镇套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375023</ID>
+    <Name>冰山探险套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰山探险套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375024</ID>
+    <Name>棕色2星情报蛋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[哨兵因因的情报中获取的宠物蛋。可随机孵化出宠物。]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375025</ID>
+    <Name>冰雪心音套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[冰雪心音套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

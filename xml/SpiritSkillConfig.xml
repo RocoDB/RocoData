@@ -196,6 +196,7 @@
 <talentDes des="使用禁制魔典时，复活对手场下PP值最少的宠物，清空其先手值最高的技能并降低其1级双攻且将其视为幽魂，幽魂对自身造成的伤害大幅降低。使用变化技能时，回复对手场下幽魂精力；使用威力技能时，若对手为幽魂则回复自身全技能PP并大幅提升伤害；自身精力不足一半时吸取对手场下幽魂精力回复自身。" id="117" name="魂链"/>
 <talentDes des="" id="118" name=""/>
 <talentDes des="" id="119" name=""/>
+<talentDes des="" id="120" name=""/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -3965,7 +3966,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面并召唤芬芳环境均持续5回合，回合内自身先手出招则降低所受伤害；否则使技能必中并降低对手物防；非芬芳环境下提升自身其他技能先手值并召唤陨石天气持续一定回合。" id="3766" name="瓜田石阵" power="--" ppMax="5" property="5" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="恐惧对手，被免疫则提升技能威力值。天气环境下额外提升自身物攻并以石板为盾保护自身，若盾被对手先手打碎则删除其技能PP。造成抵抗或克制伤害时，额外追加固伤或造成波及伤害。" id="3767" name="饭瓜流弹" power="120" ppMax="11" property="13" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="若滑板连续滑翔则消耗本技能PP使威力伤害分解为多段固伤，并将自身物攻等级置于1级且额外回复自身PP；否则回复自身精力。疾风天气下技能必中，且自身获得一回合闪避。" id="3781" name="动感飞板" power="90" ppMax="10" property="10" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常与负面强化并召唤乐园环境均持续6回合。回合内：降低所受威力伤害，受到非神系克制威力伤害时大幅降低该次伤害并将部分伤害转移至场下队友；先手使用技能时获得护盾及1级魔攻强化；自身阵亡时回复场下队友精力。" id="3778" name="龙吟侔天" power="--" ppMax="6" property="15" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常与负面强化并召唤乐园环境均持续6回合。回合内：降低所受威力伤害，受到非神系克制威力伤害时，若场下存活队友精力之和超过存活队友数，则大幅降低该次伤害并将部分伤害转移至场下队友；先手使用技能时获得护盾及1级魔攻强化；自身阵亡时回复场下队友精力。" id="3778" name="龙吟侔天" power="--" ppMax="6" property="15" speed="13" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="诅咒对手并据场下精力不超过一半的队友数提升威力。据对手强化等级依次获得：消耗场下队友精力并追加固伤；消耗场下队友精力并重置其强化效果。场上存在环境时追加效果：龙阵环境下必中且追加固伤；非乐园环境下消耗场下队友精力并召唤龙阵环境；乐园环境下令自身下次受到的伤害必定被克制且额外发动本技能2回合。额外回合：威力伤害失效并追加固伤。" id="3779" name="裂镜幻爪" power="100" ppMax="10" property="15" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="出手受伤时删除对手最近使用技能PP并回复龙吟侔天1PP；否则回复首格技能1PP并召唤乐园环境。迷惑对手且乐园环境下提升威力。据场下队友精力总量追加效果：不超过300点精力时，强化自身1级速度且下次使用的技能为威力技能时额外强化1级魔攻，为变化技能时额外提升先手值；不超过200点精力时，消耗自身大量精力并回复场下队友精力。" id="3780" name="方仪法则" power="120" ppMax="12" property="11" speed="7" src="7004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复我方全体宠物精力。免疫异常与负面，并根据携带技能属性数召唤阴雨天气或瘴气环境均持续6回合，回合内降低自身所受固伤；每回合双方使用同一类型技能则赋予各自1颗星珠，对手同为紫魄星灵时额外将自身星珠转移至其身上；反之不一致则移除自身1颗星珠。非首回合双方据各自星珠数降低精力回复效果，且自身受到威力伤害时据对手星珠数反弹伤害。" id="3775" name="星珠并蒂" power="--" ppMax="6" property="3" speed="13" src="6001_.swf" superFormID="" superFormSrc=""/>
@@ -3999,8 +4000,13 @@
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="3811" name="BB2" power="--" ppMax="10" property="1" speed="12" src="4038_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3812" name="BB3" power="100" ppMax="12" property="1" speed="11" src="5012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3813" name="BB4" power="135" ppMax="12" property="1" speed="10" src="4007_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="空" id="3814" name="BB5" power="125" ppMax="12" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3814" name="BB5" power="125" ppMax="12" property="1" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3817" name="EC1" power="--" ppMax="6" property="16" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3818" name="EC2" power="120" ppMax="15" property="17" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3819" name="EC3" power="90" ppMax="10" property="16" speed="9" src="4019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3820" name="CC1" power="--" ppMax="6" property="3" speed="14" src="6020_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3821" name="CC2" power="--" ppMax="8" property="5" speed="11" src="4028_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3822" name="CC3" power="120" ppMax="12" property="3" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
 
 
 
