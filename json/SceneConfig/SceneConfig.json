@@ -5502,6 +5502,15 @@
       "allowData": ""
     },
     {
+      "id": "510",
+      "name": "流光街市",
+      "sceneVer": "1",
+      "top": "103",
+      "ver": "1.000",
+      "bgMusic": "new_135.swf",
+      "allowData": ""
+    },
+    {
       "id": "2001",
       "name": "商店街",
       "sceneVer": "1",
