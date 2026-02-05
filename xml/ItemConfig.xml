@@ -5673,6 +5673,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620433</ID>
+    <Name>琼枝纳财头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[琼枝纳财套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9577,6 +9585,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751497</ID>
+    <Name>琼枝纳财衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[琼枝纳财套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -12986,6 +13002,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817005</ID>
+    <Name>琼枝纳财鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[琼枝纳财套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14358,6 +14382,14 @@
     <Name>梨园刀马旦靠旗</Name>
     <Price>0</Price>
     <Desc><![CDATA[梨园商汇主题女套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882287</ID>
+    <Name>琼枝纳财背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[琼枝纳财套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18579,6 +18611,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013544</ID>
+    <Name>琼枝纳财手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[琼枝纳财套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -20299,6 +20339,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340909</ID>
+    <Name>平步四方脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梨园商汇主题脚印]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -20703,6 +20751,22 @@
     <Name>圣魔·甜筒名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第二十四届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406453</ID>
+    <Name>圣魔·总车长名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第二十五届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406454</ID>
+    <Name>金算纳财名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梨园商汇主题赛名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -21711,6 +21775,14 @@
     <Name>维克变形魔法</Name>
     <Price>0</Price>
     <Desc><![CDATA[可以将目标变成维克形象]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>50397302</ID>
+    <Name>马上发财变形魔法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以将目标变成带来财运的小马驹，一起发财吧！]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -55395,6 +55467,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>67375028</ID>
+    <Name>梨园名签</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梨园纳福抽奖道具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1774454400</ExpireTime>
+ </Item>
+  <Item>
     <ID>83951618</ID>
     <Name>萌鸡小屋</Name>
     <Price>0</Price>
@@ -59383,6 +59463,14 @@
     <Name>摩托车魔法装扮</Name>
     <Price>0</Price>
     <Desc><![CDATA[黑猫警长系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>151715877</ID>
+    <Name>小财神魔法装扮</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[梨园商汇主题装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

@@ -800,6 +800,16 @@
       "dur": "",
       "actionType": "4",
       "description": "将目标变成维克"
+    },
+    {
+      "id": "900",
+      "name": "马上发财变形魔法",
+      "itemID": "50397302",
+      "target": "1",
+      "type": "3",
+      "dur": "",
+      "actionType": "4",
+      "description": "可以将目标变成带来财运的小马驹，一起发财吧！"
     }
   ]
 }

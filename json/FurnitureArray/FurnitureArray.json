@@ -11455,6 +11455,96 @@
       "productArray": []
     },
     {
+      "id": "121000397",
+      "name": "塞勒姆壁纸",
+      "info": "塞勒姆纪念家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "5",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000398",
+      "name": "塞勒姆地板",
+      "info": "塞勒姆纪念家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "3",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000399",
+      "name": "塞勒姆门",
+      "info": "塞勒姆纪念家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506052",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "100",
+      "comfortable": "15",
+      "settleLayer": "7",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
       "id": "122000004",
       "name": "青青绿野壁画",
       "info": "把索米亚与普拉塔草原搬入画中，似有阵阵青草香气扑鼻而来。",
@@ -17521,6 +17611,36 @@
       "id": "122000259",
       "name": "赑瑞玄龟挂件",
       "info": "赑瑞玄龟主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "101",
+      "comfortable": "8",
+      "settleLayer": "15",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "122000260",
+      "name": "塞勒姆挂件",
+      "info": "塞勒姆纪念家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -31719,6 +31839,126 @@
       "id": "123000527",
       "name": "赑瑞玄龟桌子",
       "info": "赑瑞玄龟主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506055",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000528",
+      "name": "塞勒姆床",
+      "info": "塞勒姆纪念家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "23",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000529",
+      "name": "塞勒姆地毯",
+      "info": "塞勒姆纪念家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506051",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000530",
+      "name": "塞勒姆椅子",
+      "info": "塞勒姆纪念家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000531",
+      "name": "塞勒姆桌子",
+      "info": "塞勒姆纪念家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",

@@ -95,5 +95,6 @@
   <Magic actionType="4" id="897" itemID="50397299" name="福灯变形魔法" target="1" type="3">将目标变成福灯</Magic>
   <Magic actionType="4" id="898" itemID="50397300" name="耀龙变形魔法" target="1" type="3">将目标变成耀龙</Magic>
   <Magic actionType="4" id="899" itemID="50397301" name="维克变形魔法" target="1" type="3">将目标变成维克</Magic>
+ <Magic actionType="4" id="900" itemID="50397302" name="马上发财变形魔法" target="1" type="3">可以将目标变成带来财运的小马驹，一起发财吧！</Magic>
     
   </Magics>

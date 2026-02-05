@@ -31,7 +31,7 @@
   
   
   
-  <SceneDes allowData="false" bgMusic="new_31.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
+  <SceneDes allowData="false" bgMusic="new_42.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
   <SceneDes bgMusic="new_33.swf|amb_2.swf" id="14" name="城堡大厅" sceneVer="1" top="13" ver="2.60280"/>
   <SceneDes bgMusic="new_01.swf|amb_1.swf" id="16" name="主题乐园" sceneVer="1" top="12" ver="1.60450"/>
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="17" name="雪人谷" sceneVer="1" top="17" ver="3.60380"/>
@@ -621,7 +621,8 @@
   <SceneDes bgMusic="new_43.swf" id="507" name="赤壁幻境二重" sceneVer="1" top="103" ver="1.000"/>
   <SceneDes bgMusic="new_43.swf" id="508" name="赤壁幻境三重" sceneVer="1" top="103" ver="1.000"/>
   <SceneDes bgMusic="new_43.swf" id="509" name="赤壁幻境" sceneVer="1" top="103" ver="1.000"/>
-  <SceneDes bgMusic="new_135.swf" id="510" name="流光街市" sceneVer="1" top="103" ver="1.000"/>
+  <SceneDes bgMusic="new_135.swf" id="510" name="流光街市" sceneVer="1" top="456" ver="1.000"/>
+  <SceneDes bgMusic="new_136.swf" id="511" name="藏贝洞" sceneVer="1" top="456" ver="1.000"/>
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="2002" name="VIP魔法台" sceneVer="1" top="2002" ver="1.00000"/>
