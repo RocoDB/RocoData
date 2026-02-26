@@ -623,6 +623,7 @@
   <SceneDes bgMusic="new_43.swf" id="509" name="赤壁幻境" sceneVer="1" top="103" ver="1.000"/>
   <SceneDes bgMusic="new_135.swf" id="510" name="流光街市" sceneVer="1" top="456" ver="1.000"/>
   <SceneDes bgMusic="new_136.swf" id="511" name="藏贝洞" sceneVer="1" top="456" ver="1.000"/>
+  <SceneDes bgMusic="new_113.swf" id="512" name="契约新柱" sceneVer="1" top="456" ver="1.000"/>
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="2002" name="VIP魔法台" sceneVer="1" top="2002" ver="1.00000"/>

@@ -51248,7 +51248,7 @@
     <Price>0</Price>
     <Desc><![CDATA[这大概是一张手机卡，摆明不是这个时代能用上的东西。]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>0</ExpireTime>
+    <ExpireTime>1773936000</ExpireTime>
  </Item>
   <Item>
     <ID>67374497</ID>
@@ -55472,7 +55472,7 @@
     <Price>0</Price>
     <Desc><![CDATA[梨园纳福抽奖道具]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1774454400</ExpireTime>
+    <ExpireTime>1774540800</ExpireTime>
  </Item>
   <Item>
     <ID>67375029</ID>
