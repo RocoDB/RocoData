@@ -5681,6 +5681,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620434</ID>
+    <Name>拂影游侠头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[拂影游侠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620435</ID>
+    <Name>至臻·拂影游侠头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[至臻·拂影游侠头发]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9593,6 +9609,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751498</ID>
+    <Name>拂影游侠衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[拂影游侠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -13010,6 +13034,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817006</ID>
+    <Name>拂影游侠鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[拂影游侠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14394,6 +14426,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33882288</ID>
+    <Name>拂影游侠背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[拂影游侠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33947649</ID>
     <Name>蓝色小提包</Name>
     <Price>0</Price>
@@ -15766,6 +15806,14 @@
     <Name>幽影法师手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[幽影法师套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947826</ID>
+    <Name>拂影游侠玩偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[拂影游侠套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19255,6 +19303,14 @@
     <Name>梨园刀马旦云片</Name>
     <Price>0</Price>
     <Desc><![CDATA[梨园商汇主题女套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209850</ID>
+    <Name>拂影游侠法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[拂影游侠套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
