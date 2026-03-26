@@ -13,7 +13,7 @@
   
   
    
-  <SceneDes bgMusic="new_42.swf|amb_2.swf" id="1" name="商店街" sceneVer="2" top="1" ver="4.60320"/>
+  <SceneDes bgMusic="new_03.swf|amb_2.swf" id="1" name="商店街" sceneVer="2" top="1" ver="4.60320"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="2" name="皮卡服装店" sceneVer="1" top="1" ver="4.60350"/>
   <SceneDes bgMusic="new_46.swf|amb_1.swf" id="3" name="古拉拉家具店" sceneVer="1" top="389" ver="1.60350"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="4" name="博得材料屋" sceneVer="1" top="1" ver="4.60170"/>
@@ -31,7 +31,7 @@
   
   
   
-  <SceneDes allowData="false" bgMusic="new_42.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
+  <SceneDes allowData="false" bgMusic="new_08.swf" id="13" name="王国城堡" sceneVer="2" top="13" ver="5.60450"/>
   <SceneDes bgMusic="new_33.swf|amb_2.swf" id="14" name="城堡大厅" sceneVer="1" top="13" ver="2.60280"/>
   <SceneDes bgMusic="new_01.swf|amb_1.swf" id="16" name="主题乐园" sceneVer="1" top="12" ver="1.60450"/>
   <SceneDes bgMusic="new_01.swf|amb_3.swf" id="17" name="雪人谷" sceneVer="1" top="17" ver="3.60380"/>
@@ -41,7 +41,7 @@
   <SceneDes bgMusic="new_03.swf|amb_1.swf" id="22" name="2013年4月的彼得大道" sceneVer="1" top="22" ver="2.60170"/>
   
   
-  <SceneDes bgMusic="new_42.swf|amb_2.swf" id="22" name="彼得大道" sceneVer="2" top="22" ver="2.60170"/>
+  <SceneDes bgMusic="new_03.swf|amb_2.swf" id="22" name="彼得大道" sceneVer="2" top="22" ver="2.60170"/>
   <SceneDes bgMusic="new_05.swf|amb_2.swf" id="23" name="爱心教堂" sceneVer="1" top="22" ver="1.005"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="24" name="智慧出版社" sceneVer="1" top="22" ver="3.60450"/>
   <SceneDes bgMusic="new_03.swf|amb_2.swf" id="25" name="洛克银行" sceneVer="1" top="22" ver="3.60370"/>
@@ -460,7 +460,7 @@
   <SceneDes bgMusic="new_26.swf" id="342" name="藏宝地库" sceneVer="1" top="341" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="343" name="天使之都" sceneVer="1" top="241" ver="1.00000"/>
   <SceneDes bgMusic="new_47.swf" id="344" name="建木祭坛" sceneVer="1" top="341" ver="1.00000"/>
-  <SceneDes bgMusic="new_137.swf" id="345" name="VIP神殿" sceneVer="1" top="190" ver="1.00000"/>
+  <SceneDes bgMusic="new_52.swf" id="345" name="VIP神殿" sceneVer="1" top="190" ver="1.00000"/>
   <SceneDes bgMusic="new_27.swf" id="346" name="移动迷宫" sceneVer="1" top="341" ver="1.00000"/>
   <SceneDes bgMusic="new_96.swf" id="347" name="佛窟bug版" sceneVer="1" top="341" ver="1.00000"/>
   <SceneDes bgMusic="new_96.swf" id="347" name="佛窟" sceneVer="2" top="341" ver="1.00000"/>
