@@ -4051,7 +4051,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤沃土环境均持续6回合，回合内：降低所受伤害；使用威力技能时，品尝调和的茶饮并据其风味追加效果：清新风味，消耗自身护盾并追加等额固伤；花香风味，提升本次威力伤害；果香风味，召唤沃土环境。" id="3853" name="茶饮品尝" power="--" ppMax="6" property="1" speed="14" src="6003_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="连续发动技能5回合。每回合据自身魔攻能力值追加固伤；后续回合：据自身主动使用的技能属性调和茶饮的风味并追加效果，使用的技能属性不克制不抵抗本技能时，调和清新风味并删除对手本回合使用技能PP且获得护盾；克制时，调和花香风味并删除对手最近使用技能PP且降低其1级魔防；抵抗时，调和果香风味并吸取对手全技能PP回复自身技能。" id="3854" name="风味调和" power="--" ppMax="10" property="5" speed="10" src="4016_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="迷惑对手并强化自身1级魔攻，据场上双方携带的不同属性技能数回复自身精力。对手携带的不同属性技能数不低于2时，使其2回合内获得的负面强化翻倍；不低于3时，额外使其2回合内获得的正面强化减半。" id="3855" name="妙手焙香" power="120" ppMax="12" property="9" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
-
+<SpiritSkillDes attackType="2" damageType="2" description="净化自身异常，净化成功时删除对手全技能PP。阴雨天气下额外强化自身魔攻并据对手已损精力追加固伤，无天气环境时回复自身其他枯竭技能PP。场上存在天气时，令场上回合结束时，提升场上天气回合数持续2回合；场上存在环境时，令场上回合结束时，额外减少场上环境回合数持续2回合。" id="3856" name="攀荷弄珠" power="125" ppMax="10" property="3" speed="9" src="5012_.swf" superFormID="" superFormSrc=""/>
 
 
 

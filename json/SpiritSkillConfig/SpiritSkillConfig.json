@@ -63269,6 +63269,22 @@
       "superFormSrc": "",
       "description2": "",
       "catchRate": ""
+    },
+    {
+      "id": "3856",
+      "name": "攀荷弄珠",
+      "attackType": "2",
+      "damageType": "2",
+      "description": "净化自身异常，净化成功时删除对手全技能PP。阴雨天气下额外强化自身魔攻并据对手已损精力追加固伤，无天气环境时回复自身其他枯竭技能PP。场上存在天气时，令场上回合结束时，提升场上天气回合数持续2回合；场上存在环境时，令场上回合结束时，额外减少场上环境回合数持续2回合。",
+      "power": "125",
+      "ppMax": "10",
+      "property": "水",
+      "speed": "9",
+      "src": "5012_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
     }
   ]
 }
