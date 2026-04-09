@@ -63285,6 +63285,54 @@
       "superFormSrc": "",
       "description2": "",
       "catchRate": ""
+    },
+    {
+      "id": "3859",
+      "name": "DD1",
+      "attackType": "1",
+      "damageType": "3",
+      "description": "空",
+      "power": "--",
+      "ppMax": "6",
+      "property": "火",
+      "speed": "14",
+      "src": "6009_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
+    },
+    {
+      "id": "3860",
+      "name": "DD2",
+      "attackType": "1",
+      "damageType": "3",
+      "description": "空",
+      "power": "--",
+      "ppMax": "11",
+      "property": "火",
+      "speed": "10",
+      "src": "4005_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
+    },
+    {
+      "id": "3861",
+      "name": "DD3",
+      "attackType": "2",
+      "damageType": "2",
+      "description": "空",
+      "power": "120",
+      "ppMax": "10",
+      "property": "草",
+      "speed": "8",
+      "src": "5005_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
     }
   ]
 }
