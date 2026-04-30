@@ -5737,6 +5737,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620441</ID>
+    <Name>汐誓绮涟头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9689,6 +9697,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751503</ID>
+    <Name>汐誓绮涟衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -13146,6 +13162,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817011</ID>
+    <Name>汐誓绮涟鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14570,6 +14594,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33882293</ID>
+    <Name>汐誓绮涟背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33947649</ID>
     <Name>蓝色小提包</Name>
     <Price>0</Price>
@@ -15958,6 +15990,14 @@
     <Name>雅各布手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[雅各布套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947828</ID>
+    <Name>汐誓绮涟手持</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19519,6 +19559,14 @@
     <Name>异彩·暖阳茶谜法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[异彩·暖阳茶谜套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209855</ID>
+    <Name>汐誓绮涟法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -55769,6 +55817,22 @@
     <Desc><![CDATA[异彩·暖阳茶谜套装]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>353130528</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375032</ID>
+    <Name>汐誓绮涟套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟套装]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375033</ID>
+    <Name>汐誓绮涟主题家具</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[汐誓绮涟主题家具]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>

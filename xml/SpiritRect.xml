@@ -1001,4 +1001,9 @@
 <spirit endTime="2025-06-05" id="1484" lv="LV.10～15" name="贪睡小蛇" scene="250" startTime="2025-04-17"/>
 <spirit endTime="2025-06-05" id="2282" lv="LV.10～15" name="脆皮鸡哥哥" scene="214" startTime="2025-04-17"/>
 <spirit endTime="2025-06-05" id="2283" lv="LV.10～15" name="脆皮鸡弟弟" scene="130" startTime="2025-04-17"/>
+<spirit endTime="" id="2420" lv="LV.15～20" name="湮灭胸灵" scene="241" startTime=""/>
+<spirit endTime="" id="2438" lv="LV.15～20" name="风暴肩灵" scene="240" startTime=""/>
+<spirit endTime="" id="2439" lv="LV.15～20" name="虚空肩灵" scene="240" startTime=""/>
+<spirit endTime="" id="2440" lv="LV.15～20" name="傲慢角灵" scene="244" startTime=""/>
+<spirit endTime="" id="2441" lv="LV.15～20" name="鲁莽角灵" scene="245" startTime=""/>
 </spiritRect>

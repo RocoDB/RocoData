@@ -12,6 +12,8 @@
 <item type="2" id="67374924" itemName="1000万经验礼包" tips="1000万宠物经验值大礼包，礼包内有50个20万经验果。" />
 <item type="2" id="67374925" itemName="500万经验礼包" tips="500万宠物经验值大礼包，礼包内有25个20万经验果。" />
 <item type="2" id="67374926" itemName="努力值果实礼包" tips="礼包内有6种努力值果实各20个。" />
+<item type="1" id="133900" itemName="汐誓·冥光绮涟" tips="先获得宠物才可以使用哦！" />
+<item type="1" id="133900" itemName="汐誓·冥光绮涟" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="132191" itemName="心音·伊西希斯" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="132191" itemName="心音·伊西希斯" tips="先获得宠物才可以使用哦！" />
 <item type="1" id="131710" itemName="秋收·硕果格兰" tips="先获得宠物才可以使用哦！" />
@@ -683,6 +685,7 @@
 <item type="4" id="67374989" itemName="森林之家主题家具" tips="黑猫警长联动系列家具" />
 <item type="4" id="67374996" itemName="梦魇园游主题家具" tips="梦魇园游主题系列家具" />
 <item type="4" id="67375020" itemName="跃动魔方主题家具" tips="跃动魔方主题家具" />
+<item type="4" id="67375033" itemName="汐誓绮涟主题家具" tips="汐誓绮涟主题家具" />
 <item type="4" id="122000131" itemName="彩色粽子" tips="端午系列家具" />
 <item type="4" id="121000156" itemName="端午节壁纸" tips="端午系列家具" />
 <item type="4" id="121000157" itemName="端午节地板" tips="端午系列家具" />
@@ -882,6 +885,14 @@
 <item type="4" id="121000281" itemName="圣诞麋鹿门" tips="圣诞麋鹿系列家具" />
 <item type="4" id="123000379" itemName="圣诞麋鹿椅子" tips="圣诞麋鹿系列家具" />
 <item type="4" id="123000380" itemName="圣诞麋鹿桌子" tips="圣诞麋鹿系列家具" />
+<item type="4" id="122000262" itemName="汐誓绮涟挂件" tips="汐誓绮涟主题家具" />
+<item type="4" id="123000536" itemName="汐誓绮涟床" tips="汐誓绮涟主题家具" />
+<item type="4" id="121000403" itemName="汐誓绮涟壁纸" tips="汐誓绮涟主题家具" />
+<item type="4" id="121000404" itemName="汐誓绮涟地板" tips="汐誓绮涟主题家具" />
+<item type="4" id="123000537" itemName="汐誓绮涟地毯" tips="汐誓绮涟主题家具" />
+<item type="4" id="121000405" itemName="汐誓绮涟门" tips="汐誓绮涟主题家具" />
+<item type="4" id="123000538" itemName="汐誓绮涟椅子" tips="汐誓绮涟主题家具" />
+<item type="4" id="123000539" itemName="汐誓绮涟桌子" tips="汐誓绮涟主题家具" />
 <item type="5" id="100990988" itemName="知识兔子小屋" tips="农场装扮，不过期哦！" />
 <item type="5" id="101056524" itemName="夏日躺椅" tips="农场装扮，不过期哦！" />
 <item type="5" id="101122060" itemName="美味圣代杯" tips="农场装扮，不过期哦！" />
@@ -1374,6 +1385,13 @@
 <item type="7" id="34209854" itemName="异彩·暖阳茶谜法阵" tips="异彩·暖阳茶谜套装" />
 <item type="7" id="34013548" itemName="异彩·暖阳茶谜手持" tips="异彩·暖阳茶谜套装" />
 <item type="7" id="33882292" itemName="异彩·暖阳茶谜背饰" tips="异彩·暖阳茶谜套装" />
+<item type="7" id="67375032" itemName="汐誓绮涟套装" tips="汐誓绮涟套装" />
+<item type="7" id="33620441" itemName="汐誓绮涟头发" tips="汐誓绮涟套装" />
+<item type="7" id="33751503" itemName="汐誓绮涟衣服" tips="汐誓绮涟套装" />
+<item type="7" id="33817011" itemName="汐誓绮涟鞋子" tips="汐誓绮涟套装" />
+<item type="7" id="33882293" itemName="汐誓绮涟背饰" tips="汐誓绮涟套装" />
+<item type="7" id="33947828" itemName="汐誓绮涟手持" tips="汐誓绮涟套装" />
+<item type="7" id="34209855" itemName="汐誓绮涟法阵" tips="汐誓绮涟套装" />
 <item type="7" id="33620394" itemName="逐光同行粉帽子" tips="逐光同行粉色套装" />
 <item type="7" id="33751458" itemName="逐光同行粉外套" tips="逐光同行粉色套装" />
 <item type="7" id="33816968" itemName="逐光同行粉鞋子" tips="逐光同行粉色套装" />

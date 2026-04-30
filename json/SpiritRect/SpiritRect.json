@@ -7960,6 +7960,46 @@
       "scene": "130",
       "startTime": "2025-04-17",
       "endTime": "2025-06-05"
+    },
+    {
+      "id": "2420",
+      "name": "湮灭胸灵",
+      "lv": "LV.15～20",
+      "scene": "241",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "2438",
+      "name": "风暴肩灵",
+      "lv": "LV.15～20",
+      "scene": "240",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "2439",
+      "name": "虚空肩灵",
+      "lv": "LV.15～20",
+      "scene": "240",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "2440",
+      "name": "傲慢角灵",
+      "lv": "LV.15～20",
+      "scene": "244",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "2441",
+      "name": "鲁莽角灵",
+      "lv": "LV.15～20",
+      "scene": "245",
+      "startTime": "",
+      "endTime": ""
     }
   ]
 }
