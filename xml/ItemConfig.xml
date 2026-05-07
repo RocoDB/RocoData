@@ -20492,7 +20492,7 @@
  </Item>
   <Item>
     <ID>34340889</ID>
-    <Name>草之脚印</Name>
+    <Name>草系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20500,7 +20500,7 @@
  </Item>
   <Item>
     <ID>34340890</ID>
-    <Name>火之脚印</Name>
+    <Name>火系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20508,7 +20508,7 @@
  </Item>
   <Item>
     <ID>34340891</ID>
-    <Name>水之脚印</Name>
+    <Name>水系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20516,7 +20516,7 @@
  </Item>
   <Item>
     <ID>34340892</ID>
-    <Name>电之脚印</Name>
+    <Name>电系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20524,7 +20524,7 @@
  </Item>
   <Item>
     <ID>34340893</ID>
-    <Name>龙之脚印</Name>
+    <Name>龙系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20532,7 +20532,7 @@
  </Item>
   <Item>
     <ID>34340894</ID>
-    <Name>毒之脚印</Name>
+    <Name>毒系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20564,7 +20564,7 @@
  </Item>
   <Item>
     <ID>34340898</ID>
-    <Name>幽灵之脚印</Name>
+    <Name>幽灵系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20572,7 +20572,7 @@
  </Item>
   <Item>
     <ID>34340899</ID>
-    <Name>恶魔之脚印</Name>
+    <Name>恶魔系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20580,7 +20580,7 @@
  </Item>
   <Item>
     <ID>34340900</ID>
-    <Name>机械之脚印</Name>
+    <Name>机械系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20596,7 +20596,7 @@
  </Item>
   <Item>
     <ID>34340902</ID>
-    <Name>光之脚印</Name>
+    <Name>光系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20604,7 +20604,7 @@
  </Item>
   <Item>
     <ID>34340903</ID>
-    <Name>土之脚印</Name>
+    <Name>土系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20612,7 +20612,7 @@
  </Item>
   <Item>
     <ID>34340904</ID>
-    <Name>石之脚印</Name>
+    <Name>石系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20628,7 +20628,7 @@
  </Item>
   <Item>
     <ID>34340906</ID>
-    <Name>虫之脚印</Name>
+    <Name>虫系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20636,7 +20636,7 @@
  </Item>
   <Item>
     <ID>34340907</ID>
-    <Name>武之脚印</Name>
+    <Name>武系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20644,7 +20644,7 @@
  </Item>
   <Item>
     <ID>34340908</ID>
-    <Name>翼之脚印</Name>
+    <Name>翼系脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
@@ -20655,6 +20655,30 @@
     <Name>平步四方脚印</Name>
     <Price>0</Price>
     <Desc><![CDATA[梨园商汇主题脚印]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340910</ID>
+    <Name>冰系脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340911</ID>
+    <Name>萌系脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34340912</ID>
+    <Name>普通系脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -21087,6 +21111,14 @@
     <Name>龙隐青芽名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[百茶回甘主题名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406456</ID>
+    <Name>圣魔·炎驹名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第二十六届系别赛名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

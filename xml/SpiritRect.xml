@@ -1006,4 +1006,7 @@
 <spirit endTime="" id="2439" lv="LV.15～20" name="虚空肩灵" scene="240" startTime=""/>
 <spirit endTime="" id="2440" lv="LV.15～20" name="傲慢角灵" scene="244" startTime=""/>
 <spirit endTime="" id="2441" lv="LV.15～20" name="鲁莽角灵" scene="245" startTime=""/>
+<spirit endTime="" id="185" lv="LV.55～60" name="镰刀卡布" scene="513" startTime=""/>
+<spirit endTime="" id="188" lv="LV.55～60" name="十字蝌蚪" scene="513" startTime=""/>
+<spirit endTime="" id="1119" lv="LV.20～25" name="深海幽灵" scene="513" startTime=""/>
 </spiritRect>

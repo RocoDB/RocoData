@@ -8000,6 +8000,30 @@
       "scene": "245",
       "startTime": "",
       "endTime": ""
+    },
+    {
+      "id": "185",
+      "name": "镰刀卡布",
+      "lv": "LV.55～60",
+      "scene": "513",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "188",
+      "name": "十字蝌蚪",
+      "lv": "LV.55～60",
+      "scene": "513",
+      "startTime": "",
+      "endTime": ""
+    },
+    {
+      "id": "1119",
+      "name": "深海幽灵",
+      "lv": "LV.20～25",
+      "scene": "513",
+      "startTime": "",
+      "endTime": ""
     }
   ]
 }

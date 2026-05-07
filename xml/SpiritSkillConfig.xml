@@ -200,7 +200,7 @@
 <talentDes des="全局首次使用济寿散蚨时，赋予对手全体存活宠物各2层青蚨。持有青蚨的对手每次使用技能先手时均会获得1层青蚨。自身使用变化技能的回合受击时，无视对手正面强化。使用威力技能攻击持有4层青蚨的对手时，将其青蚨回收至1层并追加效果：获得护盾并回复自身全技能PP，据回收青蚨次数降低自身速度强化且永久提升物攻能力值。" id="121" name="鬻财"/>
 <talentDes des="主动使用技能时，据技能所处的奇偶位置分别获得1层阳或阴。阳大于阴则免疫负面强化；阴大于阳时提升精力回复效果。阴阳层数平衡时，消耗全部阴阳层数并据平衡的层数回复自身精力且依次追加：回复自身全技能PP并重置对手正面双攻强化，强化自身物攻并交换双方下回合技能先手值效果。" id="122" name="阴阳制化"/>
 <talentDes des="全局首次使用变化技能时，赋予对手全体存活宠物灵芽。持有灵芽的对手，使用技能时萌生灵露。据对手身上的灵露数提升精力回复效果。攻击时，若自身无灵能，则将对手身上的灵露转化为灵能，灵露数越少，转化的灵能越多。据灵能层数强化主动使用技能：威力技能提升先手值与威力，变化技能反弹后手威力伤害。使用强化技能4次后释放灵能，回复自身精力及PP。" id="123" name="灵芽"/>
-<talentDes des="" id="124" name="124"/>
+<talentDes des="每回合据对手存活队友数补充自身红玉能量，并据能量值回复自身精力；同时自身每次攻击时永久提升物攻能力值。每回合若双方使用的技能格子一致，则释放自身一半能量以回复自身该技能PP，并提升该技能造成的伤害。" id="124" name="伴生红玉"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -1644,7 +1644,7 @@
 <SpiritSkillDes attackType="2" damageType="1" description="快速的穿刺诅咒对手，会斩杀血量过低的对手，觉醒血脉天赋会提升斩杀血线。" id="1458" name="穿刺木桩" power="100" ppMax="20" property="16" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="清除对手的强化等级与PP值，觉醒血脉天赋会强化效果。" id="1459" name="涤罪业焰" power="--" ppMax="20" property="16" speed="11" src="4013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="立即净化自身、回复生命并获得异常免疫，觉醒血脉天赋会召唤暗黑城。" id="1460" name="护国魔王" power="--" ppMax="4" property="16" speed="15" src="6010_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="狐狸与马驹越来越默契，会提升自身的物攻或速度。" id="1461" name="人马一体" power="125" ppMax="20" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="提升自身物攻或速度强化。" id="1461" name="人马一体" power="125" ppMax="20" property="1" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="命中后会削弱对手的防御，并且根据对应已损失的生命值追加伤害。" id="1464" name="黄金冲击" power="120" ppMax="10" property="10" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="为受伤最重的队友恢复生命值与PP值，自身回复少量生命。" id="1465" name="比翼连理" power="--" ppMax="4" property="11" speed="9" src="6010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="高命中技能并消除对手PP值，对幽灵、恶魔属性对手效果拔群。" id="1466" name="驱邪咒缚" power="80" ppMax="10" property="14" speed="10" src="4010_.swf" superFormID="" superFormSrc=""/>
@@ -4042,7 +4042,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常并召唤阴雨天气均持续6回合，回合内主动使用变化技能时回复我方队友精力；使用威力技能时据上回合的变化技能先手值，获得额外增益效果。据自身携带的威力技能数降低所受威力伤害。自身阵亡时令下一位上场的队友获得精力回复提升效果，并净化其异常。" id="3850" name="月华眷顾" power="--" ppMax="7" property="3" speed="14" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="冰冻对手并删除其最近使用技能PP。回复自身精力并强化魔攻；若双方精力最高的队友的当前精力为我方大于对手，则额外追加固伤。自身先手则召唤阴雨天气3回合并倒置对手正面强化；否则据受到的伤害类型额外提升自身物防或魔防强化，若自身存在PP枯竭的变化技能，则消耗本技能PP以获得回PP效果。" id="3851" name="洛水鞭" power="105" ppMax="15" property="3" speed="9" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="回复自身枯竭技能PP。攻击时，消耗全部正面物攻强化并据此删除对手全技能PP且据消耗的强化等级依次对对手全体造成伤害并回复自身精力。若本次消耗的物攻强化等级不低于3级，则下次使用威力技能时额外返还部分物攻强化。" id="3845" name="超速回旋" power="120" ppMax="12" property="1" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="删除对手最近使用技能PP，若其存在免疫异常效果则提升技能威力值。回复我方队友精力，自身先手则额外回复全体宠物精力并清除芬芳环境以外的天气环境；否则自身获得护盾并追加固伤。" id="3852" name="沁凉甘霖" power="100" ppMax="11" property="5" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="对手存在免疫异常效果则提升技能威力值，并删除其最近使用技能PP。回复我方队友精力，自身先手则额外回复全体宠物精力并清除芬芳环境以外的天气环境；否则自身获得护盾并追加固伤" id="3852" name="沁凉甘霖" power="100" ppMax="11" property="5" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="青锋灵萃，晓翠含英。净化自身并回复精力且据对手当前精力追加固伤，免疫异常并召唤阴雨天气均持续6回合，回合内：抵御爆发性威力伤害并大幅降低受到的高额固伤；据自身灵能层数依次获得：提升抵御效果并回复我方全体宠物精力，免疫负面强化，使对手每次主动使用技能时额外消耗PP。" id="3846" name="云腴显露" power="--" ppMax="7" property="3" speed="14" src="7006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="明前初撷，谷雨添香。免疫异常1回合并使对手进入沉睡状态且删除其最近使用技能的PP。据自身灵能层数回复精力并追加草属性物理固伤。自身无灵能且对手身上存在灵露，则消耗其全部灵露后将其驱逐并回复自身其他技能PP，驱逐失败时额外删除其全技能PP（每次在场仅能触发1次）。出手未受伤时，若自身持有灵能，则提升本次灵能的强化技能次数并获得护盾。" id="3847" name="黛山拾翠" power="--" ppMax="10" property="5" speed="11" src="4014_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="青瓷玉泻，汤响松风。将自身低于1级的物攻强化置为1级并据自身灵能层数追加固伤且对手身上的强化会提升追加段数，自身有护盾时，消耗护盾并召唤阴雨天气且删除对手本回合使用技能PP。对手存在枯竭技能时，额外将其驱逐，驱逐失败时提升本次在场时造成的伤害（每次在场仅能触发1次）。先手时必中并提升造成的固伤；后手时降低双方回复精力效果。" id="3848" name="碧云引风" power="120" ppMax="12" property="3" speed="9" src="5012_.swf" superFormID="" superFormSrc=""/>
@@ -4060,11 +4060,11 @@
 <SpiritSkillDes attackType="2" damageType="2" description="强化自身1级魔攻并吸取对手本回合使用技能PP回复自身，免疫后手异常，免疫成功时赋予对手2层毒素。天气下据对手已损精力提升威力，环境下清除场上环境并额外发动1回合。额外回合：威力伤害失效，据对手已损精力追加固伤并重置其正面强化。" id="3864" name="飞缨破浪" power="120" ppMax="12" property="3" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="据对手身上毒素层数提升威力并吸取其精力回复自身，毒素已达6层时，额外降低其魔防能力值持续3回合，达到12层时，若其当前精力不超过20%其最大精力值，则将其斩杀。诅咒对手，若对手存在任意异常则提升本次威力伤害并回复飞缨破浪1PP。出手未受伤时额外使对手下只场上宠物进入中毒状态。对手本回合退场时，额外发动1回合。额外回合：据对手身上掉血异常数赋予其毒素。" id="3865" name="毒素渗透" power="90" ppMax="10" property="8" speed="10" src="4013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="净化自身负面，成功则回复自身精力并降低自身所受伤害持续3回合。对手无任意强化则追加固伤；否则强制重置所有强化，并据重置项触发威力翻倍效果、自身获得护盾和造成波及伤害。" id="3862" name="吐水弹" power="110" ppMax="9" property="3" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3874" name="YJ1" power="--" ppMax="5" property="2" speed="14" src="6008_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3875" name="YJ2" power="100" ppMax="10" property="2" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="1" description="空" id="3876" name="YJ3" power="100" ppMax="12" property="2" speed="10" src="4005_.swf" superFormID="" superFormSrc=""/>
-
-
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面并召唤暴晒天气均持续7回合，回合内降低自身所受伤害；对手连续使用同类型技能时额外删除最近使用技能PP；若次回合自身精力低于首回合则再后续回合持续造成波及伤害。" id="3874" name="余烬护甲" power="--" ppMax="5" property="2" speed="14" src="6008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="连续2回合发动技能，回合内降低自身所受克制伤害。首回合吸取对手队友精力以回复我方队友，并提升技能威力值；若造成抵抗伤害则令末回合额外追加固伤。" id="3875" name="烬灭蹄" power="100" ppMax="10" property="2" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="对手无异常时恐惧对手，被免疫则回复自身其他技能PP。对手为克制火属性的宠物则删除其PP。自身拥有红玉能量则必中，且攻击时将能量值视为降低对手物防；能量值到40点则回复自身精力；能量值到80点则造成必暴，并降低对手技能威力值持续3回合。" id="3876" name="流火突袭" power="100" ppMax="12" property="2" speed="10" src="4005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3877" name="TJ1" power="--" ppMax="6" property="8" speed="14" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3878" name="TJ2" power="110" ppMax="12" property="8" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 
 
 
