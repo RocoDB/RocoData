@@ -55867,6 +55867,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>67375034</ID>
+    <Name>巨型海螺贝壳</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[研磨之后可以灵活使用]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>1782403200</ExpireTime>
+ </Item>
+  <Item>
     <ID>83951618</ID>
     <Name>萌鸡小屋</Name>
     <Price>0</Price>
