@@ -201,6 +201,7 @@
 <talentDes des="主动使用技能时，据技能所处的奇偶位置分别获得1层阳或阴。阳大于阴则免疫负面强化；阴大于阳时提升精力回复效果。阴阳层数平衡时，消耗全部阴阳层数并据平衡的层数回复自身精力且依次追加：回复自身全技能PP并重置对手正面双攻强化，强化自身物攻并交换双方下回合技能先手值效果。" id="122" name="阴阳制化"/>
 <talentDes des="全局首次使用变化技能时，赋予对手全体存活宠物灵芽。持有灵芽的对手，使用技能时萌生灵露。据对手身上的灵露数提升精力回复效果。攻击时，若自身无灵能，则将对手身上的灵露转化为灵能，灵露数越少，转化的灵能越多。据灵能层数强化主动使用技能：威力技能提升先手值与威力，变化技能反弹后手威力伤害。使用强化技能4次后释放灵能，回复自身精力及PP。" id="123" name="灵芽"/>
 <talentDes des="每回合据对手存活队友数补充自身红玉能量，并据能量值回复自身精力；同时自身每次攻击时永久提升物攻能力值。每回合若双方使用的技能格子一致，则释放自身一半能量以回复自身该技能PP，并提升该技能造成的伤害。" id="124" name="伴生红玉"/>
+<talentDes des="" id="125" name="125"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -4056,7 +4057,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面并召唤暴晒天气均持续6回合，回合内自身使用技能属性与对手最近使用技能属性不一致则额外追加固伤；每回合马黛壶会偷取对手技能PP，若对手阵亡或下场则将马黛壶回收其回复自身技能PP；据对手是否有马黛壶触发提升或降低自身精力回复的被动效果。" id="3859" name="暖流环绕" power="--" ppMax="6" property="2" speed="14" src="6009_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="回复自身其他技能PP并提升魔攻强化。烧伤对手并造成固定伤害，暴晒天气下则使伤害显著；否则额外发动1回合。额外回合：令对手精力回退至上回合，若增加则1回合内回复精力效果无效并回复自身精力。" id="3860" name="绿焰冲击" power="--" ppMax="11" property="2" speed="10" src="4005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="赋予对手马黛壶，并回复自身精力。若自身存在正面魔攻则令魔攻等级降低至1级，并据降低差额外触发追加固伤；使本技能失去抵抗关系并造成必暴。" id="3861" name="壶炉涌动" power="120" ppMax="10" property="5" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤阴雨天气均持续6回合，回合内：每次受伤时，赋予对手1层毒素并使其进入中毒状态且对手无法净化其身上已存在的掉血异常，毒素达到12层时，使其回复精力效果失效；降低自身受到的伤害，若对手存在掉血异常则大幅提升降低效果。" id="3863" name="重溟掠影" power="--" ppMax="6" property="3" speed="15" src="6020_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤阴雨天气均持续6回合，回合内：每次受伤时，赋予对手1层毒素并使其进入中毒状态，对手无法净化其身上已存在的掉血异常且受到的掉血异常伤害提升，毒素达到12层时，使其回复精力效果失效；降低自身受到的伤害，若对手存在掉血异常则大幅提升降低效果。" id="3863" name="重溟掠影" power="--" ppMax="6" property="3" speed="15" src="6020_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="强化自身1级魔攻并吸取对手本回合使用技能PP回复自身，免疫后手异常，免疫成功时赋予对手2层毒素。天气下据对手已损精力提升威力，环境下清除场上环境并额外发动1回合。额外回合：威力伤害失效，据对手已损精力追加固伤并重置其正面强化。" id="3864" name="飞缨破浪" power="120" ppMax="12" property="3" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="据对手身上毒素层数提升威力并吸取其精力回复自身，毒素已达6层时，额外降低其魔防能力值持续3回合，达到12层时，若其当前精力不超过20%其最大精力值，则将其斩杀。诅咒对手，若对手存在任意异常则提升本次威力伤害并回复其他技能1PP。出手未受伤时额外使对手下只场上宠物进入中毒状态。对手本回合退场时，额外发动1回合并强化自身1级速度。额外回合：据对手身上掉血异常数赋予其毒素。" id="3865" name="毒素渗透" power="90" ppMax="10" property="8" speed="10" src="4013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="净化自身负面，成功则回复自身精力并降低自身所受伤害持续3回合。对手无任意强化则追加固伤；否则强制重置所有强化，并据重置项触发威力翻倍效果、自身获得护盾和造成波及伤害。" id="3862" name="吐水弹" power="110" ppMax="9" property="3" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
@@ -4066,6 +4067,18 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常与负面并召唤瘴气环境均持续6回合，回合内自身受到首次暴击则缩入巨堡中躲避非必中伤害，若仍被命中则反弹对手伤害；自身受到魔法伤害，则提升主动使用技能的威力值。" id="3877" name="螺壳坚壁" power="--" ppMax="6" property="8" speed="14" src="6006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="对手存在异常则追加固伤，否则回复自身其他技能PP。对手先手使用与上回合相同的技能则删除其该技能PP，若为同类型技能则额外提升自身物攻；反之技能类型不一致则吸取对手队友精力以回复自身。瘴气环境下必中。" id="3878" name="横行霸钳" power="110" ppMax="12" property="8" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="重置对手负面强化，重置成功则降低其造成的威力伤害持续3回合。出手前受到威力伤害时，令自身下次威力技能据受到的威力伤害追加固伤。自身精力低于一半时，消耗部分精力并赋予对手2层水溪标记；否则据对手身上水溪标记数删除其全技能PP。自身精力值为1时，交换双方当前精力并提升下次威力技能先手值。" id="3886" name="寒芒星点" power="110" ppMax="10" property="3" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，若存在阵亡队友则回复效果显著。免疫异常与负面并召唤化境环境均持续7回合，回合内自身据受伤次数减免每一段伤害。若我方队友均阵亡则使用本技能后，自身永久免疫异常与负面，同时消耗本技能PP以回复自身其他技能PP；回合内额外免疫概率暴击。本技能免疫删PP。" id="3887" name="铁壁甲胄" power="--" ppMax="3" property="7" speed="15" src="6002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="提升自身物攻并回复自身精力。恐惧对手，若自身有空PP技能则追加固伤。我方存在精力未满队友则造成波及伤害；我方存在阵亡队友则额外提升物攻等级，若队友均阵亡则回复铁壁甲胄PP。" id="3888" name="热辣拳锋" power="100" ppMax="9" property="7" speed="10" src="5009_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="回复自身其他技能PP，同时强制重置自身物攻强化并造成对手全体伤害；重置失败则提升自身物攻并删除对手PP。召唤阴雨天气4回合，成功则回合内自身使用威力技能则提升威力值；若为变化技能则额外回复自身精力并造成波及伤害。" id="3889" name="怒涛连打" power="90" ppMax="12" property="3" speed="8" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3890" name="AA1" power="--" ppMax="6" property="11" speed="14" src="6011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="空" id="3891" name="AA2" power="--" ppMax="8" property="17" speed="11" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3892" name="AA3" power="120" ppMax="10" property="11" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空" id="3893" name="AA4" power="100" ppMax="12" property="17" speed="10" src="4019_.swf" superFormID="" superFormSrc=""/>
+
+
+
+
+
 
 
 
