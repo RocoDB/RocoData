@@ -9,7 +9,7 @@
 <title id="7" tips="HP药剂使用个数达到$total$" type="2">  <level id="1" label="起死回生" total="1000"/>    </title>
 <title id="8" tips="打败比自己参战宠物高10级的宠物的次数达到$total$" type="2">  <level id="1" label="越战越勇" total="100"/>    </title>
 <title id="9" tips="战斗中逃跑次数达到$total$" type="2">  <level id="1" label="丢盔卸甲" total="1000"/>    </title>
-<title id="10" tips="打败好友农场驻守宠物次数达到$total$" type="3">  <level id="1" label="独步天下" total="1000"/>    </title>
+<title id="10" tips="在家园切磋中打败Lv.90圣光迪莫次数达到$total$" type="3">  <level id="1" label="独步天下" total="500"/>    </title>
 <title id="11" tips="打败好友家园离线锻炼宠物次数达到$total$" type="3">  <level id="1" label="职业陪练" total="1000"/>    </title>
 <title id="12" tips="打败罗兰" type="4">  <level id="1" label="草系徽章" total="1"/>    </title>
 <title id="13" tips="打败乐乐" type="4">  <level id="1" label="水系徽章" total="1"/>    </title>

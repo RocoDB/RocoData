@@ -4076,8 +4076,17 @@
 <SpiritSkillDes attackType="2" damageType="1" description="据自身持有的零落层数提升威力，狂暴状态下额外召唤乐园环境3回合。降低对手物防强化，对手持有的双攻强化之和不低于2级时，重置其全部正面强化并额外降低其1级物防强化。自身速度能力值不低于对手时，删除对手本回合技能PP并回复自身精力；否则据速度能力值额外提升双防能力值持续2回合。" id="3892" name="嬉戏零落" power="120" ppMax="12" property="11" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="先手时，删除对手全技能PP；后手时，据自身速度能力值提升威力。回复自身其他技能1PP并记录对手本回合使用技能类型，下回合若对手使用技能类型与记录的不一致，则强化自身1级物攻并额外发动本技能1回合。额外回合：据自身零落层数追加固伤。" id="3893" name="空铃守誓" power="100" ppMax="12" property="17" speed="10" src="4019_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常并召唤乐园环境6回合，回合内降低所受威力伤害，且使用变化技能时降低所受固伤；退场后赋予上场的队友护盾并令队友使用技能时为其奉献精力。" id="3901" name="柴华横溢" power="--" ppMax="6" property="11" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="3" description="清除双方护盾，清除任一方护盾成功则获得1回合闪避。自身精力低于对手时交换双方精力并为对手附加混乱效果，召唤梦境环境4回合且成功则降低自身2级速度；反之删除对手PP，并吸取对手全体精力以回复我方且下次使用威力技能额外追加固伤。" id="3902" name="柴影奶光" power="--" ppMax="10" property="11" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="迷惑对手并删除其本回合技能PP，若受到固伤时令删PP效果显著。回复自身变化技能PP并提升物攻等级，根据自身当前精力与萌属性队友提升威力并据自身已损精力吸取对手精力。本回合任一方提升强化时锁定对手强化1回合。任意环境下必中并降低自身1级速度。" id="3903" name="奶汪拳" power="120" ppMax="12" property="11" speed="8" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="清除双方护盾，清除任一方护盾成功则获得1回合闪避。造成物理固伤。自身精力低于对手时回复自身精力为对手附加混乱效果，召唤梦境环境4回合且成功则降低自身2级速度。自身精力不低于对手或召唤梦境失败时，删除对手全技能PP，吸取对手队友精力以回复我方队友且下次使用威力技能额外追加固伤。" id="3902" name="柴影奶光" power="--" ppMax="10" property="11" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="迷惑对手并删除其本回合技能PP，若受到固伤时令删PP效果显著。回复自身变化技能PP并提升物攻等级，根据自身当前精力与萌属性队友提升威力并据自身已损精力吸取对手精力。造成伤害前任一方提升强化时锁定对手强化1回合。任意环境下必中并降低自身1级速度。" id="3903" name="奶汪拳" power="120" ppMax="12" property="11" speed="8" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3907" name="D1" power="80" ppMax="8" property="16" speed="12" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="3908" name="D2" power="120" ppMax="11" property="16" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3909" name="D3" power="--" ppMax="10" property="1" speed="11" src="4033_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3904" name="AA" power="--" ppMax="6" property="16" speed="14" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3905" name="AA1" power="--" ppMax="10" property="16" speed="10" src="7010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3906" name="AA2" power="120" ppMax="10" property="16" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
+
+
+
 
 
   </SpiritSkillConfig>
