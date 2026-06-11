@@ -2,9 +2,9 @@
   <SceneDes bgMusic="new_67.swf|amb_7.swf" id="899" name="小游戏测试场景" sceneVer="1" top="899" ver="1.000"/>
   <SceneDes bgMusic="new_24.swf|amb_2.swf" id="10000" name="家园" sceneVer="1" top="389" ver="1.5051"/>
   <SceneDes allowData="true" bgMusic="new_00.swf|amb_3.swf" id="10001" name="轻风山" sceneVer="1" top="13" ver="2.50460"/>
-  <SceneDes allowData="true" bgMusic="new_01.swf|amb_3.swf" id="10004" name="轻风山" sceneVer="1" top="13" ver="2.50460"/>
+  
   <SceneDes allowData="true" bgMusic="new_00.swf|amb_3.swf" id="10006" name="轻风山" sceneVer="1" top="13" ver="2.50460"/>
-  <SceneDes allowData="true" bgMusic="new_01.swf|amb_3.swf" id="10005" name="勇者历练" sceneVer="1" top="13" ver="2.50460"/>
+  
   <SceneDes allowData="true" bgMusic="new_00.swf|amb_3.swf" id="10002" name="魔法学院" sceneVer="1" top="13" ver="2.50460"/>
   <SceneDes bgMusic="new_40.swf|amb_8.swf" id="10003" name="蜘蛛女皇营地" sceneVer="1" top="13" ver="1.00000"/>
   <SceneDes bgMusic="new_109.swf" id="10009" name="乐园" sceneVer="1" top="389" ver="1.00000"/>

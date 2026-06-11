@@ -9,6 +9,7 @@
       "type": "1",
       "dur": "0",
       "actionType": "",
+      "app": "",
       "description": "使用后可以在水下呼吸"
     },
     {
@@ -19,6 +20,7 @@
       "type": "1",
       "dur": "0",
       "actionType": "",
+      "app": "",
       "description": "vip5专用魔法扫帚飞行术"
     },
     {
@@ -29,6 +31,7 @@
       "type": "3",
       "dur": "10",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成液化水滴"
     },
     {
@@ -39,6 +42,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个星星"
     },
     {
@@ -49,6 +53,7 @@
       "type": "5",
       "dur": "0",
       "actionType": "2",
+      "app": "AlchemyApp",
       "description": "该魔法能将物质转化为另一种物质"
     },
     {
@@ -59,6 +64,7 @@
       "type": "2",
       "dur": "0",
       "actionType": "",
+      "app": "",
       "description": "你拥有空中飞行的能力"
     },
     {
@@ -69,6 +75,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成金人"
     },
     {
@@ -79,6 +86,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成透明人"
     },
     {
@@ -89,6 +97,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "剧情任务使用的黑衣人变形魔法"
     },
     {
@@ -99,6 +108,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "让自己进入魔法反弹状态"
     },
     {
@@ -109,6 +119,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成一个草莓"
     },
     {
@@ -119,6 +130,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成一个冠军戒指"
     },
     {
@@ -129,6 +141,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成一个圣诞树"
     },
     {
@@ -139,6 +152,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成电池"
     },
     {
@@ -149,6 +163,7 @@
       "type": "3",
       "dur": "10",
       "actionType": "4",
+      "app": "",
       "description": "变成笨nana"
     },
     {
@@ -159,6 +174,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用变成蓝钻"
     },
     {
@@ -169,6 +185,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成红衣洛克"
     },
     {
@@ -179,6 +196,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成绿衣洛克"
     },
     {
@@ -189,6 +207,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用变成龙舟"
     },
     {
@@ -199,6 +218,7 @@
       "type": "3",
       "dur": "10",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成一个粽子"
     },
     {
@@ -209,6 +229,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成达尔多"
     },
     {
@@ -219,6 +240,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成淘特斯"
     },
     {
@@ -229,6 +251,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成坨坨"
     },
     {
@@ -239,6 +262,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成坨坨"
     },
     {
@@ -249,6 +273,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成淘特斯"
     },
     {
@@ -259,6 +284,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成达尔多"
     },
     {
@@ -269,6 +295,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用后变身为妖将"
     },
     {
@@ -279,6 +306,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成送蛋糕"
     },
     {
@@ -289,6 +317,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成送鸡腿"
     },
     {
@@ -299,6 +328,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成送饮料"
     },
     {
@@ -309,6 +339,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用后变身为送汉堡"
     },
     {
@@ -319,6 +350,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用后变身为黄噜噜"
     },
     {
@@ -329,6 +361,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用后变身为推土机"
     },
     {
@@ -339,6 +372,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个闪电"
     },
     {
@@ -349,6 +383,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个烈焰"
     },
     {
@@ -359,6 +394,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "使用后变身为黑衣人"
     },
     {
@@ -369,6 +405,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成黑煤球"
     },
     {
@@ -379,6 +416,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成香蕉迷彩洛克"
     },
     {
@@ -389,6 +427,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成葡萄迷彩洛克"
     },
     {
@@ -399,6 +438,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成番茄迷彩洛克"
     },
     {
@@ -409,6 +449,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成伢牙乐"
     },
     {
@@ -419,6 +460,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成热舞"
     },
     {
@@ -429,6 +471,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成提水状态"
     },
     {
@@ -439,6 +482,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成彩虹"
     },
     {
@@ -449,6 +493,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成提水状态"
     },
     {
@@ -459,6 +504,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成粉钻"
     },
     {
@@ -469,6 +515,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成萤火虫"
     },
     {
@@ -479,6 +526,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成彩笛卷"
     },
     {
@@ -489,6 +537,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成孔雀"
     },
     {
@@ -499,6 +548,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成蛋蛋"
     },
     {
@@ -509,6 +559,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成火魔"
     },
     {
@@ -519,6 +570,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成礼物蛋"
     },
     {
@@ -529,6 +581,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标从礼物蛋还原"
     },
     {
@@ -539,6 +592,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成冰箱狮"
     },
     {
@@ -549,6 +603,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成赤炎耀甲"
     },
     {
@@ -559,6 +614,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成生日蛋糕"
     },
     {
@@ -569,6 +625,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成电影票"
     },
     {
@@ -579,6 +636,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成热带水果"
     },
     {
@@ -589,6 +647,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成和平鸽"
     },
     {
@@ -599,6 +658,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成伢牙乐"
     },
     {
@@ -609,6 +669,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成全民助力"
     },
     {
@@ -619,6 +680,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成鬼王"
     },
     {
@@ -629,6 +691,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个剪纸"
     },
     {
@@ -639,6 +702,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个红包"
     },
     {
@@ -649,6 +713,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出比巴卜"
     },
     {
@@ -659,6 +724,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变招募令"
     },
     {
@@ -669,6 +735,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成元宵"
     },
     {
@@ -679,6 +746,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成恶魔叮"
     },
     {
@@ -689,6 +757,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成迪莫"
     },
     {
@@ -699,6 +768,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成星辰塔"
     },
     {
@@ -709,6 +779,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "变身热血运动会吉祥物"
     },
     {
@@ -719,6 +790,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "赠送一朵魔法玫瑰花"
     },
     {
@@ -729,6 +801,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将玩家变成感恩节的恶魔叮"
     },
     {
@@ -739,6 +812,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个爆竹"
     },
     {
@@ -749,6 +823,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个枫雪星耀"
     },
     {
@@ -759,6 +834,7 @@
       "type": "4",
       "dur": "",
       "actionType": "6291456",
+      "app": "",
       "description": "使用后召唤出一个星云铃铛"
     },
     {
@@ -769,6 +845,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成南瓜"
     },
     {
@@ -779,6 +856,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成福灯"
     },
     {
@@ -789,6 +867,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成耀龙"
     },
     {
@@ -799,6 +878,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "将目标变成维克"
     },
     {
@@ -809,6 +889,7 @@
       "type": "3",
       "dur": "",
       "actionType": "4",
+      "app": "",
       "description": "可以将目标变成带来财运的小马驹，一起发财吧！"
     }
   ]

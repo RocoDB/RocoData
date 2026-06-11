@@ -30,30 +30,12 @@
       "allowData": "true"
     },
     {
-      "id": "10004",
-      "name": "轻风山",
-      "sceneVer": "1",
-      "top": "13",
-      "ver": "2.50460",
-      "bgMusic": "new_01.swf|amb_3.swf",
-      "allowData": "true"
-    },
-    {
       "id": "10006",
       "name": "轻风山",
       "sceneVer": "1",
       "top": "13",
       "ver": "2.50460",
       "bgMusic": "new_00.swf|amb_3.swf",
-      "allowData": "true"
-    },
-    {
-      "id": "10005",
-      "name": "勇者历练",
-      "sceneVer": "1",
-      "top": "13",
-      "ver": "2.50460",
-      "bgMusic": "new_01.swf|amb_3.swf",
       "allowData": "true"
     },
     {

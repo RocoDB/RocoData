@@ -203,6 +203,7 @@
 <talentDes des="每回合据对手存活队友数补充自身红玉能量，并据能量值回复自身精力；同时自身每次攻击时永久提升物攻能力值。每回合若双方使用的技能格子一致，则释放自身一半能量以回复自身该技能PP，并提升该技能造成的伤害。" id="124" name="伴生红玉"/>
 <talentDes des="自身在场时，对手退场或使用的技能属性克制自身属性或主动获得任意双攻强化时，自身获得1层零落。使用技能时，据零落层数回复自身精力。自身被驱逐或场下队友被波及时，永久进入狂暴状态，狂暴状态下主动造成的威力伤害提升，受击时若零落层数不低于2层则无视对手正面双攻强化。" id="125" name="守誓者"/>
 <talentDes des="每次上场时据自身已损精力获得护盾，若上场时精力＜50%则免疫异常1回合。" id="126" name="屏障"/>
+<talentDes des="127" id="127" name="127"/>
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2172" name="r2ls" power="--" ppMax="1" property="13" speed="12" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -4075,15 +4076,22 @@
 <SpiritSkillDes attackType="2" damageType="3" description="恐惧对手并删除其最近使用技能PP且据自身速度能力值追加固伤，自身精力不超过一半时，额外据已损精力回复自身。下回合，场上先手出招的一方会额外获得1级双攻强化。乐园环境下自身获得闪避1回合；否则提升自身下次威力技能先手值。" id="3891" name="褪色笑颜" power="--" ppMax="8" property="17" speed="11" src="5002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="据自身持有的零落层数提升威力，狂暴状态下额外召唤乐园环境3回合。降低对手物防强化，对手持有的双攻强化之和不低于2级时，重置其全部正面强化并额外降低其1级物防强化。自身速度能力值不低于对手时，删除对手本回合技能PP并回复自身精力；否则据速度能力值额外提升双防能力值持续2回合。" id="3892" name="嬉戏零落" power="120" ppMax="12" property="11" speed="9" src="5013_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="1" description="先手时，删除对手全技能PP；后手时，据自身速度能力值提升威力。回复自身其他技能1PP并记录对手本回合使用技能类型，下回合若对手使用技能类型与记录的不一致，则强化自身1级物攻并额外发动本技能1回合。额外回合：据自身零落层数追加固伤。" id="3893" name="空铃守誓" power="100" ppMax="12" property="17" speed="10" src="4019_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常并召唤乐园环境6回合，回合内降低所受威力伤害，且使用变化技能时降低所受固伤；退场后赋予上场的队友护盾并令队友使用技能时为其奉献精力。" id="3901" name="柴华横溢" power="--" ppMax="6" property="11" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力。免疫异常并召唤乐园环境6回合，回合内降低所受威力伤害，且使用变化技能时降低所受固伤；退场后赋予上场的队友护盾令队友使用威力技能时为其奉献精力。" id="3901" name="柴华横溢" power="--" ppMax="6" property="11" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="清除双方护盾，清除任一方护盾成功则获得1回合闪避。造成物理固伤。自身精力低于对手时回复自身精力为对手附加混乱效果，召唤梦境环境4回合且成功则降低自身2级速度。自身精力不低于对手或召唤梦境失败时，删除对手全技能PP，吸取对手队友精力以回复我方队友且下次使用威力技能额外追加固伤。" id="3902" name="柴影奶光" power="--" ppMax="10" property="11" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="迷惑对手并删除其本回合技能PP，若受到固伤时令删PP效果显著。回复自身变化技能PP并提升物攻等级，根据自身当前精力与萌属性队友提升威力并据自身已损精力吸取对手精力。造成伤害前任一方提升强化时锁定对手强化1回合。任意环境下必中并降低自身1级速度。" id="3903" name="奶汪拳" power="120" ppMax="12" property="11" speed="8" src="5019_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3907" name="D1" power="80" ppMax="8" property="16" speed="12" src="7003_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空" id="3908" name="D2" power="120" ppMax="11" property="16" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空" id="3909" name="D3" power="--" ppMax="10" property="1" speed="11" src="4033_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3904" name="AA" power="--" ppMax="6" property="16" speed="14" src="6006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="3" description="空。" id="3905" name="AA1" power="--" ppMax="10" property="16" speed="10" src="7010_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="1" description="空。" id="3906" name="AA2" power="120" ppMax="10" property="16" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="迷惑对手并删除其本回合技能PP，若受到固伤时令删PP效果显著。回复自身变化技能PP并提升物攻等级，根据自身当前精力与萌属性队友提升威力；若自身精力＜50%时吸取对手精力。造成伤害前任一方提升强化时锁定对手强化1回合。任意环境下必中并降低自身1级速度。" id="3903" name="奶汪拳" power="120" ppMax="12" property="11" speed="8" src="5019_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="锁定对手且成功时提升自身闪避，对手阵亡时锁定新目标。净化自身并回复精力，免疫异常与减疗效果并召唤血月天气均持续6回合，回合内：抵御爆发性伤害，成功抵御时获得1点饱食度；阵亡时据饱食度回复队友精力。被动：使用技能后若精力为满则获得2点饱食度；据饱食度提升精力回复效果；使用吞月之力则额外清除天气且成功时提升威力值。" id="3907" name="贪吃本性" power="80" ppMax="8" property="16" speed="12" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="据饱食度提升威力值，将自身＜1的物攻置为1级。恐惧对手并召唤血月天气4回合，吸取对手本回合技能PP以回复其他技能PP。若对手已被锁定则必中且提升PP删除量，否则吸取场下被锁定对手的精力回复自身。若对手本回合使用威力技能则追加固伤。" id="3908" name="巨口龙卷" power="120" ppMax="11" property="16" speed="10" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="回复自身精力并免疫异常1回合。造成物理与魔法固伤，自身精力＞70%时删除对手全技能PP。自身先手时反转后手受到的负面强化效果，成功则额外回复精力并提升魔攻等级。若对手本回合使用变化技能则永久额外发动2回合，额外回合：对手精力较低时发起斩杀。" id="3909" name="打嗝震" power="--" ppMax="10" property="1" speed="11" src="4033_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤血月天气均持续6回合，回合内：减低所受每段伤害；主动使用非专属技能时，打开全部宝箱，打开宝箱后有概率获得：回复自身PP，强化自身物攻，获得护盾，提升技能威力且必定暴击效果，打开的宝箱越多效果越好。" id="3904" name="惊喜加倍" power="--" ppMax="6" property="16" speed="14" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="连续发动技能3回合。首回合获得一个宝箱并据宝箱数删除对手最近使用技能PP且每回合据宝箱数追加固伤；后续回合：双方使用技能类型一致时，额外获得一个宝箱。" id="3905" name="奇屋寻宝" power="--" ppMax="10" property="16" speed="10" src="7010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="自身有枯竭技能或精力不超过一半或对手有物防强化时，均会消耗一个宝箱并触发：回复枯竭技能或获得护盾或倒置对手物防强化效果。据自身已有的宝箱数召唤血月天气并据护盾值追加固伤，血月天气不低于6回合时，额外删除对手全技能PP。" id="3906" name="弃宝护体" power="120" ppMax="10" property="16" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3894" name="MI1" power="110" ppMax="12" property="14" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3895" name="MI2" power="--" ppMax="6" property="14" speed="14" src="6004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3910" name="CC1" power="--" ppMax="6" property="1" speed="15" src="6006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="3911" name="CC2" power="--" ppMax="10" property="1" speed="11" src="7010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3912" name="CC3" power="100" ppMax="12" property="1" speed="11" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="空" id="3913" name="CC4" power="110" ppMax="12" property="1" speed="10" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="空" id="3914" name="CC5" power="120" ppMax="12" property="1" speed="9" src="5014_.swf" superFormID="" superFormSrc=""/>
 
 
 
