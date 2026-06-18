@@ -891,6 +891,17 @@
       "actionType": "4",
       "app": "",
       "description": "可以将目标变成带来财运的小马驹，一起发财吧！"
+    },
+    {
+      "id": "901",
+      "name": "黑旋风恩佐变形魔法",
+      "itemID": "50397303",
+      "target": "1",
+      "type": "3",
+      "dur": "",
+      "actionType": "4",
+      "app": "",
+      "description": "可以将目标变成“黑旋风”恩佐的形象！"
     }
   ]
 }

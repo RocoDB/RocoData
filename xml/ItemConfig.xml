@@ -5761,6 +5761,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620443</ID>
+    <Name>恩佐回忆头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐回忆套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9729,6 +9737,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751505</ID>
+    <Name>恩佐回忆衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐回忆套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -13202,6 +13218,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817013</ID>
+    <Name>恩佐回忆鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐回忆套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -16038,6 +16062,14 @@
     <Name>汐誓绮涟手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[汐誓绮涟套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947829</ID>
+    <Name>恩佐回忆小青蛙</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐回忆套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18927,6 +18959,14 @@
     <Name>叮叮咚咚手持</Name>
     <Price>0</Price>
     <Desc><![CDATA[叮叮咚咚套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013550</ID>
+    <Name>恩佐回忆魔法书</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐回忆套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -21968,7 +22008,7 @@
     <Price>0</Price>
     <Desc><![CDATA[可以把洛克变成冰箱狮]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1752336000</ExpireTime>
+    <ExpireTime>1785427200</ExpireTime>
  </Item>
   <Item>
     <ID>50397274</ID>
@@ -22199,6 +22239,14 @@
     <Name>马上发财变形魔法</Name>
     <Price>0</Price>
     <Desc><![CDATA[可以将目标变成带来财运的小马驹，一起发财吧！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>50397303</ID>
+    <Name>黑旋风恩佐变形魔法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[可以将目标变成“黑旋风”恩佐的形象！]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -55937,6 +55985,30 @@
     <Desc><![CDATA[研磨之后可以灵活使用]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>1782403200</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375035</ID>
+    <Name>光雪莉套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[光雪莉套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375036</ID>
+    <Name>恩佐套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>67375037</ID>
+    <Name>恩佐回忆套装</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[恩佐回忆套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
     <ID>83951618</ID>
