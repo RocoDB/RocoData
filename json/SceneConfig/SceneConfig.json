@@ -89,7 +89,7 @@
       "sceneVer": "2",
       "top": "1",
       "ver": "4.60320",
-      "bgMusic": "new_03.swf|amb_2.swf",
+      "bgMusic": "new_95.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -224,7 +224,7 @@
       "sceneVer": "2",
       "top": "13",
       "ver": "5.60450",
-      "bgMusic": "new_08.swf",
+      "bgMusic": "new_95.swf",
       "allowData": "false"
     },
     {
@@ -296,7 +296,7 @@
       "sceneVer": "2",
       "top": "22",
       "ver": "2.60170",
-      "bgMusic": "new_03.swf|amb_2.swf",
+      "bgMusic": "new_95.swf|amb_2.swf",
       "allowData": ""
     },
     {
@@ -5526,6 +5526,15 @@
       "top": "8",
       "ver": "1.000",
       "bgMusic": "new_09.swf",
+      "allowData": ""
+    },
+    {
+      "id": "515",
+      "name": "奥兹小镇",
+      "sceneVer": "1",
+      "top": "26",
+      "ver": "1.000",
+      "bgMusic": "new_138.swf",
       "allowData": ""
     },
     {

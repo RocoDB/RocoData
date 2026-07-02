@@ -433,6 +433,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>17039378</ID>
+    <Name>童话球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[十六周年庆异响童话主题纪念用球，送给每一个小洛克，希望大家喜欢！]]></Desc>
+    <Unique>0</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>17170434</ID>
     <Name>测试经验药丸</Name>
     <Price>0</Price>
@@ -5769,6 +5777,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620444</ID>
+    <Name>绿野花仙头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[绿野花仙套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620445</ID>
+    <Name>翎语疯帽头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[翎语疯帽套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9745,6 +9769,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751506</ID>
+    <Name>绿野花仙衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[绿野花仙套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751507</ID>
+    <Name>翎语疯帽衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[翎语疯帽套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -13226,6 +13266,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817014</ID>
+    <Name>绿野花仙鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[绿野花仙套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33817015</ID>
+    <Name>翎语疯帽鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[翎语疯帽套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14662,6 +14718,22 @@
     <Name>叮叮咚咚背饰</Name>
     <Price>0</Price>
     <Desc><![CDATA[叮叮咚咚套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882295</ID>
+    <Name>绿野花仙翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[绿野花仙套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882296</ID>
+    <Name>翎语疯帽背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[翎语疯帽套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -18971,6 +19043,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013551</ID>
+    <Name>绿野花仙铃兰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[绿野花仙套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013552</ID>
+    <Name>翎语疯帽羽毛</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[翎语疯帽套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -19671,6 +19759,22 @@
     <Name>至臻·叮叮咚咚法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[至臻·叮叮咚咚法阵]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209858</ID>
+    <Name>绿野花仙阵法</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[绿野花仙套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209859</ID>
+    <Name>翎语疯帽法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[翎语疯帽套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -20787,6 +20891,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340913</ID>
+    <Name>16周年主题脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[16周年主题系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -21223,6 +21335,14 @@
     <Name>圣魔·炎驹名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第二十六届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406457</ID>
+    <Name>16周年主题名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[16周年主题系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -58427,6 +58547,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>100925473</ID>
+    <Name>异响童话稻草人</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[异响童话农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>100990978</ID>
     <Name>农场小屋</Name>
     <Price>0</Price>
@@ -58727,6 +58855,14 @@
     <Name>梨园商汇农场小屋</Name>
     <Price>0</Price>
     <Desc><![CDATA[梨园商汇农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>100991016</ID>
+    <Name>异响童话农场小屋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[异响童话农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -59035,6 +59171,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101056552</ID>
+    <Name>异响童话遮阳伞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[异响童话农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101122050</ID>
     <Name>普通稻草堆</Name>
     <Price>0</Price>
@@ -59339,6 +59483,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101122088</ID>
+    <Name>异响童话玩偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[异响童话农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101187586</ID>
     <Name>农场告示牌</Name>
     <Price>0</Price>
@@ -59639,6 +59791,14 @@
     <Name>梨园商汇告示牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[梨园商汇农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>101187624</ID>
+    <Name>异响童话告示牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[异响童话农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -60007,6 +60167,14 @@
     <Name>小财神魔法装扮</Name>
     <Price>0</Price>
     <Desc><![CDATA[梨园商汇主题装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>151715878</ID>
+    <Name>纪念品·魔王魔法装扮</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[纪念品·魔王魔法装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
