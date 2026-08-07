@@ -5532,7 +5532,7 @@
       "id": "515",
       "name": "奥兹小镇",
       "sceneVer": "1",
-      "top": "26",
+      "top": "515",
       "ver": "1.000",
       "bgMusic": "new_138.swf",
       "allowData": ""
@@ -5541,7 +5541,7 @@
       "id": "516",
       "name": "洛尔庭园",
       "sceneVer": "1",
-      "top": "26",
+      "top": "515",
       "ver": "1.000",
       "bgMusic": "new_139.swf",
       "allowData": ""
@@ -5550,9 +5550,18 @@
       "id": "517",
       "name": "浮空岛",
       "sceneVer": "1",
-      "top": "26",
+      "top": "515",
       "ver": "1.000",
       "bgMusic": "new_50.swf",
+      "allowData": ""
+    },
+    {
+      "id": "518",
+      "name": "星空书房",
+      "sceneVer": "1",
+      "top": "515",
+      "ver": "1.000",
+      "bgMusic": "new_140.swf",
       "allowData": ""
     },
     {
