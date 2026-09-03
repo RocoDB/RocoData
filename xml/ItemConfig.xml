@@ -5802,9 +5802,9 @@
  </Item>
   <Item>
     <ID>33620447</ID>
-    <Name>变橙</Name>
+    <Name>帕恰狗·头发</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -9818,9 +9818,9 @@
  </Item>
   <Item>
     <ID>33751509</ID>
-    <Name>变橙衣服</Name>
+    <Name>帕恰狗·衣服</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -13339,9 +13339,9 @@
  </Item>
   <Item>
     <ID>33817017</ID>
-    <Name>变橙鞋子</Name>
+    <Name>帕恰狗·鞋子</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -14819,9 +14819,9 @@
  </Item>
   <Item>
     <ID>33882298</ID>
-    <Name>变橙背饰</Name>
+    <Name>帕恰狗·背饰</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -16251,9 +16251,9 @@
  </Item>
   <Item>
     <ID>33947831</ID>
-    <Name>变橙拎包</Name>
+    <Name>帕恰狗·拎包</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19188,9 +19188,9 @@
  </Item>
   <Item>
     <ID>34013554</ID>
-    <Name>变橙橙汁</Name>
+    <Name>帕恰狗·橙汁</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19932,9 +19932,9 @@
  </Item>
   <Item>
     <ID>34209861</ID>
-    <Name>变橙法阵</Name>
+    <Name>帕恰狗·法阵</Name>
     <Price>0</Price>
-    <Desc><![CDATA[变橙套装]]></Desc>
+    <Desc><![CDATA[帕恰狗套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -21557,6 +21557,14 @@
   <Item>
     <ID>34406460</ID>
     <Name>幸运小花丸·名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[三丽鸥系列名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406461</ID>
+    <Name>帕恰狗·名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[三丽鸥系列名牌]]></Desc>
     <Unique>1</Unique>
@@ -58795,6 +58803,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>100925474</ID>
+    <Name>馥果盈趣稻草人</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[馥果盈趣农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>100990978</ID>
     <Name>农场小屋</Name>
     <Price>0</Price>
@@ -59103,6 +59119,15 @@
     <Name>异响童话农场小屋</Name>
     <Price>0</Price>
     <Desc><![CDATA[异响童话农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>100991017</ID>
+    <Name>馥果盈趣小屋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[馥果盈趣农场装扮
+\n]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -59419,6 +59444,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101056553</ID>
+    <Name>馥果盈趣遮阳伞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[馥果盈趣农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101122050</ID>
     <Name>普通稻草堆</Name>
     <Price>0</Price>
@@ -59731,6 +59764,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101122089</ID>
+    <Name>馥果盈趣玩偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[馥果盈趣农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101187586</ID>
     <Name>农场告示牌</Name>
     <Price>0</Price>
@@ -60039,6 +60080,14 @@
     <Name>异响童话告示牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[异响童话农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>101187625</ID>
+    <Name>馥果盈趣告示牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[馥果盈趣农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
