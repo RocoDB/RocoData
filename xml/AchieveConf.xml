@@ -54,6 +54,7 @@
 <title id="52" tips="参与珍珑幻戏活动获得" type="0">  <level id="1" label="头号票友" total="1"/>    </title>
 <title id="53" tips="在制茶工坊活动获得" type="0">  <level id="1" label="首席茶客" total="1"/>    </title>
 <title id="54" tips="在童话编码坊活动获得" type="0">  <level id="1" label="异响童话主题徽章" total="1"/>    </title>
+<title id="55" tips="在硕果盈枝（下）活动获得" type="0">  <level id="1" label="缤纷好伙伴徽章" total="1"/>    </title>
 
 <title id="81" tips="收集宠物种类达到$total$" type="1">  <level id="1" label="宠物爱好者" total="50"/>  <level id="2" label="宠物收藏家" total="500"/>  <level id="3" label="宠物园馆长" total="1000"/>  </title>
 <title id="82" tips="成功孵化宠物蛋数量达到$total$" type="1">  <level id="1" label="宠物孵化员" total="20"/>  <level id="2" label="宠物孵蛋达人" total="100"/>  <level id="3" label="宠物科学家" total="500"/>  </title>
