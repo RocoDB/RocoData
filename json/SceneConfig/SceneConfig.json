@@ -3066,7 +3066,7 @@
       "id": "258",
       "name": "海螺餐馆",
       "sceneVer": "1",
-      "top": "258",
+      "top": "27",
       "ver": "1.00000",
       "bgMusic": "new_68.swf|amb_2.swf",
       "allowData": ""
@@ -4173,7 +4173,7 @@
       "id": "357",
       "name": "蛋糕屋",
       "sceneVer": "1",
-      "top": "13",
+      "top": "27",
       "ver": "1.00000",
       "bgMusic": "new_76.swf",
       "allowData": ""
@@ -4288,9 +4288,9 @@
     },
     {
       "id": "370",
-      "name": "盛宴神域",
+      "name": "庆典广场",
       "sceneVer": "1",
-      "top": "13",
+      "top": "241",
       "ver": "1.00000",
       "bgMusic": "new_91.swf",
       "allowData": ""

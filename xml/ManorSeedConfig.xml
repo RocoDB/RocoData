@@ -7,7 +7,7 @@
 <ManorSeedDes buyLevel="16" des="" grownTime="4320" harvestExpdes="4" harvestId="100794379" harvestN="24" id="100728853" linkName="" name="迎春花种子" seasonN="1" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="17" des="" grownTime="5760" harvestExpdes="6" harvestId="100794378" harvestN="28" id="100728847" linkName="" name="梨树种子" seasonN="2" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="18" des="" grownTime="7200" harvestExpdes="7" harvestId="100794377" harvestN="26" id="100728858" linkName="" name="苹果树种子" seasonN="2" seedExp="1" src=""/>
-<ManorSeedDes buyLevel="19" des="" grownTime="8640" harvestExpdes="8" harvestId="100794391" harvestN="37" id="100728861" linkName="" name="荔枝树种子" seasonN="3" seedExp="1" src=""/>
+<ManorSeedDes buyLevel="19" des="" grownTime="4320" harvestExpdes="8" harvestId="100794391" harvestN="37" id="100728861" linkName="" name="荔枝树种子" seasonN="3" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="20" des="" grownTime="10080" harvestExpdes="7" harvestId="100794392" harvestN="37" id="100728871" linkName="" name="樱桃树种子" seasonN="3" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="21" des="" grownTime="30" harvestExpdes="1" harvestId="100794393" harvestN="26" id="100728866" linkName="" name="蒲公英种子" seasonN="1" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="22" des="" grownTime="45" harvestExpdes="1" harvestId="100794371" harvestN="27" id="100728850" linkName="" name="大白菜种子" seasonN="1" seedExp="1" src=""/>
@@ -28,7 +28,7 @@
 <ManorSeedDes buyLevel="37" des="" grownTime="5760" harvestExpdes="8" harvestId="100794408" harvestN="25" id="100728854" linkName="" name="向日葵种子" seasonN="2" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="38" des="" grownTime="7200" harvestExpdes="9" harvestId="100794403" harvestN="25" id="100728868" linkName="" name="杨梅树种子" seasonN="2" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="39" des="" grownTime="8640" harvestExpdes="10" harvestId="100794405" harvestN="38" id="100728869" linkName="" name="石榴树种子" seasonN="2" seedExp="1" src=""/>
-<ManorSeedDes buyLevel="40" des="" grownTime="10080" harvestExpdes="9" harvestId="100794404" harvestN="37" id="100728870" linkName="" name="杨桃树种子" seasonN="3" seedExp="1" src=""/>
+<ManorSeedDes buyLevel="40" des="" grownTime="5040" harvestExpdes="9" harvestId="100794404" harvestN="37" id="100728870" linkName="" name="杨桃树种子" seasonN="3" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="0" des="" grownTime="12" harvestExpdes="2" harvestId="100794407" harvestN="10" id="100728875" linkName="" name="小旋风种子" seasonN="1" seedExp="2" src=""/>
 <ManorSeedDes buyLevel="0" des="" grownTime="3" harvestExpdes="3" harvestId="100794406" harvestN="10" id="100728876" linkName="" name="会飞的种子" seasonN="1" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="0" des="" grownTime="2880" harvestExpdes="5" harvestId="100794410" harvestN="20" id="100728880" linkName="" name="月亮柚子树种子" seasonN="1" seedExp="1" src=""/>
@@ -117,10 +117,10 @@
 <ManorSeedDes buyLevel="10" des="" grownTime="360" harvestExpdes="3" harvestId="100794502" harvestN="20" id="100728957" linkName="" name="乖乖蘑菇种子" seasonN="1" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="15" des="" grownTime="720" harvestExpdes="5" harvestId="100794503" harvestN="18" id="100728958" linkName="" name="高黎贡山药种子" seasonN="1" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="50" des="" grownTime="4320" harvestExpdes="10" harvestId="100794504" harvestN="10" id="100728959" linkName="" name="黄樱桃番茄种子" seasonN="3" seedExp="1" src=""/>
-<ManorSeedDes buyLevel="10" des="" grownTime="360" harvestExpdes="3" harvestId="100794505" harvestN="20" id="100728960" linkName="" name="依拉桑葚种子" seasonN="1" seedExp="1" src=""/>
-<ManorSeedDes buyLevel="15" des="" grownTime="1440" harvestExpdes="6" harvestId="100794506" harvestN="18" id="100728961" linkName="" name="西域菠萝种子" seasonN="1" seedExp="1" src=""/>
+<ManorSeedDes buyLevel="10" des="" grownTime="180" harvestExpdes="3" harvestId="100794505" harvestN="20" id="100728960" linkName="" name="依拉桑葚种子" seasonN="1" seedExp="1" src=""/>
+<ManorSeedDes buyLevel="15" des="" grownTime="720" harvestExpdes="6" harvestId="100794506" harvestN="18" id="100728961" linkName="" name="西域菠萝种子" seasonN="1" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="20" des="" grownTime="1800" harvestExpdes="8" harvestId="100794507" harvestN="17" id="100728962" linkName="" name="普拉塔石榴种子" seasonN="1" seedExp="1" src=""/>
-<ManorSeedDes buyLevel="35" des="" grownTime="2160" harvestExpdes="9" harvestId="100794508" harvestN="16" id="100728963" linkName="" name="江南柑橘种子" seasonN="2" seedExp="1" src=""/>
+<ManorSeedDes buyLevel="35" des="" grownTime="1080" harvestExpdes="9" harvestId="100794508" harvestN="16" id="100728963" linkName="" name="江南柑橘种子" seasonN="2" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="40" des="" grownTime="3000" harvestExpdes="10" harvestId="100794509" harvestN="15" id="100728964" linkName="" name="西洋参种子" seasonN="3" seedExp="1" src=""/>
 <ManorSeedDes buyLevel="45" des="" grownTime="3600" harvestExpdes="10" harvestId="100794510" harvestN="12" id="100728965" linkName="" name="藏红花种子" seasonN="3" seedExp="1" src=""/>
 </ManorSeedConfig>

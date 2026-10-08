@@ -349,7 +349,7 @@
   <SceneDes bgMusic="new_92.swf|amb_8.swf" id="255" name="第一试练场" sceneVer="1" top="255" ver="1.00000"/>
   <SceneDes bgMusic="new_92.swf|amb_8.swf" id="256" name="试练者之林" sceneVer="1" top="263" ver="1.60280"/>
   <SceneDes bgMusic="new_03.swf|amb_4.swf" id="257" name="五年前的钻石港" sceneVer="1" top="257" ver="1.00000"/>
-  <SceneDes bgMusic="new_68.swf|amb_2.swf" id="258" name="海螺餐馆" sceneVer="1" top="258" ver="1.00000"/>
+  <SceneDes bgMusic="new_68.swf|amb_2.swf" id="258" name="海螺餐馆" sceneVer="1" top="27" ver="1.00000"/>
   <SceneDes bgMusic="new_92.swf|amb_8.swf" id="259" name="朗伊尔神庙群" sceneVer="1" top="263" ver="1.00000"/>
   <SceneDes bgMusic="new_92.swf|amb_8.swf" id="260" name="星之法阵" sceneVer="1" top="263" ver="1.00000"/>
   <SceneDes bgMusic="new_94.swf|amb_8.swf" id="261" name="星之路" sceneVer="1" top="263" ver="1.00000"/>
@@ -472,7 +472,7 @@
   <SceneDes bgMusic="new_61.swf" id="354" name="望月岩" sceneVer="1" top="298" ver="1.00000"/>
   <SceneDes bgMusic="new_30.swf" id="355" name="熔岩流域" sceneVer="1" top="52" ver="1.00000"/>
   <SceneDes bgMusic="new_82.swf" id="356" name="内里乾坤" sceneVer="1" top="40" ver="1.00000"/>
-  <SceneDes bgMusic="new_76.swf" id="357" name="蛋糕屋" sceneVer="1" top="13" ver="1.00000"/>
+  <SceneDes bgMusic="new_76.swf" id="357" name="蛋糕屋" sceneVer="1" top="27" ver="1.00000"/>
   <SceneDes bgMusic="new_74.swf" id="358" name="巨人谷" sceneVer="1" top="298" ver="1.00000"/>
   <SceneDes bgMusic="new_82.swf" id="359" name="神秘湾" sceneVer="1" top="298" ver="1.00000"/>
   <SceneDes bgMusic="new_19.swf" id="360" name="秘密隧道" sceneVer="1" top="298" ver="1.00000"/>
@@ -485,7 +485,7 @@
   <SceneDes bgMusic="new_70.swf" id="367" name="宠物岛" sceneVer="1" top="367" ver="1.00000"/>
   <SceneDes bgMusic="new_67.swf" id="368" name="流火禁地" sceneVer="1" top="367" ver="1.00000"/>
   <SceneDes bgMusic="new_13.swf" id="369" name="虚空磁谷" sceneVer="1" top="367" ver="1.00000"/>
-  <SceneDes bgMusic="new_91.swf" id="370" name="盛宴神域" sceneVer="1" top="13" ver="1.00000"/>
+  <SceneDes bgMusic="new_91.swf" id="370" name="庆典广场" sceneVer="1" top="241" ver="1.00000"/>
   <SceneDes bgMusic="new_100.swf" id="371" name="兰若寺" sceneVer="1" top="103" ver="1.00000"/>
   <SceneDes bgMusic="new_51.swf" id="372" name="暗黑实验室" sceneVer="1" top="141" ver="1.00000"/>
   <SceneDes bgMusic="new_55.swf" id="373" name="宠物装备店" sceneVer="1" top="389" ver="1.00000"/>
