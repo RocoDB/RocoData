@@ -2366,7 +2366,7 @@
       "sceneVer": "1",
       "top": "170",
       "ver": "1.000",
-      "bgMusic": "new_69.swf|amb_3.swf",
+      "bgMusic": "new_142.swf",
       "allowData": ""
     },
     {
@@ -5571,6 +5571,15 @@
       "top": "519",
       "ver": "1.000",
       "bgMusic": "new_141.swf",
+      "allowData": ""
+    },
+    {
+      "id": "520",
+      "name": "枫盛小院",
+      "sceneVer": "1",
+      "top": "170",
+      "ver": "1.000",
+      "bgMusic": "new_142.swf",
       "allowData": ""
     },
     {

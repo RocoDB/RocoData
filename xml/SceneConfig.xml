@@ -271,7 +271,7 @@
   <SceneDes bgMusic="new_71.swf|amb_7.swf" id="177" name="通天门" sceneVer="1" top="139" ver="1.60330"/>
   <SceneDes bgMusic="new_71.swf|amb_7.swf" id="12000" name="通天塔" sceneVer="1" top="139" ver="1.60340"/>
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="180" name="枫雪教堂" sceneVer="1" top="170" ver="1.000"/>
-  <SceneDes bgMusic="new_69.swf|amb_3.swf" id="184" name="枫雪广场" sceneVer="1" top="170" ver="1.000"/>
+  <SceneDes bgMusic="new_142.swf" id="184" name="枫雪广场" sceneVer="1" top="170" ver="1.000"/>
   <SceneDes bgMusic="new_70.swf|amb_1.swf" id="185" name="同心山顶" sceneVer="1" top="179" ver="1.60380"/>
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="186" name="枫雪廊桥" sceneVer="1" top="170" ver="1.000"/>
   <SceneDes bgMusic="new_69.swf|amb_3.swf" id="187" name="枫雪右岸" sceneVer="1" top="170" ver="1.000"/>
@@ -631,6 +631,7 @@
   <SceneDes bgMusic="new_50.swf" id="517" name="浮空岛" sceneVer="1" top="515" ver="1.000"/>
   <SceneDes bgMusic="new_140.swf" id="518" name="星空书房" sceneVer="1" top="515" ver="1.000"/>
   <SceneDes bgMusic="new_141.swf" id="519" name="幻彩庭院" sceneVer="1" top="519" ver="1.000"/>
+  <SceneDes bgMusic="new_142.swf" id="520" name="枫盛小院" sceneVer="1" top="170" ver="1.000"/>
    
   <SceneDes bgMusic="new_59.swf" id="2001" name="商店街" sceneVer="1" top="2001" ver="1.00000"/>
   <SceneDes bgMusic="new_59.swf" id="2002" name="VIP魔法台" sceneVer="1" top="2002" ver="1.00000"/>

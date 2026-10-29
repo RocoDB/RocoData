@@ -629,7 +629,7 @@
 <SpiritSkillDes attackType="1" damageType="3" description="降低对手命中率。" id="407" name="折弯勺子" power="--" ppMax="15" property="11" speed="8" src="4001_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="10回合内，己方受到的魔法攻击伤害减半。" id="408" name="光之壁垒" power="--" ppMax="30" property="11" speed="8" src="6006_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="待补充" id="409" name="新月之舞" power="--" ppMax="10" property="11" speed="8" src="4001_.swf"/>
-<SpiritSkillDes attackType="1" damageType="2" description="50%概率降低对手1级魔防。" id="410" name="净化光波" power="70" ppMax="5" property="11" speed="8" src="4041_.swf"/>
+<SpiritSkillDes attackType="2" damageType="2" description="50%概率降低对手1级魔防。" id="410" name="净化光波" power="70" ppMax="5" property="11" speed="8" src="5002_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="自身受到的后手异常，会在下回合反弹给对手。" id="411" name="异常反射" power="--" ppMax="15" property="11" speed="12" src="4041_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="强化自身1级物攻。" id="412" name="瑜珈之形" power="--" ppMax="40" property="11" speed="8" src="6010_.swf"/>
 <SpiritSkillDes attackType="1" damageType="3" description="还原对手的回避等级，对恶魔属性宠物会额外造成一定伤害。" id="413" name="穿透之眼" power="--" ppMax="40" property="11" speed="8" src="4049_.swf"/>
@@ -4176,7 +4176,7 @@
 <SpiritSkillDes attackType="2" damageType="2" description="免疫异常3回合，若自身后手则根据受到的威力伤害类型强化自身双防并追加固伤。回复自身其他技能PP与精力值，若精力回复溢出则额外回复自身技能PP；否则删除对手部分技能PP。" id="3885" name="莓雨纷飞" power="110" ppMax="10" property="11" speed="8" src="5002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="连续发动技能3回合。首回合：开始调制一杯水蜜桃果汁但口味随机并据对手精力追加固伤。每回合：对手品尝过甜味果汁时，吸取其精力回复自身；品尝过酸味果汁时，吸取其1级双攻强化自身。末回合：邀请对手品尝调制的果汁，品尝的口味为甜时，赋予其正面强化各1级并为其回复精力；品尝的口味为酸时，将其强化各降低1级并锁定其强化2回合。" id="3987" name="酸甜口味" power="90" ppMax="10" property="18" speed="10" src="7004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="根据场上对手品尝过的水蜜桃果汁口味提升威力并据此吸取其全技能PP回复自身。对手品尝的口味为甜时，额外据其当前精力提升威力；品尝的口味为酸时，强化自身1级魔攻并据对手负面强化项数追加固伤。" id="3988" name="随味回响" power="120" ppMax="10" property="18" speed="10" src="5012_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="据对手本回合使用技能PP提升威力。净化自身并回复精力，免疫异常与负面并召唤疾风天气均持续6回合。回合内抵御爆发性伤害；每次使用其他技能时自身表情会随机变化为微笑或平淡或生气，且提升自身强化；之后微笑柴可的表情为微笑时额外回复自身PP和精力；为平淡时额外追加固伤并造成波及伤害；为生气时额外删除对手PP且必暴。" id="3991" name="谜画犬笑" power="80" ppMax="5" property="10" speed="13" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="据对手本回合使用技能PP提升威力。净化自身并回复精力，免疫异常与负面并召唤疾风天气均持续6回合。回合内抵御爆发性伤害；每次使用其他威力技能时自身表情会随机变化为微笑或平淡或生气，且提升自身强化；之后微笑柴可的表情为微笑时额外回复自身PP和精力；为平淡时额外追加固伤并造成波及伤害；为生气时额外删除对手PP且必暴。" id="3991" name="谜画犬笑" power="80" ppMax="5" property="10" speed="13" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="据脸上出现不同的表情提升威力；提升自身速度，若自身威力技能数不少于对手则追加固伤。迷惑对手，被免疫则删除对手最近使用技能PP。若自身当前PP之和小于对手或队友受到波及伤害或自身受到暴击伤害，则提升不同表情的变化概率。" id="3992" name="笑而不拆" power="100" ppMax="12" property="10" speed="10" src="4024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤化境环境均持续5回合，回合内：降低自身所受伤害；自身主动使用魔法威力技能时，回复其他技能PP；使用物理威力技能时，据自身负面强化等级获得物攻或魔攻强化。" id="3989" name="恶喵咆哮" power="--" ppMax="6" property="7" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="据自身优势攻击决定伤害类型并据正面速度强化提升威力。上回合使用魔法威力技能时，倒置自身负面强化；使用物理威力技能时，使自身当前负面强化翻倍。删除对手全技能PP且自身上回合先手时，额外吸取对手全技能PP回复自身精力；否则令自身下次使用的威力技能额外追加固伤并提升先手值。" id="3990" name="软猫翻滚" power="100" ppMax="10" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
@@ -4184,6 +4184,12 @@
 <SpiritSkillDes attackType="1" damageType="2" description="空" id="3994" name="BB2" power="125" ppMax="12" property="14" speed="10" src="4066_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="空" id="3995" name="BB3" power="120" ppMax="12" property="2" speed="11" src="5010_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="3" description="空" id="3996" name="BB4" power="--" ppMax="10" property="14" speed="8" src="5027_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，提升自身速度强化。免疫异常与负面并召唤暴晒天气均持续6回合，若PP不足一半时则提升至8回合。回合内连续被对手同个技能命中则降低所受伤害，若被变化技能命中时额外强制降低其魔防；我方连续使用同个威力技能则获得狐尾附身，且达到九尾时永久将自身魔攻视为1级。" id="3962" name="四次元九尾" power="--" ppMax="6" property="2" speed="15" src="6001_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="据本次威力伤害回复自身精力，出手时受到伤害则重置其正面强化并删除其PP，否则必定造成克制伤害。获得狐尾附身，且达到九尾时追加固伤。" id="3961" name="九尾劲舞" power="120" ppMax="9" property="2" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="据九月尾巴数与本技能使用次数提升威力伤害。提升自身命中并回复其他技能PP；对手存在克制自身属性的技能则降低受到的后手克制伤害。场上为暴晒天气则额外提升命中强化并造成波及伤害；反之不为则减少天气环境回合数，减少后若仍有则回合内提升自身技能先手值。" id="3963" name="狐火" power="100" ppMax="9" property="2" speed="9" src="4005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="攻击新目标时回复除本技能外的威力技能PP；暴晒天气下删掉对手PP，若其携带非火属性技能则使删PP效果显著。混乱对手并追加固伤，若对手全体宠物中存在水或土或石其一属性则提升固伤比例。自身先手则降低所受威力伤害和对手精力回复效果，若狐尾达到九尾时提升降低量；后手则回复自身精力并造成对手精力最多的队友波及伤害。连续使用本技能且四次元九尾PP大于一半时则将PP置于3。" id="3964" name="障眼法" power="120" ppMax="9" property="2" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空" id="4006" name="AG1" power="90" ppMax="13" property="16" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空" id="4007" name="AG2" power="--" ppMax="7" property="7" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
 
 
 
