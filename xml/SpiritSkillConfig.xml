@@ -212,6 +212,8 @@
 <talentDes des="自身在场下时，场上队友主动使用威力技能时自身获得1层光彩，光彩已达7层时自身进行1次折射并清除全部光彩层数且据累计折射次数获得魔攻或速度或双防强化。折射过时，据折射次数提升精力回复效果及技能威力且使用光属性威力技能时，获得登场过的非神属性队友的主副属性克制关系并重置对手正面强化。登场时据折射次数将低于1级的魔攻或速度或双防置为1级。" id="132" name="折射"/>
 <talentDes des="萝森米尔每次登场时会携带20片花瓣。自身每次受伤时掉落一片花瓣且被童话书收藏，童话书收藏5片或10片或15片花瓣则使技能必定暴击。提升自身技能威力值；任一方使用目标为自身的技能时额外回复我方相邻队友精力。若对手未命中我方且PP不为空时则回复自身PP，反之命中则令我方后手技能必中。" id="133" name="童话书页"/>
 <talentDes des="降低自身所受伤害并根据对手双攻强化提升效果，当对手有正面速度强化或陷入沉没法阵时效果显著。使用威力类技能时：清除对手的浮映标记，成功则追加全体伤害并破除目标的护盾效果；对手属性被自身首格技能所克制时删除其全技能PP、使本次伤害不被抵抗且未造成克制伤害时追加固伤。" id="134" name="溺海秘法"/>
+<talentDes des="龙属性技能威力提升25%。" id="135" name="龙罡"/>
+<talentDes des="136" id="136" name="136"/>
 
 
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="2171" name="r1py" power="--" ppMax="1" property="13" speed="15" src="6011_.swf" superFormID="" superFormSrc=""/>
@@ -4180,16 +4182,23 @@
 <SpiritSkillDes attackType="1" damageType="2" description="据脸上出现不同的表情提升威力；提升自身速度，若自身威力技能数不少于对手则追加固伤。迷惑对手，被免疫则删除对手最近使用技能PP。若自身当前PP之和小于对手或队友受到波及伤害或自身受到暴击伤害，则提升不同表情的变化概率。" id="3992" name="笑而不拆" power="100" ppMax="12" property="10" speed="10" src="4024_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化并回复自身精力，免疫异常并召唤化境环境均持续5回合，回合内：降低自身所受伤害；自身主动使用魔法威力技能时，回复其他技能PP；使用物理威力技能时，据自身负面强化等级获得物攻或魔攻强化。" id="3989" name="恶喵咆哮" power="--" ppMax="6" property="7" speed="13" src="6011_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="据自身优势攻击决定伤害类型并据正面速度强化提升威力。上回合使用魔法威力技能时，倒置自身负面强化；使用物理威力技能时，使自身当前负面强化翻倍。删除对手全技能PP且自身上回合先手时，额外吸取对手全技能PP回复自身精力；否则令自身下次使用的威力技能额外追加固伤并提升先手值。" id="3990" name="软猫翻滚" power="100" ppMax="10" property="7" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3993" name="BB1" power="60" ppMax="6" property="14" speed="13" src="7003_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="1" damageType="2" description="空" id="3994" name="BB2" power="125" ppMax="12" property="14" speed="10" src="4066_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="2" description="空" id="3995" name="BB3" power="120" ppMax="12" property="2" speed="11" src="5010_.swf" superFormID="" superFormSrc=""/>
-<SpiritSkillDes attackType="2" damageType="3" description="空" id="3996" name="BB4" power="--" ppMax="10" property="14" speed="8" src="5027_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="净化并回复自身精力，免疫异常5回合。回合内：降低自身所受伤害，若受到的伤害低于自身最大精力值的一半，则大幅降低该伤害；自身回复精力溢出时，使自身下次使用的威力技能额外删除对手本回合使用技能PP并追加固伤。被动免疫诅咒、混乱。" id="3993" name="招魂引魄" power="60" ppMax="6" property="14" speed="13" src="7003_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="2" description="混乱对手，混乱成功时回复满自身精力并额外回复其他技能PP，记录对手本回合使用的威力技能。4回合内对手再次使用被记录的技能时，额外发动本技能2回合。额外回合：威力伤害失效并造成以本回合主动使用的技能属性计算克制抵抗的魔法威力固伤。伤害后若对手精力超过自身，则平分双方精力；否则删除对手全技能PP。" id="3994" name="吞光噬影" power="125" ppMax="12" property="14" speed="10" src="4066_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="2" description="据对手正面强化提升威力，强化自身1级魔攻并据对手魔防能力值追加固伤。先手时降低对手后手技能威力；后手时召唤暴晒天气。伤害后若对手任意一项强化超过1级，则重置该项强化并据本次伤害追加固伤，若重置的强化项数超过1项，则额外吸取对手精力回复自身。" id="3995" name="浴火焚业" power="120" ppMax="12" property="2" speed="11" src="5010_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="诅咒对手并据自身已损精力追加固伤且回复其他技能PP，自身当前精力不超过一半时，额外删除对手全技能PP。记录自身当前精力，若本次记录的精力超过上次记录的精力，则提升下回合造成的伤害；否则大幅提升精力回复效果1回合。" id="3996" name="斫骨驱魔" power="--" ppMax="10" property="14" speed="8" src="5027_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，提升自身速度强化。免疫异常与负面并召唤暴晒天气均持续6回合，若PP不足一半时则提升至8回合。回合内连续被对手同个技能命中则降低所受伤害，若被变化技能命中时额外强制降低其魔防；我方连续使用同个威力技能则获得狐尾附身，且达到九尾时永久将自身魔攻视为1级。" id="3962" name="四次元九尾" power="--" ppMax="6" property="2" speed="15" src="6001_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="据本次威力伤害回复自身精力，出手时受到伤害则重置其正面强化并删除其PP，否则必定造成克制伤害。获得狐尾附身，且达到九尾时追加固伤。" id="3961" name="九尾劲舞" power="120" ppMax="9" property="2" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="2" description="据九月尾巴数与本技能使用次数提升威力伤害。提升自身命中并回复其他技能PP；对手存在克制自身属性的技能则降低受到的后手克制伤害。场上为暴晒天气则额外提升命中强化并造成波及伤害；反之不为则减少天气环境回合数，减少后若仍有则回合内提升自身技能先手值。" id="3963" name="狐火" power="100" ppMax="9" property="2" speed="9" src="4005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="2" description="攻击新目标时回复除本技能外的威力技能PP；暴晒天气下删掉对手PP，若其携带非火属性技能则使删PP效果显著。混乱对手并追加固伤，若对手全体宠物中存在水或土或石其一属性则提升固伤比例。自身先手则降低所受威力伤害和对手精力回复效果，若狐尾达到九尾时提升降低量；后手则回复自身精力并造成对手精力最多的队友波及伤害。连续使用本技能且四次元九尾PP大于一半时则将PP置于3。" id="3964" name="障眼法" power="120" ppMax="9" property="2" speed="9" src="5002_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="空" id="4006" name="AG1" power="90" ppMax="13" property="16" speed="8" src="5005_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="空" id="4007" name="AG2" power="--" ppMax="7" property="7" speed="13" src="6004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="空。" id="4002" name="AA1" power="--" ppMax="6" property="18" speed="15" src="6009_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="3" description="空。" id="4003" name="AA2" power="--" ppMax="10" property="18" speed="11" src="5011_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="4004" name="AA3" power="50" ppMax="12" property="18" speed="12" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空。" id="4005" name="AA4" power="120" ppMax="12" property="18" speed="10" src="4041_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤龙阵环境均持续6回合。回合内每回合反转自身负面并提升造成的伤害，同时降低对手威力值；自身被对手施加异常时降低其物防强化；每回合根据自身所受固伤转为龙珠能量，若末回合龙珠能量＞200点则获得护盾并回复我方队友精力。" id="3965" name="龙马精神" power="--" ppMax="7" property="15" speed="14" src="6004_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="据龙马精神反转强化效果提升威力值并回复自身精力。恐惧对手并降低其后手技能威力值。自身无双攻其一强化时提升自身物攻等级；无双防其一强化时吸取对手精力。据自身正面强化项数额外发动本技能，额外回合：威力伤害后回复自身精力。" id="3966" name="海鲜暴走" power="110" ppMax="12" property="15" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="3" description="删除对手最近使用技能PP并据龙珠能量造成固伤，若场上天气环境回合数与上次不一致则提升PP删除量。场上不为龙阵环境时额外追加固伤。随机降低自身一项负面强化，若我方后手则变为降低三项；反之先手则使我方队友免疫对手后手波及伤害。" id="3967" name="戏珠" power="--" ppMax="12" property="15" speed="9" src="4021_.swf" superFormID="" superFormSrc=""/>
 
 
 

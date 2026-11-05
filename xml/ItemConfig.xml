@@ -5833,6 +5833,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620451</ID>
+    <Name>烈烈风中头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9873,6 +9881,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751514</ID>
+    <Name>烈烈风中衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -13410,6 +13426,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817021</ID>
+    <Name>烈烈风中鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14906,6 +14930,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33882302</ID>
+    <Name>烈烈风中背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33947649</ID>
     <Name>蓝色小提包</Name>
     <Price>0</Price>
@@ -16342,6 +16374,14 @@
     <Name>绒绒九月手杖</Name>
     <Price>0</Price>
     <Desc><![CDATA[绒绒九月套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947834</ID>
+    <Name>烈烈风中海鲜杯</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19299,6 +19339,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013558</ID>
+    <Name>烈烈风中气球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -20055,6 +20103,14 @@
     <Name>绒绒九月法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[绒绒九月套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209865</ID>
+    <Name>烈烈风中法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[烈烈风中套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -21211,6 +21267,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340918</ID>
+    <Name>芙蓉花脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[使用后，走路可以出现对应的脚印图案]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -21695,6 +21759,14 @@
     <Name>枫雪同游名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[非人哉系列名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406463</ID>
+    <Name>圣魔·蓝焰名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[第二十八届系别赛名牌]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -58947,6 +59019,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>100925475</ID>
+    <Name>同乐枫雪稻草人</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[同乐枫雪农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>100990978</ID>
     <Name>农场小屋</Name>
     <Price>0</Price>
@@ -59264,6 +59344,14 @@
     <Price>0</Price>
     <Desc><![CDATA[馥果盈趣农场装扮
 \n]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>100991018</ID>
+    <Name>同乐枫雪小屋</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[同乐枫雪农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -59588,6 +59676,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101056554</ID>
+    <Name>同乐枫雪遮阳伞</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[同乐枫雪农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101122050</ID>
     <Name>普通稻草堆</Name>
     <Price>0</Price>
@@ -59908,6 +60004,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>101122090</ID>
+    <Name>同乐枫雪玩偶</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[同乐枫雪农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>101187586</ID>
     <Name>农场告示牌</Name>
     <Price>0</Price>
@@ -60224,6 +60328,14 @@
     <Name>馥果盈趣告示牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[馥果盈趣农场装扮]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>101187626</ID>
+    <Name>同乐枫雪告示牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[同乐枫雪农场装扮]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
