@@ -65478,6 +65478,38 @@
       "superFormSrc": "",
       "description2": "",
       "catchRate": ""
+    },
+    {
+      "id": "4008",
+      "name": "QC1",
+      "attackType": "1",
+      "damageType": "1",
+      "description": "空。",
+      "power": "80",
+      "ppMax": "9",
+      "property": "武",
+      "speed": "8",
+      "src": "7008_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
+    },
+    {
+      "id": "4009",
+      "name": "QC2",
+      "attackType": "2",
+      "damageType": "1",
+      "description": "空。",
+      "power": "100",
+      "ppMax": "8",
+      "property": "武",
+      "speed": "9",
+      "src": "5005_.swf",
+      "superFormID": "",
+      "superFormSrc": "",
+      "description2": "",
+      "catchRate": ""
     }
   ]
 }

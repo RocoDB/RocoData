@@ -57516,9 +57516,9 @@
  </Item>
   <Item>
     <ID>100728953</ID>
-    <Name>圣诞树种子</Name>
+    <Name>枫雪树种子</Name>
     <Price>10</Price>
-    <Desc><![CDATA[可以种出圣诞树]]></Desc>
+    <Desc><![CDATA[可以种出枫雪树]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -58620,9 +58620,9 @@
  </Item>
   <Item>
     <ID>100794498</ID>
-    <Name>圣诞树</Name>
+    <Name>枫雪树</Name>
     <Price>5</Price>
-    <Desc><![CDATA[圣诞节的装饰品]]></Desc>
+    <Desc><![CDATA[枫雪节的装饰品]]></Desc>
     <Unique>0</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>

@@ -4199,6 +4199,8 @@
 <SpiritSkillDes attackType="1" damageType="3" description="净化自身并回复精力，免疫异常并召唤龙阵环境均持续6回合。回合内每回合反转自身负面并提升造成的伤害，同时降低对手威力值；自身被对手施加异常时降低其物防强化；每回合根据自身所受固伤转为龙珠能量，若末回合龙珠能量＞200点则获得护盾并回复我方队友精力。" id="3965" name="龙马精神" power="--" ppMax="7" property="15" speed="14" src="6004_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="2" damageType="1" description="据龙马精神反转强化效果提升威力值并回复自身精力。恐惧对手并降低其后手技能威力值。自身无双攻其一强化时提升自身物攻等级；无双防其一强化时吸取对手精力。据自身正面强化项数额外发动本技能，额外回合：威力伤害后回复自身精力。" id="3966" name="海鲜暴走" power="110" ppMax="12" property="15" speed="10" src="5006_.swf" superFormID="" superFormSrc=""/>
 <SpiritSkillDes attackType="1" damageType="3" description="删除对手最近使用技能PP并据龙珠能量造成固伤，若场上天气环境回合数与上次不一致则提升PP删除量。场上不为龙阵环境时额外追加固伤。随机降低自身一项负面强化，若我方后手则变为降低三项；反之先手则使我方队友免疫对手后手波及伤害。" id="3967" name="戏珠" power="--" ppMax="12" property="15" speed="9" src="4021_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="1" damageType="1" description="空。" id="4008" name="QC1" power="80" ppMax="9" property="7" speed="8" src="7008_.swf" superFormID="" superFormSrc=""/>
+<SpiritSkillDes attackType="2" damageType="1" description="空。" id="4009" name="QC2" power="100" ppMax="8" property="7" speed="9" src="5005_.swf" superFormID="" superFormSrc=""/>
 
 
 
