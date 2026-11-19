@@ -5841,6 +5841,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33620453</ID>
+    <Name>碎镜龙铠头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33620454</ID>
+    <Name>小玉时刻头发</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33685505</ID>
     <Name>黑眼镜红鼻子</Name>
     <Price>2250</Price>
@@ -9889,6 +9905,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33751515</ID>
+    <Name>碎镜龙铠衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33751516</ID>
+    <Name>小玉时刻衣服</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33816577</ID>
     <Name>普通公民鞋（女）</Name>
     <Price>20</Price>
@@ -13434,6 +13466,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33817022</ID>
+    <Name>碎镜龙铠鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33817023</ID>
+    <Name>小玉时刻鞋子</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33882113</ID>
     <Name>小翅膀</Name>
     <Price>20</Price>
@@ -14938,6 +14986,23 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>33882303</ID>
+    <Name>碎镜龙铠翅膀</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装
+\n]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33882304</ID>
+    <Name>小玉时刻背饰</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>33947649</ID>
     <Name>蓝色小提包</Name>
     <Price>0</Price>
@@ -16382,6 +16447,22 @@
     <Name>烈烈风中海鲜杯</Name>
     <Price>0</Price>
     <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947835</ID>
+    <Name>碎镜龙铠镜盾</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>33947836</ID>
+    <Name>小玉时刻相机</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -19347,6 +19428,22 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34013559</ID>
+    <Name>碎镜龙铠晶剑</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34013560</ID>
+    <Name>小玉时刻气球</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34078721</ID>
     <Name>普通表情</Name>
     <Price>5</Price>
@@ -20111,6 +20208,22 @@
     <Name>烈烈风中法阵</Name>
     <Price>0</Price>
     <Desc><![CDATA[烈烈风中套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209866</ID>
+    <Name>碎镜龙铠法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜龙铠套装]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34209867</ID>
+    <Name>小玉时刻法阵</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[小玉时刻套装]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -21275,6 +21388,14 @@
     <ExpireTime>0</ExpireTime>
  </Item>
   <Item>
+    <ID>34340919</ID>
+    <Name>碎镜冰龙王纪念脚印</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜冰龙王系列]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
     <ID>34406402</ID>
     <Name>夏日海滩名牌</Name>
     <Price>0</Price>
@@ -21767,6 +21888,14 @@
     <Name>圣魔·蓝焰名牌</Name>
     <Price>0</Price>
     <Desc><![CDATA[第二十八届系别赛名牌]]></Desc>
+    <Unique>1</Unique>
+    <ExpireTime>0</ExpireTime>
+ </Item>
+  <Item>
+    <ID>34406464</ID>
+    <Name>碎镜冰龙王纪念名牌</Name>
+    <Price>0</Price>
+    <Desc><![CDATA[碎镜冰龙王系列]]></Desc>
     <Unique>1</Unique>
     <ExpireTime>0</ExpireTime>
  </Item>
@@ -55688,7 +55817,7 @@
     <Price>0</Price>
     <Desc><![CDATA[蕴含了春天气息的果子]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1704384000</ExpireTime>
+    <ExpireTime>1802361600</ExpireTime>
  </Item>
   <Item>
     <ID>67374928</ID>
@@ -55696,7 +55825,7 @@
     <Price>0</Price>
     <Desc><![CDATA[蕴含了夏天气息的花儿]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1704384000</ExpireTime>
+    <ExpireTime>1802361600</ExpireTime>
  </Item>
   <Item>
     <ID>67374929</ID>
@@ -55704,7 +55833,7 @@
     <Price>0</Price>
     <Desc><![CDATA[蕴含了秋天气息的果子]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1704384000</ExpireTime>
+    <ExpireTime>1802361600</ExpireTime>
  </Item>
   <Item>
     <ID>67374930</ID>
@@ -55712,7 +55841,7 @@
     <Price>0</Price>
     <Desc><![CDATA[蕴含了冬天气息的花儿]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1704384000</ExpireTime>
+    <ExpireTime>1802361600</ExpireTime>
  </Item>
   <Item>
     <ID>67374931</ID>
@@ -55720,7 +55849,7 @@
     <Price>0</Price>
     <Desc><![CDATA[蕴含了硕果格兰魔力的花朵]]></Desc>
     <Unique>0</Unique>
-    <ExpireTime>1704384000</ExpireTime>
+    <ExpireTime>1802361600</ExpireTime>
  </Item>
   <Item>
     <ID>67374932</ID>
