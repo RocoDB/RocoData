@@ -12807,20 +12807,7 @@
       "id": "121000428",
       "name": "轻松九月壁纸",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "100",
@@ -12838,20 +12825,7 @@
       "id": "121000429",
       "name": "轻松九月地板",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506052",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "100",
@@ -12869,20 +12843,7 @@
       "id": "121000430",
       "name": "轻松九月门",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506055",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "100",
@@ -12900,20 +12861,7 @@
       "id": "121000431",
       "name": "龙渊鲜涌壁纸",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506052",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "100",
@@ -12931,20 +12879,7 @@
       "id": "121000432",
       "name": "龙渊鲜涌地板",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506055",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "100",
@@ -12962,20 +12897,7 @@
       "id": "121000433",
       "name": "龙渊鲜涌门",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506057",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "100",
@@ -12993,6 +12915,60 @@
       "id": "121000434",
       "name": "暖玉时光壁纸",
       "info": "暖玉时光家具",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "5",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000435",
+      "name": "暖玉时光地板",
+      "info": "暖玉时光家具",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "100",
+      "comfortable": "10",
+      "settleLayer": "3",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000436",
+      "name": "暖玉时光门",
+      "info": "",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "100",
+      "comfortable": "15",
+      "settleLayer": "7",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "121000437",
+      "name": "冰阙寒庭壁纸",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -13021,9 +12997,9 @@
       "productArray": []
     },
     {
-      "id": "121000435",
-      "name": "暖玉时光地板",
-      "info": "暖玉时光家具",
+      "id": "121000438",
+      "name": "冰阙寒庭地板",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -13052,9 +13028,9 @@
       "productArray": []
     },
     {
-      "id": "121000436",
-      "name": "暖玉时光门",
-      "info": "",
+      "id": "121000439",
+      "name": "冰阙寒庭门",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -19670,20 +19646,7 @@
       "id": "122000269",
       "name": "轻松九月墙饰",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506057",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "101",
@@ -19701,20 +19664,7 @@
       "id": "122000270",
       "name": "龙渊鲜涌墙饰",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "101",
@@ -19732,6 +19682,24 @@
       "id": "122000271",
       "name": "暖玉时光墙饰",
       "info": "暖玉时光家具",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "101",
+      "comfortable": "8",
+      "settleLayer": "15",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "122000272",
+      "name": "冰阙寒庭墙饰",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -35557,20 +35525,7 @@
       "id": "123000564",
       "name": "轻松九月床",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35588,20 +35543,7 @@
       "id": "123000565",
       "name": "轻松九月地毯",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506057",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35619,20 +35561,7 @@
       "id": "123000566",
       "name": "轻松九月凳子",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35650,20 +35579,7 @@
       "id": "123000567",
       "name": "轻松九月桌子",
       "info": "轻松九月家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506052",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35681,20 +35597,7 @@
       "id": "123000568",
       "name": "龙渊鲜涌床",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506057",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35712,20 +35615,7 @@
       "id": "123000569",
       "name": "龙渊鲜涌地毯",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506051",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35743,20 +35633,7 @@
       "id": "123000570",
       "name": "龙渊鲜涌凳子",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506052",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35774,20 +35651,7 @@
       "id": "123000571",
       "name": "龙渊鲜涌桌子",
       "info": "龙渊鲜涌家具",
-      "recycleMaterialArray": [
-        {
-          "materialId": "67239984",
-          "materialNum": "70"
-        },
-        {
-          "materialId": "117506054",
-          "materialNum": "1"
-        },
-        {
-          "materialId": "117506057",
-          "materialNum": "1"
-        }
-      ],
+      "recycleMaterialArray": [],
       "echargeMoneyPerDay": "",
       "rechargeMoneyPerDay": "0",
       "settleType": "102",
@@ -35823,6 +35687,91 @@
       "id": "123000573",
       "name": "暖玉时光地毯",
       "info": "暖玉时光家具",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000574",
+      "name": "暖玉时光凳子",
+      "info": "暖玉时光家具",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000575",
+      "name": "暖玉时光桌子",
+      "info": "暖玉时光家具",
+      "recycleMaterialArray": [],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "25",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000576",
+      "name": "冰阙寒庭床",
+      "info": "冰阙寒庭主题家具",
+      "recycleMaterialArray": [
+        {
+          "materialId": "67239984",
+          "materialNum": "70"
+        },
+        {
+          "materialId": "117506054",
+          "materialNum": "1"
+        },
+        {
+          "materialId": "117506057",
+          "materialNum": "1"
+        }
+      ],
+      "echargeMoneyPerDay": "",
+      "rechargeMoneyPerDay": "0",
+      "settleType": "102",
+      "comfortable": "7",
+      "settleLayer": "23",
+      "funcType": "0",
+      "expireTime": "0",
+      "buildLevel": "0",
+      "sendExp": "0",
+      "buildEnergy": "0",
+      "buildMaterialArray": [],
+      "productArray": []
+    },
+    {
+      "id": "123000577",
+      "name": "冰阙寒庭地毯",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
@@ -35851,20 +35800,20 @@
       "productArray": []
     },
     {
-      "id": "123000574",
-      "name": "暖玉时光凳子",
-      "info": "暖玉时光家具",
+      "id": "123000578",
+      "name": "冰阙寒庭椅子",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
           "materialNum": "70"
         },
         {
-          "materialId": "117506052",
+          "materialId": "117506054",
           "materialNum": "1"
         },
         {
-          "materialId": "117506054",
+          "materialId": "117506052",
           "materialNum": "1"
         }
       ],
@@ -35882,20 +35831,20 @@
       "productArray": []
     },
     {
-      "id": "123000575",
-      "name": "暖玉时光桌子",
-      "info": "暖玉时光家具",
+      "id": "123000579",
+      "name": "冰阙寒庭桌子",
+      "info": "冰阙寒庭主题家具",
       "recycleMaterialArray": [
         {
           "materialId": "67239984",
           "materialNum": "70"
         },
         {
-          "materialId": "117506054",
+          "materialId": "117506057",
           "materialNum": "1"
         },
         {
-          "materialId": "117506057",
+          "materialId": "117506054",
           "materialNum": "1"
         }
       ],

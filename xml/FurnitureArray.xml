@@ -13238,18 +13238,6 @@
         <name><![CDATA[轻松九月壁纸]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>100</settleType>
@@ -13270,18 +13258,6 @@
         <name><![CDATA[轻松九月地板]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506052</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>100</settleType>
@@ -13302,18 +13278,6 @@
         <name><![CDATA[轻松九月门]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506055</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>100</settleType>
@@ -13334,18 +13298,6 @@
         <name><![CDATA[龙渊鲜涌壁纸]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506052</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>100</settleType>
@@ -13366,18 +13318,6 @@
         <name><![CDATA[龙渊鲜涌地板]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506055</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>100</settleType>
@@ -13398,18 +13338,6 @@
         <name><![CDATA[龙渊鲜涌门]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506057</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>100</settleType>
@@ -13429,6 +13357,66 @@
         <id>121000434</id>
         <name><![CDATA[暖玉时光壁纸]]></name>
         <info><![CDATA[暖玉时光家具]]></info>
+        <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>5</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000435</id>
+        <name><![CDATA[暖玉时光地板]]></name>
+        <info><![CDATA[暖玉时光家具]]></info>
+        <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>10</comfortable>
+        <settleLayer>3</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000436</id>
+        <name><![CDATA[暖玉时光门]]></name>
+        <info/>
+        <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>100</settleType>
+        <comfortable>15</comfortable>
+        <settleLayer>7</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>121000437</id>
+        <name><![CDATA[冰阙寒庭壁纸]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -13458,9 +13446,9 @@
         </productArray>
     </Furniture>
     <Furniture>
-        <id>121000435</id>
-        <name><![CDATA[暖玉时光地板]]></name>
-        <info><![CDATA[暖玉时光家具]]></info>
+        <id>121000438</id>
+        <name><![CDATA[冰阙寒庭地板]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -13490,9 +13478,9 @@
         </productArray>
     </Furniture>
     <Furniture>
-        <id>121000436</id>
-        <name><![CDATA[暖玉时光门]]></name>
-        <info/>
+        <id>121000439</id>
+        <name><![CDATA[冰阙寒庭门]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -20298,18 +20286,6 @@
         <name><![CDATA[轻松九月墙饰]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506057</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>101</settleType>
@@ -20330,18 +20306,6 @@
         <name><![CDATA[龙渊鲜涌墙饰]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>101</settleType>
@@ -20361,6 +20325,26 @@
         <id>122000271</id>
         <name><![CDATA[暖玉时光墙饰]]></name>
         <info><![CDATA[暖玉时光家具]]></info>
+        <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>101</settleType>
+        <comfortable>8</comfortable>
+        <settleLayer>15</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>122000272</id>
+        <name><![CDATA[冰阙寒庭墙饰]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
@@ -36678,18 +36662,6 @@
         <name><![CDATA[轻松九月床]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36710,18 +36682,6 @@
         <name><![CDATA[轻松九月地毯]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506057</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36742,18 +36702,6 @@
         <name><![CDATA[轻松九月凳子]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36774,18 +36722,6 @@
         <name><![CDATA[轻松九月桌子]]></name>
         <info><![CDATA[轻松九月家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506052</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36806,18 +36742,6 @@
         <name><![CDATA[龙渊鲜涌床]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506057</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36838,18 +36762,6 @@
         <name><![CDATA[龙渊鲜涌地毯]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506051</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36870,18 +36782,6 @@
         <name><![CDATA[龙渊鲜涌凳子]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506052</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36902,18 +36802,6 @@
         <name><![CDATA[龙渊鲜涌桌子]]></name>
         <info><![CDATA[龙渊鲜涌家具]]></info>
         <recycleMaterialArray>
-            <recycleMaterial>
-                <materialId>67239984</materialId>
-                <materialNum>70</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506054</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
-            <recycleMaterial>
-                <materialId>117506057</materialId>
-                <materialNum>1</materialNum>
-            </recycleMaterial>
         </recycleMaterialArray>
         <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
         <settleType>102</settleType>
@@ -36954,6 +36842,98 @@
         <name><![CDATA[暖玉时光地毯]]></name>
         <info><![CDATA[暖玉时光家具]]></info>
         <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000574</id>
+        <name><![CDATA[暖玉时光凳子]]></name>
+        <info><![CDATA[暖玉时光家具]]></info>
+        <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000575</id>
+        <name><![CDATA[暖玉时光桌子]]></name>
+        <info><![CDATA[暖玉时光家具]]></info>
+        <recycleMaterialArray>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>25</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000576</id>
+        <name><![CDATA[冰阙寒庭床]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
+        <recycleMaterialArray>
+            <recycleMaterial>
+                <materialId>67239984</materialId>
+                <materialNum>70</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506054</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+            <recycleMaterial>
+                <materialId>117506057</materialId>
+                <materialNum>1</materialNum>
+            </recycleMaterial>
+        </recycleMaterialArray>
+        <rechargeMoneyPerDay>0</rechargeMoneyPerDay>
+        <settleType>102</settleType>
+        <comfortable>7</comfortable>
+        <settleLayer>23</settleLayer>
+        <funcType>0</funcType>
+        <expireTime>0</expireTime>
+        <buildLevel>0</buildLevel>
+        <sendExp>0</sendExp>
+        <buildEnergy>0</buildEnergy>
+        <buildMaterialArray>
+        </buildMaterialArray>
+        <productArray>
+        </productArray>
+    </Furniture>
+    <Furniture>
+        <id>123000577</id>
+        <name><![CDATA[冰阙寒庭地毯]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
+        <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
                 <materialNum>70</materialNum>
@@ -36982,20 +36962,20 @@
         </productArray>
     </Furniture>
     <Furniture>
-        <id>123000574</id>
-        <name><![CDATA[暖玉时光凳子]]></name>
-        <info><![CDATA[暖玉时光家具]]></info>
+        <id>123000578</id>
+        <name><![CDATA[冰阙寒庭椅子]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
                 <materialNum>70</materialNum>
             </recycleMaterial>
             <recycleMaterial>
-                <materialId>117506052</materialId>
+                <materialId>117506054</materialId>
                 <materialNum>1</materialNum>
             </recycleMaterial>
             <recycleMaterial>
-                <materialId>117506054</materialId>
+                <materialId>117506052</materialId>
                 <materialNum>1</materialNum>
             </recycleMaterial>
         </recycleMaterialArray>
@@ -37014,20 +36994,20 @@
         </productArray>
     </Furniture>
     <Furniture>
-        <id>123000575</id>
-        <name><![CDATA[暖玉时光桌子]]></name>
-        <info><![CDATA[暖玉时光家具]]></info>
+        <id>123000579</id>
+        <name><![CDATA[冰阙寒庭桌子]]></name>
+        <info><![CDATA[冰阙寒庭主题家具]]></info>
         <recycleMaterialArray>
             <recycleMaterial>
                 <materialId>67239984</materialId>
                 <materialNum>70</materialNum>
             </recycleMaterial>
             <recycleMaterial>
-                <materialId>117506054</materialId>
+                <materialId>117506057</materialId>
                 <materialNum>1</materialNum>
             </recycleMaterial>
             <recycleMaterial>
-                <materialId>117506057</materialId>
+                <materialId>117506054</materialId>
                 <materialNum>1</materialNum>
             </recycleMaterial>
         </recycleMaterialArray>
